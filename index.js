@@ -9,6 +9,7 @@ const rateLimit = require("express-rate-limit"); // Add this line at the top
 const winston = require("winston");
 const dotenv = require("dotenv"); // Add this line
 dotenv.config(); // Load environment variables
+app.enable("trust proxy"); // Add this line
 
 const logger = winston.createLogger({
   level: "info",
