@@ -3,13 +3,13 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const app = express();
+app.enable("trust proxy"); // Add this line
 const port = process.env.PORT || 3000; // Use Heroku's port
 const helmet = require("helmet"); // Add this line at the top with your other imports
 const rateLimit = require("express-rate-limit"); // Add this line at the top
 const winston = require("winston");
 const dotenv = require("dotenv"); // Add this line
 dotenv.config(); // Load environment variables
-app.enable("trust proxy"); // Add this line
 
 const logger = winston.createLogger({
   level: "info",
