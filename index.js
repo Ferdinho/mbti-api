@@ -439,7 +439,7 @@ app.use((req, res) => {
 
 // Server startup
 server = app.listen(port, () => {
-  logger.info(`MBTI Personality API running on http://localhost:${port}`);
+  logger.info(`MBTI Personality API running on port :${port}`);
 });
 
 // Track active connections to the server
