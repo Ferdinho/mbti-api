@@ -1,0 +1,634 @@
+{
+    "personalities": [
+      {
+        "id": 5,
+        "language_code": "en",
+        "type": "ENFP",
+        "name": "The Campaigner",
+        "Description": "Enthusiastic, creative, and sociable free spirits who can always find a reason to smile. Campaigners are driven by their ideas and excitement about new possibilities. They are excellent at connecting with others and are always on the lookout for deeper meanings in life.",
+        "Strengths": [
+          "curious",
+          "observant",
+          "energetic",
+          "enthusiastic",
+          "well spoken",
+          "know how to relax",
+          "popular",
+          "friendly",
+          "virtuous",
+          "compassionate"
+        ],
+        "Weaknesses": [
+          "poor practical skills",
+          "difficult to focus",
+          "overthink things",
+          "get stressed easily",
+          "highly emotional",
+          "independent to a fault",
+          "procrastinating"
+        ],
+        "DosInRelationship": [
+          "Be enthusiastic and show support for their ideas.",
+          "Give them space to explore their creativity and independence.",
+          "Be open and honest about your emotions.",
+          "Engage in meaningful conversations about life and the future.",
+          "Surprise them with adventures and new experiences."
+        ],
+        "DontsInRelationship": [
+          "Don’t be too controlling or stifle their independence.",
+          "Avoid being dismissive of their ideas or passions.",
+          "Don’t push them to follow a strict routine.",
+          "Don’t take advantage of their kindness."
+        ],
+        "Friendships": "Campaigners form friendships based on deep emotional connections and shared passions. They love engaging in stimulating conversations and are always up for spontaneous adventures with their friends.",
+        "CareerPath": [
+          "Writer",
+          "Psychologist",
+          "Entrepreneur",
+          "Actor",
+          "Musician",
+          "Marketing Professional",
+          "Counselor",
+          "Public Relations Specialist",
+          "Journalist"
+        ],
+        "LifeValue": [
+          "Personal Growth",
+          "Creativity",
+          "Friendship",
+          "Passion",
+          "Freedom"
+        ],
+        "CompatibleConnections": [
+          "The Mediator (INFP)",
+          "The Advocate (INFJ)",
+          "The Architect (INTJ)"
+        ],
+        "HasPotentialConnections": [
+          "The Commander (ENTJ)",
+          "The Debater (ENTP)",
+          "The Thinker (INTP)",
+          "The Protagonist (ENFJ)",
+          "The Consul (ESFJ)",
+          "The Performer (ESFP)",
+          "The Defender (ISFJ)",
+          "The Logistician (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "The Adventurer (ISFP)",
+          "The Virtuoso (ISTP)",
+          "The Executive (ESTJ)",
+          "The Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "principled",
+          "quiet",
+          "mysterious",
+          "deep",
+          "caring",
+          "altruistic",
+          "virtuous",
+          "having conviction",
+          "self-confident",
+          "independent",
+          "authentic",
+          "honest",
+          "stable"
+        ],
+        "PetPeeves": [
+          "critical",
+          "patronizing",
+          "apathetic",
+          "superficial",
+          "controlling",
+          "stifling",
+          "disrespectful",
+          "overly traditional",
+          "micro-managing",
+          "one word responders"
+        ],
+        "HowToBeCompanion": [
+          "Have an open mind and intellectual curiosity.",
+          "Be open to long brainstorming sessions.",
+          "Show them you're someone they can respect, someone with values and principles.",
+          "Don't pressure them for commitments early on.",
+          "Don't overschedule their time or micro-manage them. They need their freedom.",
+          "Be authentic and sincere. They're quick to spot phoniness."
+        ],
+        "SecretDesire": "Campaigners secretly yearn to find their true purpose in life. They want to make a difference and leave a lasting impact on the world, often through creative or humanitarian work.",
+        "Stereotypes": "Campaigners are often seen as flighty or too idealistic, but in reality, they are deeply thoughtful and passionate about making the world a better place.",
+        "Celebrities": [
+          "Robin Williams",
+          "Quentin Tarantino",
+          "Ellen DeGeneres",
+          "Kelly Clarkson",
+          "Drew Barrymore",
+          "Robert Downey Jr."
+        ]
+      },
+      {
+        "id": 5,
+        "language_code": "fr",
+        "type": "ENFP",
+        "name": "Le Campagneur",
+        "Description": "Enthousiastes, créatifs et sociables, les Campagneurs sont des esprits libres qui trouvent toujours une raison de sourire. Ils sont motivés par leurs idées et leur excitation à propos des nouvelles possibilités. Excellents pour se connecter aux autres, ils sont constamment à la recherche de significations plus profondes dans la vie.",
+        "Strengths": [
+          "curieux",
+          "observateur",
+          "énergique",
+          "enthousiaste",
+          "éloquent",
+          "savent se détendre",
+          "populaire",
+          "amical",
+          "vertueux",
+          "compatissant"
+        ],
+        "Weaknesses": [
+          "faibles compétences pratiques",
+          "difficulté à se concentrer",
+          "trop de réflexion",
+          "se stressent facilement",
+          "très émotifs",
+          "indépendants à l'excès",
+          "procrastinent"
+        ],
+        "DosInRelationship": [
+          "Soyez enthousiaste et montrez votre soutien à leurs idées.",
+          "Laissez-leur de l'espace pour explorer leur créativité et leur indépendance.",
+          "Soyez ouvert et honnête à propos de vos émotions.",
+          "Participez à des conversations significatives sur la vie et l'avenir.",
+          "Surprenez-les avec des aventures et de nouvelles expériences."
+        ],
+        "DontsInRelationship": [
+          "Ne soyez pas trop contrôlant ni ne limitez leur indépendance.",
+          "Évitez de rejeter leurs idées ou passions.",
+          "Ne les poussez pas à suivre une routine stricte.",
+          "Ne profitez pas de leur gentillesse."
+        ],
+        "Friendships": "Les Campagneurs forment des amitiés basées sur des connexions émotionnelles profondes et des passions partagées. Ils adorent les conversations stimulantes et sont toujours partants pour des aventures spontanées avec leurs amis.",
+        "CareerPath": [
+          "Écrivain",
+          "Psychologue",
+          "Entrepreneur",
+          "Acteur",
+          "Musicien",
+          "Professionnel du marketing",
+          "Conseiller",
+          "Spécialiste des relations publiques",
+          "Journaliste"
+        ],
+        "LifeValue": [
+          "Croissance personnelle",
+          "Créativité",
+          "Amitié",
+          "Passion",
+          "Liberté"
+        ],
+        "CompatibleConnections": [
+          "Le Médiateur (INFP)",
+          "L'Avocat (INFJ)",
+          "L'Architecte (INTJ)"
+        ],
+        "HasPotentialConnections": [
+          "Le Commandeur (ENTJ)",
+          "Le Débatteur (ENTP)",
+          "Le Penseur (INTP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Consul (ESFJ)",
+          "Le Performeur (ESFP)",
+          "Le Défenseur (ISFJ)",
+          "Le Logisticien (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "L'Aventurier (ISFP)",
+          "Le Virtuose (ISTP)",
+          "L'Exécutif (ESTJ)",
+          "Le Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "principe",
+          "silencieux",
+          "mystérieux",
+          "profond",
+          "attentionné",
+          "altruiste",
+          "vertueux",
+          "avoir des convictions",
+          "confiant",
+          "indépendant",
+          "authentique",
+          "honnête",
+          "stable"
+        ],
+        "PetPeeves": [
+          "critique",
+          "condescendant",
+          "apathique",
+          "superficiel",
+          "contrôlant",
+          "étouffant",
+          "irrespectueux",
+          "trop traditionnel",
+          "microgestion",
+          "réponses monosyllabiques"
+        ],
+        "HowToBeCompanion": [
+          "Ayez l'esprit ouvert et une curiosité intellectuelle.",
+          "Soyez prêt à de longues sessions de brainstorming.",
+          "Montrez-leur que vous êtes quelqu'un qu'ils peuvent respecter, quelqu'un avec des valeurs et des principes.",
+          "Ne les poussez pas à s'engager trop tôt.",
+          "Ne planifiez pas trop leur temps ou ne les microgérez pas. Ils ont besoin de leur liberté.",
+          "Soyez authentique et sincère. Ils repèrent rapidement les faussetés."
+        ],
+        "SecretDesire": "Les Campagneurs aspirent secrètement à trouver leur véritable objectif dans la vie. Ils veulent faire une différence et laisser un impact durable dans le monde, souvent à travers des travaux créatifs ou humanitaires.",
+        "Stereotypes": "Les Campagneurs sont souvent vus comme dispersés ou trop idéalistes, mais en réalité, ils réfléchissent profondément et sont passionnés par l'amélioration du monde.",
+        "Celebrities": [
+          "Robin Williams",
+          "Quentin Tarantino",
+          "Ellen DeGeneres",
+          "Kelly Clarkson",
+          "Drew Barrymore",
+          "Robert Downey Jr."
+        ]
+      },
+      {
+        "id": 5,
+        "language_code": "es",
+        "type": "ENFP",
+        "name": "El Campañero",
+        "Description": "Entusiastas, creativos y sociables, los Campañeros son espíritus libres que siempre encuentran una razón para sonreír. Están impulsados por sus ideas y entusiasmo por las nuevas posibilidades. Son excelentes para conectarse con los demás y siempre están en busca de significados más profundos en la vida.",
+        "Strengths": [
+          "curioso",
+          "observador",
+          "enérgico",
+          "entusiasta",
+          "elocuente",
+          "saben cómo relajarse",
+          "popular",
+          "amigable",
+          "virtuoso",
+          "compasivo"
+        ],
+        "Weaknesses": [
+          "pobres habilidades prácticas",
+          "difícil de concentrarse",
+          "pensar demasiado",
+          "estresarse fácilmente",
+          "muy emocionales",
+          "independientes hasta el extremo",
+          "procrastinadores"
+        ],
+        "DosInRelationship": [
+          "Sé entusiasta y muestra apoyo a sus ideas.",
+          "Dales espacio para explorar su creatividad e independencia.",
+          "Sé abierto y honesto sobre tus emociones.",
+          "Involúcrate en conversaciones significativas sobre la vida y el futuro.",
+          "Sorpréndelos con aventuras y nuevas experiencias."
+        ],
+        "DontsInRelationship": [
+          "No seas demasiado controlador ni limites su independencia.",
+          "Evita ser despectivo con sus ideas o pasiones.",
+          "No los empujes a seguir una rutina estricta.",
+          "No te aproveches de su amabilidad."
+        ],
+        "Friendships": "Los Campañeros forman amistades basadas en conexiones emocionales profundas y pasiones compartidas. Les encantan las conversaciones estimulantes y siempre están dispuestos a aventuras espontáneas con sus amigos.",
+        "CareerPath": [
+          "Escritor",
+          "Psicólogo",
+          "Emprendedor",
+          "Actor",
+          "Músico",
+          "Profesional de marketing",
+          "Consejero",
+          "Especialista en relaciones públicas",
+          "Periodista"
+        ],
+        "LifeValue": [
+          "Crecimiento personal",
+          "Creatividad",
+          "Amistad",
+          "Pasión",
+          "Libertad"
+        ],
+        "CompatibleConnections": [
+          "El Mediador (INFP)",
+          "El Defensor (INFJ)",
+          "El Arquitecto (INTJ)"
+        ],
+        "HasPotentialConnections": [
+          "El Comandante (ENTJ)",
+          "El Debatidor (ENTP)",
+          "El Pensador (INTP)",
+          "El Protagonista (ENFJ)",
+          "El Cónsul (ESFJ)",
+          "El Artista (ESFP)",
+          "El Defensor (ISFJ)",
+          "El Logístico (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "El Aventurero (ISFP)",
+          "El Virtuoso (ISTP)",
+          "El Ejecutivo (ESTJ)",
+          "El Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "con principios",
+          "silencioso",
+          "misterioso",
+          "profundo",
+          "cariñoso",
+          "altruista",
+          "virtuoso",
+          "con convicción",
+          "seguro de sí mismo",
+          "independiente",
+          "auténtico",
+          "honesto",
+          "estable"
+        ],
+        "PetPeeves": [
+          "crítico",
+          "condescendiente",
+          "apático",
+          "superficial",
+          "controlador",
+          "sofocante",
+          "irrespetuoso",
+          "demasiado tradicional",
+          "micromanaging",
+          "respuestas monosilábicas"
+        ],
+        "HowToBeCompanion": [
+          "Ten una mente abierta y curiosidad intelectual.",
+          "Esté abierto a largas sesiones de lluvia de ideas.",
+          "Demuestra que eres alguien a quien pueden respetar, alguien con valores y principios.",
+          "No los presiones para comprometerse demasiado pronto.",
+          "No planees demasiado su tiempo ni los microgestiones. Necesitan su libertad.",
+          "Sé auténtico y sincero. Detectan rápidamente la falsedad."
+        ],
+        "SecretDesire": "Los Campañeros anhelan secretamente encontrar su verdadero propósito en la vida. Quieren marcar la diferencia y dejar un impacto duradero en el mundo, a menudo a través de trabajos creativos o humanitarios.",
+        "Stereotypes": "Los Campañeros a menudo son vistos como volubles o demasiado idealistas, pero en realidad, son profundamente reflexivos y apasionados por mejorar el mundo.",
+        "Celebrities": [
+          "Robin Williams",
+          "Quentin Tarantino",
+          "Ellen DeGeneres",
+          "Kelly Clarkson",
+          "Drew Barrymore",
+          "Robert Downey Jr."
+        ]
+      },
+      {
+        "id": 5,
+        "language_code": "pt",
+        "type": "ENFP",
+        "name": "O Campanhista",
+        "Description": "Entusiastas, criativos e sociáveis, os Campanhistas são espíritos livres que sempre encontram um motivo para sorrir. Eles são motivados por suas ideias e entusiasmo com novas possibilidades. São excelentes em se conectar com os outros e estão sempre à procura de significados mais profundos na vida.",
+        "Strengths": [
+          "curioso",
+          "observador",
+          "enérgico",
+          "entusiasta",
+          "eloquente",
+          "sabem relaxar",
+          "popular",
+          "amigável",
+          "virtuoso",
+          "compassivo"
+        ],
+        "Weaknesses": [
+          "poucas habilidades práticas",
+          "dificuldade em se concentrar",
+          "pensar demais",
+          "ficam estressados facilmente",
+          "muito emocionais",
+          "independentes ao extremo",
+          "procrastinadores"
+        ],
+        "DosInRelationship": [
+          "Seja entusiasta e mostre apoio às suas ideias.",
+          "Dê-lhes espaço para explorar sua criatividade e independência.",
+          "Seja aberto e honesto sobre suas emoções.",
+          "Participe de conversas significativas sobre a vida e o futuro.",
+          "Surpreenda-os com aventuras e novas experiências."
+        ],
+        "DontsInRelationship": [
+          "Não seja muito controlador ou limite sua independência.",
+          "Evite ser desdenhoso com suas ideias ou paixões.",
+          "Não os empurre para seguir uma rotina estrita.",
+          "Não se aproveite de sua gentileza."
+        ],
+        "Friendships": "Os Campanhistas formam amizades com base em conexões emocionais profundas e paixões compartilhadas. Eles adoram conversas estimulantes e estão sempre prontos para aventuras espontâneas com seus amigos.",
+        "CareerPath": [
+          "Escritor",
+          "Psicólogo",
+          "Empreendedor",
+          "Ator",
+          "Músico",
+          "Profissional de marketing",
+          "Conselheiro",
+          "Especialista em Relações Públicas",
+          "Jornalista"
+        ],
+        "LifeValue": [
+          "Crescimento Pessoal",
+          "Criatividade",
+          "Amizade",
+          "Paixão",
+          "Liberdade"
+        ],
+        "CompatibleConnections": [
+          "O Mediador (INFP)",
+          "O Advogado (INFJ)",
+          "O Arquiteto (INTJ)"
+        ],
+        "HasPotentialConnections": [
+          "O Comandante (ENTJ)",
+          "O Debatedor (ENTP)",
+          "O Pensador (INTP)",
+          "O Protagonista (ENFJ)",
+          "O Cônsul (ESFJ)",
+          "O Performista (ESFP)",
+          "O Protetor (ISFJ)",
+          "O Logístico (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "O Aventureiro (ISFP)",
+          "O Virtuoso (ISTP)",
+          "O Executivo (ESTJ)",
+          "O Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "princípios",
+          "silencioso",
+          "misterioso",
+          "profundo",
+          "atencioso",
+          "altruísta",
+          "virtuoso",
+          "ter convicção",
+          "confiante",
+          "independente",
+          "autêntico",
+          "honesto",
+          "estável"
+        ],
+        "PetPeeves": [
+          "crítico",
+          "condescendente",
+          "apático",
+          "superficial",
+          "controlador",
+          "opressivo",
+          "desrespeitoso",
+          "muito tradicional",
+          "microgestor",
+          "respostas monossilábicas"
+        ],
+        "HowToBeCompanion": [
+          "Tenha uma mente aberta e curiosidade intelectual.",
+          "Esteja aberto a longas sessões de brainstorming.",
+          "Mostre que você é alguém que eles podem respeitar, alguém com valores e princípios.",
+          "Não os pressione por compromissos cedo demais.",
+          "Não planeje demais o tempo deles ou os microgerencie. Eles precisam de liberdade.",
+          "Seja autêntico e sincero. Eles detectam rapidamente a falsidade."
+        ],
+        "SecretDesire": "Os Campanhistas secretamente anseiam por encontrar seu verdadeiro propósito na vida. Eles querem fazer a diferença e deixar um impacto duradouro no mundo, muitas vezes através de trabalho criativo ou humanitário.",
+        "Stereotypes": "Os Campanhistas são frequentemente vistos como volúveis ou idealistas demais, mas na verdade, são profundamente reflexivos e apaixonados por melhorar o mundo.",
+        "Celebrities": [
+          "Robin Williams",
+          "Quentin Tarantino",
+          "Ellen DeGeneres",
+          "Kelly Clarkson",
+          "Drew Barrymore",
+          "Robert Downey Jr."
+        ]
+      },
+      {
+        "id": 5,
+        "language_code": "ar",
+        "type": "ENFP",
+        "name": "المعبر",
+        "Description": "المعبرون هم أرواح حرة متحمسة ومبدعة واجتماعية، يمكنهم دائمًا العثور على سبب للابتسام. يتم دفعهم بأفكارهم وحماسهم للإمكانيات الجديدة. إنهم ممتازون في التواصل مع الآخرين وهم دائمًا يبحثون عن معاني أعمق في الحياة.",
+        "Strengths": [
+          "فضولي",
+          "مراقب",
+          "نشيط",
+          "متحمس",
+          "بليغ",
+          "يعرفون كيف يسترخون",
+          "شعبي",
+          "ودود",
+          "فضيلة",
+          "رحيم"
+        ],
+        "Weaknesses": [
+          "مهارات عملية ضعيفة",
+          "صعوبة في التركيز",
+          "التفكير الزائد",
+          "يتوترون بسهولة",
+          "عاطفي للغاية",
+          "مستقلون إلى درجة خطيرة",
+          "المماطلة"
+        ],
+        "DosInRelationship": [
+          "كن متحمسًا وأظهر الدعم لأفكارهم.",
+          "امنحهم مساحة لاستكشاف إبداعهم واستقلالهم.",
+          "كن صريحًا وصادقًا بشأن مشاعرك.",
+          "انخرط في محادثات ذات مغزى حول الحياة والمستقبل.",
+          "فاجئهم بالمغامرات والتجارب الجديدة."
+        ],
+        "DontsInRelationship": [
+          "لا تكن مسيطرًا جدًا أو تخنق استقلالهم.",
+          "تجنب تجاهل أفكارهم أو شغفهم.",
+          "لا تدفعهم لاتباع روتين صارم.",
+          "لا تستغل لطفهم."
+        ],
+        "Friendships": "يشكل المعبرون صداقات بناءً على روابط عاطفية عميقة وشغف مشترك. يحبون المشاركة في محادثات محفزة وهم دائمًا مستعدون للمغامرات العفوية مع أصدقائهم.",
+        "CareerPath": [
+          "كاتب",
+          "عالم نفسي",
+          "رائد أعمال",
+          "ممثل",
+          "موسيقي",
+          "محترف تسويق",
+          "مستشار",
+          "أخصائي علاقات عامة",
+          "صحفي"
+        ],
+        "LifeValue": [
+          "النمو الشخصي",
+          "الإبداع",
+          "الصداقة",
+          "الشغف",
+          "الحرية"
+        ],
+        "CompatibleConnections": [
+          "الوسيط (INFP)",
+          "المدافع (INFJ)",
+          "المهندس المعماري (INTJ)"
+        ],
+        "HasPotentialConnections": [
+          "القائد (ENTJ)",
+          "المناظر (ENTP)",
+          "المفكر (INTP)",
+          "البطل (ENFJ)",
+          "القنصل (ESFJ)",
+          "المؤدي (ESFP)",
+          "المدافع (ISFJ)",
+          "اللوجستي (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "المغامر (ISFP)",
+          "المحترف (ISTP)",
+          "المدير التنفيذي (ESTJ)",
+          "الدينامو (ESTP)"
+        ],
+        "AttractedBy": [
+          "مبدئي",
+          "هادئ",
+          "غامض",
+          "عميق",
+          "رعاية",
+          "إيثار",
+          "فضيلة",
+          "الاقتناع",
+          "واثق بالنفس",
+          "مستقل",
+          "صادق",
+          "صريح",
+          "مستقر"
+        ],
+        "PetPeeves": [
+          "انتقادي",
+          "متغطرس",
+          "لا مبالي",
+          "سطحي",
+          "متحكم",
+          "مكبل",
+          "غير محترم",
+          "تقليدي جدًا",
+          "التحكم الجزئي",
+          "ردود من كلمة واحدة"
+        ],
+        "HowToBeCompanion": [
+          "كن متفتحًا ولديك فضول فكري.",
+          "كن منفتحًا على جلسات العصف الذهني الطويلة.",
+          "أظهر لهم أنك شخص يمكنهم احترامه، شخص لديه قيم ومبادئ.",
+          "لا تضغط عليهم من أجل الالتزامات في وقت مبكر.",
+          "لا تفرط في جدولة وقتهم أو تتحكم فيهم. يحتاجون إلى حريتهم.",
+          "كن صادقًا ومخلصًا. إنهم يكتشفون الخداع بسرعة."
+        ],
+        "SecretDesire": "المعبرون يتوقون سرًا إلى العثور على غرضهم الحقيقي في الحياة. يريدون إحداث فرق وترك تأثير دائم في العالم، غالبًا من خلال العمل الإبداعي أو الإنساني.",
+        "Stereotypes": "غالبًا ما يُنظر إلى المعبرين على أنهم طائشون أو مثاليون للغاية، لكن في الواقع، هم مدروسون بعمق وشغوفون بتحسين العالم.",
+        "Celebrities": [
+          "روبن ويليامز",
+          "كوينتين تارانتينو",
+          "إلين ديجينيرس",
+          "كيلي كلاركسون",
+          "درو باريمور",
+          "روبرت داوني جونيور"
+        ]
+      }
+    ]
+  }  

@@ -1,0 +1,614 @@
+{
+    "personalities": [
+      {
+        "id": 15,
+        "language_code": "en",
+        "type": "ISTP",
+        "name": "The Virtuoso",
+        "Description": "Practical and action-oriented, ISTPs are natural problem-solvers who thrive in hands-on environments. They are independent thinkers who enjoy figuring out how things work and are highly adaptable to changing circumstances. Virtuosos are known for their curiosity and their ability to stay calm and composed, even in challenging situations.",
+        "Strengths": [
+          "independent",
+          "calm under pressure",
+          "adaptable",
+          "practical",
+          "problem-solving",
+          "spontaneous",
+          "logical",
+          "curious",
+          "efficient",
+          "hands-on"
+        ],
+        "Weaknesses": [
+          "private",
+          "can be insensitive",
+          "dislike commitment",
+          "easily bored",
+          "struggle with emotions",
+          "dislike being controlled",
+          "can be overly impulsive"
+        ],
+        "DosInRelationship": [
+          "Give them space to explore their interests independently.",
+          "Engage in practical, hands-on activities together.",
+          "Appreciate their problem-solving abilities and adaptability.",
+          "Be direct and clear in communication without too much emotional pressure.",
+          "Encourage their curiosity and willingness to try new things."
+        ],
+        "DontsInRelationship": [
+          "Don’t be overly emotional or try to control them.",
+          "Avoid being too rigid or set in your ways.",
+          "Don’t pressure them into long-term commitments early on.",
+          "Avoid being overly sensitive to their straightforwardness.",
+          "Don’t expect them to share their feelings easily."
+        ],
+        "Friendships": "Virtuosos form friendships based on mutual respect for independence and competence. They value friends who appreciate their hands-on approach to problem-solving and can enjoy spontaneous activities with them.",
+        "CareerPath": [
+          "Mechanic",
+          "Engineer",
+          "Pilot",
+          "Carpenter",
+          "Surgeon",
+          "Photographer",
+          "Entrepreneur",
+          "Military Officer",
+          "Software Developer"
+        ],
+        "LifeValue": [
+          "Freedom",
+          "Independence",
+          "Practicality",
+          "Action",
+          "Problem-Solving"
+        ],
+        "CompatibleConnections": [
+          "Rebel (ESTP)",
+          "Executive (ESTJ)",
+          "Ambassador (ESFJ)"
+        ],
+        "HasPotentialConnections": [
+          "Commander (ENTJ)",
+          "Performer (ESFP)",
+          "Protector (ISFJ)",
+          "Artist (ISFP)",
+          "Realist (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "Guardian (INFJ)",
+          "Mastermind (INTJ)",
+          "Crusader (ENFP)",
+          "Challenger (ENTP)",
+          "Peacemaker (INFP)",
+          "Hero (ENFJ)",
+          "Genius (INTP)",
+          "Artisan (ISTP)"
+        ],
+        "AttractedBy": [
+          "independent",
+          "practical",
+          "action-oriented",
+          "calm",
+          "logical",
+          "problem-solver",
+          "adaptable",
+          "hands-on",
+          "spontaneous",
+          "efficient"
+        ],
+        "PetPeeves": [
+          "controlling",
+          "emotional",
+          "rigid",
+          "incompetent",
+          "dependent",
+          "overly sensitive",
+          "predictable",
+          "closed-minded"
+        ],
+        "HowToBeCompanion": [
+          "Respect their need for independence and freedom.",
+          "Engage in practical and spontaneous activities with them.",
+          "Be clear, direct, and straightforward in communication.",
+          "Appreciate their calm and composed nature under pressure.",
+          "Don’t try to control them or demand emotional expressions."
+        ],
+        "SecretDesire": "Virtuosos secretly long for mastery in their craft and to be appreciated for their ability to solve complex problems and remain cool under pressure.",
+        "Stereotypes": "ISTPs are often stereotyped as overly aloof or unemotional, but in reality, they are deeply curious individuals who enjoy finding practical solutions to problems and adapting to new challenges.",
+        "Celebrities": [
+          "Tom Cruise",
+          "Clint Eastwood",
+          "Michael Jordan",
+          "Bruce Lee",
+          "Daniel Craig",
+          "Scarlett Johansson"
+        ]
+      },
+      {
+        "id": 15,
+        "language_code": "fr",
+        "type": "ISTP",
+        "name": "Virtuose",
+        "Description": "Pratiques et orientés vers l'action, les ISTP sont des résolveurs de problèmes naturels qui prospèrent dans des environnements pratiques. Ce sont des penseurs indépendants qui aiment comprendre comment les choses fonctionnent et s'adaptent facilement aux circonstances changeantes. Les Virtuoses sont connus pour leur curiosité et leur capacité à rester calmes et composés, même dans des situations difficiles.",
+        "Strengths": [
+          "indépendant",
+          "calme sous pression",
+          "adaptable",
+          "pratique",
+          "résolution de problèmes",
+          "spontané",
+          "logique",
+          "curieux",
+          "efficace",
+          "pratique"
+        ],
+        "Weaknesses": [
+          "réservé",
+          "peut être insensible",
+          "n'aime pas l'engagement",
+          "s'ennuie facilement",
+          "lutte avec les émotions",
+          "n'aime pas être contrôlé",
+          "peut être trop impulsif"
+        ],
+        "DosInRelationship": [
+          "Donnez-leur de l'espace pour explorer leurs intérêts de manière indépendante.",
+          "Participez à des activités pratiques et concrètes ensemble.",
+          "Appréciez leurs capacités de résolution de problèmes et leur adaptabilité.",
+          "Soyez direct et clair dans la communication sans trop de pression émotionnelle.",
+          "Encouragez leur curiosité et leur volonté d'essayer de nouvelles choses."
+        ],
+        "DontsInRelationship": [
+          "Ne soyez pas trop émotionnel ou n'essayez pas de les contrôler.",
+          "Évitez d'être trop rigide ou d'imposer vos manières.",
+          "Ne les poussez pas à s'engager à long terme trop tôt.",
+          "Évitez d'être trop sensible à leur franchise.",
+          "Ne vous attendez pas à ce qu'ils partagent facilement leurs sentiments."
+        ],
+        "Friendships": "Les Virtuoses forment des amitiés basées sur le respect mutuel de l'indépendance et de la compétence. Ils apprécient les amis qui reconnaissent leur approche pratique de la résolution de problèmes et qui peuvent profiter d'activités spontanées avec eux.",
+        "CareerPath": [
+          "Mécanicien",
+          "Ingénieur",
+          "Pilote",
+          "Charpentier",
+          "Chirurgien",
+          "Photographe",
+          "Entrepreneur",
+          "Officier militaire",
+          "Développeur de logiciels"
+        ],
+        "LifeValue": [
+          "Liberté",
+          "Indépendance",
+          "Praticité",
+          "Action",
+          "Résolution de problèmes"
+        ],
+        "CompatibleConnections": [
+          "Rebelle (ESTP)",
+          "Exécutif (ESTJ)",
+          "Ambassadeur (ESFJ)"
+        ],
+        "HasPotentialConnections": [
+          "Commandant (ENTJ)",
+          "Interprète (ESFP)",
+          "Protecteur (ISFJ)",
+          "Artiste (ISFP)",
+          "Réalisateur (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "Gardien (INFJ)",
+          "Maître (INTJ)",
+          "Croisé (ENFP)",
+          "Débatteur (ENTP)",
+          "Pacificateur (INFP)",
+          "Héros (ENFJ)",
+          "Génie (INTP)",
+          "Artisan (ISTP)"
+        ],
+        "AttractedBy": [
+          "indépendant",
+          "pratique",
+          "orienté vers l'action",
+          "calme",
+          "logique",
+          "résolution de problèmes",
+          "adaptable",
+          "pratique",
+          "spontané",
+          "efficace"
+        ],
+        "PetPeeves": [
+          "contrôlant",
+          "émotionnel",
+          "rigide",
+          "incompétent",
+          "dépendant",
+          "trop sensible",
+          "prévisible",
+          "esprit fermé"
+        ],
+        "HowToBeCompanion": [
+          "Respectez leur besoin d'indépendance et de liberté.",
+          "Participez à des activités pratiques et spontanées avec eux.",
+          "Soyez clair, direct et franc dans la communication.",
+          "Appréciez leur nature calme et posée sous pression.",
+          "Ne tentez pas de les contrôler ou d'exiger des expressions émotionnelles."
+        ],
+        "SecretDesire": "Les Virtuoses aspirent secrètement à maîtriser leur métier et à être reconnus pour leur capacité à résoudre des problèmes complexes et à rester calmes sous pression.",
+        "Stereotypes": "Les ISTP sont souvent stéréotypés comme étant trop distants ou émotionnellement détachés, mais en réalité, ce sont des individus profondément curieux qui aiment trouver des solutions pratiques aux problèmes et s'adapter aux nouveaux défis.",
+        "Celebrities": [
+          "Tom Cruise",
+          "Clint Eastwood",
+          "Michael Jordan",
+          "Bruce Lee",
+          "Daniel Craig",
+          "Scarlett Johansson"
+        ]
+      },
+      {
+        "id": 15,
+        "language_code": "es",
+        "type": "ISTP",
+        "name": "Virtuoso",
+        "Description": "Prácticos y orientados a la acción, los ISTP son solucionadores de problemas naturales que prosperan en entornos prácticos. Son pensadores independientes que disfrutan averiguar cómo funcionan las cosas y se adaptan fácilmente a circunstancias cambiantes. Los Virtuosos son conocidos por su curiosidad y su capacidad para mantenerse tranquilos y serenos, incluso en situaciones difíciles.",
+        "Strengths": [
+          "independiente",
+          "calmado bajo presión",
+          "adaptable",
+          "práctico",
+          "solucionador de problemas",
+          "espontáneo",
+          "lógico",
+          "curioso",
+          "eficiente",
+          "práctico"
+        ],
+        "Weaknesses": [
+          "reservado",
+          "puede ser insensible",
+          "no le gusta el compromiso",
+          "se aburre fácilmente",
+          "lucha con las emociones",
+          "no le gusta ser controlado",
+          "puede ser demasiado impulsivo"
+        ],
+        "DosInRelationship": [
+          "Dales espacio para explorar sus intereses de manera independiente.",
+          "Participa en actividades prácticas y concretas juntos.",
+          "Aprecia sus habilidades para resolver problemas y su adaptabilidad.",
+          "Sé directo y claro en la comunicación sin demasiada presión emocional.",
+          "Fomenta su curiosidad y su disposición a probar cosas nuevas."
+        ],
+        "DontsInRelationship": [
+          "No seas demasiado emocional ni intentes controlarlos.",
+          "Evita ser demasiado rígido o imponer tus maneras.",
+          "No los presiones para comprometerse a largo plazo demasiado pronto.",
+          "Evita ser demasiado sensible a su franqueza.",
+          "No esperes que compartan sus sentimientos fácilmente."
+        ],
+        "Friendships": "Los Virtuosos forman amistades basadas en el respeto mutuo por la independencia y la competencia. Valoran a los amigos que reconocen su enfoque práctico para resolver problemas y que pueden disfrutar de actividades espontáneas con ellos.",
+        "CareerPath": [
+          "Mecánico",
+          "Ingeniero",
+          "Piloto",
+          "Carpintero",
+          "Cirujano",
+          "Fotógrafo",
+          "Emprendedor",
+          "Oficial militar",
+          "Desarrollador de software"
+        ],
+        "LifeValue": [
+          "Libertad",
+          "Independencia",
+          "Practicidad",
+          "Acción",
+          "Resolución de problemas"
+        ],
+        "CompatibleConnections": [
+          "Rebelde (ESTP)",
+          "Ejecutivo (ESTJ)",
+          "Embajador (ESFJ)"
+        ],
+        "HasPotentialConnections": [
+          "Comandante (ENTJ)",
+          "Intérprete (ESFP)",
+          "Protector (ISFJ)",
+          "Artista (ISFP)",
+          "Realista (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "Guardián (INFJ)",
+          "Cerebro (INTJ)",
+          "Cruzado (ENFP)",
+          "Desafiante (ENTP)",
+          "Pacificador (INFP)",
+          "Héroe (ENFJ)",
+          "Genio (INTP)",
+          "Artesano (ISTP)"
+        ],
+        "AttractedBy": [
+          "independiente",
+          "práctico",
+          "orientado a la acción",
+          "calmado",
+          "lógico",
+          "solucionador de problemas",
+          "adaptable",
+          "práctico",
+          "espontáneo",
+          "eficiente"
+        ],
+        "PetPeeves": [
+          "controlador",
+          "emocional",
+          "rígido",
+          "incompetente",
+          "dependiente",
+          "demasiado sensible",
+          "predecible",
+          "cerrado de mente"
+        ],
+        "HowToBeCompanion": [
+          "Respeta su necesidad de independencia y libertad.",
+          "Participa en actividades prácticas y espontáneas con ellos.",
+          "Sé claro, directo y franco en la comunicación.",
+          "Aprecia su naturaleza calmada y serena bajo presión.",
+          "No intentes controlarlos ni exijas expresiones emocionales."
+        ],
+        "SecretDesire": "Los Virtuosos desean secretamente la maestría en su oficio y ser apreciados por su capacidad para resolver problemas complejos y mantener la calma bajo presión.",
+        "Stereotypes": "Los ISTP a menudo son estereotipados como distantes o emocionalmente desapegados, pero en realidad, son individuos profundamente curiosos que disfrutan encontrar soluciones prácticas a los problemas y adaptarse a nuevos desafíos.",
+        "Celebrities": [
+          "Tom Cruise",
+          "Clint Eastwood",
+          "Michael Jordan",
+          "Bruce Lee",
+          "Daniel Craig",
+          "Scarlett Johansson"
+        ]
+      },
+      {
+        "id": 15,
+        "language_code": "pt",
+        "type": "ISTP",
+        "name": "Virtuoso",
+        "Description": "Práticos e orientados para a ação, os ISTP são solucionadores de problemas naturais que prosperam em ambientes práticos. Eles são pensadores independentes que gostam de descobrir como as coisas funcionam e se adaptam facilmente a circunstâncias mutáveis. Os Virtuosos são conhecidos por sua curiosidade e sua capacidade de permanecer calmos e serenos, mesmo em situações desafiadoras.",
+        "Strengths": [
+          "independente",
+          "calmo sob pressão",
+          "adaptável",
+          "prático",
+          "resolução de problemas",
+          "espontâneo",
+          "lógico",
+          "curioso",
+          "eficiente",
+          "prático"
+        ],
+        "Weaknesses": [
+          "reservado",
+          "pode ser insensível",
+          "não gosta de compromisso",
+          "facilmente entediado",
+          "luta com emoções",
+          "não gosta de ser controlado",
+          "pode ser muito impulsivo"
+        ],
+        "DosInRelationship": [
+          "Dê-lhes espaço para explorar seus interesses de forma independente.",
+          "Participe de atividades práticas e concretas juntos.",
+          "Aprecie suas habilidades de resolução de problemas e sua adaptabilidade.",
+          "Seja direto e claro na comunicação sem muita pressão emocional.",
+          "Incentive sua curiosidade e disposição para experimentar coisas novas."
+        ],
+        "DontsInRelationship": [
+          "Não seja muito emocional ou tente controlá-los.",
+          "Evite ser muito rígido ou impor seus próprios caminhos.",
+          "Não os pressione a compromissos de longo prazo cedo demais.",
+          "Evite ser muito sensível à sua franqueza.",
+          "Não espere que compartilhem seus sentimentos facilmente."
+        ],
+        "Friendships": "Os Virtuosos formam amizades baseadas no respeito mútuo pela independência e competência. Eles valorizam amigos que reconhecem sua abordagem prática para resolver problemas e que podem desfrutar de atividades espontâneas com eles.",
+        "CareerPath": [
+          "Mecânico",
+          "Engenheiro",
+          "Piloto",
+          "Carpinteiro",
+          "Cirurgião",
+          "Fotógrafo",
+          "Empreendedor",
+          "Oficial militar",
+          "Desenvolvedor de software"
+        ],
+        "LifeValue": [
+          "Liberdade",
+          "Independência",
+          "Praticidade",
+          "Ação",
+          "Resolução de Problemas"
+        ],
+        "CompatibleConnections": [
+          "Rebelde (ESTP)",
+          "Executivo (ESTJ)",
+          "Embaixador (ESFJ)"
+        ],
+        "HasPotentialConnections": [
+          "Comandante (ENTJ)",
+          "Interprete (ESFP)",
+          "Protetor (ISFJ)",
+          "Artista (ISFP)",
+          "Realista (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "Guardião (INFJ)",
+          "Cérebro (INTJ)",
+          "Cruzado (ENFP)",
+          "Desafiante (ENTP)",
+          "Pacificador (INFP)",
+          "Herói (ENFJ)",
+          "Gênio (INTP)",
+          "Artesão (ISTP)"
+        ],
+        "AttractedBy": [
+          "independente",
+          "prático",
+          "orientado para a ação",
+          "calmo",
+          "lógico",
+          "resolução de problemas",
+          "adaptável",
+          "prático",
+          "espontâneo",
+          "eficiente"
+        ],
+        "PetPeeves": [
+          "controlador",
+          "emocional",
+          "rígido",
+          "incompetente",
+          "dependente",
+          "muito sensível",
+          "previsível",
+          "mente fechada"
+        ],
+        "HowToBeCompanion": [
+          "Respeite a necessidade deles de independência e liberdade.",
+          "Participe de atividades práticas e espontâneas com eles.",
+          "Seja claro, direto e franco na comunicação.",
+          "Aprecie sua natureza calma e composta sob pressão.",
+          "Não tente controlá-los ou exigir expressões emocionais."
+        ],
+        "SecretDesire": "Os Virtuosos desejam secretamente o domínio de sua arte e serem apreciados por sua capacidade de resolver problemas complexos e permanecer calmos sob pressão.",
+        "Stereotypes": "Os ISTP são frequentemente estereotipados como sendo muito distantes ou emocionalmente desapegados, mas na realidade são indivíduos profundamente curiosos que gostam de encontrar soluções práticas para problemas e se adaptar a novos desafios.",
+        "Celebrities": [
+          "Tom Cruise",
+          "Clint Eastwood",
+          "Michael Jordan",
+          "Bruce Lee",
+          "Daniel Craig",
+          "Scarlett Johansson"
+        ]
+      },
+      {
+        "id": 15,
+        "language_code": "ar",
+        "type": "ISTP",
+        "name": "الحرفي",
+        "Description": "عمليون وموجهون نحو العمل، يتمتع أصحاب شخصية ISTP بالقدرة على حل المشكلات الطبيعية والتألق في البيئات العملية. هم مفكرون مستقلون يستمتعون بفهم كيفية عمل الأشياء ويتكيفون بسهولة مع الظروف المتغيرة. يشتهر الحرفيون بفضولهم وقدرتهم على البقاء هادئين ومتماسكين حتى في المواقف الصعبة.",
+        "Strengths": [
+          "مستقل",
+          "هادئ تحت الضغط",
+          "قابل للتكيف",
+          "عملي",
+          "حل المشكلات",
+          "عفوي",
+          "منطقي",
+          "فضولي",
+          "كفء",
+          "عملي"
+        ],
+        "Weaknesses": [
+          "منطوي",
+          "يمكن أن يكون غير حساس",
+          "لا يحب الالتزام",
+          "يسهل عليه الشعور بالملل",
+          "يكافح مع العواطف",
+          "لا يحب أن يتحكم فيه أحد",
+          "يمكن أن يكون متهورًا"
+        ],
+        "DosInRelationship": [
+          "امنحهم المساحة لاستكشاف اهتماماتهم بشكل مستقل.",
+          "اشترك في أنشطة عملية معًا.",
+          "قدر قدرتهم على حل المشكلات وقدرتهم على التكيف.",
+          "كن مباشرًا وواضحًا في التواصل دون الكثير من الضغط العاطفي.",
+          "شجع فضولهم ورغبتهم في تجربة أشياء جديدة."
+        ],
+        "DontsInRelationship": [
+          "لا تكن عاطفيًا جدًا أو تحاول السيطرة عليهم.",
+          "تجنب أن تكون صارمًا جدًا أو متصلبًا في أساليبك.",
+          "لا تضغط عليهم للالتزام بعلاقات طويلة الأمد في وقت مبكر.",
+          "تجنب أن تكون حساسًا للغاية تجاه صراحتهم.",
+          "لا تتوقع منهم مشاركة مشاعرهم بسهولة."
+        ],
+        "Friendships": "يشكل الحرفيون صداقات قائمة على الاحترام المتبادل للاستقلال والكفاءة. يقدرون الأصدقاء الذين يقدرون نهجهم العملي لحل المشكلات ويمكنهم الاستمتاع بالأنشطة العفوية معهم.",
+        "CareerPath": [
+          "ميكانيكي",
+          "مهندس",
+          "طيار",
+          "نجار",
+          "جراح",
+          "مصور",
+          "رائد أعمال",
+          "ضابط عسكري",
+          "مطور برامج"
+        ],
+        "LifeValue": [
+          "الحرية",
+          "الاستقلال",
+          "العملية",
+          "العمل",
+          "حل المشكلات"
+        ],
+        "CompatibleConnections": [
+          "المتمرد (ESTP)",
+          "المدير التنفيذي (ESTJ)",
+          "السفير (ESFJ)"
+        ],
+        "HasPotentialConnections": [
+          "القائد (ENTJ)",
+          "المؤدي (ESFP)",
+          "المدافع (ISFJ)",
+          "الفنان (ISFP)",
+          "الواقعي (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "الوصي (INFJ)",
+          "العبقري (INTJ)",
+          "الصليبي (ENFP)",
+          "المتحدي (ENTP)",
+          "صانع السلام (INFP)",
+          "البطل (ENFJ)",
+          "العبقري (INTP)",
+          "الحرفي (ISTP)"
+        ],
+        "AttractedBy": [
+          "مستقل",
+          "عملي",
+          "موجه نحو العمل",
+          "هادئ",
+          "منطقي",
+          "حل المشكلات",
+          "قابل للتكيف",
+          "عملي",
+          "عفوي",
+          "كفء"
+        ],
+        "PetPeeves": [
+          "مسيطر",
+          "عاطفي",
+          "جامد",
+          "غير كفء",
+          "معتمد",
+          "حساس للغاية",
+          "متوقع",
+          "ضيق الأفق"
+        ],
+        "HowToBeCompanion": [
+          "احترم حاجتهم للاستقلال والحرية.",
+          "اشترك في أنشطة عملية وعفوية معهم.",
+          "كن واضحًا وصريحًا ومباشرًا في التواصل.",
+          "قدر طبيعتهم الهادئة والمتماسكة تحت الضغط.",
+          "لا تحاول السيطرة عليهم أو تطالب بتعبيرات عاطفية."
+        ],
+        "SecretDesire": "يتوق الحرفيون سرًا إلى إتقان مهنتهم وتقدير قدرتهم على حل المشكلات المعقدة والبقاء هادئين تحت الضغط.",
+        "Stereotypes": "غالبًا ما يتم تصوير ISTP على أنهم بعيدون جدًا أو غير عاطفيين، لكن في الواقع، هم أفراد فضوليون للغاية يستمتعون بإيجاد حلول عملية للمشاكل والتكيف مع التحديات الجديدة.",
+        "Celebrities": [
+          "توم كروز",
+          "كلينت إيستوود",
+          "مايكل جوردان",
+          "بروس لي",
+          "دانيال كريج",
+          "سكارليت جوهانسون"
+        ]
+      }
+    ]
+  }  

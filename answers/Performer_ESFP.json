@@ -1,0 +1,591 @@
+{
+    "personalities": [
+      {
+        "id": 4,
+        "language_code": "en",
+        "type": "ESFP",
+        "name": "The Performer",
+        "Description": "Enthusiastic and spontaneous, Performers are the life of the party. They thrive on new experiences and love to connect with others in a lively and engaging way. Performers are warm-hearted and enjoy bringing joy to those around them through their charisma and infectious energy.",
+        "Strengths": [
+          "enthusiastic",
+          "energetic",
+          "warm-hearted",
+          "spontaneous",
+          "friendly",
+          "sociable",
+          "adaptable",
+          "creative",
+          "fun-loving",
+          "charismatic"
+        ],
+        "Weaknesses": [
+          "easily bored",
+          "can be disorganized",
+          "may struggle with long-term planning",
+          "can be overly emotional",
+          "impatient",
+          "dislike routine",
+          "may avoid difficult tasks"
+        ],
+        "DosInRelationship": [
+          "Show appreciation for their spontaneity and energy.",
+          "Engage in fun and exciting activities together.",
+          "Be open to new experiences and adventures.",
+          "Communicate openly about your feelings.",
+          "Provide them with positive feedback and encouragement."
+        ],
+        "DontsInRelationship": [
+          "Don’t be overly critical or controlling.",
+          "Avoid being too serious or dull.",
+          "Don’t ignore their need for fun and excitement.",
+          "Avoid making them feel guilty for being spontaneous.",
+          "Don’t take their emotional expressions too personally."
+        ],
+        "Friendships": "Performers thrive in friendships that are lively and fun. They value friends who share their enthusiasm for life and enjoy spontaneous adventures. They appreciate loyalty and warmth in their friendships.",
+        "CareerPath": [
+          "Entertainer",
+          "Artist",
+          "Salesperson",
+          "Social Worker",
+          "Event Planner",
+          "Travel Guide",
+          "Public Relations Specialist",
+          "Teacher",
+          "Marketing Professional"
+        ],
+        "LifeValue": [
+          "Fun",
+          "Joy",
+          "Creativity",
+          "Freedom",
+          "Connection"
+        ],
+        "CompatibleConnections": [
+          "Artist (ISFP)",
+          "Protector (ISFJ)",
+          "Realist (ISTJ)"
+        ],
+        "HasPotentialConnections": [
+          "Hero (ENFJ)",
+          "Crusader (ENFP)",
+          "Guardian (INFJ)",
+          "Peacemaker (INFP)",
+          "Executive (ESTJ)",
+          "Rebel (ESTP)",
+          "Challenger (ENTP)"
+        ],
+        "ChallengingConnections": [
+          "Mastermind (INTJ)",
+          "Genius (INTP)",
+          "Commander (ENTJ)"
+        ],
+        "AttractedBy": [
+          "charismatic",
+          "enthusiastic",
+          "fun-loving",
+          "energetic",
+          "social",
+          "friendly",
+          "creative",
+          "spontaneous",
+          "warm-hearted",
+          "adventurous"
+        ],
+        "PetPeeves": [
+          "boring",
+          "overly serious",
+          "rigid",
+          "controlling",
+          "emotionally distant",
+          "uncreative",
+          "predictable"
+        ],
+        "HowToBeCompanion": [
+          "Encourage their creativity and spontaneity.",
+          "Join them in fun and exciting activities.",
+          "Be open and positive in your interactions.",
+          "Show appreciation for their warmth and friendliness.",
+          "Be supportive of their need for social connection."
+        ],
+        "SecretDesire": "Performers secretly long for deep emotional connections with others while enjoying the freedom to express themselves fully and authentically.",
+        "Stereotypes": "Performers are often seen as flighty or superficial, but in reality, they are deeply caring individuals who bring joy and warmth to the lives of those around them.",
+        "Celebrities": [
+          "Miley Cyrus",
+          "Katy Perry",
+          "Ariana Grande",
+          "Robin Williams",
+          "Drew Barrymore",
+          "Bruno Mars"
+        ]
+      },
+      {
+        "id": 4,
+        "language_code": "fr",
+        "type": "ESFP",
+        "name": "Le Performer (ESFP)",
+        "Description": "Enthousiastes et spontanés, les Performers sont l'âme de la fête. Ils s'épanouissent dans de nouvelles expériences et aiment se connecter avec les autres de manière vivante et engageante. Les Performers sont chaleureux et aiment apporter de la joie à ceux qui les entourent grâce à leur charisme et leur énergie contagieuse.",
+        "Strengths": [
+          "enthousiaste",
+          "énergique",
+          "chaleureux",
+          "spontané",
+          "amical",
+          "sociable",
+          "adaptable",
+          "créatif",
+          "aime s'amuser",
+          "charismatique"
+        ],
+        "Weaknesses": [
+          "s'ennuie facilement",
+          "peut être désorganisé",
+          "peut avoir du mal à planifier à long terme",
+          "peut être trop émotif",
+          "impatient",
+          "n'aime pas la routine",
+          "peut éviter les tâches difficiles"
+        ],
+        "DosInRelationship": [
+          "Montrez votre appréciation pour leur spontanéité et leur énergie.",
+          "Participez ensemble à des activités amusantes et excitantes.",
+          "Soyez ouvert à de nouvelles expériences et aventures.",
+          "Communiquez ouvertement sur vos sentiments.",
+          "Fournissez-leur des commentaires positifs et des encouragements."
+        ],
+        "DontsInRelationship": [
+          "Ne soyez pas trop critique ou contrôlant.",
+          "Évitez d'être trop sérieux ou ennuyeux.",
+          "Ne négligez pas leur besoin de plaisir et d'excitation.",
+          "Évitez de les faire se sentir coupables d'être spontanés.",
+          "Ne prenez pas leurs expressions émotionnelles trop personnellement."
+        ],
+        "Friendships": "Les Performers prospèrent dans des amitiés animées et amusantes. Ils apprécient les amis qui partagent leur enthousiasme pour la vie et aiment les aventures spontanées. Ils apprécient la loyauté et la chaleur dans leurs amitiés.",
+        "CareerPath": [
+          "Artiste",
+          "Vendeur",
+          "Travailleur social",
+          "Planificateur d'événements",
+          "Guide touristique",
+          "Spécialiste en relations publiques",
+          "Enseignant",
+          "Professionnel du marketing"
+        ],
+        "LifeValue": [
+          "Plaisir",
+          "Joie",
+          "Créativité",
+          "Liberté",
+          "Connexion"
+        ],
+        "CompatibleConnections": [
+          "Artiste (ISFP)",
+          "Protecteur (ISFJ)",
+          "Réalisme (ISTJ)"
+        ],
+        "HasPotentialConnections": [
+          "Héros (ENFJ)",
+          "Croisé (ENFP)",
+          "Gardien (INFJ)",
+          "Faiseur de paix (INFP)",
+          "Exécutif (ESTJ)",
+          "Rebelle (ESTP)",
+          "Challenger (ENTP)"
+        ],
+        "ChallengingConnections": [
+          "Maître (INTJ)",
+          "Génie (INTP)",
+          "Commandant (ENTJ)"
+        ],
+        "AttractedBy": [
+          "charismatique",
+          "enthousiaste",
+          "aime s'amuser",
+          "énergique",
+          "social",
+          "amical",
+          "créatif",
+          "spontané",
+          "chaleureux",
+          "aventurier"
+        ],
+        "PetPeeves": [
+          "ennuyeux",
+          "trop sérieux",
+          "rigide",
+          "contrôlant",
+          "émotionnellement distant",
+          "peu créatif",
+          "prévisible"
+        ],
+        "HowToBeCompanion": [
+          "Encouragez leur créativité et leur spontanéité.",
+          "Participez à des activités amusantes et excitantes avec eux.",
+          "Soyez ouvert et positif dans vos interactions.",
+          "Montrez votre appréciation pour leur chaleur et leur amabilité.",
+          "Soutenez leur besoin de connexion sociale."
+        ],
+        "SecretDesire": "Les Performers aspirent secrètement à établir des connexions émotionnelles profondes avec les autres tout en jouissant de la liberté de s'exprimer pleinement et authentiquement.",
+        "Stereotypes": "Les Performers sont souvent perçus comme volatils ou superficiels, mais en réalité, ils sont profondément attentionnés et apportent de la joie et de la chaleur à ceux qui les entourent.",
+        "Celebrities": [
+          "Miley Cyrus",
+          "Katy Perry",
+          "Ariana Grande",
+          "Robin Williams",
+          "Drew Barrymore",
+          "Bruno Mars"
+        ]
+      },
+      {
+        "id": 4,
+        "language_code": "es",
+        "type": "ESFP",
+        "name": "El Performer (ESFP)",
+        "Description": "Entusiastas y espontáneos, los Performers son el alma de la fiesta. Se destacan en nuevas experiencias y les encanta conectarse con otros de manera animada y atractiva. Los Performers son de corazón cálido y disfrutan trayendo alegría a quienes los rodean a través de su carisma y energía contagiosa.",
+        "Strengths": [
+          "entusiasta",
+          "enérgico",
+          "de corazón cálido",
+          "espontáneo",
+          "amigable",
+          "sociable",
+          "adaptable",
+          "creativo",
+          "amante de la diversión",
+          "carismático"
+        ],
+        "Weaknesses": [
+          "se aburren fácilmente",
+          "pueden ser desorganizados",
+          "pueden tener problemas con la planificación a largo plazo",
+          "pueden ser demasiado emocionales",
+          "impacientes",
+          "desagradan la rutina",
+          "pueden evitar tareas difíciles"
+        ],
+        "DosInRelationship": [
+          "Muestre aprecio por su espontaneidad y energía.",
+          "Participe en actividades divertidas y emocionantes juntos.",
+          "Esté abierto a nuevas experiencias y aventuras.",
+          "Comunique abiertamente sus sentimientos.",
+          "Proporcione comentarios positivos y ánimo."
+        ],
+        "DontsInRelationship": [
+          "No sea demasiado crítico o controlador.",
+          "Evite ser demasiado serio o aburrido.",
+          "No ignore su necesidad de diversión y emoción.",
+          "Evite hacerlos sentir culpables por ser espontáneos.",
+          "No tome sus expresiones emocionales demasiado personalmente."
+        ],
+        "Friendships": "Los Performers prosperan en amistades animadas y divertidas. Valoran a los amigos que comparten su entusiasmo por la vida y disfrutan de aventuras espontáneas. Aprecian la lealtad y la calidez en sus amistades.",
+        "CareerPath": [
+          "Intérprete",
+          "Artista",
+          "Vendedor",
+          "Trabajador social",
+          "Planificador de eventos",
+          "Guía de viaje",
+          "Especialista en relaciones públicas",
+          "Profesor",
+          "Profesional de marketing"
+        ],
+        "LifeValue": [
+          "Diversión",
+          "Alegría",
+          "Creatividad",
+          "Libertad",
+          "Conexión"
+        ],
+        "CompatibleConnections": [
+          "Artista (ISFP)",
+          "Protector (ISFJ)",
+          "Realista (ISTJ)"
+        ],
+        "HasPotentialConnections": [
+          "Héroe (ENFJ)",
+          "Crusader (ENFP)",
+          "Guardia (INFJ)",
+          "Pacificador (INFP)",
+          "Ejecutivo (ESTJ)",
+          "Rebelde (ESTP)",
+          "Desafiante (ENTP)"
+        ],
+        "ChallengingConnections": [
+          "Maestro (INTJ)",
+          "Genio (INTP)",
+          "Comandante (ENTJ)"
+        ],
+        "AttractedBy": [
+          "carismático",
+          "entusiasta",
+          "amante de la diversión",
+          "enérgico",
+          "social",
+          "amigable",
+          "creativo",
+          "espontáneo",
+          "de corazón cálido",
+          "aventurero"
+        ],
+        "PetPeeves": [
+          "aburrido",
+          "demasiado serio",
+          "rígido",
+          "controlador",
+          "emocionalmente distante",
+          "poco creativo",
+          "predecible"
+        ],
+        "HowToBeCompanion": [
+          "Fomente su creatividad y espontaneidad.",
+          "Únase a ellos en actividades divertidas y emocionantes.",
+          "Sea abierto y positivo en sus interacciones.",
+          "Muéstreles su aprecio por su calidez y amabilidad.",
+          "Apoye su necesidad de conexión social."
+        ],
+        "SecretDesire": "Los Performers anhelan en secreto conexiones emocionales profundas con los demás, disfrutando de la libertad para expresarse plenamente y de manera auténtica.",
+        "Stereotypes": "Los Performers suelen ser vistos como volátiles o superficiales, pero en realidad, son individuos profundamente compasivos que aportan alegría y calidez a las vidas de quienes los rodean.",
+        "Celebrities": [
+          "Miley Cyrus",
+          "Katy Perry",
+          "Ariana Grande",
+          "Robin Williams",
+          "Drew Barrymore",
+          "Bruno Mars"
+        ]
+      },
+      {
+        "id": 4,
+        "language_code": "pt",
+        "type": "ESFP",
+        "name": "O Performer (ESFP)",
+        "Description": "Entusiásticos e espontâneos, os Performers são a alma da festa. Eles prosperam em novas experiências e adoram se conectar com os outros de maneira animada e envolvente. Os Performers têm um coração caloroso e gostam de trazer alegria a aqueles ao seu redor através de seu carisma e energia contagiosa.",
+        "Strengths": [
+          "entusiasta",
+          "energético",
+          "de coração caloroso",
+          "espontâneo",
+          "amigável",
+          "sociável",
+          "adaptável",
+          "criativo",
+          "amante da diversão",
+          "carismático"
+        ],
+        "Weaknesses": [
+          "se entedia facilmente",
+          "pode ser desorganizado",
+          "pode ter dificuldades com planejamento a longo prazo",
+          "pode ser excessivamente emocional",
+          "impaciente",
+          "não gosta de rotina",
+          "pode evitar tarefas difíceis"
+        ],
+        "DosInRelationship": [
+          "Mostre apreço pela espontaneidade e energia deles.",
+          "Participe de atividades divertidas e emocionantes juntos.",
+          "Esteja aberto a novas experiências e aventuras.",
+          "Comunique-se abertamente sobre seus sentimentos.",
+          "Forneça feedback positivo e encorajamento."
+        ],
+        "DontsInRelationship": [
+          "Não seja muito crítico ou controlador.",
+          "Evite ser muito sério ou entediante.",
+          "Não ignore a necessidade deles de diversão e emoção.",
+          "Evite fazê-los sentir-se culpados por serem espontâneos.",
+          "Não leve as expressões emocionais deles para o lado pessoal."
+        ],
+        "Friendships": "Os Performers prosperam em amizades que são animadas e divertidas. Eles valorizam amigos que compartilham seu entusiasmo pela vida e gostam de aventuras espontâneas. Eles apreciam lealdade e calor em suas amizades.",
+        "CareerPath": [
+          "Artista",
+          "Vendedor",
+          "Trabalhador Social",
+          "Planejador de Eventos",
+          "Guia de Turismo",
+          "Especialista em Relações Públicas",
+          "Professor",
+          "Profissional de Marketing"
+        ],
+        "LifeValue": [
+          "Diversão",
+          "Alegria",
+          "Criatividade",
+          "Liberdade",
+          "Conexão"
+        ],
+        "CompatibleConnections": [
+          "Artista (ISFP)",
+          "Protetor (ISFJ)",
+          "Realista (ISTJ)"
+        ],
+        "HasPotentialConnections": [
+          "Herói (ENFJ)",
+          "Cruzado (ENFP)",
+          "Guardião (INFJ)",
+          "Pacificador (INFP)",
+          "Executivo (ESTJ)",
+          "Rebelde (ESTP)",
+          "Desafiante (ENTP)"
+        ],
+        "ChallengingConnections": [
+          "Mestre (INTJ)",
+          "Gênio (INTP)",
+          "Comandante (ENTJ)"
+        ],
+        "AttractedBy": [
+          "carismático",
+          "entusiástico",
+          "amante da diversão",
+          "energético",
+          "social",
+          "amigável",
+          "criativo",
+          "espontâneo",
+          "de coração caloroso",
+          "aventuroso"
+        ],
+        "PetPeeves": [
+          "entediante",
+          "demasiado sério",
+          "rígido",
+          "controlador",
+          "emocionalmente distante",
+          "pouco criativo",
+          "previsível"
+        ],
+        "HowToBeCompanion": [
+          "Incentive a criatividade e espontaneidade deles.",
+          "Participe de atividades divertidas e emocionantes com eles.",
+          "Seja aberto e positivo em suas interações.",
+          "Mostre apreço pela calorosidade e amizade deles.",
+          "Apoie a necessidade deles de conexão social."
+        ],
+        "SecretDesire": "Os Performers secretamente anseiam por conexões emocionais profundas com os outros, enquanto desfrutam da liberdade de se expressar de forma completa e autêntica.",
+        "Stereotypes": "Os Performers são frequentemente vistos como volúveis ou superficiais, mas, na realidade, são indivíduos profundamente atenciosos que trazem alegria e calor à vida das pessoas ao seu redor.",
+        "Celebrities": [
+          "Miley Cyrus",
+          "Katy Perry",
+          "Ariana Grande",
+          "Robin Williams",
+          "Drew Barrymore",
+          "Bruno Mars"
+        ]
+      },
+      {
+        "id": 4,
+        "language_code": "ar",
+        "type": "ESFP",
+        "name": "المنفذ (ESFP)",
+        "Description": "متحمسون وعفويون، يمثل المنفذون روح الحفلة. يزدهرون في تجارب جديدة ويحبون التواصل مع الآخرين بطريقة حيوية وجذابة. يتمتع المنفذون بقلب دافئ ويستمتعون بجلب الفرح لمن حولهم من خلال جاذبيتهم وطاقةهم المعدية.",
+        "Strengths": [
+          "متحمس",
+          "نشط",
+          "دافئ القلب",
+          "عفوي",
+          "ودود",
+          "اجتماعي",
+          "مرن",
+          "مبدع",
+          "محب للمرح",
+          "كاريزمي"
+        ],
+        "Weaknesses": [
+          "يملون بسهولة",
+          "قد يكونون غير منظمين",
+          "قد يواجهون صعوبة في التخطيط على المدى الطويل",
+          "قد يكونون عاطفيين للغاية",
+          "غير صبور",
+          "لا يحبون الروتين",
+          "قد يتجنبون المهام الصعبة"
+        ],
+        "DosInRelationship": [
+          "أظهر تقديرك لعفويتهم وطاقتهم.",
+          "شارك في أنشطة ممتعة ومثيرة معًا.",
+          "كن منفتحًا على تجارب ومغامرات جديدة.",
+          "تواصل بصراحة حول مشاعرك.",
+          "قدّم لهم تعليقات إيجابية وتشجيعًا."
+        ],
+        "DontsInRelationship": [
+          "لا تكن شديد النقد أو السيطرة.",
+          "تجنب أن تكون جادًا للغاية أو مملًا.",
+          "لا تتجاهل حاجتهم إلى المرح والإثارة.",
+          "تجنب جعلهم يشعرون بالذنب لكونهم عفويين.",
+          "لا تأخذ تعبيراتهم العاطفية بشكل شخصي."
+        ],
+        "Friendships": "يعيش المنفذون في صداقات مليئة بالحيوية والمتعة. يقدّرون الأصدقاء الذين يشاركونهم حماسهم للحياة ويستمتعون بالمغامرات العفوية. يقدّرون الولاء والدفء في صداقاتهم.",
+        "CareerPath": [
+          "فنان",
+          "بائع",
+          "عامل اجتماعي",
+          "منظم فعاليات",
+          "مرشد سياحي",
+          "أخصائي علاقات عامة",
+          "مدرّس",
+          "محترف تسويق"
+        ],
+        "LifeValue": [
+          "مرح",
+          "فرح",
+          "إبداع",
+          "حرية",
+          "اتصال"
+        ],
+        "CompatibleConnections": [
+          "فنان (ISFP)",
+          "حامي (ISFJ)",
+          "واقعي (ISTJ)"
+        ],
+        "HasPotentialConnections": [
+          "بطل (ENFJ)",
+          "صليبي (ENFP)",
+          "وصي (INFJ)",
+          "صانع سلام (INFP)",
+          "تنفيذي (ESTJ)",
+          "ثائر (ESTP)",
+          "منافس (ENTP)"
+        ],
+        "ChallengingConnections": [
+          "معلم (INTJ)",
+          "عبقري (INTP)",
+          "قائد (ENTJ)"
+        ],
+        "AttractedBy": [
+          "كاريزمي",
+          "متحمس",
+          "محب للمرح",
+          "نشط",
+          "اجتماعي",
+          "ودود",
+          "مبدع",
+          "عفوي",
+          "دافئ القلب",
+          "مغامر"
+        ],
+        "PetPeeves": [
+          "ممل",
+          "جاد للغاية",
+          "جامد",
+          "سيطر",
+          "عاطفي بعيد",
+          "غير مبدع",
+          "قابل للتنبؤ"
+        ],
+        "HowToBeCompanion": [
+          "شجع إبداعهم وعفويتهم.",
+          "شاركهم في أنشطة ممتعة ومثيرة.",
+          "كن منفتحًا وإيجابيًا في تفاعلاتك.",
+          "أظهر تقديرك لدفئهم وصداقتهم.",
+          "كن داعمًا لحاجتهم إلى الاتصال الاجتماعي."
+        ],
+        "SecretDesire": "يسعى المنفذون سرًا إلى إنشاء روابط عاطفية عميقة مع الآخرين بينما يستمتعون بحرية التعبير عن أنفسهم بشكل كامل وأصلي.",
+        "Stereotypes": "غالبًا ما يُنظر إلى المنفذين على أنهم غير متوازنين أو سطحيين، لكن في الواقع، هم أفراد عميقو العناية يجلبون الفرح والدفء إلى حياة من حولهم.",
+        "Celebrities": [
+          "مايلي سايرس",
+          "كاتي بيري",
+          "أريانا غراندي",
+          "روبن ويليامز",
+          "درو باريمور",
+          "برونو مارس"
+        ]
+      }
+    ]
+  }  

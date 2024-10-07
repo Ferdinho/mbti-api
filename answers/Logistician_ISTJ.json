@@ -1,0 +1,709 @@
+{
+    "personalities": [
+      {
+        "id": 8,
+        "language_code": "en",
+        "type": "ISTJ",
+        "name": "The Logistician",
+        "Description": "Logisticians are highly dependable and responsible individuals known for their attention to detail and strong sense of duty. They value tradition, stability, and order, preferring well-established methods and systems over unpredictability. Logical and efficient, Logisticians are excellent planners and are driven by a need to maintain consistency. Their practicality makes them reliable, though they may come off as reserved or overly serious. In relationships, Logisticians seek loyalty and trust, building solid foundations based on mutual respect and clear expectations.",
+        "Strengths": [
+          "Loyal",
+          "Honest and direct",
+          "Practical and calm",
+          "Persevering",
+          "Detailed",
+          "Strong-willed and dutiful",
+          "Responsible",
+          "Methodical",
+          "Jacks-of-all-trades",
+          "Orderly"
+        ],
+        "Weaknesses": [
+          "Insensitive",
+          "Stubborn",
+          "Always by the book",
+          "Change-resistant",
+          "Judgmental",
+          "Blame themselves too much",
+          "Rigid in thinking"
+        ],
+        "DosInRelationship": [
+          "Pay attention to how you present yourself; they appreciate neatness and order.",
+          "Stick to plans; uncertainty can cause them stress.",
+          "Be polite and respect their personal space.",
+          "Communicate clearly and directly; they value straightforwardness.",
+          "Help with practical needs or small gestures of kindness.",
+          "Encourage them to relax and have fun when appropriate.",
+          "Show you care about details, especially in what they care for.",
+          "Be on time and dependable.",
+          "Listen attentively."
+        ],
+        "DontsInRelationship": [
+          "Don’t embarrass them in public; it will haunt them later.",
+          "Avoid unclear or unrealistic conversations.",
+          "Don’t pressure them into being overly social.",
+          "Breaking promises undermines their trust.",
+          "Don’t be late for dates or meetings.",
+          "Avoid being overly emotional in discussions.",
+          "Don’t give the impression of being lazy or messy.",
+          "Avoid pressuring them to express emotions too soon.",
+          "Respect their sense of order and social norms.",
+          "Don’t create uncertainty with frequent surprises."
+        ],
+        "Friendships": "Logisticians value loyalty and long-term connections in friendships. Though it may take time for them to open up, once someone is part of their circle, they remain fiercely loyal. Their friendships are built on trust and shared experiences, and while they may not be expressive with words, they show their dedication through unwavering support and reliability.",
+        "CareerPath": [
+          "Accountant",
+          "Air Traffic Controller",
+          "Aircraft Mechanic/Service Technician",
+          "Civil Engineer",
+          "Environmental Science & Protection Tech",
+          "Nuclear Power Reactor Operator",
+          "Security Guard",
+          "Supervisor of Correctional Officers",
+          "Tax Examiner, Collector, Revenue Agent",
+          "Transportation Inspector"
+        ],
+        "LifeValue": [
+          "Home/Family",
+          "Financial Security",
+          "Health",
+          "Autonomy",
+          "Achievement"
+        ],
+        "CompatibleConnections": [
+          "Executive (ESTJ)",
+          "Entrepreneur (ESTP)",
+          "Entertainer (ESFP)"
+        ],
+        "HasPotentialConnections": [
+          "Debater (ENTP)",
+          "Campaigner (ENFP)",
+          "Consul (ESFJ)",
+          "Defender (ISFJ)",
+          "Adventurer (ISFP)",
+          "Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "Advocate (INFJ)",
+          "Architect (INTJ)",
+          "Mediator (INFP)",
+          "Protagonist (ENFJ)",
+          "Logician (INTP)",
+          "Commander (ENTJ)",
+          "Logistician (ISTJ)"
+        ],
+        "AttractedBy": [
+          "Fun",
+          "Outgoing",
+          "Honest",
+          "Warm",
+          "Dependable",
+          "Responsible",
+          "Authentic",
+          "Committed",
+          "Adventurous",
+          "Practical",
+          "Realistic",
+          "Detailed"
+        ],
+        "PetPeeves": [
+          "Overemotional",
+          "Unreliable",
+          "Flaky",
+          "Manipulative",
+          "Tardy",
+          "Unpredictable",
+          "Undependable",
+          "Irrational",
+          "Insincere",
+          "Gossipy",
+          "Invasive",
+          "Disorganized",
+          "Passive-aggressive"
+        ],
+        "HowToBeCompanion": [
+          "Be reliable and consistent—they appreciate people they can count on.",
+          "Respect their routines and plans; sudden changes can be unsettling for them.",
+          "Show your love through practical and tangible actions.",
+          "Be honest and straightforward; they value integrity above all.",
+          "Give them space for their alone time, but remind them you're there for them.",
+          "Demonstrate your loyalty, and they’ll be loyal in return."
+        ],
+        "SecretDesire": "Though Logisticians seem structured and traditional, they sometimes long for spontaneity and adventure. In private, they may explore new ideas or imagine different scenarios. While this side may be hidden from most, close friends may witness their quirky, whimsical nature. This side often emerges when they feel safe from judgment. Despite this, they usually return to their more predictable, responsible selves.",
+        "Stereotype": "Logisticians are often seen as overly obsessed with rules and regulations, lacking emotional depth. However, beneath their reserved exterior lies a caring heart, especially for those they hold dear. Although they may not always show it, Logisticians are the type to stand by their loved ones, offering unwavering support and reliability through thick and thin.",
+        "Celebrities": [
+          "George Washington",
+          "Queen Elizabeth II",
+          "Henry Ford",
+          "Jeff Bezos",
+          "Evander Holyfield",
+          "Julia Roberts",
+          "Denzel Washington"
+        ]
+      },
+      {
+        "id": 8,
+        "language_code": "fr",
+        "type": "ISTJ",
+        "name": "Logisticien",
+        "Description": "Les logisticiens sont des individus très fiables et responsables, connus pour leur attention aux détails et leur fort sens du devoir. Ils valorisent la tradition, la stabilité et l'ordre, préférant les méthodes et systèmes bien établis à l'imprévisibilité. Logiques et efficaces, les logisticiens sont d'excellents planificateurs et sont motivés par le besoin de maintenir la cohérence. Leur praticité les rend fiables, bien qu'ils puissent paraître réservés ou trop sérieux. En couple, les logisticiens recherchent la loyauté et la confiance, en construisant des fondations solides basées sur le respect mutuel et des attentes claires.",
+        "Strengths": [
+          "Loyal",
+          "Honnête et direct",
+          "Pratique et calme",
+          "Persévérant",
+          "Détaillé",
+          "Volontaire et consciencieux",
+          "Responsable",
+          "Méthodique",
+          "Polyvalent",
+          "Ordonné"
+        ],
+        "Weaknesses": [
+          "Insensible",
+          "Têtu",
+          "Toujours selon les règles",
+          "Résistant au changement",
+          "Critique",
+          "Se blâme trop",
+          "Rigide dans sa pensée"
+        ],
+        "DosInRelationship": [
+          "Faites attention à votre apparence; ils apprécient la propreté et l'ordre.",
+          "Respectez les plans; l'incertitude peut leur causer du stress.",
+          "Soyez poli et respectez leur espace personnel.",
+          "Communiquez clairement et directement; ils valorisent la franchise.",
+          "Aidez avec des besoins pratiques ou de petits gestes de gentillesse.",
+          "Encouragez-les à se détendre et à s'amuser au bon moment.",
+          "Montrez que vous vous souciez des détails, en particulier dans ce qu'ils apprécient.",
+          "Soyez ponctuel et fiable.",
+          "Écoutez attentivement."
+        ],
+        "DontsInRelationship": [
+          "Ne les embarrassez pas en public; cela les hantera plus tard.",
+          "Évitez les conversations floues ou irréalistes.",
+          "Ne les poussez pas à être trop sociables.",
+          "Rompre les promesses sape leur confiance.",
+          "Ne soyez pas en retard pour les rendez-vous ou les réunions.",
+          "Évitez d'être trop émotionnel dans les discussions.",
+          "Ne donnez pas l'impression d'être paresseux ou désordonné.",
+          "Évitez de les pousser à exprimer des émotions trop tôt.",
+          "Respectez leur sens de l'ordre et des normes sociales.",
+          "Ne créez pas d'incertitude avec des surprises fréquentes."
+        ],
+        "Friendships": "Les logisticiens valorisent la loyauté et les connexions à long terme dans les amitiés. Bien qu'il puisse leur falloir du temps pour s'ouvrir, une fois que quelqu'un fait partie de leur cercle, ils restent farouchement loyaux. Leurs amitiés sont basées sur la confiance et les expériences partagées, et bien qu'ils ne soient pas expressifs avec les mots, ils montrent leur dévouement par un soutien indéfectible et une fiabilité.",
+        "CareerPath": [
+          "Comptable",
+          "Contrôleur de la circulation aérienne",
+          "Mécanicien d'avions/Technicien de service",
+          "Ingénieur civil",
+          "Technicien en sciences de l'environnement et en protection",
+          "Opérateur de réacteur nucléaire",
+          "Agent de sécurité",
+          "Superviseur des agents pénitentiaires",
+          "Contrôleur des impôts, percepteur, agent des recettes",
+          "Inspecteur des transports"
+        ],
+        "LifeValue": [
+          "Famille/maison",
+          "Sécurité financière",
+          "Santé",
+          "Autonomie",
+          "Réussite"
+        ],
+        "CompatibleConnections": [
+          "L'Exécutif (ESTJ)",
+          "L'Entrepreneur (ESTP)",
+          "L'Artiste (ESFP)"
+        ],
+        "HasPotentialConnections": [
+          "Le Débatteur (ENTP)",
+          "Le Campagneur (ENFP)",
+          "Le Consul (ESFJ)",
+          "Le Défenseur (ISFJ)",
+          "L'Aventurier (ISFP)",
+          "Le Virtuose (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "L'Avocat (INFJ)",
+          "L'Architecte (INTJ)",
+          "Le Médiateur (INFP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Logicien (INTP)",
+          "Le Commandeur (ENTJ)",
+          "Le Logisticien (ISTJ)"
+        ],
+        "AttractedBy": [
+          "Amusant",
+          "Extraverti",
+          "Honnête",
+          "Chaleureux",
+          "Fiable",
+          "Responsable",
+          "Authentique",
+          "Engagé",
+          "Aventurier",
+          "Pratique",
+          "Réaliste",
+          "Détaillé"
+        ],
+        "PetPeeves": [
+          "Trop émotif",
+          "Peu fiable",
+          "Peu sérieux",
+          "Manipulateur",
+          "Retardataire",
+          "Imprévisible",
+          "Peu dépendant",
+          "Irrationnel",
+          "Insincère",
+          "Comérages",
+          "Envahissant",
+          "Désorganisé",
+          "Passif-agressif"
+        ],
+        "HowToBeCompanion": [
+          "Soyez fiable et constant - ils apprécient les personnes sur lesquelles ils peuvent compter.",
+          "Respectez leurs routines et leurs plans; les changements soudains peuvent les perturber.",
+          "Montrez votre amour à travers des actions pratiques et tangibles.",
+          "Soyez honnête et direct; ils valorisent l'intégrité avant tout.",
+          "Donnez-leur de l'espace pour leur temps seul, mais rappelez-leur que vous êtes là pour eux.",
+          "Montrez votre loyauté, et ils vous seront fidèles en retour."
+        ],
+        "SecretDesire": "Bien que les logisticiens semblent structurés et traditionnels, ils aspirent parfois à la spontanéité et à l'aventure. En privé, ils peuvent explorer de nouvelles idées ou imaginer différents scénarios. Bien que ce côté puisse être caché de la plupart des gens, des amis proches peuvent être témoins de leur nature excentrique et fantaisiste. Ce côté émerge souvent lorsqu'ils se sentent en sécurité contre le jugement. Malgré cela, ils reviennent généralement à leur moi plus prévisible et responsable.",
+        "Stereotype": "Les logisticiens sont souvent perçus comme trop obsédés par les règles et les règlements, manquant de profondeur émotionnelle. Cependant, sous leur extérieur réservé se cache un cœur attentionné, surtout pour ceux qui leur sont chers. Bien qu'ils ne le montrent pas toujours, les logisticiens sont du genre à rester aux côtés de leurs proches, offrant un soutien indéfectible et une fiabilité à toute épreuve.",
+        "Celebrities": [
+          "George Washington",
+          "Reine Elizabeth II",
+          "Henry Ford",
+          "Jeff Bezos",
+          "Evander Holyfield",
+          "Julia Roberts",
+          "Denzel Washington"
+        ]
+      },
+      {
+        "id": 8,
+        "language_code": "es",
+        "type": "ISTJ",
+        "name": "Logístico",
+        "Description": "Los Logísticos son individuos altamente responsables y confiables, conocidos por su atención al detalle y su fuerte sentido del deber. Valoran la tradición, la estabilidad y el orden, prefiriendo métodos y sistemas bien establecidos en lugar de la imprevisibilidad. Lógicos y eficientes, los Logísticos son excelentes planificadores y están impulsados por la necesidad de mantener la consistencia. Su practicidad los hace confiables, aunque pueden parecer reservados o demasiado serios. En las relaciones, los Logísticos buscan lealtad y confianza, construyendo bases sólidas basadas en el respeto mutuo y expectativas claras.",
+        "Strengths": [
+          "Leal",
+          "Honesto y directo",
+          "Práctico y tranquilo",
+          "Perseverante",
+          "Detallado",
+          "Voluntarioso y responsable",
+          "Responsable",
+          "Metódico",
+          "Versátil",
+          "Ordenado"
+        ],
+        "Weaknesses": [
+          "Insensible",
+          "Testarudo",
+          "Siempre siguiendo las reglas",
+          "Resistente al cambio",
+          "Crítico",
+          "Se culpan demasiado",
+          "Rígido en su pensamiento"
+        ],
+        "DosInRelationship": [
+          "Presta atención a cómo te presentas; ellos aprecian la pulcritud y el orden.",
+          "Sigue los planes; la incertidumbre puede causarles estrés.",
+          "Sé educado y respeta su espacio personal.",
+          "Comunícate clara y directamente; valoran la franqueza.",
+          "Ayuda con necesidades prácticas o pequeños gestos de amabilidad.",
+          "Anímalos a relajarse y divertirse cuando sea apropiado.",
+          "Demuestra que te importan los detalles, especialmente en lo que ellos valoran.",
+          "Sé puntual y confiable.",
+          "Escucha atentamente."
+        ],
+        "DontsInRelationship": [
+          "No los avergüences en público; les atormentará después.",
+          "Evita conversaciones poco claras o poco realistas.",
+          "No los presiones para ser demasiado sociables.",
+          "Romper promesas socava su confianza.",
+          "No llegues tarde a las citas o reuniones.",
+          "Evita ser demasiado emocional en las discusiones.",
+          "No des la impresión de ser perezoso o desordenado.",
+          "Evita presionarlos para que expresen emociones demasiado pronto.",
+          "Respeta su sentido del orden y las normas sociales.",
+          "No crees incertidumbre con sorpresas frecuentes."
+        ],
+        "Friendships": "Los Logísticos valoran la lealtad y las conexiones a largo plazo en las amistades. Aunque pueden tardar en abrirse, una vez que alguien forma parte de su círculo, permanecen ferozmente leales. Sus amistades se basan en la confianza y las experiencias compartidas, y aunque no sean expresivos con las palabras, demuestran su dedicación a través de un apoyo inquebrantable y confiabilidad.",
+        "CareerPath": [
+          "Contador",
+          "Controlador de tráfico aéreo",
+          "Mecánico de aeronaves/Técnico de servicio",
+          "Ingeniero civil",
+          "Técnico en ciencias ambientales y protección",
+          "Operador de reactores nucleares",
+          "Guardia de seguridad",
+          "Supervisor de oficiales correccionales",
+          "Inspector de impuestos, recaudador, agente de ingresos",
+          "Inspector de transporte"
+        ],
+        "LifeValue": [
+          "Familia/Hogar",
+          "Seguridad Financiera",
+          "Salud",
+          "Autonomía",
+          "Logro"
+        ],
+        "CompatibleConnections": [
+          "El Ejecutivo (ESTJ)",
+          "El Emprendedor (ESTP)",
+          "El Artista (ESFP)"
+        ],
+        "HasPotentialConnections": [
+          "El Debatidor (ENTP)",
+          "El Campañero (ENFP)",
+          "El Cónsul (ESFJ)",
+          "El Defensor (ISFJ)",
+          "El Aventurero (ISFP)",
+          "El Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "El Defensor (INFJ)",
+          "El Arquitecto (INTJ)",
+          "El Mediador (INFP)",
+          "El Protagonista (ENFJ)",
+          "El Lógico (INTP)",
+          "El Comandante (ENTJ)",
+          "El Logístico (ISTJ)"
+        ],
+        "AttractedBy": [
+          "Divertido",
+          "Extrovertido",
+          "Honesto",
+          "Cálido",
+          "Confiable",
+          "Responsable",
+          "Auténtico",
+          "Comprometido",
+          "Aventurero",
+          "Práctico",
+          "Realista",
+          "Detallado"
+        ],
+        "PetPeeves": [
+          "Demasiado emocional",
+          "Poco confiable",
+          "Voluble",
+          "Manipulador",
+          "Tardío",
+          "Impredecible",
+          "No confiable",
+          "Irracional",
+          "Insincero",
+          "Chismoso",
+          "Invasivo",
+          "Desorganizado",
+          "Pasivo-agresivo"
+        ],
+        "HowToBeCompanion": [
+          "Sé confiable y consistente; aprecian a las personas en las que pueden confiar.",
+          "Respeta sus rutinas y planes; los cambios repentinos pueden desconcertarlos.",
+          "Demuestra tu amor a través de acciones prácticas y tangibles.",
+          "Sé honesto y directo; valoran la integridad por encima de todo.",
+          "Dales espacio para su tiempo a solas, pero recuérdales que estás ahí para ellos.",
+          "Demuestra tu lealtad, y ellos te serán leales a cambio."
+        ],
+        "SecretDesire": "Aunque los Logísticos parecen estructurados y tradicionales, a veces anhelan la espontaneidad y la aventura. En privado, pueden explorar nuevas ideas o imaginar diferentes escenarios. Aunque este lado puede estar oculto para la mayoría, los amigos cercanos pueden presenciar su naturaleza peculiar y caprichosa. Este lado suele emerger cuando se sienten seguros de no ser juzgados. A pesar de esto, generalmente regresan a su yo más predecible y responsable.",
+        "Stereotype": "Los Logísticos a menudo son vistos como obsesionados con las reglas y regulaciones, careciendo de profundidad emocional. Sin embargo, bajo su exterior reservado se encuentra un corazón afectuoso, especialmente para aquellos que aprecian. Aunque no siempre lo muestran, los Logísticos son el tipo de personas que se mantienen al lado de sus seres queridos, ofreciendo apoyo inquebrantable y confiabilidad a lo largo del tiempo.",
+        "Celebrities": [
+          "George Washington",
+          "Reina Isabel II",
+          "Henry Ford",
+          "Jeff Bezos",
+          "Evander Holyfield",
+          "Julia Roberts",
+          "Denzel Washington"
+        ]
+      },
+      {
+        "id": 8,
+        "language_code": "pt",
+        "type": "ISTJ",
+        "name": "Logístico",
+        "Description": "Os Logísticos são indivíduos altamente responsáveis e confiáveis, conhecidos por sua atenção aos detalhes e forte senso de dever. Valorizam a tradição, a estabilidade e a ordem, preferindo métodos e sistemas bem estabelecidos à imprevisibilidade. Lógicos e eficientes, os Logísticos são excelentes planejadores e são movidos pela necessidade de manter a consistência. Sua praticidade os torna confiáveis, embora possam parecer reservados ou excessivamente sérios. Nos relacionamentos, os Logísticos buscam lealdade e confiança, construindo bases sólidas com base no respeito mútuo e expectativas claras.",
+        "Strengths": [
+          "Leal",
+          "Honesto e direto",
+          "Prático e calmo",
+          "Perseverante",
+          "Detalhista",
+          "Forte vontade e responsável",
+          "Responsável",
+          "Metódico",
+          "Polivalente",
+          "Organizado"
+        ],
+        "Weaknesses": [
+          "Insensível",
+          "Teimoso",
+          "Sempre seguindo as regras",
+          "Resistente à mudança",
+          "Crítico",
+          "Se culpa demais",
+          "Pensamento rígido"
+        ],
+        "DosInRelationship": [
+          "Preste atenção à sua aparência; eles apreciam limpeza e ordem.",
+          "Siga os planos; a incerteza pode causar-lhes estresse.",
+          "Seja educado e respeite seu espaço pessoal.",
+          "Comunique-se de forma clara e direta; eles valorizam a franqueza.",
+          "Ajude com necessidades práticas ou pequenos gestos de bondade.",
+          "Incentive-os a relaxar e se divertir quando apropriado.",
+          "Mostre que você se importa com os detalhes, especialmente no que eles valorizam.",
+          "Seja pontual e confiável.",
+          "Ouça atentamente."
+        ],
+        "DontsInRelationship": [
+          "Não os envergonhe em público; isso os atormentará depois.",
+          "Evite conversas vagas ou irreais.",
+          "Não os pressione para serem muito sociais.",
+          "Quebrar promessas mina sua confiança.",
+          "Não se atrase para encontros ou reuniões.",
+          "Evite ser excessivamente emocional nas discussões.",
+          "Não dê a impressão de ser preguiçoso ou desorganizado.",
+          "Evite pressioná-los a expressar emoções muito cedo.",
+          "Respeite seu senso de ordem e normas sociais.",
+          "Não crie incertezas com surpresas frequentes."
+        ],
+        "Friendships": "Os Logísticos valorizam a lealdade e as conexões de longo prazo nas amizades. Embora possa levar tempo para se abrirem, uma vez que alguém faz parte de seu círculo, eles permanecem ferozmente leais. Suas amizades são baseadas na confiança e experiências compartilhadas, e, embora não sejam expressivos com palavras, demonstram sua dedicação através de apoio inabalável e confiabilidade.",
+        "CareerPath": [
+          "Contador",
+          "Controlador de tráfego aéreo",
+          "Mecânico de aeronaves/Técnico de serviço",
+          "Engenheiro civil",
+          "Técnico em Ciências Ambientais e Proteção",
+          "Operador de reator nuclear",
+          "Guarda de segurança",
+          "Supervisor de Oficiais Correcionais",
+          "Inspetor Fiscal",
+          "Inspetor de Transportes"
+        ],
+        "LifeValue": [
+          "Família/Casa",
+          "Segurança Financeira",
+          "Saúde",
+          "Autonomia",
+          "Realização"
+        ],
+        "CompatibleConnections": [
+          "O Executivo (ESTJ)",
+          "O Empreendedor (ESTP)",
+          "O Artista (ESFP)"
+        ],
+        "HasPotentialConnections": [
+          "O Debatedor (ENTP)",
+          "O Campanhista (ENFP)",
+          "O Cônsul (ESFJ)",
+          "O Protetor (ISFJ)",
+          "O Aventureiro (ISFP)",
+          "O Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "O Defensor (INFJ)",
+          "O Arquiteto (INTJ)",
+          "O Mediador (INFP)",
+          "O Protagonista (ENFJ)",
+          "O Lógico (INTP)",
+          "O Comandante (ENTJ)",
+          "O Logístico (ISTJ)"
+        ],
+        "AttractedBy": [
+          "Divertido",
+          "Extrovertido",
+          "Honesto",
+          "Caloroso",
+          "Confiável",
+          "Responsável",
+          "Autêntico",
+          "Comprometido",
+          "Aventureiro",
+          "Prático",
+          "Realista",
+          "Detalhista"
+        ],
+        "PetPeeves": [
+          "Excessivamente emocional",
+          "Pouco confiável",
+          "Volátil",
+          "Manipulador",
+          "Tardio",
+          "Imprevisível",
+          "Não confiável",
+          "Irracional",
+          "Insincero",
+          "Fofoqueiro",
+          "Invasivo",
+          "Desorganizado",
+          "Passivo-agressivo"
+        ],
+        "HowToBeCompanion": [
+          "Seja confiável e consistente - eles apreciam pessoas em quem podem confiar.",
+          "Respeite suas rotinas e planos; mudanças repentinas podem perturbá-los.",
+          "Mostre seu amor através de ações práticas e tangíveis.",
+          "Seja honesto e direto; eles valorizam a integridade acima de tudo.",
+          "Dê-lhes espaço para seu tempo sozinho, mas lembre-os de que você está lá para eles.",
+          "Demonstre sua lealdade, e eles serão leais em troca."
+        ],
+        "SecretDesire": "Embora os Logísticos pareçam estruturados e tradicionais, às vezes anseiam por espontaneidade e aventura. Em privado, podem explorar novas ideias ou imaginar diferentes cenários. Embora esse lado possa estar oculto da maioria, amigos próximos podem testemunhar sua natureza excêntrica e caprichosa. Esse lado geralmente surge quando se sentem seguros contra o julgamento. Apesar disso, geralmente retornam ao seu eu mais previsível e responsável.",
+        "Stereotype": "Os Logísticos são frequentemente vistos como obcecados por regras e regulamentos, sem profundidade emocional. No entanto, sob seu exterior reservado, há um coração atencioso, especialmente para aqueles que valorizam. Embora nem sempre mostrem, os Logísticos são o tipo de pessoa que permanece ao lado de seus entes queridos, oferecendo apoio inabalável e confiabilidade ao longo do tempo.",
+        "Celebrities": [
+          "George Washington",
+          "Rainha Elizabeth II",
+          "Henry Ford",
+          "Jeff Bezos",
+          "Evander Holyfield",
+          "Julia Roberts",
+          "Denzel Washington"
+        ]
+      },
+      {
+        "id": 8,
+        "language_code": "ar",
+        "type": "ISTJ",
+        "name": "اللوجستي",
+        "Description": "اللوجستيون هم أفراد يعتمد عليهم للغاية ومسؤولون، معروفون باهتمامهم بالتفاصيل وشعورهم القوي بالواجب. يقدرون التقاليد والاستقرار والنظام، مفضلين الأساليب والأنظمة المألوفة على عدم القدرة على التنبؤ. منطقيون وفعالون، اللوجستيون هم مخططون ممتازون ويدفعهم الحاجة إلى الحفاظ على الاتساق. تجعلهم براعتهم موثوقين، على الرغم من أنهم قد يظهرون منعزلين أو جادين للغاية. في العلاقات، يسعى اللوجستيون إلى الولاء والثقة، ويبنون أساسات صلبة مبنية على الاحترام المتبادل والتوقعات الواضحة.",
+        "Strengths": [
+          "وفي",
+          "صريح وصادق",
+          "عملي وهادئ",
+          "مثابر",
+          "مفصل",
+          "ذو إرادة قوية وواجب",
+          "مسؤول",
+          "منهجي",
+          "متعدد المواهب",
+          "منظم"
+        ],
+        "Weaknesses": [
+          "غير حساس",
+          "عنيد",
+          "دائمًا يتبع القواعد",
+          "مقاوم للتغيير",
+          "حكمية",
+          "يلوم نفسه كثيرًا",
+          "صارم في التفكير"
+        ],
+        "DosInRelationship": [
+          "اهتم بكيفية تقديم نفسك؛ يقدرون النظافة والنظام.",
+          "التزم بالخطط؛ يمكن أن تسبب لهم عدم اليقين التوتر.",
+          "كن مهذبًا واحترم مساحتهم الشخصية.",
+          "تواصل بوضوح وبصراحة؛ يقدرون الصراحة.",
+          "ساعد في تلبية الاحتياجات العملية أو بإيماءات صغيرة من اللطف.",
+          "شجعهم على الاسترخاء والاستمتاع عندما يكون ذلك مناسبًا.",
+          "أظهر أنك تهتم بالتفاصيل، خاصة فيما يهتمون به.",
+          "كن في الموعد ويمكن الاعتماد عليه.",
+          "استمع باهتمام."
+        ],
+        "DontsInRelationship": [
+          "لا تحرجهم في الأماكن العامة؛ سيطاردهم ذلك لاحقًا.",
+          "تجنب المحادثات غير الواضحة أو غير الواقعية.",
+          "لا تضغط عليهم ليكونوا اجتماعيين أكثر من اللازم.",
+          "كسر الوعود يقوض ثقتهم.",
+          "لا تتأخر عن المواعيد أو الاجتماعات.",
+          "تجنب أن تكون عاطفيًا بشكل مفرط في المناقشات.",
+          "لا تعطي انطباعًا بأنك كسول أو فوضوي.",
+          "تجنب الضغط عليهم للتعبير عن المشاعر في وقت مبكر جدًا.",
+          "احترم شعورهم بالنظام والمعايير الاجتماعية.",
+          "لا تخلق حالة من عدم اليقين بالمفاجآت المتكررة."
+        ],
+        "Friendships": "يقدر اللوجستيون الولاء والروابط طويلة الأمد في الصداقات. على الرغم من أنه قد يستغرق بعض الوقت للانفتاح، إلا أنه بمجرد أن يصبح الشخص جزءًا من دائرتهم، فإنهم يظلون مخلصين بشدة. تقوم صداقاتهم على الثقة والتجارب المشتركة، وعلى الرغم من أنهم قد لا يكونون معبرين بالكلمات، إلا أنهم يظهرون تفانيهم من خلال الدعم الثابت والاعتمادية.",
+        "CareerPath": [
+          "محاسب",
+          "مراقب حركة جوية",
+          "ميكانيكي طائرات/فني خدمة",
+          "مهندس مدني",
+          "فني علوم البيئة والحماية",
+          "مشغل مفاعل نووي",
+          "حارس أمن",
+          "مشرف ضباط الإصلاحيات",
+          "مفتش ضرائب، جامع، وكيل الإيرادات",
+          "مفتش النقل"
+        ],
+        "LifeValue": [
+          "الأسرة / المنزل",
+          "الأمن المالي",
+          "الصحة",
+          "الاستقلالية",
+          "الإنجاز"
+        ],
+        "CompatibleConnections": [
+          "التنفيذي (ESTJ)",
+          "رائد الأعمال (ESTP)",
+          "المؤدي (ESFP)"
+        ],
+        "HasPotentialConnections": [
+          "المناظر (ENTP)",
+          "المعبر (ENFP)",
+          "القنصل (ESFJ)",
+          "المدافع (ISFJ)",
+          "المغامر (ISFP)",
+          "المحترف (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "المدافع (INFJ)",
+          "المهندس المعماري (INTJ)",
+          "الوسيط (INFP)",
+          "البطل (ENFJ)",
+          "المنطقي (INTP)",
+          "القائد (ENTJ)",
+          "اللوجستي (ISTJ)"
+        ],
+        "AttractedBy": [
+          "مرح",
+          "منفتح",
+          "صادق",
+          "دافئ",
+          "موثوق",
+          "مسؤول",
+          "صادق",
+          "ملتزم",
+          "مغامر",
+          "عملي",
+          "واقعي",
+          "مفصل"
+        ],
+        "PetPeeves": [
+          "عاطفي جدًا",
+          "غير موثوق",
+          "متقلب",
+          "متلاعب",
+          "متأخر",
+          "غير متوقع",
+          "غير جدير بالثقة",
+          "غير عقلاني",
+          "غير مخلص",
+          "ثرثار",
+          "متطفل",
+          "غير منظم",
+          "سلبي عدواني"
+        ],
+        "HowToBeCompanion": [
+          "كن موثوقًا ومتسقًا - يقدرون الأشخاص الذين يمكنهم الاعتماد عليهم.",
+          "احترم روتينهم وخططهم؛ التغييرات المفاجئة قد تزعجهم.",
+          "أظهر حبك من خلال أفعال عملية وملموسة.",
+          "كن صريحًا ومباشرًا؛ يقدرون النزاهة فوق كل شيء.",
+          "امنحهم مساحة لوقتهم الخاص، ولكن ذكرهم أنك موجود من أجلهم.",
+          "أظهر ولائك، وسوف يكونون مخلصين بالمقابل."
+        ],
+        "SecretDesire": "على الرغم من أن اللوجستيين قد يظهرون منظمين وتقليديين، إلا أنهم في بعض الأحيان يتوقون إلى العفوية والمغامرة. في حياتهم الخاصة، قد يستكشفون أفكارًا جديدة أو يتخيلون سيناريوهات مختلفة. على الرغم من أن هذا الجانب قد يكون مخفيًا عن معظم الناس، إلا أن الأصدقاء المقربين قد يشهدون على طبيعتهم الغريبة والخيالية. يظهر هذا الجانب غالبًا عندما يشعرون بالأمان من الحكم. ومع ذلك، يعودون عادةً إلى أنفسهم الأكثر قابلية للتنبؤ والمسؤولية.",
+        "Stereotype": "غالبًا ما يُنظر إلى اللوجستيين على أنهم مهووسون بالقواعد واللوائح، ويفتقرون إلى العمق العاطفي. ومع ذلك، تحت مظهرهم الخارجي المحجوز يكمن قلب رعاية، خاصة لأولئك الذين يقدرونهم. على الرغم من أنهم قد لا يظهرون ذلك دائمًا، فإن اللوجستيين هم من النوع الذي يقف إلى جانب أحبائهم، ويقدمون دعمًا ثابتًا وجديرًا بالثقة على مر الزمن.",
+        "Celebrities": [
+          "جورج واشنطن",
+          "الملكة إليزابيث الثانية",
+          "هنري فورد",
+          "جيف بيزوس",
+          "إيفاندر هوليفيلد",
+          "جوليا روبرتس",
+          "دينزل واشنطن"
+        ]
+      }
+    ]
+  }  

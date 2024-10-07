@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "question": "Prefiro passar tempo sozinho ou com alguns amigos próximos, em vez de em grandes grupos.",
+        "letter": "I",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 2,
+        "question": "Gosto de ser o centro das atenções em eventos sociais.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 3,
+        "question": "Costumo sonhar acordado sobre cenários e oportunidades futuras.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 4,
+        "question": "Concentro-me nos detalhes e fatos ao resolver problemas.",
+        "letter": "S",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 5,
+        "question": "Considero como minhas decisões afetarão as emoções e o bem-estar dos outros.",
+        "letter": "F",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 6,
+        "question": "Tomo decisões baseadas na lógica e em critérios objetivos.",
+        "letter": "T",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 7,
+        "question": "Sinto-me mais confortável quando posso prever os resultados das minhas decisões.",
+        "letter": "J",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 8,
+        "question": "Costumo manter minhas opções abertas e evito tomar decisões rápidas.",
+        "letter": "P",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 9,
+        "question": "Sinto-me esgotado após longos períodos de interação social.",
+        "letter": "I",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 10,
+        "question": "Gosto de ser flexível e me adaptar a novas informações ou circunstâncias.",
+        "letter": "P",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 11,
+        "question": "Costumo pensar sobre possibilidades futuras e o que pode acontecer.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 12,
+        "question": "Confio em informações que são observáveis e mensuráveis.",
+        "letter": "S",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 13,
+        "question": "Valorizo a honestidade e a clareza nas discussões, mesmo que isso cause tensão.",
+        "letter": "T",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 14,
+        "question": "Prioritizo manter a harmonia e os relacionamentos em vez de resultados estritamente lógicos.",
+        "letter": "F",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 15,
+        "question": "Gosto de concluir tarefas muito antes dos prazos.",
+        "letter": "J",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 16,
+        "question": "Prefiro experiências de aprendizagem práticas e concretas a discussões teóricas.",
+        "letter": "S",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 17,
+        "question": "Sinto-me energizado depois de conhecer novas pessoas e participar de conversas.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 18,
+        "question": "Costumo pensar antes de falar em situações sociais.",
+        "letter": "I",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 19,
+        "question": "Gosto de seguir procedimentos e métodos estabelecidos ao concluir tarefas.",
+        "letter": "S",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 20,
+        "question": "Acho emocionante descobrir novas oportunidades à medida que surgem.",
+        "letter": "P",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 21,
+        "question": "Gosto de colaborar com os outros e encontrar um terreno comum nas discussões.",
+        "letter": "F",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 22,
+        "question": "Prefiro ter um plano estruturado antes de começar qualquer projeto.",
+        "letter": "J",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 23,
+        "question": "Presto atenção às experiências sensoriais e aos detalhes no meu ambiente.",
+        "letter": "S",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 24,
+        "question": "Costumo expressar meus sentimentos abertamente e encorajo os outros a fazer o mesmo.",
+        "letter": "F",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 25,
+        "question": "Gosto de participar de discussões com um grande grupo de pessoas.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 26,
+        "question": "Prefiro ver o panorama geral em vez de me concentrar nos detalhes.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 27,
+        "question": "Costumo analisar situações de maneira crítica em vez de emocional.",
+        "letter": "T",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 28,
+        "question": "Sinto-me realizado quando posso ajudar os outros ou ter um impacto positivo em suas vidas.",
+        "letter": "F",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 29,
+        "question": "Aprecio ser espontâneo e mudar de planos conforme necessário.",
+        "letter": "P",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 30,
+        "question": "Sinto-me revigorado após passar tempo em um ambiente animado.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 31,
+        "question": "Gosto de explorar ideias e conceitos abstratos.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 32,
+        "question": "Prefiro resolver conflitos focando em fatos em vez de emoções.",
+        "letter": "T",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 33,
+        "question": "Gosto de ter regras e diretrizes claras na minha vida diária.",
+        "letter": "J",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 34,
+        "question": "Gosto de iniciar conversas com estranhos.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 35,
+        "question": "Acho desafiador trabalhar em um ambiente não estruturado ou caótico.",
+        "letter": "J",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 36,
+        "question": "Costumo me sentir sobrecarregado por muitas opções.",
+        "letter": "P",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 37,
+        "question": "Confio na minha intuição ao tomar decisões.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 38,
+        "question": "Costumo procurar atividades em grupo ou reuniões sociais em meu tempo livre.",
+        "letter": "E",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 39,
+        "question": "Gosto de discutir conceitos teóricos e possibilidades futuras.",
+        "letter": "N",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    },
+    {
+        "id": 40,
+        "question": "Prefiro pensar nas coisas antes de compartilhar minhas ideias com os outros.",
+        "letter": "I",
+        "answers": [
+            "Concordo plenamente",
+            "Concordo",
+            "Neutro",
+            "Discordo",
+            "Discordo plenamente"
+        ],
+        "language_code": "pt"
+    }
+]

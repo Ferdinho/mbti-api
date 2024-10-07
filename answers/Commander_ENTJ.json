@@ -1,0 +1,684 @@
+{
+    "personalities": [
+      {
+        "id": 2,
+        "language_code": "en",
+        "type": "ENTJ",
+        "name": "The Commander",
+        "Description": "Commanders are natural-born leaders with a strong drive to achieve their goals. Known for their strategic thinking, charisma, and confidence, they excel at organizing and motivating others. They are forward-thinkers who thrive in competitive environments, often setting high standards for both themselves and those around them. Commanders value efficiency and take decisive actions to turn their visions into reality. In relationships, they appreciate partners who challenge them intellectually and share their ambitions, building long-term connections based on mutual respect and growth.",
+        "Strengths": [
+          "Ambitious",
+          "Energetic",
+          "Confident",
+          "Strategic",
+          "Inspiring",
+          "Decisive",
+          "Charismatic",
+          "Innovative",
+          "Self-assured",
+          "Efficient",
+          "Bold",
+          "Knowledgeable",
+          "Strong-willed"
+        ],
+        "Weaknesses": [
+          "Stubborn",
+          "Domineering",
+          "Blunt",
+          "Impatient",
+          "Arrogant",
+          "Intolerant",
+          "Emotionally distant",
+          "Insensitive",
+          "Cold",
+          "Ruthless"
+        ],
+        "DosInRelationship": [
+          "Let them lead; they thrive on taking charge.",
+          "Be gentle and supportive to complement their strong personality.",
+          "Stay authentic—Commanders appreciate realness and depth.",
+          "Acknowledge their skills and creativity to make them feel valued."
+        ],
+        "DontsInRelationship": [
+          "Don’t play manipulative games—Commanders despise them.",
+          "Avoid jealousy or trying to make them insecure; they'll move on quickly.",
+          "Don’t engage in small talk or gossip—they’ll find it uninteresting.",
+          "Don’t pressure them to open up emotionally too soon."
+        ],
+        "Friendships": "Commanders seek friendships with those who value growth and personal development. They thrive around friends who are goal-driven and ambitious. For Commanders, friendship means inspiring one another to push further. They enjoy intellectual discussions, but also value loyalty and trust in their closest friends. Commanders are invigorated by friends who share their level of energy and passion for meaningful pursuits.",
+        "CareerPath": [
+          "Aerospace Engineer",
+          "Architect",
+          "Architectural & Engineering Manager",
+          "Chef",
+          "Computer & IT Manager",
+          "Electrical Engineer",
+          "Emergency Management Director",
+          "Epidemiologist",
+          "Market Research Analyst",
+          "Pharmacist"
+        ],
+        "LifeValue": [
+          "Home/Family",
+          "Health",
+          "Financial Security",
+          "Friendships",
+          "Achievement"
+        ],
+        "CompatibleConnections": [
+          "Architect (INTJ)",
+          "Logician (INTP)",
+          "Mediator (INFP)"
+        ],
+        "HasPotentialConnections": [
+          "Debater (ENTP)",
+          "Protagonist (ENFJ)",
+          "Campaigner (ENFP)",
+          "Advocate (INFJ)",
+          "Defender (ISFJ)",
+          "Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "Adventurer (ISFP)",
+          "Consul (ESFJ)",
+          "Commander (ENTJ)",
+          "Executive (ESTJ)",
+          "Logistician (ISTJ)",
+          "Entertainer (ESFP)",
+          "Entrepreneur (ESTP)"
+        ],
+        "AttractedBy": [
+          "Competent",
+          "Rational",
+          "Supportive",
+          "Thoughtful",
+          "Dependable",
+          "Authentic",
+          "Soft and gentle",
+          "Loyal",
+          "Caring",
+          "Sincere",
+          "Having depth",
+          "Timely"
+        ],
+        "HowToBeCompanion": [
+          "Challenge them intellectually—they enjoy meaningful debates.",
+          "Support their long-term vision and goals; they need a partner who believes in their aspirations.",
+          "Be direct and assertive in communication; they respect confidence.",
+          "Encourage their leadership but also show your own initiative.",
+          "Give them space to focus on their work and personal projects.",
+          "Stay passionate and driven; they admire ambition and strength in a partner."
+        ],
+        "PetPeeves": [
+          "Controlling",
+          "Overemotional",
+          "Manipulative",
+          "Lazy",
+          "Disorganized",
+          "Tardy",
+          "Passive-aggressive",
+          "Superficial",
+          "Incompetent",
+          "Insincere",
+          "Overformal",
+          "Irrational"
+        ],
+        "SecretDesire": "Though they often appear as rational and decisive, Commanders secretly long for deeper meaning and fulfillment in their lives. Beyond material success, they seek relationships built on emotional depth and openness. Their true desire is to create something lasting—impacting the world in ways that go beyond the professional realm.",
+        "Stereotypes": "Commanders are often seen as workaholics, overly focused on their goals and indifferent to social matters. However, in reality, they care deeply about inspiring others and helping them reach their full potential. Despite the tough exterior, they remain passionate about personal connections and creating meaningful change.",
+        "Celebrities": [
+          "Napoleon Bonaparte",
+          "Franklin D. Roosevelt",
+          "Bill Gates",
+          "Warren Buffett",
+          "Steve Jobs",
+          "Dwayne Johnson",
+          "Adele",
+          "Queen Elizabeth I"
+        ]
+      },
+      {
+        "id": 2,
+        "language_code": "fr",
+        "type": "ENTJ",
+        "name": "Commandeur",
+        "Description": "Les Commandeurs sont des leaders nés avec un fort désir d'atteindre leurs objectifs. Connus pour leur pensée stratégique, leur charisme et leur confiance, ils excellent dans l'organisation et la motivation des autres. Ils sont des visionnaires qui prospèrent dans des environnements compétitifs, souvent en fixant des normes élevées pour eux-mêmes et ceux qui les entourent. Les Commandeurs valorisent l'efficacité et prennent des décisions décisives pour concrétiser leurs visions. En couple, ils apprécient les partenaires qui les défient intellectuellement et partagent leurs ambitions, en construisant des relations à long terme basées sur le respect mutuel et la croissance.",
+        "Strengths": [
+          "Ambitieux",
+          "Énergique",
+          "Confiant",
+          "Stratégique",
+          "Inspirant",
+          "Décisif",
+          "Charismatique",
+          "Innovant",
+          "Sûr de soi",
+          "Efficace",
+          "Audacieux",
+          "Connaisseur",
+          "Volontaire"
+        ],
+        "Weaknesses": [
+          "Têtu",
+          "Dominateur",
+          "Brutal",
+          "Impatient",
+          "Arrogant",
+          "Intolérant",
+          "Distant émotionnellement",
+          "Insensible",
+          "Froid",
+          "Impitoyable"
+        ],
+        "DosInRelationship": [
+          "Laissez-les diriger; ils s'épanouissent en prenant les commandes.",
+          "Soyez doux et soutenez-les pour compléter leur forte personnalité.",
+          "Restez authentique - les Commandeurs apprécient la sincérité et la profondeur.",
+          "Reconnaissez leurs compétences et leur créativité pour les valoriser."
+        ],
+        "DontsInRelationship": [
+          "Ne jouez pas à des jeux manipulateurs - les Commandeurs les détestent.",
+          "Évitez la jalousie ou d'essayer de les rendre insécurisés; ils passeront rapidement à autre chose.",
+          "Ne vous engagez pas dans de petites conversations ou des commérages - ils les trouvent inintéressants.",
+          "Ne les poussez pas à s'ouvrir émotionnellement trop tôt."
+        ],
+        "Friendships": "Les Commandeurs recherchent des amitiés avec ceux qui valorisent la croissance et le développement personnel. Ils s'épanouissent autour d'amis ambitieux et axés sur les objectifs. Pour les Commandeurs, l'amitié signifie s'inspirer mutuellement pour aller plus loin. Ils apprécient les discussions intellectuelles, mais aussi la loyauté et la confiance avec leurs amis les plus proches. Les Commandeurs sont stimulés par des amis qui partagent leur niveau d'énergie et leur passion pour des activités significatives.",
+        "CareerPath": [
+          "Ingénieur aérospatial",
+          "Architecte",
+          "Gestionnaire en architecture et ingénierie",
+          "Chef cuisinier",
+          "Directeur informatique",
+          "Ingénieur électricien",
+          "Directeur de la gestion des urgences",
+          "Épidémiologiste",
+          "Analyste en recherche de marché",
+          "Pharmacien"
+        ],
+        "LifeValue": [
+          "Famille/maison",
+          "Santé",
+          "Sécurité financière",
+          "Amitiés",
+          "Réussite"
+        ],
+        "CompatibleConnections": [
+          "L'Architecte (INTJ)",
+          "Le Logicien (INTP)",
+          "Le Médiateur (INFP)"
+        ],
+        "HasPotentialConnections": [
+          "Le Débatteur (ENTP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Campagneur (ENFP)",
+          "L'Avocat (INFJ)",
+          "Le Défenseur (ISFJ)",
+          "Le Virtuose (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "L'Aventurier (ISFP)",
+          "Le Consul (ESFJ)",
+          "Le Commandeur (ENTJ)",
+          "L'Exécutif (ESTJ)",
+          "Le Logisticien (ISTJ)",
+          "Le Performeur (ESFP)",
+          "L'Entrepreneur (ESTP)"
+        ],
+        "AttractedBy": [
+          "Compétent",
+          "Rationnel",
+          "Soutenant",
+          "Réfléchi",
+          "Fiable",
+          "Authentique",
+          "Doux et gentil",
+          "Loyal",
+          "Attentionné",
+          "Sincère",
+          "Avoir de la profondeur",
+          "Ponctuel"
+        ],
+        "HowToBeCompanion": [
+          "Défiez-les intellectuellement - ils aiment les débats significatifs.",
+          "Soutenez leur vision à long terme et leurs objectifs; ils ont besoin d'un partenaire qui croit en leurs aspirations.",
+          "Soyez direct et affirmé dans la communication; ils respectent la confiance.",
+          "Encouragez leur leadership tout en montrant votre propre initiative.",
+          "Donnez-leur de l'espace pour se concentrer sur leur travail et leurs projets personnels.",
+          "Restez passionné et motivé; ils admirent l'ambition et la force chez un partenaire."
+        ],
+        "PetPeeves": [
+          "Contrôlant",
+          "Trop émotif",
+          "Manipulateur",
+          "Paresseux",
+          "Désorganisé",
+          "Retardataire",
+          "Passif-agressif",
+          "Superficiel",
+          "Incompétent",
+          "Insincère",
+          "Trop formel",
+          "Irrationnel"
+        ],
+        "SecretDesire": "Bien qu'ils apparaissent souvent comme rationnels et décisifs, les Commandeurs aspirent secrètement à un sens plus profond et à l'épanouissement dans leur vie. Au-delà du succès matériel, ils recherchent des relations fondées sur la profondeur émotionnelle et l'ouverture. Leur véritable désir est de créer quelque chose de durable - d'avoir un impact sur le monde qui va au-delà du domaine professionnel.",
+        "Stereotypes": "Les Commandeurs sont souvent perçus comme des bourreaux de travail, trop concentrés sur leurs objectifs et indifférents aux questions sociales. Cependant, en réalité, ils se soucient profondément d'inspirer les autres et de les aider à atteindre leur plein potentiel. Malgré leur extérieur dur, ils restent passionnés par les connexions personnelles et la création de changements significatifs.",
+        "Celebrities": [
+          "Napoléon Bonaparte",
+          "Franklin D. Roosevelt",
+          "Bill Gates",
+          "Warren Buffett",
+          "Steve Jobs",
+          "Dwayne Johnson",
+          "Adele",
+          "Reine Elizabeth I"
+        ]
+      },
+      {
+        "id": 2,
+        "language_code": "es",
+        "type": "ENTJ",
+        "name": "Comandante",
+        "Description": "Los Comandantes son líderes natos con un fuerte impulso para lograr sus objetivos. Conocidos por su pensamiento estratégico, carisma y confianza, sobresalen en organizar y motivar a los demás. Son pensadores adelantados que prosperan en entornos competitivos, a menudo estableciendo altos estándares tanto para ellos mismos como para quienes los rodean. Los Comandantes valoran la eficiencia y toman decisiones decisivas para convertir sus visiones en realidad. En las relaciones, aprecian a las parejas que los desafían intelectualmente y comparten sus ambiciones, construyendo conexiones a largo plazo basadas en el respeto mutuo y el crecimiento.",
+        "Strengths": [
+          "Ambicioso",
+          "Enérgico",
+          "Confiado",
+          "Estratégico",
+          "Inspirador",
+          "Decidido",
+          "Carismático",
+          "Innovador",
+          "Seguro de sí mismo",
+          "Eficiente",
+          "Audaz",
+          "Conocedor",
+          "Voluntarioso"
+        ],
+        "Weaknesses": [
+          "Testarudo",
+          "Dominante",
+          "Franco",
+          "Impaciente",
+          "Arrogante",
+          "Intolerante",
+          "Distante emocionalmente",
+          "Insensible",
+          "Frío",
+          "Despiadado"
+        ],
+        "DosInRelationship": [
+          "Déjalos liderar; prosperan al tomar el mando.",
+          "Sé gentil y solidario para complementar su fuerte personalidad.",
+          "Mantente auténtico; los Comandantes aprecian la sinceridad y la profundidad.",
+          "Reconoce sus habilidades y creatividad para hacerlos sentir valorados."
+        ],
+        "DontsInRelationship": [
+          "No juegues juegos manipulativos; los Comandantes los detestan.",
+          "Evita los celos o tratar de hacerlos sentir inseguros; pasarán rápidamente.",
+          "No te involucres en charlas triviales o chismes; los encontrarán poco interesantes.",
+          "No los presiones para que se abran emocionalmente demasiado pronto."
+        ],
+        "Friendships": "Los Comandantes buscan amistades con aquellos que valoran el crecimiento y el desarrollo personal. Prosperan alrededor de amigos que son ambiciosos y orientados a metas. Para los Comandantes, la amistad significa inspirarse mutuamente para avanzar más. Disfrutan de las discusiones intelectuales, pero también valoran la lealtad y la confianza en sus amigos más cercanos. Los Comandantes se revitalizan con amigos que comparten su nivel de energía y pasión por los objetivos significativos.",
+        "CareerPath": [
+          "Ingeniero Aeroespacial",
+          "Arquitecto",
+          "Gerente de Arquitectura e Ingeniería",
+          "Chef",
+          "Gerente de TI y Computación",
+          "Ingeniero Eléctrico",
+          "Director de Gestión de Emergencias",
+          "Epidemiólogo",
+          "Analista de Investigación de Mercado",
+          "Farmacéutico"
+        ],
+        "LifeValue": [
+          "Familia/Hogar",
+          "Salud",
+          "Seguridad Financiera",
+          "Amistades",
+          "Logro"
+        ],
+        "CompatibleConnections": [
+          "El Arquitecto (INTJ)",
+          "El Lógico (INTP)",
+          "El Mediador (INFP)"
+        ],
+        "HasPotentialConnections": [
+          "El Debatidor (ENTP)",
+          "El Protagonista (ENFJ)",
+          "El Campañero (ENFP)",
+          "El Defensor (INFJ)",
+          "El Defensor (ISFJ)",
+          "El Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "El Aventurero (ISFP)",
+          "El Cónsul (ESFJ)",
+          "El Comandante (ENTJ)",
+          "El Ejecutivo (ESTJ)",
+          "El Logístico (ISTJ)",
+          "El Artista (ESFP)",
+          "El Emprendedor (ESTP)"
+        ],
+        "AttractedBy": [
+          "Competente",
+          "Racional",
+          "Apoyo",
+          "Reflexivo",
+          "Confiable",
+          "Auténtico",
+          "Dulce y gentil",
+          "Leal",
+          "Cuidadoso",
+          "Sincero",
+          "Con profundidad",
+          "Puntual"
+        ],
+        "HowToBeCompanion": [
+          "Desafíalos intelectualmente; disfrutan de debates significativos.",
+          "Apoya su visión y objetivos a largo plazo; necesitan una pareja que crea en sus aspiraciones.",
+          "Sé directo y asertivo en la comunicación; respetan la confianza.",
+          "Fomenta su liderazgo pero también muestra tu propia iniciativa.",
+          "Dales espacio para concentrarse en su trabajo y proyectos personales.",
+          "Mantente apasionado y motivado; admiran la ambición y la fuerza en una pareja."
+        ],
+        "PetPeeves": [
+          "Controlador",
+          "Demasiado emocional",
+          "Manipulador",
+          "Perezoso",
+          "Desorganizado",
+          "Impuntual",
+          "Pasivo-agresivo",
+          "Superficial",
+          "Incompetente",
+          "Insincero",
+          "Demasiado formal",
+          "Irracional"
+        ],
+        "SecretDesire": "Aunque a menudo parecen racionales y decididos, los Comandantes secretamente anhelan un significado más profundo y satisfacción en sus vidas. Más allá del éxito material, buscan relaciones basadas en la profundidad emocional y la apertura. Su verdadero deseo es crear algo duradero, impactando el mundo de maneras que vayan más allá del ámbito profesional.",
+        "Stereotypes": "Los Comandantes son a menudo vistos como adictos al trabajo, demasiado enfocados en sus objetivos e indiferentes a los asuntos sociales. Sin embargo, en realidad, se preocupan profundamente por inspirar a los demás y ayudarlos a alcanzar su máximo potencial. A pesar de su exterior duro, siguen siendo apasionados por las conexiones personales y la creación de cambios significativos.",
+        "Celebrities": [
+          "Napoleón Bonaparte",
+          "Franklin D. Roosevelt",
+          "Bill Gates",
+          "Warren Buffett",
+          "Steve Jobs",
+          "Dwayne Johnson",
+          "Adele",
+          "Reina Isabel I"
+        ]
+      },
+      {
+        "id": 2,
+        "language_code": "pt",
+        "type": "ENTJ",
+        "name": "Comandante",
+        "Description": "Os Comandantes são líderes natos com um forte impulso para alcançar seus objetivos. Conhecidos por seu pensamento estratégico, carisma e confiança, eles se destacam na organização e motivação dos outros. São visionários que prosperam em ambientes competitivos, muitas vezes estabelecendo altos padrões tanto para si mesmos quanto para os que estão ao seu redor. Os Comandantes valorizam a eficiência e tomam decisões decisivas para transformar suas visões em realidade. Nos relacionamentos, apreciam parceiros que os desafiam intelectualmente e compartilham suas ambições, construindo conexões de longo prazo baseadas no respeito mútuo e crescimento.",
+        "Strengths": [
+          "Ambicioso",
+          "Enérgico",
+          "Confiante",
+          "Estratégico",
+          "Inspirador",
+          "Decisivo",
+          "Carismático",
+          "Inovador",
+          "Autoconfiante",
+          "Eficiente",
+          "Ousado",
+          "Conhecedor",
+          "Determinado"
+        ],
+        "Weaknesses": [
+          "Teimoso",
+          "Dominador",
+          "Franco",
+          "Impaciente",
+          "Arrogante",
+          "Intolerante",
+          "Distante emocionalmente",
+          "Insensível",
+          "Frio",
+          "Implacável"
+        ],
+        "DosInRelationship": [
+          "Deixe-os liderar; eles prosperam ao assumir o comando.",
+          "Seja gentil e solidário para complementar sua forte personalidade.",
+          "Seja autêntico; os Comandantes apreciam a sinceridade e a profundidade.",
+          "Reconheça suas habilidades e criatividade para fazê-los se sentir valorizados."
+        ],
+        "DontsInRelationship": [
+          "Não jogue jogos manipulativos; os Comandantes os desprezam.",
+          "Evite o ciúme ou tentar deixá-los inseguros; eles seguirão em frente rapidamente.",
+          "Não se envolva em conversas triviais ou fofocas; eles acharão isso desinteressante.",
+          "Não os pressione para se abrir emocionalmente muito cedo."
+        ],
+        "Friendships": "Os Comandantes buscam amizades com aqueles que valorizam o crescimento e o desenvolvimento pessoal. Eles prosperam ao redor de amigos que são ambiciosos e orientados para metas. Para os Comandantes, a amizade significa inspirar uns aos outros a avançar mais. Eles apreciam discussões intelectuais, mas também valorizam lealdade e confiança em seus amigos mais próximos. Os Comandantes são revigorados por amigos que compartilham seu nível de energia e paixão por atividades significativas.",
+        "CareerPath": [
+          "Engenheiro Aeroespacial",
+          "Arquiteto",
+          "Gerente de Arquitetura e Engenharia",
+          "Chef de Cozinha",
+          "Gerente de TI",
+          "Engenheiro Elétrico",
+          "Diretor de Gestão de Emergências",
+          "Epidemiologista",
+          "Analista de Pesquisa de Mercado",
+          "Farmacêutico"
+        ],
+        "LifeValue": [
+          "Família/Casa",
+          "Saúde",
+          "Segurança Financeira",
+          "Amizades",
+          "Realização"
+        ],
+        "CompatibleConnections": [
+          "O Arquiteto (INTJ)",
+          "O Lógico (INTP)",
+          "O Mediador (INFP)"
+        ],
+        "HasPotentialConnections": [
+          "O Debatedor (ENTP)",
+          "O Protagonista (ENFJ)",
+          "O Campanhista (ENFP)",
+          "O Defensor (INFJ)",
+          "O Protetor (ISFJ)",
+          "O Virtuoso (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "O Aventureiro (ISFP)",
+          "O Cônsul (ESFJ)",
+          "O Comandante (ENTJ)",
+          "O Executivo (ESTJ)",
+          "O Logístico (ISTJ)",
+          "O Artista (ESFP)",
+          "O Empreendedor (ESTP)"
+        ],
+        "AttractedBy": [
+          "Competente",
+          "Racional",
+          "Solidário",
+          "Atencioso",
+          "Confiável",
+          "Autêntico",
+          "Doce e gentil",
+          "Leal",
+          "Cuidadoso",
+          "Sincero",
+          "Com profundidade",
+          "Pontual"
+        ],
+        "HowToBeCompanion": [
+          "Desafie-os intelectualmente; eles gostam de debates significativos.",
+          "Apoie sua visão e objetivos de longo prazo; eles precisam de um parceiro que acredite em suas aspirações.",
+          "Seja direto e assertivo na comunicação; eles respeitam a confiança.",
+          "Incentive sua liderança, mas também mostre sua própria iniciativa.",
+          "Dê-lhes espaço para se concentrar no trabalho e em projetos pessoais.",
+          "Mantenha-se apaixonado e motivado; eles admiram a ambição e a força em um parceiro."
+        ],
+        "PetPeeves": [
+          "Controlador",
+          "Excessivamente emocional",
+          "Manipulador",
+          "Preguiçoso",
+          "Desorganizado",
+          "Tardio",
+          "Passivo-agressivo",
+          "Superficial",
+          "Incompetente",
+          "Insincero",
+          "Excessivamente formal",
+          "Irracional"
+        ],
+        "SecretDesire": "Embora muitas vezes pareçam racionais e decididos, os Comandantes secretamente desejam um significado mais profundo e realização em suas vidas. Além do sucesso material, eles buscam relacionamentos baseados em profundidade emocional e abertura. Seu verdadeiro desejo é criar algo duradouro, impactando o mundo de maneiras que vão além do âmbito profissional.",
+        "Stereotypes": "Os Comandantes são frequentemente vistos como viciados em trabalho, excessivamente focados em seus objetivos e indiferentes a questões sociais. No entanto, na realidade, eles se preocupam profundamente em inspirar os outros e ajudá-los a alcançar seu pleno potencial. Apesar de sua fachada dura, eles continuam apaixonados por conexões pessoais e pela criação de mudanças significativas.",
+        "Celebrities": [
+          "Napoleão Bonaparte",
+          "Franklin D. Roosevelt",
+          "Bill Gates",
+          "Warren Buffett",
+          "Steve Jobs",
+          "Dwayne Johnson",
+          "Adele",
+          "Rainha Elizabeth I"
+        ]
+      },
+      {
+        "id": 2,
+        "language_code": "ar",
+        "type": "ENTJ",
+        "name": "القائد",
+        "Description": "القادة هم قادة بالفطرة مع دافع قوي لتحقيق أهدافهم. معروفون بتفكيرهم الاستراتيجي وكاريزميتهم وثقتهم، يبرزون في تنظيم وتحفيز الآخرين. هم مفكرون يتطلعون إلى الأمام ويزدهرون في البيئات التنافسية، وغالبًا ما يضعون معايير عالية لأنفسهم ولمن حولهم. يقدر القادة الكفاءة ويتخذون إجراءات حاسمة لتحويل رؤاهم إلى واقع. في العلاقات، يقدرون الشركاء الذين يتحدونهم فكريًا ويشاركونهم طموحاتهم، مما يؤدي إلى بناء علاقات طويلة الأمد قائمة على الاحترام المتبادل والنمو.",
+        "Strengths": [
+          "طموح",
+          "نشيط",
+          "واثق",
+          "استراتيجي",
+          "ملهم",
+          "حاسم",
+          "كاريزمي",
+          "مبتكر",
+          "واثق من نفسه",
+          "فعال",
+          "جريء",
+          "مثقف",
+          "صاحب إرادة قوية"
+        ],
+        "Weaknesses": [
+          "عنيد",
+          "مهيمن",
+          "صريح",
+          "غير صبور",
+          "متعجرف",
+          "غير متسامح",
+          "بعيد عاطفيًا",
+          "غير حساس",
+          "بارد",
+          "قاس"
+        ],
+        "DosInRelationship": [
+          "دعهم يقودون؛ يزدهرون عند توليهم زمام الأمور.",
+          "كن لطيفًا وداعمًا لتكمل شخصيتهم القوية.",
+          "كن صادقًا - يقدر القادة الصدق والعمق.",
+          "اعترف بمهاراتهم وإبداعهم لجعلهم يشعرون بالتقدير."
+        ],
+        "DontsInRelationship": [
+          "لا تلعب ألعابًا تلاعبية - القادة يكرهون ذلك.",
+          "تجنب الغيرة أو محاولة جعلهم يشعرون بعدم الأمان؛ سينتقلون بسرعة.",
+          "لا تشارك في الثرثرة أو الأحاديث التافهة؛ سيجدونها غير ممتعة.",
+          "لا تضغط عليهم لفتح مشاعرهم في وقت مبكر."
+        ],
+        "Friendships": "القادة يسعون إلى صداقات مع أولئك الذين يقدرون النمو والتطور الشخصي. يزدهرون حول أصدقاء طموحين وذوي أهداف واضحة. بالنسبة للقادة، تعني الصداقة تحفيز بعضهم البعض لتحقيق المزيد. يستمتعون بالمناقشات الفكرية، لكنهم يقدرون أيضًا الولاء والثقة مع أقرب أصدقائهم. يتم تحفيز القادة من قبل الأصدقاء الذين يشاركونهم مستوى الطاقة والشغف بالأنشطة الهادفة.",
+        "CareerPath": [
+          "مهندس طيران",
+          "مهندس معماري",
+          "مدير الهندسة والعمارة",
+          "طاهٍ",
+          "مدير تكنولوجيا المعلومات",
+          "مهندس كهربائي",
+          "مدير إدارة الطوارئ",
+          "أخصائي وبائيات",
+          "محلل أبحاث السوق",
+          "صيدلي"
+        ],
+        "LifeValue": [
+          "العائلة / المنزل",
+          "الصحة",
+          "الأمن المالي",
+          "الصداقات",
+          "الإنجاز"
+        ],
+        "CompatibleConnections": [
+          "المهندس المعماري (INTJ)",
+          "المنطقي (INTP)",
+          "الوسيط (INFP)"
+        ],
+        "HasPotentialConnections": [
+          "المناظر (ENTP)",
+          "البطل (ENFJ)",
+          "المعبر (ENFP)",
+          "المدافع (INFJ)",
+          "المدافع (ISFJ)",
+          "المحترف (ISTP)"
+        ],
+        "ChallengingConnections": [
+          "المغامر (ISFP)",
+          "القنصل (ESFJ)",
+          "القائد (ENTJ)",
+          "التنفيذي (ESTJ)",
+          "اللوجستي (ISTJ)",
+          "المؤدي (ESFP)",
+          "رائد الأعمال (ESTP)"
+        ],
+        "AttractedBy": [
+          "كفء",
+          "عقلاني",
+          "داعم",
+          "مفكر",
+          "موثوق",
+          "صادق",
+          "لطيف وناعم",
+          "وفي",
+          "مهتم",
+          "صادق",
+          "ذو عمق",
+          "دقيق في المواعيد"
+        ],
+        "HowToBeCompanion": [
+          "تحديهم فكريًا - يستمتعون بالمناقشات الهادفة.",
+          "دعم رؤيتهم وأهدافهم طويلة الأجل؛ يحتاجون إلى شريك يؤمن بطموحاتهم.",
+          "كن مباشرًا وواثقًا في التواصل؛ يحترمون الثقة.",
+          "شجع قيادتهم ولكن أظهر أيضًا مبادرتك الخاصة.",
+          "امنحهم مساحة للتركيز على عملهم ومشاريعهم الشخصية.",
+          "ابق متحمسًا ومدفوعًا؛ يعجبون بالطموح والقوة في شريك الحياة."
+        ],
+        "PetPeeves": [
+          "مسيطر",
+          "مفرط العاطفة",
+          "متلاعب",
+          "كسول",
+          "غير منظم",
+          "متأخر",
+          "سلبي عدواني",
+          "سطحي",
+          "غير كفء",
+          "غير مخلص",
+          "مفرط الرسمية",
+          "غير عقلاني"
+        ],
+        "SecretDesire": "على الرغم من أنهم غالبًا ما يظهرون كأشخاص عقلانيين وحاسمين، فإن القادة يتوقون سرًا إلى معنى أعمق وتحقيق ذاتهم في حياتهم. بعيدًا عن النجاح المادي، يسعون إلى علاقات قائمة على العمق العاطفي والانفتاح. رغبتهم الحقيقية هي خلق شيء دائم - تأثير العالم بطرق تتجاوز المجال المهني.",
+        "Stereotypes": "غالبًا ما يُنظر إلى القادة على أنهم مدمنون للعمل، ومفرطون في التركيز على أهدافهم وغير مبالين بالشؤون الاجتماعية. ومع ذلك، في الواقع، يهتمون بشدة بإلهام الآخرين ومساعدتهم على تحقيق إمكاناتهم الكاملة. على الرغم من مظهرهم الخارجي القاسي، إلا أنهم لا يزالون شغوفين بالروابط الشخصية وخلق التغيير الهادف.",
+        "Celebrities": [
+          "نابليون بونابرت",
+          "فرانكلين دي. روزفلت",
+          "بيل غيتس",
+          "وارن بافيت",
+          "ستيف جوبز",
+          "دواين جونسون",
+          "أديل",
+          "الملكة إليزابيث الأولى"
+        ]
+      }
+    ]
+  }  

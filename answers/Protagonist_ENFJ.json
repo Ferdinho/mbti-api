@@ -1,0 +1,594 @@
+{
+    "personalities": [
+      {
+        "id": 16,
+        "language_code": "en",
+        "type": "ENFJ",
+        "name": "The Protagonist",
+        "Description": "Charismatic and inspiring, Protagonists are natural leaders who thrive on helping others achieve their potential. They are empathetic, socially aware, and often seen as the driving force behind group efforts. Protagonists excel at understanding others’ emotions and are driven to make the world a better place.",
+        "Strengths": [
+          "charismatic",
+          "inspiring",
+          "empathetic",
+          "socially aware",
+          "excellent communicator",
+          "organized",
+          "driven",
+          "passionate",
+          "altruistic",
+          "natural leader"
+        ],
+        "Weaknesses": [
+          "overly idealistic",
+          "prone to burnout",
+          "too selfless",
+          "can be sensitive to criticism",
+          "can struggle with setting boundaries",
+          "dislike conflict",
+          "can be too hard on themselves"
+        ],
+        "DosInRelationship": [
+          "Support their passions and ambitions.",
+          "Show appreciation for their leadership and empathy.",
+          "Communicate openly and frequently about emotions.",
+          "Be willing to join in on social activities and causes they care about.",
+          "Give them space to help others and express their altruistic nature."
+        ],
+        "DontsInRelationship": [
+          "Don’t criticize their ideals or ambitions.",
+          "Avoid being dismissive of their emotions.",
+          "Don’t be overly critical or unsupportive.",
+          "Avoid conflict or negative feedback without being constructive.",
+          "Don’t take advantage of their selflessness."
+        ],
+        "Friendships": "Protagonists value friendships that are built on mutual support and understanding. They seek out friends who are emotionally available, caring, and willing to join them in meaningful activities. They love friends who can appreciate their empathy and drive to make a difference.",
+        "CareerPath": [
+          "Teacher",
+          "Counselor",
+          "Psychologist",
+          "Public Speaker",
+          "Humanitarian",
+          "Social Worker",
+          "Manager",
+          "Non-Profit Leader",
+          "Community Organizer"
+        ],
+        "LifeValue": [
+          "Compassion",
+          "Leadership",
+          "Altruism",
+          "Passion",
+          "Empathy"
+        ],
+        "CompatibleConnections": [
+          "Guardian (INFJ)",
+          "Peacemaker (INFP)",
+          "Genius (INTP)"
+        ],
+        "HasPotentialConnections": [
+          "Commander (ENTJ)",
+          "Challenger (ENTP)",
+          "Mastermind (INTJ)",
+          "Crusader (ENFP)",
+          "Ambassador (ESFJ)"
+        ],
+        "ChallengingConnections": [
+          "Artisan (ISTP)",
+          "Executive (ESTJ)",
+          "Realist (ISTJ)",
+          "Rebel (ESTP)"
+        ],
+        "AttractedBy": [
+          "charismatic",
+          "empathetic",
+          "inspiring",
+          "socially aware",
+          "organized",
+          "driven",
+          "passionate",
+          "excellent communicator",
+          "natural leader",
+          "altruistic"
+        ],
+        "PetPeeves": [
+          "indifference",
+          "selfishness",
+          "lack of empathy",
+          "disorganization",
+          "cynicism",
+          "laziness",
+          "lack of ambition",
+          "negativity"
+        ],
+        "HowToBeCompanion": [
+          "Show appreciation for their empathy and leadership.",
+          "Communicate openly and honestly about feelings.",
+          "Be supportive of their passions and causes.",
+          "Join them in social or altruistic activities.",
+          "Be emotionally available and kind-hearted."
+        ],
+        "SecretDesire": "Protagonists secretly long to make a lasting difference in the world and in the lives of others. They dream of creating positive change and being remembered for their leadership and empathy.",
+        "Stereotypes": "Protagonists are often seen as overly idealistic or too focused on helping others, but in reality, they are deeply committed to improving the lives of those around them and making a meaningful impact on the world.",
+        "Celebrities": [
+          "Barack Obama",
+          "Oprah Winfrey",
+          "Martin Luther King Jr.",
+          "Maya Angelou",
+          "Nelson Mandela",
+          "Jennifer Lawrence"
+        ]
+      },
+      {
+        "id": 16,
+        "language_code": "fr",
+        "type": "ENFJ",
+        "name": "Protagoniste",
+        "Description": "Charismatiques et inspirants, les Protagonistes sont des leaders naturels qui prospèrent en aidant les autres à réaliser leur potentiel. Ils sont empathiques, conscients socialement et sont souvent considérés comme la force motrice derrière les efforts collectifs. Les Protagonistes excellent dans la compréhension des émotions des autres et sont motivés par le désir de rendre le monde meilleur.",
+        "Strengths": [
+          "charismatique",
+          "inspirant",
+          "empathique",
+          "conscient socialement",
+          "excellent communicateur",
+          "organisé",
+          "motivé",
+          "passionné",
+          "altruiste",
+          "leader naturel"
+        ],
+        "Weaknesses": [
+          "trop idéaliste",
+          "sujet à l'épuisement",
+          "trop désintéressé",
+          "peut être sensible aux critiques",
+          "peut avoir du mal à fixer des limites",
+          "n'aime pas les conflits",
+          "peut être trop dur avec soi-même"
+        ],
+        "DosInRelationship": [
+          "Soutenez leurs passions et ambitions.",
+          "Montrez de l'appréciation pour leur leadership et leur empathie.",
+          "Communiquez ouvertement et fréquemment sur les émotions.",
+          "Soyez prêt à participer à des activités sociales et à des causes qui leur tiennent à cœur.",
+          "Donnez-leur de l'espace pour aider les autres et exprimer leur nature altruiste."
+        ],
+        "DontsInRelationship": [
+          "Ne critiquez pas leurs idéaux ou ambitions.",
+          "Évitez de minimiser leurs émotions.",
+          "Ne soyez pas trop critique ou non soutenant.",
+          "Évitez les conflits ou les retours négatifs sans être constructif.",
+          "Ne profitez pas de leur désintéressement."
+        ],
+        "Friendships": "Les Protagonistes valorisent les amitiés basées sur le soutien mutuel et la compréhension. Ils recherchent des amis qui sont émotionnellement disponibles, attentionnés et prêts à les accompagner dans des activités significatives. Ils apprécient les amis qui peuvent reconnaître leur empathie et leur désir de faire une différence.",
+        "CareerPath": [
+          "Enseignant",
+          "Conseiller",
+          "Psychologue",
+          "Conférencier",
+          "Humanitaire",
+          "Travailleur social",
+          "Manager",
+          "Chef d'ONG",
+          "Organisateur communautaire"
+        ],
+        "LifeValue": [
+          "Compassion",
+          "Leadership",
+          "Altruisme",
+          "Passion",
+          "Empathie"
+        ],
+        "CompatibleConnections": [
+          "Gardien (INFJ)",
+          "Pacificateur (INFP)",
+          "Génie (INTP)"
+        ],
+        "HasPotentialConnections": [
+          "Commandant (ENTJ)",
+          "Débatteur (ENTP)",
+          "Maître (INTJ)",
+          "Croisé (ENFP)",
+          "Ambassadeur (ESFJ)"
+        ],
+        "ChallengingConnections": [
+          "Artisan (ISTP)",
+          "Exécutif (ESTJ)",
+          "Réalisateur (ISTJ)",
+          "Rebelle (ESTP)"
+        ],
+        "AttractedBy": [
+          "charismatique",
+          "empathique",
+          "inspirant",
+          "conscient socialement",
+          "organisé",
+          "motivé",
+          "passionné",
+          "excellent communicateur",
+          "leader naturel",
+          "altruiste"
+        ],
+        "PetPeeves": [
+          "indifférence",
+          "égoïsme",
+          "manque d'empathie",
+          "désorganisation",
+          "cynisme",
+          "paresse",
+          "manque d'ambition",
+          "négativité"
+        ],
+        "HowToBeCompanion": [
+          "Montrez de l'appréciation pour leur empathie et leur leadership.",
+          "Communiquez ouvertement et honnêtement sur les sentiments.",
+          "Soutenez leurs passions et causes.",
+          "Participez à des activités sociales ou altruistes avec eux.",
+          "Soyez émotionnellement disponible et bienveillant."
+        ],
+        "SecretDesire": "Les Protagonistes aspirent secrètement à faire une différence durable dans le monde et dans la vie des autres. Ils rêvent de créer un changement positif et d'être reconnus pour leur leadership et leur empathie.",
+        "Stereotypes": "Les Protagonistes sont souvent perçus comme trop idéalistes ou trop axés sur l'aide aux autres, mais en réalité, ils sont profondément engagés à améliorer la vie de ceux qui les entourent et à avoir un impact significatif sur le monde.",
+        "Celebrities": [
+          "Barack Obama",
+          "Oprah Winfrey",
+          "Martin Luther King Jr.",
+          "Maya Angelou",
+          "Nelson Mandela",
+          "Jennifer Lawrence"
+        ]
+      },
+      {
+        "id": 16,
+        "language_code": "es",
+        "type": "ENFJ",
+        "name": "Protagonista",
+        "Description": "Carismáticos e inspiradores, los Protagonistas son líderes naturales que prosperan ayudando a otros a alcanzar su potencial. Son empáticos, socialmente conscientes y, a menudo, vistos como la fuerza impulsora detrás de los esfuerzos grupales. Los Protagonistas sobresalen en la comprensión de las emociones de los demás y están motivados por el deseo de mejorar el mundo.",
+        "Strengths": [
+          "carismático",
+          "inspirador",
+          "empático",
+          "consciente socialmente",
+          "excelente comunicador",
+          "organizado",
+          "motivado",
+          "apasionado",
+          "altruista",
+          "líder natural"
+        ],
+        "Weaknesses": [
+          "demasiado idealista",
+          "propenso al agotamiento",
+          "demasiado desinteresado",
+          "puede ser sensible a las críticas",
+          "puede tener dificultades para establecer límites",
+          "no le gusta el conflicto",
+          "puede ser demasiado duro consigo mismo"
+        ],
+        "DosInRelationship": [
+          "Apoye sus pasiones y ambiciones.",
+          "Muestre aprecio por su liderazgo y empatía.",
+          "Comunique abiertamente y con frecuencia sobre las emociones.",
+          "Esté dispuesto a unirse a actividades sociales y causas que les importan.",
+          "Déles espacio para ayudar a los demás y expresar su naturaleza altruista."
+        ],
+        "DontsInRelationship": [
+          "No critique sus ideales o ambiciones.",
+          "Evite ser despectivo con sus emociones.",
+          "No sea demasiado crítico o poco solidario.",
+          "Evite el conflicto o los comentarios negativos sin ser constructivo.",
+          "No se aproveche de su desinterés."
+        ],
+        "Friendships": "Los Protagonistas valoran las amistades que se construyen sobre el apoyo mutuo y la comprensión. Buscan amigos que estén emocionalmente disponibles, sean atentos y estén dispuestos a unirse a ellos en actividades significativas. Les encanta tener amigos que puedan apreciar su empatía y su impulso para marcar la diferencia.",
+        "CareerPath": [
+          "Maestro",
+          "Consejero",
+          "Psicólogo",
+          "Orador público",
+          "Humanitario",
+          "Trabajador social",
+          "Gerente",
+          "Líder de ONG",
+          "Organizador comunitario"
+        ],
+        "LifeValue": [
+          "Compasión",
+          "Liderazgo",
+          "Altruismo",
+          "Pasión",
+          "Empatía"
+        ],
+        "CompatibleConnections": [
+          "Guardián (INFJ)",
+          "Pacificador (INFP)",
+          "Genio (INTP)"
+        ],
+        "HasPotentialConnections": [
+          "Comandante (ENTJ)",
+          "Desafiador (ENTP)",
+          "Maestro (INTJ)",
+          "Cruzado (ENFP)",
+          "Embajador (ESFJ)"
+        ],
+        "ChallengingConnections": [
+          "Artesano (ISTP)",
+          "Ejecutivo (ESTJ)",
+          "Realista (ISTJ)",
+          "Rebelde (ESTP)"
+        ],
+        "AttractedBy": [
+          "carismático",
+          "empático",
+          "inspirador",
+          "consciente socialmente",
+          "organizado",
+          "motivado",
+          "apasionado",
+          "excelente comunicador",
+          "líder natural",
+          "altruista"
+        ],
+        "PetPeeves": [
+          "indiferencia",
+          "egoísmo",
+          "falta de empatía",
+          "desorganización",
+          "cinismo",
+          "pereza",
+          "falta de ambición",
+          "negatividad"
+        ],
+        "HowToBeCompanion": [
+          "Muestre aprecio por su empatía y liderazgo.",
+          "Comunique abiertamente y con honestidad sobre los sentimientos.",
+          "Apoye sus pasiones y causas.",
+          "Únase a ellos en actividades sociales o altruistas.",
+          "Esté emocionalmente disponible y sea amable."
+        ],
+        "SecretDesire": "Los Protagonistas desean secretamente dejar una huella duradera en el mundo y en las vidas de los demás. Sueñan con crear un cambio positivo y ser recordados por su liderazgo y empatía.",
+        "Stereotypes": "A menudo se percibe a los Protagonistas como demasiado idealistas o demasiado centrados en ayudar a los demás, pero en realidad están profundamente comprometidos en mejorar la vida de quienes los rodean y tener un impacto significativo en el mundo.",
+        "Celebrities": [
+          "Barack Obama",
+          "Oprah Winfrey",
+          "Martin Luther King Jr.",
+          "Maya Angelou",
+          "Nelson Mandela",
+          "Jennifer Lawrence"
+        ]
+      },
+      {
+        "id": 16,
+        "language_code": "pt",
+        "type": "ENFJ",
+        "name": "Protagonista",
+        "Description": "Carismáticos e inspiradores, os Protagonistas são líderes naturais que prosperam ajudando os outros a atingir seu potencial. Eles são empáticos, socialmente conscientes e frequentemente vistos como a força motriz por trás dos esforços do grupo. Os Protagonistas se destacam na compreensão das emoções dos outros e são motivados pelo desejo de tornar o mundo um lugar melhor.",
+        "Strengths": [
+          "carismático",
+          "inspirador",
+          "empático",
+          "consciente socialmente",
+          "excelente comunicador",
+          "organizado",
+          "motivado",
+          "apaixonado",
+          "altruísta",
+          "líder nato"
+        ],
+        "Weaknesses": [
+          "excessivamente idealista",
+          "propenso ao esgotamento",
+          "muito altruísta",
+          "pode ser sensível às críticas",
+          "pode ter dificuldade em definir limites",
+          "não gosta de conflitos",
+          "pode ser muito duro consigo mesmo"
+        ],
+        "DosInRelationship": [
+          "Apoie suas paixões e ambições.",
+          "Mostre apreciação por sua liderança e empatia.",
+          "Comunique-se aberta e frequentemente sobre as emoções.",
+          "Esteja disposto a participar de atividades sociais e causas que são importantes para eles.",
+          "Dê-lhes espaço para ajudar os outros e expressar sua natureza altruísta."
+        ],
+        "DontsInRelationship": [
+          "Não critique seus ideais ou ambições.",
+          "Evite desvalorizar suas emoções.",
+          "Não seja excessivamente crítico ou insensível.",
+          "Evite conflitos ou críticas negativas sem ser construtivo.",
+          "Não se aproveite de seu altruísmo."
+        ],
+        "Friendships": "Os Protagonistas valorizam amizades construídas com base no apoio e compreensão mútuos. Eles procuram amigos que estejam emocionalmente disponíveis, sejam atenciosos e dispostos a acompanhá-los em atividades significativas. Eles apreciam amigos que podem reconhecer sua empatia e sua motivação para fazer a diferença.",
+        "CareerPath": [
+          "Professor",
+          "Conselheiro",
+          "Psicólogo",
+          "Orador público",
+          "Humanitário",
+          "Assistente social",
+          "Gerente",
+          "Líder de ONG",
+          "Organizador comunitário"
+        ],
+        "LifeValue": [
+          "Compaixão",
+          "Liderança",
+          "Altruísmo",
+          "Paixão",
+          "Empatia"
+        ],
+        "CompatibleConnections": [
+          "Guardião (INFJ)",
+          "Pacificador (INFP)",
+          "Gênio (INTP)"
+        ],
+        "HasPotentialConnections": [
+          "Comandante (ENTJ)",
+          "Desafiante (ENTP)",
+          "Mestre (INTJ)",
+          "Cruzado (ENFP)",
+          "Embaixador (ESFJ)"
+        ],
+        "ChallengingConnections": [
+          "Artesão (ISTP)",
+          "Executivo (ESTJ)",
+          "Realista (ISTJ)",
+          "Rebelde (ESTP)"
+        ],
+        "AttractedBy": [
+          "carismático",
+          "empático",
+          "inspirador",
+          "consciente socialmente",
+          "organizado",
+          "motivado",
+          "apaixonado",
+          "excelente comunicador",
+          "líder nato",
+          "altruísta"
+        ],
+        "PetPeeves": [
+          "indiferença",
+          "egoísmo",
+          "falta de empatia",
+          "desorganização",
+          "cinismo",
+          "preguiça",
+          "falta de ambição",
+          "negatividade"
+        ],
+        "HowToBeCompanion": [
+          "Mostre apreciação por sua empatia e liderança.",
+          "Comunique-se aberta e honestamente sobre os sentimentos.",
+          "Apoie suas paixões e causas.",
+          "Participe de atividades sociais ou altruístas com eles.",
+          "Seja emocionalmente disponível e gentil."
+        ],
+        "SecretDesire": "Os Protagonistas desejam secretamente deixar uma marca duradoura no mundo e nas vidas dos outros. Eles sonham em criar mudanças positivas e serem lembrados por sua liderança e empatia.",
+        "Stereotypes": "Os Protagonistas são frequentemente vistos como idealistas demais ou muito focados em ajudar os outros, mas na realidade, eles estão profundamente comprometidos em melhorar a vida de quem os rodeia e causar um impacto significativo no mundo.",
+        "Celebrities": [
+          "Barack Obama",
+          "Oprah Winfrey",
+          "Martin Luther King Jr.",
+          "Maya Angelou",
+          "Nelson Mandela",
+          "Jennifer Lawrence"
+        ]
+      },
+      {
+        "id": 16,
+        "language_code": "ar",
+        "type": "ENFJ",
+        "name": "البطل",
+        "Description": "كاريزماتيون وملهمون، يتمتع أصحاب شخصية البطل بقدرات قيادية طبيعية ويزدهرون بمساعدة الآخرين على تحقيق إمكاناتهم. إنهم متعاطفون وواعون اجتماعيًا وغالبًا ما يُنظر إليهم على أنهم القوة الدافعة وراء الجهود الجماعية. يتفوق الأبطال في فهم مشاعر الآخرين وهم مدفوعون برغبة في جعل العالم مكانًا أفضل.",
+        "Strengths": [
+          "كاريزمي",
+          "ملهم",
+          "متعاطف",
+          "واعي اجتماعيًا",
+          "متواصل ممتاز",
+          "منظم",
+          "مدفوع",
+          "شغوف",
+          "إيثاري",
+          "قائد طبيعي"
+        ],
+        "Weaknesses": [
+          "مثالي أكثر من اللازم",
+          "عرضة للإرهاق",
+          "إيثاري بشكل مفرط",
+          "يمكن أن يكون حساسًا للنقد",
+          "قد يواجه صعوبة في وضع الحدود",
+          "لا يحب الصراع",
+          "يمكن أن يكون شديد القسوة على نفسه"
+        ],
+        "DosInRelationship": [
+          "ادعم شغفهم وطموحاتهم.",
+          "أظهر التقدير لقدراتهم القيادية وتعاطفهم.",
+          "تواصل بشكل مفتوح ومتكرر حول المشاعر.",
+          "كن على استعداد للمشاركة في الأنشطة الاجتماعية والقضايا التي تهمهم.",
+          "امنحهم مساحة لمساعدة الآخرين والتعبير عن طبيعتهم الإيثارية."
+        ],
+        "DontsInRelationship": [
+          "لا تنتقد أفكارهم أو طموحاتهم.",
+          "تجنب تجاهل مشاعرهم.",
+          "لا تكن شديد الانتقاد أو غير داعم.",
+          "تجنب الصراع أو ردود الفعل السلبية دون أن تكون بناءًا.",
+          "لا تستغل طبيعتهم الإيثارية."
+        ],
+        "Friendships": "يقدّر الأبطال الصداقات التي تُبنى على الدعم المتبادل والتفاهم. إنهم يبحثون عن أصدقاء يكونون متاحين عاطفيًا، ومهتمين، ومستعدين للانضمام إليهم في أنشطة هادفة. يحبون الأصدقاء الذين يمكنهم تقدير تعاطفهم ودافعهم لإحداث تغيير.",
+        "CareerPath": [
+          "معلم",
+          "مستشار",
+          "عالم نفس",
+          "متحدث عام",
+          "إنساني",
+          "عامل اجتماعي",
+          "مدير",
+          "قائد منظمة غير ربحية",
+          "منظم مجتمعي"
+        ],
+        "LifeValue": [
+          "التعاطف",
+          "القيادة",
+          "الإيثار",
+          "الشغف",
+          "التعاطف"
+        ],
+        "CompatibleConnections": [
+          "الوصي (INFJ)",
+          "صانع السلام (INFP)",
+          "العبقري (INTP)"
+        ],
+        "HasPotentialConnections": [
+          "القائد (ENTJ)",
+          "المتحدي (ENTP)",
+          "المايسترو (INTJ)",
+          "الصليبي (ENFP)",
+          "السفير (ESFJ)"
+        ],
+        "ChallengingConnections": [
+          "الحرفي (ISTP)",
+          "المدير التنفيذي (ESTJ)",
+          "الواقعي (ISTJ)",
+          "المتمرد (ESTP)"
+        ],
+        "AttractedBy": [
+          "كاريزمي",
+          "متعاطف",
+          "ملهم",
+          "واعي اجتماعيًا",
+          "منظم",
+          "مدفوع",
+          "شغوف",
+          "متواصل ممتاز",
+          "قائد طبيعي",
+          "إيثاري"
+        ],
+        "PetPeeves": [
+          "اللامبالاة",
+          "الأنانية",
+          "نقص التعاطف",
+          "عدم التنظيم",
+          "السخرية",
+          "الكسل",
+          "نقص الطموح",
+          "السلبية"
+        ],
+        "HowToBeCompanion": [
+          "أظهر التقدير لتعاطفهم وقدراتهم القيادية.",
+          "تواصل بشكل مفتوح وصادق حول المشاعر.",
+          "ادعم شغفهم وقضاياهم.",
+          "انضم إليهم في الأنشطة الاجتماعية أو الإيثارية.",
+          "كن متاحًا عاطفيًا وطيب القلب."
+        ],
+        "SecretDesire": "يتوق الأبطال سرًا إلى إحداث تأثير دائم في العالم وفي حياة الآخرين. يحلمون بإحداث تغيير إيجابي وأن يتم تذكرهم لقيادتهم وتعاطفهم.",
+        "Stereotypes": "غالبًا ما يُنظر إلى الأبطال على أنهم مثاليون جدًا أو شديدو التركيز على مساعدة الآخرين، لكن في الواقع، هم ملتزمون بشدة بتحسين حياة من حولهم وإحداث تأثير كبير في العالم.",
+        "Celebrities": [
+          "باراك أوباما",
+          "أوبرا وينفري",
+          "مارتن لوثر كينغ جونيور",
+          "مايا أنجيلو",
+          "نيلسون مانديلا",
+          "جينيفر لورانس"
+        ]
+      }
+    ]
+  }  

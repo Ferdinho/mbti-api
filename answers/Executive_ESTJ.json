@@ -1,0 +1,634 @@
+{
+    "personalities": [
+      {
+        "id": 7,
+        "language_code": "en",
+        "type": "ESTJ",
+        "name": "The Executive",
+        "Description": "Executives are natural organizers, known for their strong leadership and sense of duty. They value order, discipline, and efficiency, always striving to create stability in their environments. While sometimes seen as rigid, their dedication to doing what’s right makes them reliable and trustworthy. They seek practical solutions and have a strong sense of responsibility, which leads them to take charge in almost any situation.",
+        "Strengths": [
+          "dedicated",
+          "strong-willed",
+          "direct and honest",
+          "loyal",
+          "patient",
+          "reliable",
+          "enjoy creating order",
+          "excellent organizers"
+        ],
+        "Weaknesses": [
+          "inflexible and stubborn",
+          "uncomfortable with unconventional situations",
+          "judgmental",
+          "too focused on social status",
+          "difficult to relax",
+          "difficulty expressing emotion"
+        ],
+        "DosInRelationship": [
+          "Be gentle and kind—they appreciate softness balancing their strength.",
+          "Let them take charge; they enjoy being the leader.",
+          "Show you're reliable by keeping promises—they'll respect that.",
+          "Be honest and clear in communication; avoid emotional drama.",
+          "Help with practical tasks—they value tangible gestures.",
+          "Respect their space and time with family and friends."
+        ],
+        "DontsInRelationship": [
+          "Avoid manipulative games and inauthentic behavior; it’s a major turn-off.",
+          "Don’t be overly sexual too soon; they value self-control.",
+          "Don’t act lazy or disorganized.",
+          "Avoid pushing them to open up emotionally before they’re ready.",
+          "Don’t ignore social rules or show up late; this frustrates them."
+        ],
+        "Friendships": "Executives value friendships based on shared values and work ethics. While they may have strong principles, they form bonds through common interests, hobbies, and routines. They prioritize loyalty and love organizing events for group activities, ensuring everyone enjoys time together.",
+        "CareerPath": [
+          "Auditor",
+          "Commercial Pilot",
+          "Computer Repairer",
+          "Construction Manager",
+          "Correction Officer",
+          "Criminal Investigator",
+          "Home Health Aides",
+          "Personal Financial Advisor",
+          "Police, Fire & Ambulance Dispatcher",
+          "Sheriff & Deputy Sheriff"
+        ],
+        "LifeValue": [
+          "Home/Family",
+          "Health",
+          "Financial Security",
+          "Achievement",
+          "Friendships"
+        ],
+        "CompatibleConnections": [
+          "Logistician (ISTJ)",
+          "Virtuoso (ISTP)",
+          "Adventurer (ISFP)"
+        ],
+        "HasPotentialConnections": [
+          "Logician (INTP)",
+          "Advocate (INFJ)",
+          "Mediator (INFP)",
+          "Consul (ESFJ)",
+          "Entertainer (ESFP)",
+          "Defender (ISFJ)"
+        ],
+        "ChallengingConnections": [
+          "Architect (INTJ)",
+          "Campaigner (ENFP)",
+          "Debater (ENTP)",
+          "Protagonist (ENFJ)",
+          "Commander (ENTJ)",
+          "Executive (ESTJ)"
+        ],
+        "AttractedBy": [
+          "soft and gentle",
+          "warm",
+          "caring",
+          "reliable",
+          "responsible",
+          "detailed",
+          "honest",
+          "dutiful",
+          "logical",
+          "easygoing"
+        ],
+        "PetPeeves": [
+          "tardy",
+          "incompetent",
+          "undetailed",
+          "overemotional",
+          "illogical",
+          "irresponsible",
+          "lazy",
+          "disorganized",
+          "whiny",
+          "complaining",
+          "disrespectful",
+          "flaky",
+          "procrastinating"
+        ],
+        "HowToBeCompanion": [
+          "Be organized and take initiative in your shared responsibilities.",
+          "Show respect for their leadership qualities, but don’t be afraid to offer input.",
+          "Provide practical solutions rather than emotional responses to problems.",
+          "Be direct and honest in communication—they appreciate clarity.",
+          "Respect their need for structure and stability in life.",
+          "Support their ambitions and demonstrate your own drive and commitment."
+        ],
+        "SecretDesire": "Executives appear logical and straightforward, but deep down they crave personal fulfillment through meaningful contributions. They often desire to make a positive impact beyond professional success, yearning for connection through charitable or social causes that bring purpose to their lives.",
+        "Stereotypes": "Many mistake Executives for being controlling or overly concerned with rules. In reality, they care deeply about helping others and are willing to go above and beyond for those they love. These personalities balance their structured approach to life with a genuine desire to improve the world around them.",
+        "Celebrities": [
+          "Saddam Hussein",
+          "Michelle Obama",
+          "Celine Dion",
+          "Emma Watson",
+          "Dr Phil",
+          "Ivanka Trump"
+        ]
+      },
+      {
+        "id": 7,
+        "language_code": "fr",
+        "type": "ESTJ",
+        "name": "Exécutif",
+        "Description": "Les exécutifs sont des organisateurs naturels, connus pour leur leadership fort et leur sens du devoir. Ils valorisent l'ordre, la discipline et l'efficacité, s'efforçant toujours de créer la stabilité dans leur environnement. Bien qu'ils soient parfois perçus comme rigides, leur dévouement à faire ce qui est juste les rend fiables et dignes de confiance. Ils recherchent des solutions pratiques et ont un fort sens des responsabilités, ce qui les pousse à prendre les commandes dans presque toutes les situations.",
+        "Strengths": [
+          "dévoué",
+          "volonté forte",
+          "direct et honnête",
+          "loyal",
+          "patient",
+          "fiable",
+          "aime créer de l'ordre",
+          "excellents organisateurs"
+        ],
+        "Weaknesses": [
+          "inflexible et têtu",
+          "mal à l'aise avec les situations non conventionnelles",
+          "critique",
+          "trop concentré sur le statut social",
+          "difficulté à se détendre",
+          "difficulté à exprimer ses émotions"
+        ],
+        "DosInRelationship": [
+          "Soyez doux et gentil - ils apprécient la douceur qui équilibre leur force.",
+          "Laissez-les prendre les commandes; ils aiment être les leaders.",
+          "Montrez que vous êtes fiable en tenant vos promesses - ils respecteront cela.",
+          "Soyez honnête et clair dans la communication; évitez le drame émotionnel.",
+          "Aidez aux tâches pratiques - ils apprécient les gestes tangibles.",
+          "Respectez leur espace et leur temps avec leur famille et leurs amis."
+        ],
+        "DontsInRelationship": [
+          "Évitez les jeux manipulateurs et les comportements inauthentiques; c'est un grand tournant négatif.",
+          "Ne soyez pas trop sexuel trop tôt; ils apprécient le contrôle de soi.",
+          "N'agissez pas avec paresse ou désorganisation.",
+          "Évitez de les pousser à s'ouvrir émotionnellement avant qu'ils ne soient prêts.",
+          "Ne négligez pas les règles sociales ou n'arrivez pas en retard; cela les frustre."
+        ],
+        "Friendships": "Les exécutifs valorisent les amitiés basées sur des valeurs partagées et une éthique de travail. Bien qu'ils puissent avoir des principes forts, ils forment des liens à travers des intérêts communs, des loisirs et des routines. Ils priorisent la loyauté et aiment organiser des événements pour des activités de groupe, s'assurant que tout le monde profite du temps ensemble.",
+        "CareerPath": [
+          "Auditeur",
+          "Pilote commercial",
+          "Réparateur d'ordinateurs",
+          "Chef de chantier",
+          "Agent pénitentiaire",
+          "Enquêteur criminel",
+          "Aides à domicile",
+          "Conseiller financier personnel",
+          "Dispacheur de police, pompiers et ambulanciers",
+          "Shérif et adjoint du shérif"
+        ],
+        "LifeValue": [
+          "Famille/maison",
+          "Santé",
+          "Sécurité financière",
+          "Réussite",
+          "Amitiés"
+        ],
+        "CompatibleConnections": [
+          "Le Logisticien (ISTJ)",
+          "Le Virtuose (ISTP)",
+          "L'Aventurier (ISFP)"
+        ],
+        "HasPotentialConnections": [
+          "Le Logicien (INTP)",
+          "L'Avocat (INFJ)",
+          "Le Médiateur (INFP)",
+          "Le Consul (ESFJ)",
+          "Le Performeur (ESFP)",
+          "Le Défenseur (ISFJ)"
+        ],
+        "ChallengingConnections": [
+          "L'Architecte (INTJ)",
+          "Le Campagneur (ENFP)",
+          "Le Débatteur (ENTP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Commandeur (ENTJ)",
+          "L'Exécutif (ESTJ)"
+        ],
+        "AttractedBy": [
+          "doux et gentil",
+          "chaleureux",
+          "attentionné",
+          "fiable",
+          "responsable",
+          "détaillé",
+          "honnête",
+          "consciencieux",
+          "logique",
+          "décontracté"
+        ],
+        "PetPeeves": [
+          "retardataire",
+          "incompétent",
+          "peu détaillé",
+          "trop émotionnel",
+          "illogique",
+          "irresponsable",
+          "paresseux",
+          "désorganisé",
+          "pleurnichard",
+          "se plaint",
+          "irrespectueux",
+          "inconstant",
+          "procrastination"
+        ],
+        "HowToBeCompanion": [
+          "Soyez organisé et prenez l'initiative de vos responsabilités partagées.",
+          "Montrez du respect pour leurs qualités de leadership, mais n'ayez pas peur d'offrir des suggestions.",
+          "Apportez des solutions pratiques plutôt que des réponses émotionnelles aux problèmes.",
+          "Soyez direct et honnête dans la communication - ils apprécient la clarté.",
+          "Respectez leur besoin de structure et de stabilité dans la vie.",
+          "Soutenez leurs ambitions et montrez votre propre engagement et motivation."
+        ],
+        "SecretDesire": "Les exécutifs semblent logiques et directs, mais au fond, ils aspirent à un accomplissement personnel à travers des contributions significatives. Ils désirent souvent avoir un impact positif au-delà du succès professionnel, aspirant à se connecter à travers des causes sociales ou caritatives qui donnent un sens à leur vie.",
+        "Stereotypes": "Beaucoup pensent à tort que les exécutifs sont contrôlants ou trop préoccupés par les règles. En réalité, ils se soucient profondément d'aider les autres et sont prêts à aller au-delà pour ceux qu'ils aiment. Ces personnalités équilibrent leur approche structurée de la vie avec un désir sincère d'améliorer le monde qui les entoure.",
+        "Celebrities": [
+          "Saddam Hussein",
+          "Michelle Obama",
+          "Céline Dion",
+          "Emma Watson",
+          "Dr Phil",
+          "Ivanka Trump"
+        ]
+      },
+      {
+        "id": 7,
+        "language_code": "es",
+        "type": "ESTJ",
+        "name": "Ejecutivo",
+        "Description": "Los ejecutivos son organizadores natos, conocidos por su fuerte liderazgo y sentido del deber. Valoran el orden, la disciplina y la eficiencia, siempre esforzándose por crear estabilidad en sus entornos. Aunque a veces se los considera rígidos, su dedicación a hacer lo correcto los convierte en personas confiables y dignas de confianza. Buscan soluciones prácticas y tienen un fuerte sentido de la responsabilidad, lo que los lleva a asumir el mando en casi cualquier situación.",
+        "Strengths": [
+          "dedicado",
+          "voluntad fuerte",
+          "directo y honesto",
+          "leal",
+          "paciente",
+          "confiable",
+          "disfruta creando orden",
+          "excelentes organizadores"
+        ],
+        "Weaknesses": [
+          "inflexible y terco",
+          "incómodo con situaciones no convencionales",
+          "crítico",
+          "demasiado enfocado en el estatus social",
+          "dificultad para relajarse",
+          "dificultad para expresar emociones"
+        ],
+        "DosInRelationship": [
+          "Sé gentil y amable; aprecian la suavidad que equilibra su fortaleza.",
+          "Déjalos tomar el mando; disfrutan siendo los líderes.",
+          "Demuestra que eres confiable cumpliendo tus promesas; respetarán eso.",
+          "Sé honesto y claro en la comunicación; evita el drama emocional.",
+          "Ayuda con tareas prácticas; valoran los gestos tangibles.",
+          "Respeta su espacio y tiempo con la familia y amigos."
+        ],
+        "DontsInRelationship": [
+          "Evita los juegos manipulativos y el comportamiento inauténtico; es un gran desmotivador.",
+          "No seas demasiado sexual demasiado pronto; valoran el autocontrol.",
+          "No actúes perezoso o desorganizado.",
+          "Evita presionarlos para que se abran emocionalmente antes de que estén listos.",
+          "No ignores las reglas sociales ni llegues tarde; eso los frustra."
+        ],
+        "Friendships": "Los ejecutivos valoran las amistades basadas en valores compartidos y ética de trabajo. Aunque pueden tener principios fuertes, forman lazos a través de intereses comunes, pasatiempos y rutinas. Priorizan la lealtad y les encanta organizar eventos para actividades grupales, asegurándose de que todos disfruten del tiempo juntos.",
+        "CareerPath": [
+          "Auditor",
+          "Piloto comercial",
+          "Reparador de computadoras",
+          "Gerente de construcción",
+          "Oficial de correcciones",
+          "Investigador criminal",
+          "Auxiliares de salud en el hogar",
+          "Asesor financiero personal",
+          "Despachador de policía, bomberos y ambulancias",
+          "Sheriff y ayudante del sheriff"
+        ],
+        "LifeValue": [
+          "Familia/Hogar",
+          "Salud",
+          "Seguridad financiera",
+          "Logro",
+          "Amistades"
+        ],
+        "CompatibleConnections": [
+          "El Logístico (ISTJ)",
+          "El Virtuoso (ISTP)",
+          "El Aventurero (ISFP)"
+        ],
+        "HasPotentialConnections": [
+          "El Lógico (INTP)",
+          "El Defensor (INFJ)",
+          "El Mediador (INFP)",
+          "El Cónsul (ESFJ)",
+          "El Artista (ESFP)",
+          "El Defensor (ISFJ)"
+        ],
+        "ChallengingConnections": [
+          "El Arquitecto (INTJ)",
+          "El Campañero (ENFP)",
+          "El Debatidor (ENTP)",
+          "El Protagonista (ENFJ)",
+          "El Comandante (ENTJ)",
+          "El Ejecutivo (ESTJ)"
+        ],
+        "AttractedBy": [
+          "suave y gentil",
+          "cálido",
+          "cariñoso",
+          "confiable",
+          "responsable",
+          "detallado",
+          "honesto",
+          "cumplidor",
+          "lógico",
+          "relajado"
+        ],
+        "PetPeeves": [
+          "tardío",
+          "incompetente",
+          "poco detallado",
+          "demasiado emocional",
+          "ilógico",
+          "irresponsable",
+          "perezoso",
+          "desorganizado",
+          "quejoso",
+          "quejumbroso",
+          "irrespetuoso",
+          "inconstante",
+          "procrastinador"
+        ],
+        "HowToBeCompanion": [
+          "Sé organizado y toma la iniciativa en tus responsabilidades compartidas.",
+          "Muestra respeto por sus cualidades de liderazgo, pero no temas ofrecer sugerencias.",
+          "Proporciona soluciones prácticas en lugar de respuestas emocionales a los problemas.",
+          "Sé directo y honesto en la comunicación; aprecian la claridad.",
+          "Respeta su necesidad de estructura y estabilidad en la vida.",
+          "Apoya sus ambiciones y demuestra tu propio compromiso y motivación."
+        ],
+        "SecretDesire": "Los ejecutivos parecen lógicos y directos, pero en el fondo anhelan la realización personal a través de contribuciones significativas. A menudo desean tener un impacto positivo más allá del éxito profesional, aspirando a conectarse a través de causas sociales o caritativas que den sentido a sus vidas.",
+        "Stereotypes": "Muchos confunden a los ejecutivos con personas controladoras o demasiado preocupadas por las reglas. En realidad, se preocupan profundamente por ayudar a los demás y están dispuestos a hacer todo lo posible por quienes aman. Estas personalidades equilibran su enfoque estructurado de la vida con un deseo genuino de mejorar el mundo que los rodea.",
+        "Celebrities": [
+          "Saddam Hussein",
+          "Michelle Obama",
+          "Celine Dion",
+          "Emma Watson",
+          "Dr Phil",
+          "Ivanka Trump"
+        ]
+      },
+      {
+        "id": 7,
+        "language_code": "pt",
+        "type": "ESTJ",
+        "name": "Executivo",
+        "Description": "Os executivos são organizadores natos, conhecidos por sua forte liderança e senso de dever. Eles valorizam a ordem, a disciplina e a eficiência, sempre se esforçando para criar estabilidade em seus ambientes. Embora às vezes sejam vistos como rígidos, sua dedicação a fazer o que é certo os torna confiáveis e dignos de confiança. Eles buscam soluções práticas e têm um forte senso de responsabilidade, o que os leva a assumir o comando em quase qualquer situação.",
+        "Strengths": [
+          "dedicado",
+          "força de vontade",
+          "direto e honesto",
+          "leal",
+          "paciente",
+          "confiável",
+          "gosta de criar ordem",
+          "excelentes organizadores"
+        ],
+        "Weaknesses": [
+          "inflexível e teimoso",
+          "desconfortável com situações não convencionais",
+          "julgador",
+          "focado demais no status social",
+          "dificuldade em relaxar",
+          "dificuldade em expressar emoções"
+        ],
+        "DosInRelationship": [
+          "Seja gentil e amável - eles apreciam a suavidade que equilibra sua força.",
+          "Deixe-os assumir o controle; eles gostam de ser os líderes.",
+          "Mostre que você é confiável cumprindo suas promessas - eles respeitarão isso.",
+          "Seja honesto e claro na comunicação; evite dramas emocionais.",
+          "Ajude com tarefas práticas - eles valorizam gestos tangíveis.",
+          "Respeite seu espaço e tempo com a família e amigos."
+        ],
+        "DontsInRelationship": [
+          "Evite jogos manipulativos e comportamento inautêntico; é um grande desmotivador.",
+          "Não seja muito sexual muito cedo; eles valorizam o autocontrole.",
+          "Não aja de maneira preguiçosa ou desorganizada.",
+          "Evite pressioná-los a se abrir emocionalmente antes de estarem prontos.",
+          "Não ignore as regras sociais ou chegue atrasado; isso os frustra."
+        ],
+        "Friendships": "Os executivos valorizam amizades baseadas em valores compartilhados e ética de trabalho. Embora possam ter princípios fortes, formam laços por meio de interesses comuns, hobbies e rotinas. Eles priorizam a lealdade e adoram organizar eventos para atividades em grupo, garantindo que todos aproveitem o tempo juntos.",
+        "CareerPath": [
+          "Auditor",
+          "Piloto comercial",
+          "Reparador de computadores",
+          "Gerente de construção",
+          "Oficial correcional",
+          "Investigador criminal",
+          "Ajudantes de saúde em casa",
+          "Conselheiro financeiro pessoal",
+          "Despachante de polícia, bombeiros e ambulâncias",
+          "Xerife e Subxerife"
+        ],
+        "LifeValue": [
+          "Família/Casa",
+          "Saúde",
+          "Segurança financeira",
+          "Realização",
+          "Amizades"
+        ],
+        "CompatibleConnections": [
+          "O Logístico (ISTJ)",
+          "O Virtuoso (ISTP)",
+          "O Aventureiro (ISFP)"
+        ],
+        "HasPotentialConnections": [
+          "O Lógico (INTP)",
+          "O Defensor (INFJ)",
+          "O Mediador (INFP)",
+          "O Cônsul (ESFJ)",
+          "O Performista (ESFP)",
+          "O Protetor (ISFJ)"
+        ],
+        "ChallengingConnections": [
+          "O Arquiteto (INTJ)",
+          "O Campanhista (ENFP)",
+          "O Debatedor (ENTP)",
+          "O Protagonista (ENFJ)",
+          "O Comandante (ENTJ)",
+          "O Executivo (ESTJ)"
+        ],
+        "AttractedBy": [
+          "suave e gentil",
+          "caloroso",
+          "carinhoso",
+          "confiável",
+          "responsável",
+          "detalhista",
+          "honesto",
+          "cumpridor",
+          "lógico",
+          "tranquilo"
+        ],
+        "PetPeeves": [
+          "atrasado",
+          "incompetente",
+          "pouco detalhado",
+          "excessivamente emocional",
+          "ilógico",
+          "irresponsável",
+          "preguiçoso",
+          "desorganizado",
+          "reclamão",
+          "queixoso",
+          "desrespeitoso",
+          "instável",
+          "procrastinador"
+        ],
+        "HowToBeCompanion": [
+          "Seja organizado e assuma a iniciativa nas suas responsabilidades compartilhadas.",
+          "Mostre respeito por suas qualidades de liderança, mas não tenha medo de oferecer sugestões.",
+          "Ofereça soluções práticas em vez de respostas emocionais para problemas.",
+          "Seja direto e honesto na comunicação - eles apreciam a clareza.",
+          "Respeite sua necessidade de estrutura e estabilidade na vida.",
+          "Apoie suas ambições e mostre seu próprio compromisso e motivação."
+        ],
+        "SecretDesire": "Os executivos parecem lógicos e diretos, mas no fundo, eles anseiam por realização pessoal através de contribuições significativas. Eles geralmente desejam causar um impacto positivo além do sucesso profissional, aspirando se conectar por meio de causas sociais ou de caridade que dêem sentido às suas vidas.",
+        "Stereotypes": "Muitos confundem os executivos com pessoas controladoras ou excessivamente preocupadas com regras. Na realidade, eles se preocupam profundamente em ajudar os outros e estão dispostos a fazer o possível para aqueles que amam. Essas personalidades equilibram sua abordagem estruturada da vida com um desejo genuíno de melhorar o mundo ao seu redor.",
+        "Celebrities": [
+          "Saddam Hussein",
+          "Michelle Obama",
+          "Celine Dion",
+          "Emma Watson",
+          "Dr Phil",
+          "Ivanka Trump"
+        ]
+      },
+      {
+        "id": 7,
+        "language_code": "ar",
+        "type": "ESTJ",
+        "name": "المدير التنفيذي",
+        "Description": "المديرون التنفيذيون هم منظِّمون بالفطرة، معروفون بقيادتهم القوية وإحساسهم العميق بالواجب. يقدرون النظام والانضباط والكفاءة، ويسعون دائمًا إلى تحقيق الاستقرار في بيئاتهم. في حين يُنظر إليهم أحيانًا على أنهم جامدون، فإن تفانيهم في فعل ما هو صواب يجعلهم أشخاصًا يمكن الاعتماد عليهم وجديرين بالثقة. يسعون لإيجاد حلول عملية ولديهم حس قوي بالمسؤولية، مما يدفعهم لتولي القيادة في معظم المواقف.",
+        "Strengths": [
+          "مكرس",
+          "إرادة قوية",
+          "صريح وصادق",
+          "وفي",
+          "صبور",
+          "موثوق",
+          "يحب خلق النظام",
+          "منظمون ممتازون"
+        ],
+        "Weaknesses": [
+          "غير مرن وعنيد",
+          "غير مرتاح في المواقف غير التقليدية",
+          "انتقادي",
+          "يركز بشكل مفرط على الوضع الاجتماعي",
+          "صعوبة في الاسترخاء",
+          "صعوبة في التعبير عن المشاعر"
+        ],
+        "DosInRelationship": [
+          "كن لطيفًا وطيبًا - يقدرون اللطف الذي يوازن قوتهم.",
+          "دعهم يتولون القيادة؛ يستمتعون بكونهم قادة.",
+          "أظهر أنك موثوق به من خلال الوفاء بالوعود؛ سيحترمون ذلك.",
+          "كن صريحًا وواضحًا في التواصل؛ تجنب الدراما العاطفية.",
+          "ساعد في المهام العملية - يقدرون الإيماءات الملموسة.",
+          "احترم مساحتهم ووقتهم مع العائلة والأصدقاء."
+        ],
+        "DontsInRelationship": [
+          "تجنب الألعاب التلاعبية والسلوك غير الصادق؛ إنها عامل نفور كبير.",
+          "لا تكن مفرط الجنسي في وقت مبكر جدًا؛ يقدرون ضبط النفس.",
+          "لا تكن كسولًا أو غير منظم.",
+          "تجنب دفعهم للانفتاح العاطفي قبل أن يكونوا مستعدين.",
+          "لا تتجاهل القواعد الاجتماعية أو تتأخر؛ هذا يزعجهم."
+        ],
+        "Friendships": "يقدر المديرون التنفيذيون الصداقات التي تعتمد على القيم المشتركة وأخلاقيات العمل. بينما قد يكون لديهم مبادئ قوية، فإنهم يشكلون روابط من خلال الاهتمامات المشتركة والهوايات والروتين. إنهم يعطون الأولوية للولاء ويحبون تنظيم الأحداث للأنشطة الجماعية، مما يضمن أن الجميع يستمتعون بالوقت معًا.",
+        "CareerPath": [
+          "مراجع حسابات",
+          "طيار تجاري",
+          "فني إصلاح حواسيب",
+          "مدير بناء",
+          "ضابط إصلاحيات",
+          "محقق جنائي",
+          "مساعدي الصحة المنزلية",
+          "مستشار مالي شخصي",
+          "موظف إرسال الشرطة والإطفاء والإسعاف",
+          "شريف ونائب الشريف"
+        ],
+        "LifeValue": [
+          "العائلة / المنزل",
+          "الصحة",
+          "الأمن المالي",
+          "الإنجاز",
+          "الصداقات"
+        ],
+        "CompatibleConnections": [
+          "اللوجستي (ISTJ)",
+          "المحترف (ISTP)",
+          "المغامر (ISFP)"
+        ],
+        "HasPotentialConnections": [
+          "المنطقي (INTP)",
+          "المدافع (INFJ)",
+          "الوسيط (INFP)",
+          "القنصل (ESFJ)",
+          "المؤدي (ESFP)",
+          "المدافع (ISFJ)"
+        ],
+        "ChallengingConnections": [
+          "المهندس المعماري (INTJ)",
+          "المعبر (ENFP)",
+          "المناظر (ENTP)",
+          "البطل (ENFJ)",
+          "القائد (ENTJ)",
+          "المدير التنفيذي (ESTJ)"
+        ],
+        "AttractedBy": [
+          "لطيف وناعم",
+          "دافئ",
+          "محب",
+          "موثوق",
+          "مسؤول",
+          "مفصل",
+          "صادق",
+          "ملتزم",
+          "منطقي",
+          "سهل المعشر"
+        ],
+        "PetPeeves": [
+          "متأخر",
+          "غير كفء",
+          "غير مفصل",
+          "عاطفي جدًا",
+          "غير منطقي",
+          "غير مسؤول",
+          "كسول",
+          "غير منظم",
+          "متذمر",
+          "شكاك",
+          "غير محترم",
+          "غير ثابت",
+          "مماطل"
+        ],
+        "HowToBeCompanion": [
+          "كن منظمًا وتولَ زمام المبادرة في مسؤولياتك المشتركة.",
+          "أظهر احترامًا لصفاتهم القيادية، ولكن لا تخف من تقديم الاقتراحات.",
+          "قدم حلولًا عملية بدلًا من الردود العاطفية على المشاكل.",
+          "كن صريحًا وصادقًا في التواصل - يقدرون الوضوح.",
+          "احترم حاجتهم إلى الهيكلية والاستقرار في الحياة.",
+          "ادعم طموحاتهم وأظهر التزامك وحافزك الخاص."
+        ],
+        "SecretDesire": "يبدو أن المديرين التنفيذيين منطقيون ومباشرون، لكنهم في أعماقهم يتوقون إلى الإشباع الشخصي من خلال المساهمات ذات المغزى. غالبًا ما يرغبون في إحداث تأثير إيجابي يتجاوز النجاح المهني، ويسعون إلى التواصل من خلال القضايا الاجتماعية أو الخيرية التي تضفي معنى على حياتهم.",
+        "Stereotypes": "يخطئ الكثيرون في اعتبار المديرين التنفيذيين أشخاصًا متحكمين أو مهووسين بالقواعد. في الواقع، يهتمون بشدة بمساعدة الآخرين ومستعدون لفعل كل ما في وسعهم من أجل من يحبون. توازن هذه الشخصيات بين نهجهم المنظم للحياة ورغبتهم الصادقة في تحسين العالم من حولهم.",
+        "Celebrities": [
+          "صدام حسين",
+          "ميشيل أوباما",
+          "سيلين ديون",
+          "إيما واتسون",
+          "الدكتور فيل",
+          "إيفانكا ترامب"
+        ]
+      }
+    ]
+  }  

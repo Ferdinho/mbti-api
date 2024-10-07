@@ -1,0 +1,37 @@
+{
+  "en": {
+    "Strongly Agree": 3,
+    "Agree": 1,
+    "Neutral": 0,
+    "Disagree": 1,
+    "Strongly Disagree": 3
+  },
+  "es": {
+    "Strongly Agree": 3,
+    "Agree": 1,
+    "Neutral": 0,
+    "Disagree": 1,
+    "Strongly Disagree": 3
+  },
+  "fr": {
+    "Strongly Agree": 3,
+    "Agree": 1,
+    "Neutral": 0,
+    "Disagree": 1,
+    "Strongly Disagree": 3
+  },
+  "pt": {
+    "Strongly Agree": 3,
+    "Agree": 1,
+    "Neutral": 0,
+    "Disagree": 1,
+    "Strongly Disagree": 3
+  },
+  "ar": {
+    "Strongly Agree": 3,
+    "Agree": 1,
+    "Neutral": 0,
+    "Disagree": 1,
+    "Strongly Disagree": 3
+  }
+}

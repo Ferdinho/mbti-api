@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "question": "Je préfère passer du temps seul ou avec quelques amis proches plutôt que dans de grands groupes.",
+        "letter": "I",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 2,
+        "question": "J'aime être le centre d'attention lors des événements sociaux.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 3,
+        "question": "Je me surprends à rêver d'éventuels scénarios et opportunités.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 4,
+        "question": "Je me concentre sur les détails et les faits lorsque je résous des problèmes.",
+        "letter": "S",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 5,
+        "question": "Je considère comment mes décisions affecteront les émotions et le bien-être des autres.",
+        "letter": "F",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 6,
+        "question": "Je prends des décisions basées sur la logique et des critères objectifs.",
+        "letter": "T",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 7,
+        "question": "Je me sens plus à l'aise lorsque je peux prévoir les résultats de mes décisions.",
+        "letter": "J",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 8,
+        "question": "Je garde souvent mes options ouvertes et évite de prendre des décisions rapides.",
+        "letter": "P",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 9,
+        "question": "Je me sens épuisé après de longues périodes d'interaction sociale.",
+        "letter": "I",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 10,
+        "question": "J'aime être flexible et m'adapter aux nouvelles informations ou circonstances.",
+        "letter": "P",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 11,
+        "question": "Je pense souvent à des possibilités futures et à ce qui pourrait arriver.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 12,
+        "question": "Je fais confiance aux informations qui sont observables et mesurables.",
+        "letter": "S",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 13,
+        "question": "J'apprécie l'honnêteté et la franchise dans les discussions, même si cela provoque des tensions.",
+        "letter": "T",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 14,
+        "question": "Je privilégie le maintien de l'harmonie et des relations plutôt que des résultats strictement logiques.",
+        "letter": "F",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 15,
+        "question": "J'aime terminer les tâches bien avant leurs échéances.",
+        "letter": "J",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 16,
+        "question": "Je préfère des expériences d'apprentissage pratiques et concrètes plutôt que des discussions théoriques.",
+        "letter": "S",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 17,
+        "question": "Je me sens énergisé après avoir rencontré de nouvelles personnes et engagé des conversations.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 18,
+        "question": "Je prends souvent le temps de réfléchir avant de parler dans des situations sociales.",
+        "letter": "I",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 19,
+        "question": "J'aime suivre des procédures et des méthodes établies lorsque j'accomplis des tâches.",
+        "letter": "S",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 20,
+        "question": "Je trouve excitant de découvrir de nouvelles opportunités à mesure qu'elles se présentent.",
+        "letter": "P",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 21,
+        "question": "J'aime collaborer avec les autres et trouver un terrain d'entente lors des discussions.",
+        "letter": "F",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 22,
+        "question": "Je préfère avoir un plan structuré avant de commencer un projet.",
+        "letter": "J",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 23,
+        "question": "Je fais attention aux expériences sensorielles et aux détails de mon environnement.",
+        "letter": "S",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 24,
+        "question": "J'exprime souvent mes sentiments ouvertement et j'encourage les autres à faire de même.",
+        "letter": "F",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 25,
+        "question": "J'aime participer à des discussions avec un grand groupe de personnes.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 26,
+        "question": "Je préfère voir la situation dans son ensemble plutôt que de me concentrer sur les détails.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 27,
+        "question": "J'analyse souvent les situations de manière critique plutôt qu'émotionnelle.",
+        "letter": "T",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 28,
+        "question": "Je me sens comblé lorsque je peux aider les autres ou avoir un impact positif sur leur vie.",
+        "letter": "F",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 29,
+        "question": "J'apprécie d'être spontané et de changer de plans si nécessaire.",
+        "letter": "P",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 30,
+        "question": "Je me sens revigoré après avoir passé du temps dans un environnement animé.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 31,
+        "question": "J'aime explorer des idées et des concepts abstraits.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 32,
+        "question": "Je préfère résoudre les conflits en me concentrant sur les faits plutôt que sur les émotions.",
+        "letter": "T",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 33,
+        "question": "J'aime avoir des règles et des directives claires dans ma vie quotidienne.",
+        "letter": "J",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 34,
+        "question": "J'aime initier des conversations avec des inconnus.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 35,
+        "question": "Je trouve difficile de travailler dans un environnement non structuré ou chaotique.",
+        "letter": "J",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 36,
+        "question": "Je me sens souvent dépassé par trop d'options.",
+        "letter": "P",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 37,
+        "question": "Je fais confiance à mon intuition lorsque je prends des décisions.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 38,
+        "question": "Je recherche souvent des activités de groupe ou des rassemblements sociaux pendant mon temps libre.",
+        "letter": "E",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 39,
+        "question": "J'aime discuter de concepts théoriques et de possibilités futures.",
+        "letter": "N",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    },
+    {
+        "id": 40,
+        "question": "Je préfère réfléchir avant de partager mes idées avec les autres.",
+        "letter": "I",
+        "answers": [
+            "Tout à fait d'accord",
+            "D'accord",
+            "Neutre",
+            "Pas d'accord",
+            "Tout à fait pas d'accord"
+        ],
+        "language_code": "fr"
+    }
+]

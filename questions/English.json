@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "question": "I prefer to spend time alone or with a few close friends rather than in large groups.",
+        "letter": "I",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 2,
+        "question": "I enjoy being the center of attention at social events.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 3,
+        "question": "I find myself daydreaming about future scenarios and opportunities.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 4,
+        "question": "I focus on the details and facts when solving problems.",
+        "letter": "S",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 5,
+        "question": "I consider how my decisions will affect others’ emotions and well-being.",
+        "letter": "F",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 6,
+        "question": "I make decisions based on logic and objective criteria.",
+        "letter": "T",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 7,
+        "question": "I feel more comfortable when I can predict the outcomes of my decisions.",
+        "letter": "J",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 8,
+        "question": "I often keep my options open and avoid making quick decisions.",
+        "letter": "P",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 9,
+        "question": "I feel drained after extended periods of social interaction.",
+        "letter": "I",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 10,
+        "question": "I enjoy being flexible and adapting to new information or circumstances.",
+        "letter": "P",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 11,
+        "question": "I often think about future possibilities and what might happen.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 12,
+        "question": "I trust information that is observable and measurable.",
+        "letter": "S",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 13,
+        "question": "I value honesty and straightforwardness in discussions, even if it causes tension.",
+        "letter": "T",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 14,
+        "question": "I prioritize maintaining harmony and relationships over strictly logical outcomes.",
+        "letter": "F",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 15,
+        "question": "I like to complete tasks well before their deadlines.",
+        "letter": "J",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 16,
+        "question": "I prefer practical, hands-on learning experiences over theoretical discussions.",
+        "letter": "S",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 17,
+        "question": "I feel energized after meeting new people and engaging in conversations.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 18,
+        "question": "I often take time to think before speaking in social situations.",
+        "letter": "I",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 19,
+        "question": "I enjoy following established procedures and methods when completing tasks.",
+        "letter": "S",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 20,
+        "question": "I find it exciting to discover new opportunities as they arise.",
+        "letter": "P",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 21,
+        "question": "I enjoy collaborating with others and finding common ground in discussions.",
+        "letter": "F",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 22,
+        "question": "I prefer to have a structured plan before starting any project.",
+        "letter": "J",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 23,
+        "question": "I pay attention to sensory experiences and details in my environment.",
+        "letter": "S",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 24,
+        "question": "I often express my feelings openly and encourage others to do the same.",
+        "letter": "F",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 25,
+        "question": "I like to engage in discussions with a large group of people.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 26,
+        "question": "I prefer to look at the big picture rather than the details.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 27,
+        "question": "I often analyze situations critically rather than emotionally.",
+        "letter": "T",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 28,
+        "question": "I feel fulfilled when I can help others or make a positive impact on their lives.",
+        "letter": "F",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 29,
+        "question": "I enjoy being spontaneous and changing plans as needed.",
+        "letter": "P",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 30,
+        "question": "I feel invigorated after spending time in a lively environment.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 31,
+        "question": "I enjoy exploring abstract ideas and concepts.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 32,
+        "question": "I prefer to resolve conflicts by focusing on facts rather than emotions.",
+        "letter": "T",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 33,
+        "question": "I enjoy having clear rules and guidelines in my daily life.",
+        "letter": "J",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 34,
+        "question": "I like to initiate conversations with strangers.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 35,
+        "question": "I find it challenging to work in an unstructured or chaotic environment.",
+        "letter": "J",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 36,
+        "question": "I often feel overwhelmed by too many options.",
+        "letter": "P",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 37,
+        "question": "I trust my intuition when making decisions.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 38,
+        "question": "I often seek out group activities or social gatherings in my free time.",
+        "letter": "E",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 39,
+        "question": "I enjoy discussing theoretical concepts and future possibilities.",
+        "letter": "N",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    },
+    {
+        "id": 40,
+        "question": "I prefer to think things through before sharing my ideas with others.",
+        "letter": "I",
+        "answers": [
+            "Strongly Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "language_code": "en"
+    }
+]

@@ -1,0 +1,586 @@
+{
+    "personalities": [
+      {
+        "id": 9,
+        "language_code": "en",
+        "type": "INTP",
+        "name": "The Thinker",
+        "Description": "Analytical and objective, INTPs are deep thinkers who love solving complex problems. They value logic and ideas over emotions and thrive on intellectual exploration. Curious by nature, INTPs enjoy figuring out how things work and are always on the hunt for the next challenge.",
+        "Strengths": [
+          "analytical",
+          "objective",
+          "logical",
+          "independent",
+          "curious",
+          "creative",
+          "imaginative",
+          "inventive",
+          "intellectual",
+          "deep thinkers"
+        ],
+        "Weaknesses": [
+          "insensitive",
+          "overly critical",
+          "aloof",
+          "can be socially awkward",
+          "dislike routine",
+          "struggle with emotions",
+          "easily distracted"
+        ],
+        "DosInRelationship": [
+          "Engage them in intellectually stimulating conversations.",
+          "Encourage their curiosity and deep thinking.",
+          "Give them time and space to reflect on ideas.",
+          "Appreciate their creativity and analytical nature.",
+          "Be open to discussing complex theories and ideas."
+        ],
+        "DontsInRelationship": [
+          "Don’t be overly emotional or take things too personally.",
+          "Avoid pressuring them into social situations they aren’t comfortable with.",
+          "Don’t demand constant attention or engagement.",
+          "Avoid routine or predictable activities.",
+          "Don’t ignore their need for intellectual freedom."
+        ],
+        "Friendships": "Thinkers value friendships that allow for deep intellectual conversations. They prefer to connect with others who share their curiosity about the world and enjoy friends who can challenge their perspectives in meaningful ways.",
+        "CareerPath": [
+          "Scientist",
+          "Mathematician",
+          "Philosopher",
+          "Software Developer",
+          "Engineer",
+          "Theoretical Physicist",
+          "Researcher",
+          "Professor",
+          "Inventor"
+        ],
+        "LifeValue": [
+          "Knowledge",
+          "Independence",
+          "Logic",
+          "Curiosity",
+          "Freedom"
+        ],
+        "CompatibleConnections": [
+          "The Architect (INTJ)",
+          "The Advocate (INFJ)",
+          "The Debater (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "The Commander (ENTJ)",
+          "The Protagonist (ENFJ)",
+          "The Campaigner (ENFP)",
+          "The Mediator (INFP)",
+          "The Logistician (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "The Virtuoso (ISTP)",
+          "The Performer (ESFP)",
+          "The Consul (ESFJ)",
+          "The Defender (ISFJ)",
+          "The Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "intellectual",
+          "analytical",
+          "logical",
+          "curious",
+          "independent",
+          "creative",
+          "imaginative",
+          "deep thinker",
+          "confident"
+        ],
+        "PetPeeves": [
+          "emotional",
+          "overly structured",
+          "rigid",
+          "demanding",
+          "shallow",
+          "superficial",
+          "overly sensitive",
+          "illogical"
+        ],
+        "HowToBeCompanion": [
+          "Engage in intellectually stimulating conversations.",
+          "Appreciate their creativity and logical thinking.",
+          "Give them space to think independently.",
+          "Avoid being overly emotional or demanding.",
+          "Be open to discussing new and interesting ideas."
+        ],
+        "SecretDesire": "Thinkers secretly long for intellectual mastery and understanding of complex systems. They yearn to uncover the mysteries of the world and solve the unsolvable.",
+        "Stereotypes": "INTPs are often seen as aloof or socially awkward, but in reality, they are deeply thoughtful and passionate about understanding the world in all its complexity.",
+        "Celebrities": [
+          "Albert Einstein",
+          "Bill Gates",
+          "Isaac Newton",
+          "Marie Curie",
+          "Socrates",
+          "Charles Darwin"
+        ]
+      },
+      {
+        "id": 9,
+        "language_code": "fr",
+        "type": "INTP",
+        "name": "Le Penseur (INTP)",
+        "Description": "Analytique et objectif, les INTP sont des penseurs profonds qui aiment résoudre des problèmes complexes. Ils privilégient la logique et les idées aux émotions et prospèrent dans l'exploration intellectuelle. Curieux de nature, les INTP aiment comprendre comment fonctionnent les choses et sont toujours à la recherche du prochain défi.",
+        "Strengths": [
+          "analytique",
+          "objectif",
+          "logique",
+          "indépendant",
+          "curieux",
+          "créatif",
+          "imaginatif",
+          "inventif",
+          "intellectuel",
+          "penseur profond"
+        ],
+        "Weaknesses": [
+          "insensible",
+          "trop critique",
+          "distant",
+          "peut être socialement maladroit",
+          "n'aime pas la routine",
+          "difficulté avec les émotions",
+          "facilement distrait"
+        ],
+        "DosInRelationship": [
+          "Engagez-les dans des conversations intellectuellement stimulantes.",
+          "Encouragez leur curiosité et leur réflexion profonde.",
+          "Donnez-leur du temps et de l'espace pour réfléchir.",
+          "Appréciez leur créativité et leur nature analytique.",
+          "Soyez ouvert à discuter de théories et d'idées complexes."
+        ],
+        "DontsInRelationship": [
+          "Ne soyez pas trop émotionnel ou ne prenez pas les choses trop personnellement.",
+          "Évitez de les pousser dans des situations sociales qui les mettent mal à l'aise.",
+          "Ne demandez pas une attention constante.",
+          "Évitez les activités routinières ou prévisibles.",
+          "Ne négligez pas leur besoin de liberté intellectuelle."
+        ],
+        "Friendships": "Les Penseurs valorisent les amitiés qui permettent des conversations intellectuelles profondes. Ils préfèrent se connecter avec des personnes qui partagent leur curiosité du monde et apprécient les amis qui peuvent remettre en question leurs perspectives de manière significative.",
+        "CareerPath": [
+          "Scientifique",
+          "Mathématicien",
+          "Philosophe",
+          "Développeur de logiciels",
+          "Ingénieur",
+          "Physicien théoricien",
+          "Chercheur",
+          "Professeur",
+          "Inventeur"
+        ],
+        "LifeValue": [
+          "Connaissance",
+          "Indépendance",
+          "Logique",
+          "Curiosité",
+          "Liberté"
+        ],
+        "CompatibleConnections": [
+          "L'Architecte (INTJ)",
+          "L'Avocat (INFJ)",
+          "Le Débatteur (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "Le Commandant (ENTJ)",
+          "Le Protagoniste (ENFJ)",
+          "Le Camarade (ENFP)",
+          "Le Médiateur (INFP)",
+          "Le Logisticien (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "Le Virtuose (ISTP)",
+          "Le Performer (ESFP)",
+          "Le Consul (ESFJ)",
+          "Le Défenseur (ISFJ)",
+          "Le Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "intellectuel",
+          "analytique",
+          "logique",
+          "curieux",
+          "indépendant",
+          "créatif",
+          "imaginatif",
+          "penseur profond",
+          "confiant"
+        ],
+        "PetPeeves": [
+          "émotionnel",
+          "trop structuré",
+          "rigide",
+          "demandant",
+          "superficiel",
+          "trop sensible",
+          "illogique"
+        ],
+        "HowToBeCompanion": [
+          "Engagez des conversations intellectuellement stimulantes.",
+          "Appréciez leur créativité et leur raisonnement logique.",
+          "Donnez-leur de l'espace pour réfléchir de manière indépendante.",
+          "Évitez d'être trop émotionnel ou exigeant.",
+          "Soyez ouvert à discuter de nouvelles idées intéressantes."
+        ],
+        "SecretDesire": "Les Penseurs désirent secrètement la maîtrise intellectuelle et la compréhension des systèmes complexes. Ils aspirent à découvrir les mystères du monde et à résoudre l'insoluble.",
+        "Stereotypes": "Les INTP sont souvent perçus comme distants ou socialement maladroits, mais en réalité, ils sont profondément réfléchis et passionnés par la compréhension du monde dans toute sa complexité.",
+        "Celebrities": [
+          "Albert Einstein",
+          "Bill Gates",
+          "Isaac Newton",
+          "Marie Curie",
+          "Socrate",
+          "Charles Darwin"
+        ]
+      },
+      {
+        "id": 9,
+        "language_code": "es",
+        "type": "INTP",
+        "name": "El Pensador (INTP)",
+        "Description": "Analíticos y objetivos, los INTP son pensadores profundos que disfrutan resolviendo problemas complejos. Valoran la lógica y las ideas más que las emociones y prosperan en la exploración intelectual. Curiosos por naturaleza, los INTP disfrutan descubriendo cómo funcionan las cosas y siempre están buscando el próximo desafío.",
+        "Strengths": [
+          "analítico",
+          "objetivo",
+          "lógico",
+          "independiente",
+          "curioso",
+          "creativo",
+          "imaginativo",
+          "inventivo",
+          "intelectual",
+          "pensador profundo"
+        ],
+        "Weaknesses": [
+          "insensible",
+          "demasiado crítico",
+          "distante",
+          "puede ser socialmente incómodo",
+          "no le gusta la rutina",
+          "dificultad con las emociones",
+          "se distrae fácilmente"
+        ],
+        "DosInRelationship": [
+          "Involúcrelos en conversaciones intelectualmente estimulantes.",
+          "Fomente su curiosidad y reflexión profunda.",
+          "Dales tiempo y espacio para reflexionar sobre ideas.",
+          "Aprecie su creatividad y naturaleza analítica.",
+          "Esté abierto a discutir teorías e ideas complejas."
+        ],
+        "DontsInRelationship": [
+          "No seas demasiado emocional ni te tomes las cosas demasiado personalmente.",
+          "Evita presionarlos a situaciones sociales con las que no se sientan cómodos.",
+          "No demandes atención constante.",
+          "Evita las actividades rutinarias o predecibles.",
+          "No ignores su necesidad de libertad intelectual."
+        ],
+        "Friendships": "Los Pensadores valoran las amistades que permiten conversaciones intelectuales profundas. Prefieren conectarse con personas que comparten su curiosidad por el mundo y disfrutan de amigos que pueden desafiar sus perspectivas de manera significativa.",
+        "CareerPath": [
+          "Científico",
+          "Matemático",
+          "Filósofo",
+          "Desarrollador de software",
+          "Ingeniero",
+          "Físico teórico",
+          "Investigador",
+          "Profesor",
+          "Inventor"
+        ],
+        "LifeValue": [
+          "Conocimiento",
+          "Independencia",
+          "Lógica",
+          "Curiosidad",
+          "Libertad"
+        ],
+        "CompatibleConnections": [
+          "El Arquitecto (INTJ)",
+          "El Defensor (INFJ)",
+          "El Debatiente (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "El Comandante (ENTJ)",
+          "El Protagonista (ENFJ)",
+          "El Mediador (INFP)",
+          "El Logístico (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "El Virtuoso (ISTP)",
+          "El Intérprete (ESFP)",
+          "El Cónsul (ESFJ)",
+          "El Defensor (ISFJ)",
+          "El Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "intelectual",
+          "analítico",
+          "lógico",
+          "curioso",
+          "independiente",
+          "creativo",
+          "imaginativo",
+          "pensador profundo",
+          "seguro"
+        ],
+        "PetPeeves": [
+          "emocional",
+          "demasiado estructurado",
+          "rígido",
+          "exigente",
+          "superficial",
+          "demasiado sensible",
+          "ilógico"
+        ],
+        "HowToBeCompanion": [
+          "Involúcrelos en conversaciones intelectualmente estimulantes.",
+          "Aprecie su creatividad y pensamiento lógico.",
+          "Déles espacio para pensar de manera independiente.",
+          "Evite ser demasiado emocional o exigente.",
+          "Esté abierto a discutir nuevas ideas interesantes."
+        ],
+        "SecretDesire": "Los Pensadores secretamente anhelan la maestría intelectual y la comprensión de sistemas complejos. Anhelan descubrir los misterios del mundo y resolver lo irresoluble.",
+        "Stereotypes": "Los INTP son a menudo vistos como distantes o socialmente incómodos, pero en realidad son profundamente reflexivos y apasionados por comprender el mundo en toda su complejidad.",
+        "Celebrities": [
+          "Albert Einstein",
+          "Bill Gates",
+          "Isaac Newton",
+          "Marie Curie",
+          "Sócrates",
+          "Charles Darwin"
+        ]
+      },
+      {
+        "id": 9,
+        "language_code": "pt",
+        "type": "INTP",
+        "name": "O Pensador (INTP)",
+        "Description": "Analíticos e objetivos, os INTPs são pensadores profundos que adoram resolver problemas complexos. Eles valorizam a lógica e as ideias mais do que as emoções e prosperam na exploração intelectual. Curiosos por natureza, os INTPs gostam de descobrir como as coisas funcionam e estão sempre à procura do próximo desafio.",
+        "Strengths": [
+          "analítico",
+          "objetivo",
+          "lógico",
+          "independente",
+          "curioso",
+          "criativo",
+          "imaginativo",
+          "inventivo",
+          "intelectual",
+          "pensador profundo"
+        ],
+        "Weaknesses": [
+          "insensível",
+          "excessivamente crítico",
+          "distante",
+          "pode ser socialmente desajeitado",
+          "não gosta de rotina",
+          "dificuldade com emoções",
+          "facilmente distraído"
+        ],
+        "DosInRelationship": [
+          "Envolva-os em conversas intelectualmente estimulantes.",
+          "Incentive sua curiosidade e pensamento profundo.",
+          "Dê-lhes tempo e espaço para refletir sobre ideias.",
+          "Aprecie sua criatividade e natureza analítica.",
+          "Esteja aberto a discutir teorias e ideias complexas."
+        ],
+        "DontsInRelationship": [
+          "Não seja muito emocional ou leve as coisas para o lado pessoal.",
+          "Evite pressioná-los a situações sociais com as quais não se sintam à vontade.",
+          "Não exija atenção constante.",
+          "Evite atividades rotineiras ou previsíveis.",
+          "Não ignore sua necessidade de liberdade intelectual."
+        ],
+        "Friendships": "Os Pensadores valorizam amizades que permitem conversas intelectuais profundas. Eles preferem se conectar com pessoas que compartilham sua curiosidade sobre o mundo e apreciam amigos que podem desafiar suas perspectivas de maneira significativa.",
+        "CareerPath": [
+          "Cientista",
+          "Matemático",
+          "Filósofo",
+          "Desenvolvedor de software",
+          "Engenheiro",
+          "Físico teórico",
+          "Pesquisador",
+          "Professor",
+          "Inventor"
+        ],
+        "LifeValue": [
+          "Conhecimento",
+          "Independência",
+          "Lógica",
+          "Curiosidade",
+          "Liberdade"
+        ],
+        "CompatibleConnections": [
+          "O Arquiteto (INTJ)",
+          "O Defensor (INFJ)",
+          "O Debatedor (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "O Comandante (ENTJ)",
+          "O Protagonista (ENFJ)",
+          "O Mediador (INFP)",
+          "O Logístico (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "O Virtuoso (ISTP)",
+          "O Performer (ESFP)",
+          "O Cônsul (ESFJ)",
+          "O Defensor (ISFJ)",
+          "O Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "intelectual",
+          "analítico",
+          "lógico",
+          "curioso",
+          "independente",
+          "criativo",
+          "imaginativo",
+          "pensador profundo",
+          "confiante"
+        ],
+        "PetPeeves": [
+          "emocional",
+          "excessivamente estruturado",
+          "rígido",
+          "exigente",
+          "superficial",
+          "excessivamente sensível",
+          "ilógico"
+        ],
+        "HowToBeCompanion": [
+          "Envolva-os em conversas intelectualmente estimulantes.",
+          "Aprecie sua criatividade e pensamento lógico.",
+          "Dê-lhes espaço para pensar de maneira independente.",
+          "Evite ser muito emocional ou exigente.",
+          "Esteja aberto a discutir novas e interessantes ideias."
+        ],
+        "SecretDesire": "Os Pensadores secretamente anseiam por domínio intelectual e compreensão de sistemas complexos. Eles anseiam por descobrir os mistérios do mundo e resolver o que parece ser insolúvel.",
+        "Stereotypes": "Os INTPs são frequentemente vistos como distantes ou socialmente desajeitados, mas na realidade, são indivíduos profundamente reflexivos e apaixonados por entender o mundo em toda a sua complexidade.",
+        "Celebrities": [
+          "Albert Einstein",
+          "Bill Gates",
+          "Isaac Newton",
+          "Marie Curie",
+          "Sócrates",
+          "Charles Darwin"
+        ]
+      },
+      {
+        "id": 9,
+        "language_code": "ar",
+        "type": "INTP",
+        "name": "المفكر (INTP)",
+        "Description": "تحليليون وموضوعيون، يحب المفكرون التفكير بعمق وحل المشكلات المعقدة. إنهم يقدرون المنطق والأفكار على العواطف ويزدهرون في الاستكشاف الفكري. بطبيعتهم الفضولية، يستمتع المفكرون بفهم كيفية عمل الأشياء وهم دائمًا في البحث عن التحدي التالي.",
+        "Strengths": [
+          "تحليلي",
+          "موضوعي",
+          "منطقي",
+          "مستقل",
+          "فضولي",
+          "مبدع",
+          "خيالي",
+          "مبتكر",
+          "مفكر عميق"
+        ],
+        "Weaknesses": [
+          "غير حساس",
+          "ناقد بشكل مفرط",
+          "منعزل",
+          "قد يكون اجتماعيًا محرجًا",
+          "لا يحب الروتين",
+          "يكافح مع العواطف",
+          "يشتت انتباهه بسهولة"
+        ],
+        "DosInRelationship": [
+          "اشركهم في محادثات تحفيزية فكريًا.",
+          "شجع فضولهم وتفكيرهم العميق.",
+          "امنحهم الوقت والمساحة للتفكير في الأفكار.",
+          "قدر إبداعهم وطبيعتهم التحليلية.",
+          "كن منفتحًا على مناقشة النظريات والأفكار المعقدة."
+        ],
+        "DontsInRelationship": [
+          "لا تكن عاطفيًا جدًا ولا تأخذ الأمور بشكل شخصي.",
+          "تجنب الضغط عليهم للدخول في مواقف اجتماعية لا يشعرون بالراحة فيها.",
+          "لا تطلب منهم انتباهًا مستمرًا.",
+          "تجنب الأنشطة الروتينية أو المتوقعة.",
+          "لا تتجاهل حاجتهم إلى الحرية الفكرية."
+        ],
+        "Friendships": "يقدر المفكرون الصداقات التي تتيح محادثات فكرية عميقة. يفضلون الاتصال بالأشخاص الذين يشاركونهم فضولهم حول العالم ويستمتعون بالأصدقاء الذين يمكنهم تحدي وجهات نظرهم بطرق هادفة.",
+        "CareerPath": [
+          "عالم",
+          "رياضياتي",
+          "فيلسوف",
+          "مطور برامج",
+          "مهندس",
+          "فيزيائي نظري",
+          "باحث",
+          "أستاذ",
+          "مخترع"
+        ],
+        "LifeValue": [
+          "المعرفة",
+          "الاستقلالية",
+          "المنطق",
+          "الفضول",
+          "الحرية"
+        ],
+        "CompatibleConnections": [
+          "المهندس المعماري (INTJ)",
+          "المدافع (INFJ)",
+          "المناظر (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "القائد (ENTJ)",
+          "البطل (ENFJ)",
+          "الوسيط (INFP)",
+          "اللوجستي (ISTJ)"
+        ],
+        "ChallengingConnections": [
+          "البارع (ISTP)",
+          "المؤدي (ESFP)",
+          "القنصل (ESFJ)",
+          "المدافع (ISFJ)",
+          "المحرك (ESTP)"
+        ],
+        "AttractedBy": [
+          "مفكر",
+          "تحليلي",
+          "منطقي",
+          "فضولي",
+          "مستقل",
+          "مبدع",
+          "خيالي",
+          "مفكر عميق",
+          "واثق"
+        ],
+        "PetPeeves": [
+          "عاطفي",
+          "مهيكل بشكل مفرط",
+          "صارم",
+          "مُطالب",
+          "سطحي",
+          "حساس للغاية",
+          "غير منطقي"
+        ],
+        "HowToBeCompanion": [
+          "اشركهم في محادثات تحفيزية فكريًا.",
+          "قدر إبداعهم وتفكيرهم المنطقي.",
+          "امنحهم المساحة للتفكير بشكل مستقل.",
+          "تجنب أن تكون عاطفيًا جدًا أو تطلب الكثير.",
+          "كن منفتحًا على مناقشة أفكار جديدة ومثيرة للاهتمام."
+        ],
+        "SecretDesire": "المفكرون يتوقون سرًا إلى إتقان فكري وفهم الأنظمة المعقدة. إنهم يتوقون إلى اكتشاف أسرار العالم وحل ما هو غير قابل للحل.",
+        "Stereotypes": "غالبًا ما يُنظر إلى المفكرين على أنهم منعزلون أو محرجون اجتماعيًا، لكن في الواقع، هم أفراد عميقو التفكير ومتحمسون لفهم العالم بكل تعقيداته.",
+        "Celebrities": [
+          "ألبرت أينشتاين",
+          "بيل غيتس",
+          "إسحاق نيوتن",
+          "ماري كوري",
+          "سقراط",
+          "تشارلز داروين"
+        ]
+      }
+    ]
+  }  

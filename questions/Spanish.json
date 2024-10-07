@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "question": "Prefiero pasar tiempo solo o con algunos amigos cercanos en lugar de en grandes grupos.",
+        "letter": "I",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 2,
+        "question": "Disfruto ser el centro de atención en eventos sociales.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 3,
+        "question": "Me encuentro soñando despierto sobre escenarios y oportunidades futuras.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 4,
+        "question": "Me enfoco en los detalles y hechos al resolver problemas.",
+        "letter": "S",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 5,
+        "question": "Considero cómo mis decisiones afectarán las emociones y el bienestar de los demás.",
+        "letter": "F",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 6,
+        "question": "Tomo decisiones basadas en lógica y criterios objetivos.",
+        "letter": "T",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 7,
+        "question": "Me siento más cómodo cuando puedo predecir los resultados de mis decisiones.",
+        "letter": "J",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 8,
+        "question": "A menudo mantengo mis opciones abiertas y evito tomar decisiones rápidas.",
+        "letter": "P",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 9,
+        "question": "Me siento agotado después de períodos prolongados de interacción social.",
+        "letter": "I",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 10,
+        "question": "Disfruto ser flexible y adaptarme a nueva información o circunstancias.",
+        "letter": "P",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 11,
+        "question": "A menudo pienso en las posibilidades futuras y en lo que podría suceder.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 12,
+        "question": "Confío en la información que es observable y medible.",
+        "letter": "S",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 13,
+        "question": "Valoro la honestidad y la claridad en las discusiones, incluso si causa tensión.",
+        "letter": "T",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 14,
+        "question": "Prioritizo mantener la armonía y las relaciones por encima de resultados estrictamente lógicos.",
+        "letter": "F",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 15,
+        "question": "Me gusta completar tareas mucho antes de sus plazos.",
+        "letter": "J",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 16,
+        "question": "Prefiero experiencias de aprendizaje prácticas y concretas en lugar de discusiones teóricas.",
+        "letter": "S",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 17,
+        "question": "Me siento energizado después de conocer nuevas personas y participar en conversaciones.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 18,
+        "question": "A menudo me tomo el tiempo para pensar antes de hablar en situaciones sociales.",
+        "letter": "I",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 19,
+        "question": "Disfruto seguir procedimientos y métodos establecidos al completar tareas.",
+        "letter": "S",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 20,
+        "question": "Encuentro emocionante descubrir nuevas oportunidades a medida que surgen.",
+        "letter": "P",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 21,
+        "question": "Disfruto colaborar con otros y encontrar un terreno común en las discusiones.",
+        "letter": "F",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 22,
+        "question": "Prefiero tener un plan estructurado antes de comenzar cualquier proyecto.",
+        "letter": "J",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 23,
+        "question": "Presto atención a las experiencias sensoriales y detalles en mi entorno.",
+        "letter": "S",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 24,
+        "question": "A menudo expreso mis sentimientos abiertamente y animo a los demás a hacer lo mismo.",
+        "letter": "F",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 25,
+        "question": "Me gusta participar en discusiones con un gran grupo de personas.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 26,
+        "question": "Prefiero ver el panorama general en lugar de los detalles.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 27,
+        "question": "A menudo analizo situaciones de manera crítica en lugar de emocional.",
+        "letter": "T",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 28,
+        "question": "Me siento realizado cuando puedo ayudar a otros o tener un impacto positivo en sus vidas.",
+        "letter": "F",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 29,
+        "question": "Disfruto ser espontáneo y cambiar de planes según sea necesario.",
+        "letter": "P",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 30,
+        "question": "Me siento revitalizado después de pasar tiempo en un entorno animado.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 31,
+        "question": "Me gusta explorar ideas y conceptos abstractos.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 32,
+        "question": "Prefiero resolver conflictos enfocándome en los hechos en lugar de en las emociones.",
+        "letter": "T",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 33,
+        "question": "Disfruto tener reglas y directrices claras en mi vida diaria.",
+        "letter": "J",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 34,
+        "question": "Me gusta iniciar conversaciones con extraños.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 35,
+        "question": "Encuentro desafiante trabajar en un entorno desestructurado o caótico.",
+        "letter": "J",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 36,
+        "question": "A menudo me siento abrumado por demasiadas opciones.",
+        "letter": "P",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 37,
+        "question": "Confío en mi intuición al tomar decisiones.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 38,
+        "question": "A menudo busco actividades grupales o reuniones sociales en mi tiempo libre.",
+        "letter": "E",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 39,
+        "question": "Disfruto discutir conceptos teóricos y posibilidades futuras.",
+        "letter": "N",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    },
+    {
+        "id": 40,
+        "question": "Prefiero pensar las cosas antes de compartir mis ideas con los demás.",
+        "letter": "I",
+        "answers": [
+            "Totalmente de acuerdo",
+            "De acuerdo",
+            "Neutral",
+            "En desacuerdo",
+            "Totalmente en desacuerdo"
+        ],
+        "language_code": "es"
+    }
+]

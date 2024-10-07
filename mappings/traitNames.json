@@ -1,0 +1,52 @@
+{
+    "en": {
+      "I": "Introverted",
+      "E": "Extroverted",
+      "N": "Intuitive",
+      "S": "Sensing",
+      "T": "Thinking",
+      "F": "Feeling",
+      "J": "Judging",
+      "P": "Perceiving"
+    },
+    "es": {
+      "I": "Introvertido",
+      "E": "Extrovertido",
+      "N": "Intuitivo",
+      "S": "Sensitivo",
+      "T": "Pensante",
+      "F": "Sentimental",
+      "J": "Juzgador",
+      "P": "Perceptivo"
+    },
+    "fr": {
+      "I": "Introverti",
+      "E": "Extraverti",
+      "N": "Intuitif",
+      "S": "Sensible",
+      "T": "Pensant",
+      "F": "Ressentant",
+      "J": "Jugeant",
+      "P": "Perceptif"
+    },
+    "pt": {
+      "I": "Introvertido",
+      "E": "Extrovertido",
+      "N": "Intuitivo",
+      "S": "Sensitivo",
+      "T": "Pensante",
+      "F": "Sentimental",
+      "J": "Julgador",
+      "P": "Perceptivo"
+    },
+    "ar": {
+      "I": "انطوائي",
+      "E": "منفتح",
+      "N": "حدسي",
+      "S": "حسي",
+      "T": "تحليلي",
+      "F": "عاطفي",
+      "J": "حاكم",
+      "P": "مدرك"
+    }
+  }  

@@ -1,0 +1,664 @@
+{
+    "personalities": [
+      {
+        "id": 1,
+        "language_code": "en",
+        "type": "INTJ",
+        "name": "The Architect",
+        "Description": "Architects are strategic masterminds who excel in solving complex problems. Known for their independence, logical thinking, and high standards, they are driven by the pursuit of knowledge. Often misunderstood for their aloofness, they value intellectual stimulation and thrive in environments that challenge their creativity and efficiency. Relationships, for Architects, are built on trust, honesty, and shared visions for the future.",
+        "Strengths": [
+          "Quick-minded",
+          "Imaginative",
+          "Strategic",
+          "Confident",
+          "Independent",
+          "Decisive",
+          "Hard-working",
+          "Determined",
+          "Open-minded",
+          "Jack-of-all-trades",
+          "Innovative",
+          "Loyal"
+        ],
+        "Weaknesses": [
+          "Arrogant",
+          "Judgmental",
+          "Overly analytical",
+          "Loath structured environments",
+          "Clueless in romance",
+          "Superiority complex",
+          "Emotionally distant"
+        ],
+        "DosInRelationship": [
+          "Be honest, authentic, and intellectually stimulating.",
+          "Compliment their ideas and accomplishments.",
+          "Help them have fun and unwind outside their structured world.",
+          "Show consistent reliability and dependability."
+        ],
+        "DontsInRelationship": [
+          "Don’t push them to socialize too much.",
+          "Avoid pressuring them to talk about feelings early in the relationship.",
+          "Don’t be passive-aggressive or overly emotional.",
+          "Don’t be late—they value punctuality and direct communication."
+        ],
+        "Friendships": "Architects are known for their independence and wit. They know exactly who they are and who they want to surround themselves with. Masterminds would rather be right than popular, and while they may not be everyone's cup of tea, they have a charm that wins over those who understand them. Keeping their circle small but meaningful matters more to them than having superficial connections. In the end, Architects cherish friends with whom they can discuss anything under the sun, enjoying deep, intellectual discussions.",
+        "CareerPath": [
+          "Anesthesiologist",
+          "Biochemist",
+          "Biologist",
+          "Chemical Engineer",
+          "Computer Programmer",
+          "Electronics Engineer",
+          "Industrial Engineer",
+          "Information Security Analyst",
+          "Lawyer",
+          "Surgeon"
+        ],
+        "LifeValue": [
+          "Health",
+          "Home/Family",
+          "Achievement",
+          "Autonomy",
+          "Financial Security"
+        ],
+        "CompatibleConnections": [
+          "Campaigner (ENFP)",
+          "Commander (ENTJ)",
+          "Debater (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "Thinker (INTP)",
+          "Protagonist (ENFJ)",
+          "Advocate (INFJ)",
+          "Mediator (INFP)",
+          "Entrepreneur (ESTP)"
+        ],
+        "ChallengingConnections": [
+          "Architect (INTJ)",
+          "Adventurer (ISFP)",
+          "Consul (ESFJ)",
+          "Virtuoso (ISTP)",
+          "Executive (ESTJ)",
+          "Defender (ISFJ)",
+          "Logistician (ISTJ)",
+          "Entertainer (ESFP)"
+        ],
+        "AttractedBy": [
+          "Sincere",
+          "Rational",
+          "Punctual",
+          "Respectful",
+          "Open",
+          "Welcoming",
+          "Loyal",
+          "Authentic",
+          "Curious",
+          "Romantic",
+          "Thoughtful"
+        ],
+        "PetPeeves": [
+          "Controlling",
+          "Irrational",
+          "Illogical",
+          "Overly emotional",
+          "Passive-aggressive",
+          "Insincere",
+          "Superficial",
+          "Disloyal",
+          "Untrustworthy",
+          "Unintelligent",
+          "Manipulative"
+        ],
+        "HowToBeCompanion": [
+          "Respect their need for solitude and time to think—they recharge in private.",
+          "Be intellectually stimulating; they appreciate deep, thought-provoking conversations.",
+          "Value logic and reason in your discussions—they prefer rationality over emotional outbursts.",
+          "Support their long-term goals and vision for the future.",
+          "Be straightforward and honest—they dislike mind games or manipulation.",
+          "Give them space to work independently, but show loyalty and commitment."
+        ],
+        "SecretDesire": "Architects are highly analytical and often lost in their thoughts, which makes them feel disconnected from the present. Their secret desire is to enjoy life’s simple pleasures without overthinking. They wish to escape their minds, indulge in spontaneity, and find balance between their intellectual and emotional sides. Although they may occasionally become reckless, they learn to better manage this divide with time.",
+        "Stereotypes": "Architects are often stereotyped as cold, aloof, and robotic due to their analytical nature.",
+        "Celebrities": [
+          "Isaac Newton",
+          "Mark Zuckerberg",
+          "Arnold Schwarzenegger",
+          "Hillary Clinton",
+          "Elon Musk",
+          "Stephen Hawking",
+          "Nikola Tesla",
+          "Ludwig van Beethoven",
+          "John F. Kennedy",
+          "Jay-Z"
+        ]
+      },
+      {
+        "id": 1,
+        "language_code": "fr",
+        "type": "INTJ",
+        "name": "Architecte",
+        "Description": "Les architectes sont des maîtres stratèges qui excellent dans la résolution de problèmes complexes. Connus pour leur indépendance, leur pensée logique et leurs normes élevées, ils sont motivés par la quête de la connaissance. Souvent mal compris pour leur froideur, ils valorisent la stimulation intellectuelle et prospèrent dans des environnements qui défient leur créativité et leur efficacité. Pour les architectes, les relations se construisent sur la confiance, l'honnêteté et des visions partagées de l'avenir.",
+        "Strengths": [
+          "Rapide d'esprit",
+          "Imaginatif",
+          "Stratégique",
+          "Confiant",
+          "Indépendant",
+          "Décisif",
+          "Travailleur acharné",
+          "Déterminé",
+          "Ouvert d'esprit",
+          "Polyvalent",
+          "Innovant",
+          "Loyal"
+        ],
+        "Weaknesses": [
+          "Arrogant",
+          "Critique",
+          "Trop analytique",
+          "Déteste les environnements structurés",
+          "Incompétent en romance",
+          "Complexe de supériorité",
+          "Distant émotionnellement"
+        ],
+        "DosInRelationship": [
+          "Soyez honnête, authentique et intellectuellement stimulant.",
+          "Complimentez leurs idées et réalisations.",
+          "Aidez-les à s'amuser et à se détendre en dehors de leur monde structuré.",
+          "Montrez une fiabilité et une régularité constantes."
+        ],
+        "DontsInRelationship": [
+          "Ne les poussez pas à trop socialiser.",
+          "Évitez de les presser de parler de leurs sentiments tôt dans la relation.",
+          "Ne soyez pas passif-agressif ou trop émotionnel.",
+          "Ne soyez pas en retard - ils valorisent la ponctualité et la communication directe."
+        ],
+        "Friendships": "Les architectes sont connus pour leur indépendance et leur esprit vif. Ils savent exactement qui ils sont et qui ils veulent avoir à leurs côtés. Les architectes préfèrent avoir raison que d'être populaires, et bien qu'ils ne soient pas du goût de tout le monde, ils ont un charme qui séduit ceux qui les comprennent. Pour eux, il est plus important de maintenir un cercle restreint mais significatif que d'avoir des connexions superficielles. En fin de compte, les architectes chérissent les amis avec qui ils peuvent discuter de tout et de rien, appréciant les discussions intellectuelles profondes.",
+        "CareerPath": [
+          "Anesthésiste",
+          "Biochimiste",
+          "Biologiste",
+          "Ingénieur chimiste",
+          "Programmeur informatique",
+          "Ingénieur en électronique",
+          "Ingénieur industriel",
+          "Analyste en sécurité informatique",
+          "Avocat",
+          "Chirurgien"
+        ],
+        "LifeValue": [
+          "Santé",
+          "Famille/maison",
+          "Réussite",
+          "Autonomie",
+          "Sécurité financière"
+        ],
+        "CompatibleConnections": [
+          "Le Campagneur (ENFP)",
+          "Le Commandeur (ENTJ)",
+          "Le Débatteur (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "Le Penseur (INTP)",
+          "Le Protagoniste (ENFJ)",
+          "L'Avocat (INFJ)",
+          "Le Médiateur (INFP)",
+          "L'Entrepreneur (ESTP)"
+        ],
+        "ChallengingConnections": [
+          "L'Architecte (INTJ)",
+          "L'Aventurier (ISFP)",
+          "Le Consul (ESFJ)",
+          "Le Virtuose (ISTP)",
+          "L'Exécutif (ESTJ)",
+          "Le Défenseur (ISFJ)",
+          "Le Logisticien (ISTJ)",
+          "L'Artiste (ESFP)"
+        ],
+        "AttractedBy": [
+          "Sincère",
+          "Rationnel",
+          "Ponctuel",
+          "Respectueux",
+          "Ouvert",
+          "Accueillant",
+          "Loyal",
+          "Authentique",
+          "Curieux",
+          "Romantique",
+          "Réfléchi"
+        ],
+        "PetPeeves": [
+          "Contrôlant",
+          "Irrationnel",
+          "Illogique",
+          "Trop émotif",
+          "Passif-agressif",
+          "Insincère",
+          "Superficiel",
+          "Déloyal",
+          "Indigne de confiance",
+          "Inintelligent",
+          "Manipulateur"
+        ],
+        "HowToBeCompanion": [
+          "Respectez leur besoin de solitude et de temps pour réfléchir - ils se ressourcent en privé.",
+          "Soyez intellectuellement stimulant; ils apprécient les conversations profondes et réfléchies.",
+          "Valorisez la logique et la raison dans vos discussions - ils préfèrent la rationalité aux effusions émotionnelles.",
+          "Soutenez leurs objectifs à long terme et leur vision pour l'avenir.",
+          "Soyez direct et honnête - ils n'aiment pas les jeux d'esprit ou la manipulation.",
+          "Donnez-leur de l'espace pour travailler de manière indépendante, mais montrez-leur loyauté et engagement."
+        ],
+        "SecretDesire": "Les architectes sont très analytiques et souvent perdus dans leurs pensées, ce qui les fait se sentir déconnectés du présent. Leur désir secret est de profiter des plaisirs simples de la vie sans trop réfléchir. Ils souhaitent échapper à leur esprit, s'adonner à la spontanéité et trouver un équilibre entre leurs côtés intellectuel et émotionnel. Bien qu'ils puissent parfois devenir imprudents, ils apprennent à mieux gérer ce décalage avec le temps.",
+        "Stereotypes": "Les architectes sont souvent stéréotypés comme froids, distants et robotiques en raison de leur nature analytique.",
+        "Celebrities": [
+          "Isaac Newton",
+          "Mark Zuckerberg",
+          "Arnold Schwarzenegger",
+          "Hillary Clinton",
+          "Elon Musk",
+          "Stephen Hawking",
+          "Nikola Tesla",
+          "Ludwig van Beethoven",
+          "John F. Kennedy",
+          "Jay-Z"
+        ]
+      },
+      {
+        "id": 1,
+        "language_code": "es",
+        "type": "INTJ",
+        "name": "Arquitecto",
+        "Description": "Los arquitectos son estrategas maestros que sobresalen en la resolución de problemas complejos. Conocidos por su independencia, pensamiento lógico y altos estándares, están impulsados por la búsqueda del conocimiento. A menudo son mal entendidos por su distancia emocional, valoran la estimulación intelectual y prosperan en entornos que desafían su creatividad y eficiencia. Para los arquitectos, las relaciones se basan en la confianza, la honestidad y visiones compartidas para el futuro.",
+        "Strengths": [
+          "Ágil mentalmente",
+          "Imaginativo",
+          "Estratégico",
+          "Confiado",
+          "Independiente",
+          "Decidido",
+          "Trabajador",
+          "Determinado",
+          "De mente abierta",
+          "Todo terreno",
+          "Innovador",
+          "Leal"
+        ],
+        "Weaknesses": [
+          "Arrogante",
+          "Crítico",
+          "Demasiado analítico",
+          "Detesta los entornos estructurados",
+          "Torpe en el romance",
+          "Complejo de superioridad",
+          "Distante emocionalmente"
+        ],
+        "DosInRelationship": [
+          "Sé honesto, auténtico e intelectualmente estimulante.",
+          "Elogia sus ideas y logros.",
+          "Ayúdalos a divertirse y relajarse fuera de su mundo estructurado.",
+          "Muestra fiabilidad y consistencia."
+        ],
+        "DontsInRelationship": [
+          "No los presiones para socializar demasiado.",
+          "Evita presionarlos para hablar de sentimientos al principio de la relación.",
+          "No seas pasivo-agresivo ni excesivamente emocional.",
+          "No llegues tarde, valoran la puntualidad y la comunicación directa."
+        ],
+        "Friendships": "Los arquitectos son conocidos por su independencia y agudeza mental. Saben exactamente quiénes son y con quién quieren rodearse. Los arquitectos prefieren tener razón que ser populares, y aunque no sean del agrado de todos, tienen un encanto que conquista a quienes los comprenden. Para ellos, es más importante mantener un círculo pequeño pero significativo que tener conexiones superficiales. Al final, los arquitectos aprecian a los amigos con los que pueden discutir cualquier cosa, disfrutando de conversaciones intelectuales profundas.",
+        "CareerPath": [
+          "Anestesiólogo",
+          "Bioquímico",
+          "Biólogo",
+          "Ingeniero químico",
+          "Programador informático",
+          "Ingeniero electrónico",
+          "Ingeniero industrial",
+          "Analista de seguridad informática",
+          "Abogado",
+          "Cirujano"
+        ],
+        "LifeValue": [
+          "Salud",
+          "Familia/Hogar",
+          "Logro",
+          "Autonomía",
+          "Seguridad financiera"
+        ],
+        "CompatibleConnections": [
+          "El Campañero (ENFP)",
+          "El Comandante (ENTJ)",
+          "El Debatidor (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "El Pensador (INTP)",
+          "El Protagonista (ENFJ)",
+          "El Defensor (INFJ)",
+          "El Mediador (INFP)",
+          "El Emprendedor (ESTP)"
+        ],
+        "ChallengingConnections": [
+          "El Arquitecto (INTJ)",
+          "El Aventurero (ISFP)",
+          "El Cónsul (ESFJ)",
+          "El Virtuoso (ISTP)",
+          "El Ejecutivo (ESTJ)",
+          "El Defensor (ISFJ)",
+          "El Logístico (ISTJ)",
+          "El Artista (ESFP)"
+        ],
+        "AttractedBy": [
+          "Sincero",
+          "Racional",
+          "Puntual",
+          "Respetuoso",
+          "Abierto",
+          "Acogedor",
+          "Leal",
+          "Auténtico",
+          "Curioso",
+          "Romántico",
+          "Reflexivo"
+        ],
+        "PetPeeves": [
+          "Controlador",
+          "Irracional",
+          "Ilógico",
+          "Demasiado emocional",
+          "Pasivo-agresivo",
+          "Insincero",
+          "Superficial",
+          "Desleal",
+          "Poco confiable",
+          "Poco inteligente",
+          "Manipulador"
+        ],
+        "HowToBeCompanion": [
+          "Respeta su necesidad de soledad y tiempo para pensar: se recargan en privado.",
+          "Sé intelectualmente estimulante; aprecian las conversaciones profundas y reflexivas.",
+          "Valora la lógica y la razón en tus discusiones, prefieren la racionalidad a las explosiones emocionales.",
+          "Apoya sus metas a largo plazo y su visión para el futuro.",
+          "Sé directo y honesto, no les gustan los juegos mentales ni la manipulación.",
+          "Dales espacio para trabajar de forma independiente, pero muestra lealtad y compromiso."
+        ],
+        "SecretDesire": "Los arquitectos son altamente analíticos y a menudo se pierden en sus pensamientos, lo que los hace sentir desconectados del presente. Su deseo secreto es disfrutar de los placeres simples de la vida sin pensar demasiado. Desean escapar de sus mentes, entregarse a la espontaneidad y encontrar un equilibrio entre su lado intelectual y emocional. Aunque a veces pueden volverse imprudentes, aprenden a gestionar mejor esta división con el tiempo.",
+        "Stereotypes": "Los arquitectos a menudo son estereotipados como fríos, distantes y robóticos debido a su naturaleza analítica.",
+        "Celebrities": [
+          "Isaac Newton",
+          "Mark Zuckerberg",
+          "Arnold Schwarzenegger",
+          "Hillary Clinton",
+          "Elon Musk",
+          "Stephen Hawking",
+          "Nikola Tesla",
+          "Ludwig van Beethoven",
+          "John F. Kennedy",
+          "Jay-Z"
+        ]
+      },
+      {
+        "id": 1,
+        "language_code": "pt",
+        "type": "INTJ",
+        "name": "Arquiteto",
+        "Description": "Os Arquitetos são mestres estratégicos que se destacam em resolver problemas complexos. Conhecidos por sua independência, pensamento lógico e altos padrões, são movidos pela busca do conhecimento. Muitas vezes incompreendidos por sua frieza, valorizam a estimulação intelectual e prosperam em ambientes que desafiam sua criatividade e eficiência. Para os Arquitetos, os relacionamentos são construídos com base na confiança, honestidade e visões compartilhadas para o futuro.",
+        "Strengths": [
+          "Rápido de pensamento",
+          "Imaginativo",
+          "Estratégico",
+          "Confiante",
+          "Independente",
+          "Decisivo",
+          "Trabalhador",
+          "Determinado",
+          "De mente aberta",
+          "Polivalente",
+          "Inovador",
+          "Leal"
+        ],
+        "Weaknesses": [
+          "Arrogante",
+          "Crítico",
+          "Excessivamente analítico",
+          "Detesta ambientes estruturados",
+          "Desajeitado no romance",
+          "Complexo de superioridade",
+          "Distante emocionalmente"
+        ],
+        "DosInRelationship": [
+          "Seja honesto, autêntico e intelectualmente estimulante.",
+          "Elogie suas ideias e conquistas.",
+          "Ajude-os a se divertir e relaxar fora de seu mundo estruturado.",
+          "Mostre confiabilidade e consistência."
+        ],
+        "DontsInRelationship": [
+          "Não os pressione para socializar demais.",
+          "Evite pressioná-los para falar sobre sentimentos no início do relacionamento.",
+          "Não seja passivo-agressivo ou excessivamente emocional.",
+          "Não se atrase - eles valorizam a pontualidade e a comunicação direta."
+        ],
+        "Friendships": "Os Arquitetos são conhecidos por sua independência e perspicácia. Sabem exatamente quem são e com quem querem se cercar. Os Arquitetos preferem estar certos a serem populares, e embora possam não ser do agrado de todos, têm um charme que conquista aqueles que os entendem. Para eles, é mais importante manter um círculo pequeno, mas significativo, do que ter conexões superficiais. No final, os Arquitetos apreciam amigos com quem podem discutir qualquer coisa, desfrutando de conversas intelectuais profundas.",
+        "CareerPath": [
+          "Anestesiologista",
+          "Bioquímico",
+          "Biólogo",
+          "Engenheiro químico",
+          "Programador de computadores",
+          "Engenheiro eletrônico",
+          "Engenheiro industrial",
+          "Analista de segurança da informação",
+          "Advogado",
+          "Cirurgião"
+        ],
+        "LifeValue": [
+          "Saúde",
+          "Família/Casa",
+          "Realização",
+          "Autonomia",
+          "Segurança financeira"
+        ],
+        "CompatibleConnections": [
+          "O Campanhista (ENFP)",
+          "O Comandante (ENTJ)",
+          "O Debatedor (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "O Pensador (INTP)",
+          "O Protagonista (ENFJ)",
+          "O Defensor (INFJ)",
+          "O Mediador (INFP)",
+          "O Empreendedor (ESTP)"
+        ],
+        "ChallengingConnections": [
+          "O Arquiteto (INTJ)",
+          "O Aventureiro (ISFP)",
+          "O Cônsul (ESFJ)",
+          "O Virtuoso (ISTP)",
+          "O Executivo (ESTJ)",
+          "O Defensor (ISFJ)",
+          "O Logístico (ISTJ)",
+          "O Artista (ESFP)"
+        ],
+        "AttractedBy": [
+          "Sincero",
+          "Racional",
+          "Pontual",
+          "Respeitoso",
+          "Aberto",
+          "Acolhedor",
+          "Leal",
+          "Autêntico",
+          "Curioso",
+          "Romântico",
+          "Reflexivo"
+        ],
+        "PetPeeves": [
+          "Controlador",
+          "Irracional",
+          "Ilógico",
+          "Excessivamente emocional",
+          "Passivo-agressivo",
+          "Insincero",
+          "Superficial",
+          "Desleal",
+          "Pouco confiável",
+          "Poco inteligente",
+          "Manipulador"
+        ],
+        "HowToBeCompanion": [
+          "Respeite sua necessidade de solidão e tempo para pensar – eles se recarregam em privado.",
+          "Seja intelectualmente estimulante; eles apreciam conversas profundas e reflexivas.",
+          "Valorize a lógica e a razão nas discussões – eles preferem a racionalidade a explosões emocionais.",
+          "Apoie seus objetivos de longo prazo e sua visão de futuro.",
+          "Seja direto e honesto – eles não gostam de jogos mentais ou manipulação.",
+          "Dê-lhes espaço para trabalhar de forma independente, mas demonstre lealdade e comprometimento."
+        ],
+        "SecretDesire": "Os Arquitetos são altamente analíticos e muitas vezes se perdem em seus pensamentos, o que os faz se sentirem desconectados do presente. Seu desejo secreto é aproveitar os prazeres simples da vida sem pensar demais. Eles desejam escapar de suas mentes, entregar-se à espontaneidade e encontrar um equilíbrio entre seus lados intelectual e emocional. Embora às vezes possam se tornar imprudentes, eles aprendem a gerenciar melhor essa divisão com o tempo.",
+        "Stereotypes": "Os Arquitetos são frequentemente estereotipados como frios, distantes e robóticos devido à sua natureza analítica.",
+        "Celebrities": [
+          "Isaac Newton",
+          "Mark Zuckerberg",
+          "Arnold Schwarzenegger",
+          "Hillary Clinton",
+          "Elon Musk",
+          "Stephen Hawking",
+          "Nikola Tesla",
+          "Ludwig van Beethoven",
+          "John F. Kennedy",
+          "Jay-Z"
+        ]
+      },
+      {
+        "id": 1,
+        "language_code": "ar",
+        "type": "INTJ",
+        "name": "المهندس المعماري",
+        "Description": "المهندسون المعماريون هم أسياد الإستراتيجيات الذين يتفوقون في حل المشكلات المعقدة. معروفون باستقلالهم وتفكيرهم المنطقي ومعاييرهم العالية، وهم مدفوعون بالسعي وراء المعرفة. غالبًا ما يُساء فهمهم بسبب برودتهم، فهم يقدرون التحفيز الفكري ويزدهرون في البيئات التي تتحدى إبداعهم وكفاءتهم. العلاقات بالنسبة للمهندسين المعماريين تُبنى على الثقة والأمانة والرؤى المشتركة للمستقبل.",
+        "Strengths": [
+          "سريع البديهة",
+          "خيالي",
+          "استراتيجي",
+          "واثق",
+          "مستقل",
+          "حاسم",
+          "مجتهد",
+          "مصمم",
+          "منفتح الذهن",
+          "متعدد المواهب",
+          "مبتكر",
+          "مخلص"
+        ],
+        "Weaknesses": [
+          "متكبر",
+          "انتقادي",
+          "تحليلي بشكل مفرط",
+          "يكره البيئات المنظمة",
+          "بلا فهم في الرومانسية",
+          "شعور بالتفوق",
+          "بعيد عاطفيًا"
+        ],
+        "DosInRelationship": [
+          "كن صادقًا وأصيلًا ومحفزًا فكريًا.",
+          "أثني على أفكارهم وإنجازاتهم.",
+          "ساعدهم على الاستمتاع والراحة خارج عالمهم المنظم.",
+          "أظهر الاعتمادية والموثوقية باستمرار."
+        ],
+        "DontsInRelationship": [
+          "لا تدفعهم إلى الاختلاط كثيرًا.",
+          "تجنب الضغط عليهم للتحدث عن المشاعر في بداية العلاقة.",
+          "لا تكن سلبيًا أو عاطفيًا بشكل مفرط.",
+          "لا تتأخر – هم يقدرون الدقة والتواصل المباشر."
+        ],
+        "Friendships": "المهندسون المعماريون معروفون باستقلاليتهم وذكائهم الحاد. يعرفون بالضبط من هم ومن يريدون أن يحيطوا بأنفسهم. يفضل المهندسون أن يكونوا على حق بدلاً من أن يكونوا شعبيين، وعلى الرغم من أنهم قد لا يكونون محببين للجميع، إلا أنهم يتمتعون بجاذبية تغري أولئك الذين يفهمونهم. بالنسبة لهم، الحفاظ على دائرة صغيرة ولكنها ذات مغزى هو أمر أكثر أهمية من وجود اتصالات سطحية. في النهاية، يقدر المهندسون الأصدقاء الذين يمكنهم مناقشة أي شيء معهم، ويستمتعون بالمحادثات الفكرية العميقة.",
+        "CareerPath": [
+          "طبيب تخدير",
+          "كيميائي حيوي",
+          "بيولوجي",
+          "مهندس كيميائي",
+          "مبرمج حاسوب",
+          "مهندس الكترونيات",
+          "مهندس صناعي",
+          "محلل أمن معلومات",
+          "محامي",
+          "جراح"
+        ],
+        "LifeValue": [
+          "الصحة",
+          "العائلة / المنزل",
+          "الإنجاز",
+          "الاستقلالية",
+          "الأمن المالي"
+        ],
+        "CompatibleConnections": [
+          "المعبر (ENFP)",
+          "القائد (ENTJ)",
+          "المناظر (ENTP)"
+        ],
+        "HasPotentialConnections": [
+          "المفكر (INTP)",
+          "البطل (ENFJ)",
+          "المدافع (INFJ)",
+          "الوسيط (INFP)",
+          "رائد الأعمال (ESTP)"
+        ],
+        "ChallengingConnections": [
+          "المهندس المعماري (INTJ)",
+          "المغامر (ISFP)",
+          "القنصل (ESFJ)",
+          "المحترف (ISTP)",
+          "التنفيذي (ESTJ)",
+          "المدافع (ISFJ)",
+          "اللوجستي (ISTJ)",
+          "المؤدي (ESFP)"
+        ],
+        "AttractedBy": [
+          "صادق",
+          "عقلاني",
+          "دقيق في المواعيد",
+          "محترم",
+          "منفتح",
+          "مرحب",
+          "مخلص",
+          "أصيل",
+          "فضولي",
+          "رومانسي",
+          "مدروس"
+        ],
+        "PetPeeves": [
+          "تحكم",
+          "غير منطقي",
+          "غير عقلاني",
+          "عاطفي بشكل مفرط",
+          "سلبي عدواني",
+          "غير مخلص",
+          "سطحي",
+          "غير مخلص",
+          "غير جدير بالثقة",
+          "غير ذكي",
+          "تلاعب"
+        ],
+        "HowToBeCompanion": [
+          "احترم حاجتهم للوحدة ووقت التفكير – يتجددون في الخصوصية.",
+          "كن محفزًا فكريًا؛ يقدرون المحادثات العميقة والمدروسة.",
+          "قدر المنطق والعقل في مناقشاتك – يفضلون العقلانية على الانفجارات العاطفية.",
+          "ادعم أهدافهم طويلة الأجل ورؤيتهم للمستقبل.",
+          "كن صريحًا وصادقًا – لا يحبون الألعاب الذهنية أو التلاعب.",
+          "امنحهم المساحة للعمل بشكل مستقل، ولكن أظهر لهم الولاء والالتزام."
+        ],
+        "SecretDesire": "المهندسون المعماريون هم محللون للغاية وغالبًا ما يكونون غارقين في أفكارهم، مما يجعلهم يشعرون بالانفصال عن الحاضر. رغبتهم السرية هي الاستمتاع بمتع الحياة البسيطة دون الإفراط في التفكير. يتمنون الهروب من عقولهم، والانغماس في العفوية، والعثور على التوازن بين الجوانب الفكرية والعاطفية. على الرغم من أنهم قد يصبحون متهورين أحيانًا، إلا أنهم يتعلمون إدارة هذا الانقسام بشكل أفضل مع مرور الوقت.",
+        "Stereotypes": "غالبًا ما يتم تصوير المهندسين المعماريين على أنهم باردون ومنعزلون وروبوتات بسبب طبيعتهم التحليلية.",
+        "Celebrities": [
+          "إسحاق نيوتن",
+          "مارك زوكربيرج",
+          "أرنولد شوارزنيجر",
+          "هيلاري كلينتون",
+          "إيلون ماسك",
+          "ستيفن هوكينج",
+          "نيكولا تيسلا",
+          "لودفيج فان بيتهوفن",
+          "جون إف. كينيدي",
+          "جاي زي"
+        ]
+      }
+    ]
+  }  

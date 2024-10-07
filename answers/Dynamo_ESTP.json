@@ -1,0 +1,614 @@
+{
+    "personalities": [
+      {
+        "id": 6,
+        "language_code": "en",
+        "type": "ESTP",
+        "name": "The Dynamo",
+        "Description": "Bold and practical experimenters, ESTPs are known for their energetic, action-oriented nature. They love to take risks, live in the moment, and are often the life of the party. ESTPs thrive in environments that keep them on their toes and where they can actively problem-solve and interact with others.",
+        "Strengths": [
+          "bold",
+          "practical",
+          "direct",
+          "perceptive",
+          "sociable",
+          "energetic",
+          "confident",
+          "flexible",
+          "quick decision-makers",
+          "fun-loving"
+        ],
+        "Weaknesses": [
+          "impatient",
+          "risk-prone",
+          "unstructured",
+          "insensitive at times",
+          "dislike theoretical discussions",
+          "can get bored easily",
+          "difficulties with long-term planning"
+        ],
+        "DosInRelationship": [
+          "Be spontaneous and enjoy fun activities together.",
+          "Show admiration for their confidence and skills.",
+          "Give them freedom to explore and take risks.",
+          "Engage in action-oriented, hands-on activities.",
+          "Be direct in your communication with them."
+        ],
+        "DontsInRelationship": [
+          "Don’t micromanage or limit their independence.",
+          "Avoid being overly critical of their fast decision-making.",
+          "Don’t dwell on abstract theories or plans for the distant future.",
+          "Don’t try to change their fast-paced lifestyle."
+        ],
+        "Friendships": "Dynamo personalities form friendships that revolve around excitement and shared activities. They prefer friendships with people who can keep up with their fast pace and are always ready for the next adventure.",
+        "CareerPath": [
+          "Entrepreneur",
+          "Sales Representative",
+          "Marketing Manager",
+          "Police Officer",
+          "Paramedic",
+          "Athlete",
+          "Stockbroker",
+          "Military Officer",
+          "Real Estate Agent"
+        ],
+        "LifeValue": [
+          "Freedom",
+          "Excitement",
+          "Action",
+          "Independence",
+          "Achievement"
+        ],
+        "CompatibleConnections": [
+          "The Virtuoso (ISTP)",
+          "The Logistician (ISTJ)",
+          "The Defender (ISFJ)"
+        ],
+        "HasPotentialConnections": [
+          "The Architect (INTJ)",
+          "The Advocate (INFJ)",
+          "The Consul (ESFJ)",
+          "The Performer (ESFP)",
+          "The Adventurer (ISFP)",
+          "The Executive (ESTJ)"
+        ],
+        "ChallengingConnections": [
+          "The Campaigner (ENFP)",
+          "The Debater (ENTP)",
+          "The Mediator (INFP)",
+          "The Protagonist (ENFJ)",
+          "The Thinker (INTP)",
+          "The Commander (ENTJ)",
+          "The Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "confident",
+          "adventurous",
+          "practical",
+          "assertive",
+          "grounded",
+          "independent",
+          "down-to-earth",
+          "strong",
+          "direct",
+          "fun"
+        ],
+        "PetPeeves": [
+          "indecisive",
+          "overly sensitive",
+          "slow decision-makers",
+          "passive",
+          "too much structure",
+          "constant planning",
+          "overly theoretical",
+          "easily offended"
+        ],
+        "HowToBeCompanion": [
+          "Be ready for spontaneous adventures.",
+          "Appreciate their risk-taking spirit.",
+          "Show excitement for hands-on experiences.",
+          "Avoid getting bogged down in abstract conversations.",
+          "Give them space and respect their independence.",
+          "Be clear and straightforward in your communication."
+        ],
+        "SecretDesire": "Dynamoes secretly long to conquer new challenges and stay ahead of the competition. They yearn for constant excitement and adventure in their life and relationships.",
+        "Stereotypes": "ESTPs are often viewed as reckless and impulsive, but in reality, they have a keen eye for seizing opportunities and can be quite calculated in their risks.",
+        "Celebrities": [
+          "Dwayne 'The Rock' Johnson",
+          "Eddie Murphy",
+          "Madonna",
+          "Bruce Willis",
+          "Miley Cyrus",
+          "Ernest Hemingway"
+        ]
+      },
+      {
+        "id": 6,
+        "language_code": "fr",
+        "type": "ESTP",
+        "name": "Le Dynamo",
+        "Description": "Expérimentateurs audacieux et pratiques, les ESTP sont connus pour leur nature énergique et orientée vers l'action. Ils aiment prendre des risques, vivre dans l'instant et sont souvent le centre de l'attention. Les ESTP prospèrent dans des environnements qui les maintiennent en alerte et où ils peuvent résoudre activement des problèmes et interagir avec les autres.",
+        "Strengths": [
+          "audacieux",
+          "pratique",
+          "direct",
+          "perceptif",
+          "sociable",
+          "énergique",
+          "confiant",
+          "flexible",
+          "prennent des décisions rapides",
+          "aiment s'amuser"
+        ],
+        "Weaknesses": [
+          "impatient",
+          "prend des risques",
+          "peu structuré",
+          "insensible parfois",
+          "n'aiment pas les discussions théoriques",
+          "s'ennuient facilement",
+          "difficulté avec la planification à long terme"
+        ],
+        "DosInRelationship": [
+          "Soyez spontané et profitez ensemble d'activités amusantes.",
+          "Montrez votre admiration pour leur confiance et leurs compétences.",
+          "Donnez-leur la liberté d'explorer et de prendre des risques.",
+          "Participez à des activités pratiques orientées vers l'action.",
+          "Soyez direct dans votre communication avec eux."
+        ],
+        "DontsInRelationship": [
+          "Ne les microgérez pas ni ne limitez leur indépendance.",
+          "Évitez d'être trop critique envers leur prise de décision rapide.",
+          "Ne vous attardez pas sur des théories abstraites ou des plans pour un avenir lointain.",
+          "Ne tentez pas de changer leur mode de vie rapide."
+        ],
+        "Friendships": "Les personnalités Dynamo forment des amitiés qui tournent autour de l'excitation et des activités partagées. Ils préfèrent les amitiés avec des personnes qui peuvent suivre leur rythme rapide et sont toujours prêtes pour la prochaine aventure.",
+        "CareerPath": [
+          "Entrepreneur",
+          "Représentant commercial",
+          "Directeur marketing",
+          "Officier de police",
+          "Paramédic",
+          "Athlète",
+          "Courtier en bourse",
+          "Officier militaire",
+          "Agent immobilier"
+        ],
+        "LifeValue": [
+          "Liberté",
+          "Excitation",
+          "Action",
+          "Indépendance",
+          "Réussite"
+        ],
+        "CompatibleConnections": [
+          "Le Virtuose (ISTP)",
+          "Le Logisticien (ISTJ)",
+          "Le Défenseur (ISFJ)"
+        ],
+        "HasPotentialConnections": [
+          "L'Architecte (INTJ)",
+          "L'Avocat (INFJ)",
+          "Le Consul (ESFJ)",
+          "Le Performeur (ESFP)",
+          "L'Aventurier (ISFP)",
+          "L'Exécutif (ESTJ)"
+        ],
+        "ChallengingConnections": [
+          "Le Campagneur (ENFP)",
+          "Le Débatteur (ENTP)",
+          "Le Médiateur (INFP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Penseur (INTP)",
+          "Le Commandeur (ENTJ)",
+          "Le Dynamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "confiant",
+          "aventurier",
+          "pratique",
+          "assuré",
+          "pied sur terre",
+          "indépendant",
+          "réaliste",
+          "fort",
+          "direct",
+          "amusant"
+        ],
+        "PetPeeves": [
+          "indécis",
+          "trop sensible",
+          "décisionnaires lents",
+          "passif",
+          "trop structuré",
+          "planification constante",
+          "trop théorique",
+          "facilement offensé"
+        ],
+        "HowToBeCompanion": [
+          "Soyez prêt pour des aventures spontanées.",
+          "Appréciez leur esprit de prise de risque.",
+          "Montrez de l'enthousiasme pour les expériences pratiques.",
+          "Évitez de vous enliser dans des conversations abstraites.",
+          "Donnez-leur de l'espace et respectez leur indépendance.",
+          "Soyez clair et direct dans votre communication."
+        ],
+        "SecretDesire": "Les Dynamo aspirent secrètement à relever de nouveaux défis et à rester en avance sur la concurrence. Ils aspirent à une excitation et une aventure constantes dans leur vie et leurs relations.",
+        "Stereotypes": "Les ESTP sont souvent perçus comme imprudents et impulsifs, mais en réalité, ils ont un œil vif pour saisir les opportunités et peuvent être assez calculés dans leurs risques.",
+        "Celebrities": [
+          "Dwayne 'The Rock' Johnson",
+          "Eddie Murphy",
+          "Madonna",
+          "Bruce Willis",
+          "Miley Cyrus",
+          "Ernest Hemingway"
+        ]
+      },
+      {
+        "id": 6,
+        "language_code": "es",
+        "type": "ESTP",
+        "name": "El Dinamo",
+        "Description": "Experimentadores audaces y prácticos, los ESTP son conocidos por su naturaleza enérgica y orientada a la acción. Les encanta tomar riesgos, vivir el momento y a menudo son el alma de la fiesta. Los ESTP prosperan en entornos que los mantienen alerta y donde pueden resolver problemas activamente e interactuar con los demás.",
+        "Strengths": [
+          "audaz",
+          "práctico",
+          "directo",
+          "perceptivo",
+          "sociable",
+          "enérgico",
+          "confiado",
+          "flexible",
+          "toman decisiones rápidamente",
+          "amante de la diversión"
+        ],
+        "Weaknesses": [
+          "impaciente",
+          "propenso al riesgo",
+          "desestructurado",
+          "insensible a veces",
+          "no les gustan las discusiones teóricas",
+          "se aburren fácilmente",
+          "dificultades con la planificación a largo plazo"
+        ],
+        "DosInRelationship": [
+          "Sé espontáneo y disfruta de actividades divertidas juntos.",
+          "Muestra admiración por su confianza y habilidades.",
+          "Dales libertad para explorar y tomar riesgos.",
+          "Participa en actividades prácticas y orientadas a la acción.",
+          "Sé directo en tu comunicación con ellos."
+        ],
+        "DontsInRelationship": [
+          "No los microgestiones ni limites su independencia.",
+          "Evita ser demasiado crítico con su toma de decisiones rápida.",
+          "No te detengas en teorías abstractas o planes para el futuro distante.",
+          "No trates de cambiar su estilo de vida acelerado."
+        ],
+        "Friendships": "Las personalidades Dinamo forman amistades que giran en torno a la emoción y las actividades compartidas. Prefieren amistades con personas que puedan seguir su ritmo rápido y que siempre estén listas para la próxima aventura.",
+        "CareerPath": [
+          "Emprendedor",
+          "Representante de ventas",
+          "Gerente de marketing",
+          "Oficial de policía",
+          "Paramédico",
+          "Atleta",
+          "Corredor de bolsa",
+          "Oficial militar",
+          "Agente inmobiliario"
+        ],
+        "LifeValue": [
+          "Libertad",
+          "Emoción",
+          "Acción",
+          "Independencia",
+          "Logro"
+        ],
+        "CompatibleConnections": [
+          "El Virtuoso (ISTP)",
+          "El Logístico (ISTJ)",
+          "El Defensor (ISFJ)"
+        ],
+        "HasPotentialConnections": [
+          "El Arquitecto (INTJ)",
+          "El Defensor (INFJ)",
+          "El Cónsul (ESFJ)",
+          "El Artista (ESFP)",
+          "El Aventurero (ISFP)",
+          "El Ejecutivo (ESTJ)"
+        ],
+        "ChallengingConnections": [
+          "El Campañero (ENFP)",
+          "El Debatidor (ENTP)",
+          "El Mediador (INFP)",
+          "El Protagonista (ENFJ)",
+          "El Pensador (INTP)",
+          "El Comandante (ENTJ)",
+          "El Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "confiado",
+          "aventurero",
+          "práctico",
+          "seguro de sí mismo",
+          "con los pies en la tierra",
+          "independiente",
+          "realista",
+          "fuerte",
+          "directo",
+          "divertido"
+        ],
+        "PetPeeves": [
+          "indeciso",
+          "demasiado sensible",
+          "tomadores de decisiones lentos",
+          "pasivo",
+          "demasiada estructura",
+          "planificación constante",
+          "demasiado teórico",
+          "se ofende fácilmente"
+        ],
+        "HowToBeCompanion": [
+          "Esté listo para aventuras espontáneas.",
+          "Aprecia su espíritu arriesgado.",
+          "Muestra entusiasmo por las experiencias prácticas.",
+          "Evita quedarte atrapado en conversaciones abstractas.",
+          "Dales espacio y respeta su independencia.",
+          "Sé claro y directo en tu comunicación."
+        ],
+        "SecretDesire": "Los Dinamos anhelan en secreto conquistar nuevos desafíos y mantenerse por delante de la competencia. Anhelan la emoción y la aventura constantes en su vida y relaciones.",
+        "Stereotypes": "Los ESTP a menudo son vistos como imprudentes e impulsivos, pero en realidad, tienen un ojo agudo para aprovechar oportunidades y pueden ser bastante calculadores en sus riesgos.",
+        "Celebrities": [
+          "Dwayne 'The Rock' Johnson",
+          "Eddie Murphy",
+          "Madonna",
+          "Bruce Willis",
+          "Miley Cyrus",
+          "Ernest Hemingway"
+        ]
+      },
+      {
+        "id": 6,
+        "language_code": "pt",
+        "type": "ESTP",
+        "name": "O Dinamo",
+        "Description": "Experimentadores ousados e práticos, os ESTP são conhecidos por sua natureza energética e orientada para a ação. Eles adoram correr riscos, viver o momento e muitas vezes são o centro das atenções. Os ESTP prosperam em ambientes que os mantêm em alerta e onde podem resolver problemas ativamente e interagir com os outros.",
+        "Strengths": [
+          "ousado",
+          "prático",
+          "direto",
+          "perceptivo",
+          "sociável",
+          "energético",
+          "confiante",
+          "flexível",
+          "tomam decisões rápidas",
+          "divertido"
+        ],
+        "Weaknesses": [
+          "impaciente",
+          "propenso a riscos",
+          "desestruturado",
+          "insensível às vezes",
+          "não gostam de discussões teóricas",
+          "podem se entediar facilmente",
+          "dificuldades com planejamento a longo prazo"
+        ],
+        "DosInRelationship": [
+          "Seja espontâneo e aproveite atividades divertidas juntos.",
+          "Mostre admiração por sua confiança e habilidades.",
+          "Dê-lhes liberdade para explorar e correr riscos.",
+          "Participe de atividades práticas e orientadas para a ação.",
+          "Seja direto na sua comunicação com eles."
+        ],
+        "DontsInRelationship": [
+          "Não os microgerencie ou limite sua independência.",
+          "Evite ser excessivamente crítico com sua tomada de decisões rápida.",
+          "Não se concentre em teorias abstratas ou planos para um futuro distante.",
+          "Não tente mudar seu estilo de vida acelerado."
+        ],
+        "Friendships": "As personalidades Dinamo formam amizades que giram em torno da emoção e de atividades compartilhadas. Eles preferem amizades com pessoas que podem acompanhar seu ritmo acelerado e estão sempre prontas para a próxima aventura.",
+        "CareerPath": [
+          "Empreendedor",
+          "Representante de vendas",
+          "Gerente de marketing",
+          "Policial",
+          "Paramédico",
+          "Atleta",
+          "Corretor da bolsa",
+          "Oficial militar",
+          "Corretor de imóveis"
+        ],
+        "LifeValue": [
+          "Liberdade",
+          "Excitação",
+          "Ação",
+          "Independência",
+          "Realização"
+        ],
+        "CompatibleConnections": [
+          "O Virtuoso (ISTP)",
+          "O Logístico (ISTJ)",
+          "O Protetor (ISFJ)"
+        ],
+        "HasPotentialConnections": [
+          "O Arquiteto (INTJ)",
+          "O Advogado (INFJ)",
+          "O Cônsul (ESFJ)",
+          "O Performista (ESFP)",
+          "O Aventureiro (ISFP)",
+          "O Executivo (ESTJ)"
+        ],
+        "ChallengingConnections": [
+          "O Campanhista (ENFP)",
+          "O Debatedor (ENTP)",
+          "O Mediador (INFP)",
+          "O Protagonista (ENFJ)",
+          "O Pensador (INTP)",
+          "O Comandante (ENTJ)",
+          "O Dinamo (ESTP)"
+        ],
+        "AttractedBy": [
+          "confiante",
+          "aventureiro",
+          "prático",
+          "assertivo",
+          "pé no chão",
+          "independente",
+          "realista",
+          "forte",
+          "direto",
+          "divertido"
+        ],
+        "PetPeeves": [
+          "indeciso",
+          "muito sensível",
+          "tomadores de decisão lentos",
+          "passivo",
+          "muita estrutura",
+          "planejamento constante",
+          "muito teórico",
+          "facilmente ofendido"
+        ],
+        "HowToBeCompanion": [
+          "Esteja pronto para aventuras espontâneas.",
+          "Aprecie seu espírito de correr riscos.",
+          "Mostre entusiasmo por experiências práticas.",
+          "Evite se perder em conversas abstratas.",
+          "Dê-lhes espaço e respeite sua independência.",
+          "Seja claro e direto na sua comunicação."
+        ],
+        "SecretDesire": "Os Dinamos anseiam secretamente por conquistar novos desafios e se manter à frente da concorrência. Eles anseiam por emoção e aventura constantes em sua vida e relacionamentos.",
+        "Stereotypes": "Os ESTP são frequentemente vistos como imprudentes e impulsivos, mas na realidade, têm um olhar aguçado para aproveitar oportunidades e podem ser bastante calculados em seus riscos.",
+        "Celebrities": [
+          "Dwayne 'The Rock' Johnson",
+          "Eddie Murphy",
+          "Madonna",
+          "Bruce Willis",
+          "Miley Cyrus",
+          "Ernest Hemingway"
+        ]
+      },
+      {
+        "id": 6,
+        "language_code": "ar",
+        "type": "ESTP",
+        "name": "الدينامو",
+        "Description": "التجريبيون الجريئون والعمليون، يعرف أصحاب شخصية الدينامو بنشاطهم وطبيعتهم العملية والموجهة نحو العمل. يحبون المخاطرة والعيش في اللحظة وغالبًا ما يكونون محور الحفلة. يزدهر أصحاب الدينامو في البيئات التي تبقيهم في حالة يقظة حيث يمكنهم حل المشاكل بنشاط والتفاعل مع الآخرين.",
+        "Strengths": [
+          "جريء",
+          "عملي",
+          "مباشر",
+          "مدرك",
+          "اجتماعي",
+          "نشيط",
+          "واثق",
+          "مرن",
+          "سريعي اتخاذ القرارات",
+          "محب للمرح"
+        ],
+        "Weaknesses": [
+          "غير صبور",
+          "يميل إلى المخاطرة",
+          "غير منظم",
+          "غير حساس في بعض الأحيان",
+          "يكرهون المناقشات النظرية",
+          "يشعرون بالملل بسهولة",
+          "صعوبات في التخطيط على المدى الطويل"
+        ],
+        "DosInRelationship": [
+          "كن عفويًا واستمتع بالأنشطة الممتعة معًا.",
+          "أظهر الإعجاب بثقتهم ومهاراتهم.",
+          "امنحهم الحرية للاستكشاف والمخاطرة.",
+          "شارك في أنشطة عملية وموجهة نحو العمل.",
+          "كن مباشرًا في التواصل معهم."
+        ],
+        "DontsInRelationship": [
+          "لا تديرهم بدقة أو تحد من استقلالهم.",
+          "تجنب انتقاد قراراتهم السريعة بشكل مفرط.",
+          "لا تنغمس في النظريات المجردة أو الخطط المستقبلية البعيدة.",
+          "لا تحاول تغيير نمط حياتهم السريع."
+        ],
+        "Friendships": "تشكل شخصيات الدينامو صداقات تدور حول الإثارة والأنشطة المشتركة. يفضلون الصداقات مع الأشخاص الذين يمكنهم مواكبة وتيرتهم السريعة وهم دائمًا مستعدون للمغامرة التالية.",
+        "CareerPath": [
+          "رائد أعمال",
+          "مندوب مبيعات",
+          "مدير تسويق",
+          "ضابط شرطة",
+          "مسعف",
+          "رياضي",
+          "سمسار بورصة",
+          "ضابط عسكري",
+          "وكيل عقارات"
+        ],
+        "LifeValue": [
+          "الحرية",
+          "الإثارة",
+          "الحركة",
+          "الاستقلال",
+          "الإنجاز"
+        ],
+        "CompatibleConnections": [
+          "المحترف (ISTP)",
+          "اللوجستي (ISTJ)",
+          "المدافع (ISFJ)"
+        ],
+        "HasPotentialConnections": [
+          "المهندس المعماري (INTJ)",
+          "المدافع (INFJ)",
+          "القنصل (ESFJ)",
+          "المؤدي (ESFP)",
+          "المغامر (ISFP)",
+          "المدير التنفيذي (ESTJ)"
+        ],
+        "ChallengingConnections": [
+          "المعبر (ENFP)",
+          "المناظر (ENTP)",
+          "الوسيط (INFP)",
+          "البطل (ENFJ)",
+          "المفكر (INTP)",
+          "القائد (ENTJ)",
+          "الدينامو (ESTP)"
+        ],
+        "AttractedBy": [
+          "واثق",
+          "مغامر",
+          "عملي",
+          "حازم",
+          "واقعي",
+          "مستقل",
+          "واقعي",
+          "قوي",
+          "مباشر",
+          "مرح"
+        ],
+        "PetPeeves": [
+          "متردد",
+          "حساس للغاية",
+          "بطيء في اتخاذ القرارات",
+          "سلبي",
+          "هيكلية مفرطة",
+          "التخطيط المستمر",
+          "نظري للغاية",
+          "سهل الإهانة"
+        ],
+        "HowToBeCompanion": [
+          "كن مستعدًا للمغامرات العفوية.",
+          "قدّر روح المخاطرة لديهم.",
+          "أظهر الحماس للتجارب العملية.",
+          "تجنب الانغماس في المحادثات المجردة.",
+          "امنحهم مساحة واحترم استقلالهم.",
+          "كن واضحًا ومباشرًا في تواصلك."
+        ],
+        "SecretDesire": "يتوق أصحاب الدينامو سرًا إلى التغلب على التحديات الجديدة والبقاء في المقدمة. يتوقون إلى الإثارة والمغامرة المستمرة في حياتهم وعلاقاتهم.",
+        "Stereotypes": "غالبًا ما يُنظر إلى أصحاب الدينامو على أنهم متهورون ومندفعون، لكن في الواقع، لديهم عين ثاقبة لاقتناص الفرص ويمكن أن يكونوا محسوبين تمامًا في مخاطرهم.",
+        "Celebrities": [
+          "دواين 'ذا روك' جونسون",
+          "إيدي ميرفي",
+          "مادونا",
+          "بروس ويليس",
+          "مايلي سايروس",
+          "إرنست همنغواي"
+        ]
+      }
+    ]
+  }  
