@@ -45,7 +45,7 @@ Headers: {
 ### 1. Get MBTI Test Questions
 **Description**: Retrieves the MBTI test questions in the specified language.
 
-**URL**: `/mbti-test/:langCode`
+**URL**: `/questions/:langCode`
 
 **Method**: `GET`
 
@@ -55,7 +55,7 @@ x-api-key: <your_api_key>
 **Response**: Returns 40 MBTI test questions in the specified language.
 
 **Example**:
-```GET https://vast-fortress-09703-4205e76f9182.herokuapp.com/mbti-test/en Headers: { "x-api-key": "<your_api_key>" }```
+```GET https://vast-fortress-09703-4205e76f9182.herokuapp.com/questions/en Headers: { "x-api-key": "<your_api_key>" }```
 
 **Response**:
 
