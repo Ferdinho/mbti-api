@@ -216,7 +216,7 @@ const question_letters = [
 ];
 
 // Endpoint to get questions based on the language code
-app.get("/questions/:langCode", (req, res) => {
+app.get("v1/questions/:langCode", (req, res) => {
   const { langCode } = req.params;
   const langQuestions = questions[langCode];
 
@@ -228,7 +228,7 @@ app.get("/questions/:langCode", (req, res) => {
 });
 
 // MBTI test endpoint
-app.post("/mbti-test/:langCode", (req, res) => {
+app.post("v1/mbti-test/:langCode", (req, res) => {
   const { langCode } = req.params;
   const { responses } = req.body;
 
