@@ -9,6 +9,7 @@ const helmet = require("helmet"); // Add this line at the top with your other im
 const rateLimit = require("express-rate-limit"); // Add this line at the top
 const winston = require("winston");
 const dotenv = require("dotenv"); // Add this line
+const dogapi = require("datadog-metrics");
 dotenv.config(); // Load environment variables
 
 const logger = winston.createLogger({
@@ -21,6 +22,10 @@ const logger = winston.createLogger({
     new winston.transports.Console(), // Output logs to the console
     new winston.transports.File({ filename: "app.log" }), // Save logs to a file
   ],
+});
+
+dogapi.init({
+  apiKey: process.env.DATADOG_API_KEY,
 });
 
 app.use((req, res, next) => {
@@ -83,9 +88,15 @@ collectDefaultMetrics({ timeout: 5000 });
 
 // Create an endpoint for Prometheus to scrape metrics
 app.get("/metrics", async (req, res) => {
+  // Collect Prometheus metrics
   res.set("Content-Type", client.register.contentType);
   res.end(await client.register.metrics());
+
+  // Send custom metrics to Datadog
+  dogapi.gauge('custom.MBTI.api.active_connections', activeConnections); // Example custom metric
+  dogapi.gauge('custom.MBTI.api.requests.count', 1); // You can increment this for each request
 });
+
 
 // Load personality data
 const loadPersonalityData = (type, langCode) => {
