@@ -3,7 +3,6 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const app = express();
-app.enable("trust proxy", 1); // Add this line
 const port = process.env.PORT || 3000; // Use Heroku's port
 const helmet = require("helmet"); // Add this line at the top with your other imports
 const rateLimit = require("express-rate-limit"); // Add this line at the top
@@ -28,6 +27,7 @@ dogapi.init({
   apiKey: process.env.DATADOG_API_KEY,
 });
 
+app.set('trust proxy', 1); // Trust the first proxy, which is Heroku
 app.use((req, res, next) => {
   const apiKey = req.headers["x-api-key"];
   logger.info(`Incoming API Key: ${apiKey}`); // Log the API key
