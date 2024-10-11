@@ -3,7 +3,7 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const app = express();
-app.enable("trust proxy"); // Add this line
+app.enable("trust proxy", 1); // Add this line
 const port = process.env.PORT || 3000; // Use Heroku's port
 const helmet = require("helmet"); // Add this line at the top with your other imports
 const rateLimit = require("express-rate-limit"); // Add this line at the top
@@ -93,10 +93,9 @@ app.get("/metrics", async (req, res) => {
   res.end(await client.register.metrics());
 
   // Send custom metrics to Datadog
-  dogapi.gauge('custom.MBTI.api.active_connections', activeConnections); // Example custom metric
-  dogapi.gauge('custom.MBTI.api.requests.count', 1); // You can increment this for each request
+  dogapi.gauge("custom.MBTI.api.active_connections", activeConnections); // Example custom metric
+  dogapi.gauge("custom.MBTI.api.requests.count", 1); // You can increment this for each request
 });
-
 
 // Load personality data
 const loadPersonalityData = (type, langCode) => {
