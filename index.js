@@ -24,10 +24,10 @@ const logger = winston.createLogger({
 });
 
 dogapi.init({
-  apiKey: process.env.DATADOG_API_KEY,
+  apiKey: process.env.DD_API_KEY, // Use the updated environment variable
 });
 
-app.set('trust proxy', 1); // Trust the first proxy, which is Heroku
+app.set("trust proxy", 1); // Trust the first proxy, which is Heroku
 app.use((req, res, next) => {
   const apiKey = req.headers["x-api-key"];
   logger.info(`Incoming API Key: ${apiKey}`); // Log the API key
