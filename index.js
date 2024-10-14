@@ -8,7 +8,6 @@ const helmet = require("helmet"); // Add this line at the top with your other im
 const rateLimit = require("express-rate-limit"); // Add this line at the top
 const winston = require("winston");
 const dotenv = require("dotenv"); // Add this line
-const dogapi = require("datadog-metrics");
 dotenv.config(); // Load environment variables
 
 const logger = winston.createLogger({
@@ -22,12 +21,7 @@ const logger = winston.createLogger({
     new winston.transports.File({ filename: "app.log" }), // Save logs to a file
   ],
 });
-
-dogapi.init({
-  apiKey: process.env.DD_API_KEY, // Use the updated environment variable
-});
-
-app.set("trust proxy", 1); // Trust the first proxy, which is Heroku
+app.set("trust proxy", 1); // Trust the first proxy, which is usually Heroku or similar
 app.use((req, res, next) => {
   const apiKey = req.headers["x-api-key"];
   logger.info(`Incoming API Key: ${apiKey}`); // Log the API key
@@ -42,6 +36,7 @@ const limiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes window
   max: 300, // limit each IP to 300 requests per windowMs
   message: "Too many requests from this IP, please try again after 15 minutes.",
+  trustProxy: true,
 });
 
 // Apply the rate limiter to all requests
@@ -49,86 +44,7 @@ app.use(limiter); // Add this line after initializing your middleware
 app.use(helmet()); // Add this line after you initialize your express app
 // Middleware to parse JSON requests
 app.use(express.json());
-app.use((req, res, next) => {
-  logger.info({
-    message: "Incoming request",
-    method: req.method,
-    url: req.url,
-    headers: req.headers,
-    body: req.body,
-  });
-  next();
-});
-
-let activeConnections = 0; // Variable for tracking active connections
-let server;
-
-function gracefulShutdown(signal) {
-  logger.info(`Received ${signal}. Shutting down gracefully...`);
-
-  server.close(() => {
-    logger.info("Closed out remaining connections.");
-    process.exit(0);
-  });
-
-  setTimeout(() => {
-    logger.error("Forcing shutdown due to hanging connections.");
-    process.exit(1);
-  }, 60000); // Timeout set to 60 seconds
-}
-
-// Listen for termination signals
-process.on("SIGTERM", gracefulShutdown);
-process.on("SIGINT", gracefulShutdown);
-
-const client = require("prom-client"); // Add this line at the top
-
-const collectDefaultMetrics = client.collectDefaultMetrics;
-collectDefaultMetrics({ timeout: 5000 });
-
-/// Create a counter for total API requests
-const requestCounter = new client.Counter({
-  name: "api_requests_total",
-  help: "Total number of API requests",
-  labelNames: ["method", "endpoint", "status"],
-});
-
-// Create a histogram for request duration
-const requestDuration = new client.Histogram({
-  name: "api_request_duration_seconds",
-  help: "Request duration in seconds",
-  labelNames: ["method", "endpoint"],
-  buckets: [0.1, 0.5, 1, 2, 5, 10], // Define time buckets in seconds
-});
-
-// Create a gauge for active connections
-const activeConnectionsGauge = new client.Gauge({
-  name: "active_connections",
-  help: "Number of active connections",
-});
-
-// Create a histogram for response size
-const responseSizeHistogram = new client.Histogram({
-  name: "api_response_size_bytes",
-  help: "Response size in bytes",
-  labelNames: ["method", "endpoint"],
-  buckets: [500, 1000, 5000, 10000, 50000], // Define response size buckets in bytes
-});
-
-const activeRequestsGauge = new client.Gauge({
-  name: "active_requests",
-  help: "Number of active requests being processed",
-});
-
-app.use((req, res, next) => {
-  activeRequestsGauge.inc(); // Increment active requests
-  res.on("finish", () => {
-    activeRequestsGauge.dec(); // Decrement when request is done
-  });
-  next();
-});
-
-// Middleware to count requests and track duration
+// Add enhanced metadata logging
 app.use((req, res, next) => {
   const start = process.hrtime(); // Capture the start time
 
@@ -169,22 +85,35 @@ app.use((req, res, next) => {
   next();
 });
 
-// Track active connections
-server.on("connection", (conn) => {
-  activeConnectionsGauge.inc();
-  conn.on("close", () => {
-    activeConnectionsGauge.dec();
-  });
-});
+let activeConnections = 0; // Variable for tracking active connections
+let server;
 
-// Metrics endpoint for Prometheus to scrape
+function gracefulShutdown(signal) {
+  logger.info(`Received ${signal}. Shutting down gracefully...`);
+
+  server.close(() => {
+    logger.info("Closed out remaining connections.");
+    process.exit(0);
+  });
+
+  setTimeout(() => {
+    logger.error("Forcing shutdown due to hanging connections.");
+    process.exit(1);
+  }, 60000); // Timeout set to 60 seconds
+}
+
+// Listen for termination signals
+process.on("SIGTERM", gracefulShutdown);
+process.on("SIGINT", gracefulShutdown);
+
+const client = require("prom-client"); // Add this line at the top
+const collectDefaultMetrics = client.collectDefaultMetrics;
+collectDefaultMetrics({ timeout: 5000 });
+
+// Create an endpoint for Prometheus to scrape metrics
 app.get("/metrics", async (req, res) => {
-  try {
-    res.set("Content-Type", client.register.contentType);
-    res.end(await client.register.metrics());
-  } catch (err) {
-    res.status(500).json({ error: "Failed to retrieve metrics" });
-  }
+  res.set("Content-Type", client.register.contentType);
+  res.end(await client.register.metrics());
 });
 
 // Load personality data
