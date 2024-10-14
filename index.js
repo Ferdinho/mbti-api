@@ -86,15 +86,105 @@ const client = require("prom-client"); // Add this line at the top
 const collectDefaultMetrics = client.collectDefaultMetrics;
 collectDefaultMetrics({ timeout: 5000 });
 
-// Create an endpoint for Prometheus to scrape metrics
-app.get("/metrics", async (req, res) => {
-  // Collect Prometheus metrics
-  res.set("Content-Type", client.register.contentType);
-  res.end(await client.register.metrics());
+/// Create a counter for total API requests
+const requestCounter = new client.Counter({
+  name: "api_requests_total",
+  help: "Total number of API requests",
+  labelNames: ["method", "endpoint", "status"],
+});
 
-  // Send custom metrics to Datadog
-  dogapi.gauge("custom.MBTI.api.active_connections", activeConnections); // Example custom metric
-  dogapi.gauge("custom.MBTI.api.requests.count", 1); // You can increment this for each request
+// Create a histogram for request duration
+const requestDuration = new client.Histogram({
+  name: "api_request_duration_seconds",
+  help: "Request duration in seconds",
+  labelNames: ["method", "endpoint"],
+  buckets: [0.1, 0.5, 1, 2, 5, 10], // Define time buckets in seconds
+});
+
+// Create a gauge for active connections
+const activeConnectionsGauge = new client.Gauge({
+  name: "active_connections",
+  help: "Number of active connections",
+});
+
+// Create a histogram for response size
+const responseSizeHistogram = new client.Histogram({
+  name: "api_response_size_bytes",
+  help: "Response size in bytes",
+  labelNames: ["method", "endpoint"],
+  buckets: [500, 1000, 5000, 10000, 50000], // Define response size buckets in bytes
+});
+
+const activeRequestsGauge = new client.Gauge({
+  name: "active_requests",
+  help: "Number of active requests being processed",
+});
+
+app.use((req, res, next) => {
+  activeRequestsGauge.inc(); // Increment active requests
+  res.on("finish", () => {
+    activeRequestsGauge.dec(); // Decrement when request is done
+  });
+  next();
+});
+
+// Middleware to count requests and track duration
+app.use((req, res, next) => {
+  const start = process.hrtime(); // Capture the start time
+
+  // Capture necessary details
+  const { method, url } = req;
+  const userAgent = req.get("User-Agent") || "Unknown";
+  const ip = req.ip;
+  const queryParams = req.query;
+  const requestBody = req.body;
+
+  // Log the request details
+  logger.info({
+    message: "Incoming request",
+    method: method,
+    endpoint: url,
+    ip: ip,
+    userAgent: userAgent,
+    queryParams: queryParams,
+    requestBody: requestBody,
+  });
+
+  // Capture response information after it's sent
+  res.on("finish", () => {
+    const duration = process.hrtime(start);
+    const responseTime = Math.round((duration[0] * 1e9 + duration[1]) / 1e6); // in milliseconds
+
+    // Log the response metadata
+    logger.info({
+      message: "Response sent",
+      method: method,
+      endpoint: url,
+      statusCode: res.statusCode,
+      responseTime: `${responseTime}ms`,
+      responseSize: res.get("Content-Length") || "Unknown",
+    });
+  });
+
+  next();
+});
+
+// Track active connections
+server.on("connection", (conn) => {
+  activeConnectionsGauge.inc();
+  conn.on("close", () => {
+    activeConnectionsGauge.dec();
+  });
+});
+
+// Metrics endpoint for Prometheus to scrape
+app.get("/metrics", async (req, res) => {
+  try {
+    res.set("Content-Type", client.register.contentType);
+    res.end(await client.register.metrics());
+  } catch (err) {
+    res.status(500).json({ error: "Failed to retrieve metrics" });
+  }
 });
 
 // Load personality data
