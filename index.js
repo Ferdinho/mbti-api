@@ -119,18 +119,7 @@ const collectDefaultMetrics = client.collectDefaultMetrics;
 collectDefaultMetrics({ timeout: 5000 });
 
 // Create an endpoint for Prometheus to scrape metrics
-// Create an endpoint for Prometheus to scrape metrics
 app.get("/metrics", async (req, res) => {
-  // Check if the API key is provided in the headers
-  const apiKey = req.headers["x-api-key"]; // Or whatever header you're using for API keys
-
-  // Validate the API key
-  if (apiKey !== process.env.API_KEY) {
-    // If API key is missing or invalid, return a 403 Forbidden status
-    return res.status(403).json({ message: "Forbidden: Invalid API Key" });
-  }
-
-  // If API key is valid, proceed to send the metrics
   res.set("Content-Type", client.register.contentType);
   res.end(await client.register.metrics());
 });
