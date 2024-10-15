@@ -8,6 +8,8 @@ const helmet = require("helmet"); // Add this line at the top with your other im
 const rateLimit = require("express-rate-limit"); // Add this line at the top
 const winston = require("winston");
 const dotenv = require("dotenv"); // Add this line
+const winston = require("winston");
+const { Loggly } = require("winston-loggly-bulk");
 dotenv.config(); // Load environment variables
 
 const logger = winston.createLogger({
@@ -19,6 +21,12 @@ const logger = winston.createLogger({
   transports: [
     new winston.transports.Console(), // Output logs to the console
     new winston.transports.File({ filename: "app.log" }), // Save logs to a file
+    new Loggly({
+      token: process.env.LOGGLY_TOKEN, // Use your Loggly token here
+      subdomain: process.env.LOGGLY_SUBDOMAIN, // Your Loggly subdomain
+      tags: ["Winston-NodeJS"], // Tags for filtering in Loggly
+      json: true, // Send logs as JSON
+    }),
   ],
 });
 app.set("trust proxy", 1); // Trust the first proxy, which is usually Heroku or similar
