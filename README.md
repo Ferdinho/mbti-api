@@ -45,7 +45,7 @@ Headers: {
 ### 1. Get MBTI Test Questions
 **Description**: Retrieves the MBTI test questions in the specified language.
 
-**URL**: `/questions/:langCode`
+**URL**: `/v1/questions/:langCode`
 
 **Method**: `GET`
 
@@ -55,7 +55,7 @@ x-api-key: <your_api_key>
 **Response**: Returns 40 MBTI test questions in the specified language.
 
 **Example**:
-```GET https://vast-fortress-09703-4205e76f9182.herokuapp.com/questions/en Headers: { "x-api-key": "<your_api_key>" }```
+```GET https://vast-fortress-09703-4205e76f9182.herokuapp.com/v1/questions/en Headers: { "x-api-key": "<your_api_key>" }```
 
 **Response**:
 
@@ -139,7 +139,7 @@ x-api-key: <your_api_key>
 **Example**:
 
 
-**URL**: `/mbti-test/:langCode`
+**URL**: `/v1/mbti-test/:langCode`
 
 **Method**: `POST`
 
@@ -149,7 +149,7 @@ x-api-key: <your_api_key>
 **Body**: JSON array of responses, each containing a questionId and user response (e.g., "Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree").
 
 **Example**:
-POST https://vast-fortress-09703-4205e76f9182.herokuapp.com/mbti-test/en Headers: { "x-api-key": "<your_api_key>" } Body: { "responses": [ "1: Strongly Disagree", "2: Strongly Agree", "3: Strongly Agree", "4: Disagree", "5: Disagree", "6: Strongly Agree", "7: Strongly Agree", "8: Disagree", "9: Strongly Agree", "10: Strongly Agree", // ... up to question 40 ] }
+POST https://vast-fortress-09703-4205e76f9182.herokuapp.com/v1/mbti-test/en Headers: { "x-api-key": "<your_api_key>" } Body: { "responses": [ "1: Strongly Disagree", "2: Strongly Agree", "3: Strongly Agree", "4: Disagree", "5: Disagree", "6: Strongly Agree", "7: Strongly Agree", "8: Disagree", "9: Strongly Agree", "10: Strongly Agree", // ... up to question 40 ] }
 
 
 **Response**: Returns the calculated MBTI personality type, along with detailed descriptions and percentages for each dichotomy.
