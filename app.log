@@ -922,3 +922,40 @@
 {"level":"info","message":"Connection closed. Active connections: 1","timestamp":"2024-10-14T23:20:42.772Z"}
 {"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-14T23:20:47.776Z"}
 {"level":"info","message":"Received SIGINT. Shutting down gracefully...","timestamp":"2024-10-14T23:23:51.556Z"}
+{"level":"info","message":"MBTI Personality API running on port :3000","timestamp":"2024-10-21T00:22:27.709Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:24:00.280Z"}
+{"level":"info","message":"New connection established. Active connections: 2","timestamp":"2024-10-21T00:24:00.285Z"}
+{"level":"info","message":"Connection closed. Active connections: 1","timestamp":"2024-10-21T00:24:00.292Z"}
+{"level":"info","message":"Incoming API Key: vRX7EEWoDr5TUiftzdaT1JtCSxBraq7i","timestamp":"2024-10-21T00:24:00.298Z"}
+{"level":"info","message":"Incoming API Key: your-secure-api-key","timestamp":"2024-10-21T00:24:12.121Z"}
+{"endpoint":"/v1/mbti-test/en","ip":"::1","level":"info","message":"Incoming request","method":"POST","queryParams":{},"requestBody":{"responses":["0:Strongly Disagree","1:Strongly Disagree","2:Strongly Disagree","3:Strongly Disagree","4:Strongly Disagree","5:Strongly Disagree","6:Strongly Disagree","7:Strongly Disagree","8:Strongly Disagree","9:Strongly Disagree","10:Strongly Disagree","11:Strongly Disagree","12:Strongly Disagree","13:Strongly Disagree","14:Strongly Disagree","15:Strongly Disagree","16:Strongly Disagree","17:Disagree","18:Disagree","19:Disagree","20:Disagree","21:Disagree","22:Disagree","23:Disagree","24:Disagree","25:Disagree","26:Disagree","27:Disagree","28:Disagree","29:Disagree","30:Disagree","31:Disagree","32:Disagree","33:Disagree","34:Disagree","35:Disagree","36:Disagree","37:Disagree","38:Disagree","39:Agree"]},"timestamp":"2024-10-21T00:24:12.154Z","userAgent":"PostmanRuntime/7.42.0"}
+{"endpoint":"/v1/mbti-test/en","level":"info","message":"Response sent","method":"POST","responseSize":"3272","responseTime":"10ms","statusCode":200,"timestamp":"2024-10-21T00:24:12.164Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:24:17.167Z"}
+{"level":"info","message":"Received SIGINT. Shutting down gracefully...","timestamp":"2024-10-21T00:25:05.944Z"}
+{"level":"info","message":"MBTI Personality API running on port :3000","timestamp":"2024-10-21T00:25:14.797Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:25:23.258Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:25:23.265Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:25:23.266Z"}
+{"level":"info","message":"Incoming API Key: your-secure-api-key","timestamp":"2024-10-21T00:25:23.269Z"}
+{"endpoint":"/v1/mbti-test/en","ip":"::1","level":"info","message":"Incoming request","method":"POST","queryParams":{},"requestBody":{"responses":["0:Strongly Disagree","1:Strongly Disagree","2:Strongly Disagree","3:Strongly Disagree","4:Strongly Disagree","5:Strongly Disagree","6:Strongly Disagree","7:Strongly Disagree","8:Strongly Disagree","9:Strongly Disagree","10:Strongly Disagree","11:Strongly Disagree","12:Strongly Disagree","13:Strongly Disagree","14:Strongly Disagree","15:Strongly Disagree","16:Strongly Disagree","17:Disagree","18:Disagree","19:Disagree","20:Disagree","21:Disagree","22:Disagree","23:Disagree","24:Disagree","25:Disagree","26:Disagree","27:Disagree","28:Disagree","29:Disagree","30:Disagree","31:Disagree","32:Disagree","33:Disagree","34:Disagree","35:Disagree","36:Disagree","37:Disagree","38:Disagree","39:Agree"]},"timestamp":"2024-10-21T00:25:23.293Z","userAgent":"PostmanRuntime/7.42.0"}
+{"endpoint":"/v1/mbti-test/en","level":"info","message":"Response sent","method":"POST","responseSize":"3272","responseTime":"12ms","statusCode":200,"timestamp":"2024-10-21T00:25:23.305Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:25:28.314Z"}
+{"level":"info","message":"Received SIGINT. Shutting down gracefully...","timestamp":"2024-10-21T00:27:04.116Z"}
+{"level":"info","message":"MBTI Personality API running on port :3000","timestamp":"2024-10-21T00:29:45.193Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:29:53.171Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:29:53.176Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:29:53.177Z"}
+{"level":"info","message":"Incoming API Key: your-secure-api-key","timestamp":"2024-10-21T00:29:53.187Z"}
+{"endpoint":"/v1/mbti-test/en","ip":"::1","level":"info","message":"Incoming request","method":"POST","queryParams":{},"requestBody":{"responses":["0:Strongly Disagree","1:Strongly Disagree","2:Strongly Disagree","3:Strongly Disagree","4:Strongly Disagree","5:Strongly Disagree","6:Strongly Disagree","7:Strongly Disagree","8:Strongly Disagree","9:Strongly Disagree","10:Strongly Disagree","11:Strongly Disagree","12:Strongly Disagree","13:Strongly Disagree","14:Strongly Disagree","15:Strongly Disagree","16:Strongly Disagree","17:Disagree","18:Disagree","19:Disagree","20:Disagree","21:Disagree","22:Disagree","23:Disagree","24:Disagree","25:Disagree","26:Disagree","27:Disagree","28:Disagree","29:Disagree","30:Disagree","31:Disagree","32:Disagree","33:Disagree","34:Disagree","35:Disagree","36:Disagree","37:Disagree","38:Disagree","39:Agree"]},"timestamp":"2024-10-21T00:29:53.232Z","userAgent":"PostmanRuntime/7.42.0"}
+{"endpoint":"/v1/mbti-test/en","level":"info","message":"Response sent","method":"POST","responseSize":"3272","responseTime":"25ms","statusCode":200,"timestamp":"2024-10-21T00:29:53.259Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:29:58.267Z"}
+{"level":"info","message":"Received SIGINT. Shutting down gracefully...","timestamp":"2024-10-21T00:30:22.149Z"}
+{"level":"info","message":"MBTI Personality API running on port :3000","timestamp":"2024-10-21T00:31:20.748Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:31:23.742Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:31:23.745Z"}
+{"level":"info","message":"New connection established. Active connections: 1","timestamp":"2024-10-21T00:31:23.746Z"}
+{"level":"info","message":"Incoming API Key: your-secure-api-key","timestamp":"2024-10-21T00:31:23.751Z"}
+{"endpoint":"/v1/mbti-test/en","ip":"::1","level":"info","message":"Incoming request","method":"POST","queryParams":{},"requestBody":{"responses":["0:Strongly Disagree","1:Strongly Disagree","2:Strongly Disagree","3:Strongly Disagree","4:Strongly Disagree","5:Strongly Disagree","6:Strongly Disagree","7:Strongly Disagree","8:Strongly Disagree","9:Strongly Disagree","10:Strongly Disagree","11:Strongly Disagree","12:Strongly Disagree","13:Strongly Disagree","14:Strongly Disagree","15:Strongly Disagree","16:Strongly Disagree","17:Disagree","18:Disagree","19:Disagree","20:Disagree","21:Disagree","22:Disagree","23:Disagree","24:Disagree","25:Disagree","26:Disagree","27:Disagree","28:Disagree","29:Disagree","30:Disagree","31:Disagree","32:Disagree","33:Disagree","34:Disagree","35:Disagree","36:Disagree","37:Disagree","38:Disagree","39:Agree"]},"timestamp":"2024-10-21T00:31:23.786Z","userAgent":"PostmanRuntime/7.42.0"}
+{"endpoint":"/v1/mbti-test/en","level":"info","message":"Response sent","method":"POST","responseSize":"3272","responseTime":"21ms","statusCode":200,"timestamp":"2024-10-21T00:31:23.807Z"}
+{"level":"info","message":"Connection closed. Active connections: 0","timestamp":"2024-10-21T00:31:28.823Z"}
+{"level":"info","message":"Received SIGINT. Shutting down gracefully...","timestamp":"2024-10-21T00:31:30.468Z"}
