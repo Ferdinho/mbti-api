@@ -260,11 +260,32 @@ app.get("/v1/questions/:langCode", (req, res) => {
 // MBTI test endpoint
 app.post("/v1/mbti-test/:langCode", (req, res) => {
   const { langCode } = req.params;
-  const { responses } = req.body;
+  let { responses } = req.body;
 
   // Validate that all 40 questions are answered
   if (responses.length !== 40) {
     return res.status(400).json({ message: "Please answer all 40 questions." });
+  }
+
+  // Automatically adjust if responses start from 0
+  if (responses[0].startsWith("0:")) {
+    responses = responses.map((response) => {
+      const [questionId, userResponse] = response.split(":");
+      return `${parseInt(questionId) + 1}:${userResponse.trim()}`;
+    });
+  }
+
+  // Check if response indices are in the valid range (1 to 40)
+  const invalidResponse = responses.find((response) => {
+    const questionId = parseInt(response.split(":")[0]);
+    return questionId < 1 || questionId > 40;
+  });
+
+  if (invalidResponse) {
+    return res.status(400).json({
+      message:
+        "Invalid response indices. Question IDs should be between 1 and 40.",
+    });
   }
 
   // Valid answer options (in lowercase)
