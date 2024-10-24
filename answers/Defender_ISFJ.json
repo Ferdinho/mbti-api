@@ -7,25 +7,25 @@
         "name": "The Defender",
         "Description": "Warm and protective, Defenders are responsible and dedicated individuals who thrive on helping others. They value loyalty, tradition, and security, often working behind the scenes to support their loved ones. Defenders possess a deep sense of duty and are committed to maintaining harmony in their relationships.",
         "Strengths": [
-          "loyal",
-          "supportive",
-          "organized",
-          "caring",
-          "friendly",
-          "practical",
-          "attentive",
-          "responsible",
-          "social",
-          "empathetic"
+          "Loyal",
+          "Supportive",
+          "Organized",
+          "Caring",
+          "Friendly",
+          "Practical",
+          "Attentive",
+          "Responsible",
+          "Social",
+          "Empathetic"
         ],
         "Weaknesses": [
-          "overly sensitive",
-          "needy for approval",
-          "can be controlling",
-          "dislike change",
-          "avoid confrontation",
-          "can be overly selfless",
-          "may focus too much on others' opinions"
+          "Overly sensitive",
+          "Needy for approval",
+          "Can be controlling",
+          "Dislike change",
+          "Avoid confrontation",
+          "Can be overly selfless",
+          "May focus too much on others' opinions"
         ],
         "DosInRelationship": [
           "Show appreciation for their efforts to take care of you.",
@@ -61,46 +61,46 @@
           "Social Connection"
         ],
         "CompatibleConnections": [
-          "The Defender (ISFJ)",
-          "The Adventurer (ISFP)",
-          "The Logistician (ISTJ)"
+          "The Consul (ESFJ)",
+          "The Performer (ESFP)",
+          "The Dynamo (ESTP)"
         ],
         "HasPotentialConnections": [
-          "The Hero (ENFJ)",
-          "The Crusader (ENFP)",
-          "The Guardian (INFJ)",
-          "The Peacemaker (INFP)",
-          "The Performer (ESFP)",
+          "The Commander (ENTJ)",
+          "The Protagonist (ENFJ)",
+          "The Campaigner (ENFP)",
+          "The Adventurer (ISFP)",
           "The Executive (ESTJ)",
-          "The Rebel (ESTP)",
-          "The Realist (ISTJ)"
+          "The Logistician (ISTJ)",
+          "The Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
-          "The Mastermind (INTJ)",
-          "The Challenger (ENTP)",
-          "The Ambassador (ESFJ)",
-          "The Genius (INTP)",
-          "The Commander (ENTJ)"
+          "The Advocate (INFJ)",
+          "The Architect (INTJ)",
+          "The Debater (ENTP)",
+          "The Mediator (INFP)",
+          "The Thinker (INTP)",
+          "The Defender (ISFJ)" 
         ],
         "AttractedBy": [
-          "empathetic",
-          "supportive",
-          "caring",
-          "loyal",
-          "authentic",
-          "friendly",
-          "social",
-          "practical"
+          "Empathetic",
+          "Supportive",
+          "Caring",
+          "Loyal",
+          "Authentic",
+          "Friendly",
+          "Social",
+          "Practical"
         ],
         "PetPeeves": [
-          "disorganized",
-          "withdrawn",
-          "unsocial",
-          "critical",
-          "emotionally distant",
-          "disloyal",
-          "irresponsible",
-          "inconsistent"
+          "Disorganized",
+          "Withdrawn",
+          "Unsocial",
+          "Critical",
+          "Emotionally distant",
+          "Disloyal",
+          "Irresponsible",
+          "Inconsistent"
         ],
         "HowToBeCompanion": [
           "Show appreciation for their caring nature and attentiveness.",
@@ -114,58 +114,66 @@
         "Celebrities": [
           "Rosa Parks",
           "Beyoncé",
-          "Kobe Bryant"
+          "Kobe Bryant",
+          "Kate Middleton",
+          "St. Teresa",
+          "Halle Berry",
+          "Kendrick Lamar",
+          "Francisco Franco",
+          "King Charles",
+          "Vin Diesel",
+          "Aretha Franklin"
         ]
       },
       {
         "id": 14,
         "language_code": "fr",
         "type": "ISFJ",
-        "name": "Défenseur",
-        "Description": "Chaleureux et protecteurs, les Défenseurs sont des individus responsables et dévoués qui s'épanouissent en aidant les autres. Ils valorisent la loyauté, la tradition et la sécurité, travaillant souvent en coulisses pour soutenir leurs proches. Les Défenseurs ont un profond sens du devoir et s'engagent à maintenir l'harmonie dans leurs relations.",
+        "name": "Le Défenseur",
+        "Description": "Chaleureux et protecteurs, les Défenseurs sont des individus responsables et dévoués qui s'épanouissent en aidant les autres. Ils valorisent la loyauté, la tradition et la sécurité, travaillant souvent en coulisse pour soutenir leurs proches. Les Défenseurs possèdent un sens profond du devoir et sont engagés à maintenir l'harmonie dans leurs relations.",
         "Strengths": [
-          "loyal",
-          "soutenant",
-          "organisé",
-          "bienveillant",
-          "amical",
-          "pratique",
-          "attentif",
-          "responsable",
-          "social",
-          "empathique"
+          "Loyal",
+          "Soutenant",
+          "Organisé",
+          "Attentionné",
+          "Amical",
+          "Pratique",
+          "Attentif",
+          "Responsable",
+          "Sociable",
+          "Empathique"
         ],
         "Weaknesses": [
-          "trop sensible",
-          "besoin d'approbation",
-          "peut être contrôlant",
-          "n'aime pas le changement",
-          "éviter la confrontation",
-          "peut être trop altruiste",
-          "peut se concentrer trop sur l'opinion des autres"
+          "Trop sensible",
+          "En demande d'approbation",
+          "Peut être contrôlant",
+          "N'aime pas le changement",
+          "Évite la confrontation",
+          "Peut être trop altruiste",
+          "Peut se concentrer trop sur les opinions des autres"
         ],
         "DosInRelationship": [
-          "Montrez votre appréciation pour leurs efforts pour s'occuper de vous.",
+          "Montrez de l'appréciation pour leurs efforts à prendre soin de vous.",
           "Soyez affectueux et communiquez ouvertement vos sentiments.",
           "Impliquez-les dans des activités sociales et valorisez leurs réseaux sociaux.",
           "Appréciez leur organisation et leur attention aux détails.",
-          "Soyez solidaire et montrez que vous appréciez leurs soins."
+          "Soutenez-les et montrez que vous valorisez leurs soins."
         ],
         "DontsInRelationship": [
-          "Ne soyez pas trop critique ou dédaigneux envers leurs émotions.",
-          "Évitez d'être trop retiré ou asocial.",
-          "Ne prenez pas pour acquis leur nature nourricière.",
+          "Ne soyez pas trop critique ou méprisant envers leurs émotions.",
+          "Évitez d'être trop distant ou antisocial.",
+          "Ne prenez pas leur nature nourricière pour acquise.",
           "Évitez d'être insensible à leur besoin d'harmonie.",
-          "Ne négligez pas leurs opinions ou leurs sentiments."
+          "N'ignorez pas leurs opinions ou sentiments."
         ],
-        "Friendships": "Les Défenseurs apprécient les amitiés qui leur permettent d'être solidaires et bienveillants. Ils aiment maintenir l'harmonie dans leurs groupes d'amis et préfèrent des amis fiables, loyaux et reconnaissants pour leurs efforts à maintenir tout le monde ensemble.",
+        "Friendships": "Les Défenseurs valorisent les amitiés qui leur permettent d'être soutenants et attentionnés. Ils aiment maintenir l'harmonie dans leurs groupes d'amis et préfèrent les amis fiables, loyaux, et reconnaissants pour leurs efforts à maintenir tout le monde ensemble.",
         "CareerPath": [
-          "Professeur",
+          "Enseignant",
           "Infirmier",
           "Travailleur social",
           "Organisateur d'événements",
-          "Responsable des ressources humaines",
-          "Spécialiste en relations publiques",
+          "Directeur des ressources humaines",
+          "Spécialiste des relations publiques",
           "Gestionnaire de bureau",
           "Psychologue",
           "Conseiller"
@@ -178,88 +186,96 @@
           "Connexion sociale"
         ],
         "CompatibleConnections": [
-          "Le Défenseur (ISFJ)",
-          "L'Aventurier (ISFP)",
-          "Le Logisticien (ISTJ)"
+          "Le Consul (ESFJ)",
+          "Le Performeur (ESFP)",
+          "Le Dynamique (ESTP)"
         ],
         "HasPotentialConnections": [
-          "Le Héros (ENFJ)",
-          "Le Croisé (ENFP)",
-          "Le Gardien (INFJ)",
-          "Le Pacificateur (INFP)",
-          "Le Performer (ESFP)",
+          "Le Commandant (ENTJ)",
+          "Le Protagoniste (ENFJ)",
+          "Le Campagneur (ENFP)",
+          "L'Aventurier (ISFP)",
           "L'Exécutif (ESTJ)",
-          "Le Rebelle (ESTP)",
-          "Le Réaliste (ISTJ)"
+          "Le Logicien (ISTJ)",
+          "Le Virtuose (ISTP)"
         ],
         "ChallengingConnections": [
-          "Le Maître (INTJ)",
-          "Le Challenger (ENTP)",
-          "L'Ambassadeur (ESFJ)",
-          "Le Génie (INTP)",
-          "Le Commandant (ENTJ)"
+          "L'Avocat (INFJ)",
+          "L'Architecte (INTJ)",
+          "Le Débatteur (ENTP)",
+          "Le Médiateur (INFP)",
+          "Le Penseur (INTP)",
+          "Le Défenseur (ISFJ)"
         ],
         "AttractedBy": [
-          "empathique",
-          "soutenant",
-          "bienveillant",
-          "loyal",
-          "authentique",
-          "amical",
-          "social",
-          "pratique"
+          "Empathique",
+          "Soutenant",
+          "Attentionné",
+          "Loyal",
+          "Authentique",
+          "Amical",
+          "Sociable",
+          "Pratique"
         ],
         "PetPeeves": [
-          "désorganisé",
-          "retiré",
-          "asocial",
-          "critique",
-          "émotionnellement distant",
-          "déloyal",
-          "irresponsable",
-          "inconstant"
+          "Désorganisé",
+          "Retiré",
+          "Asocial",
+          "Critique",
+          "Émotionnellement distant",
+          "Déloyal",
+          "Irresponsable",
+          "Incohérent"
         ],
         "HowToBeCompanion": [
-          "Montrez de l'appréciation pour leur nature bienveillante et leur attention.",
-          "Soyez ouvert et communicatif sur vos émotions et vos besoins.",
+          "Montrez de l'appréciation pour leur nature attentionnée et leur vigilance.",
+          "Soyez ouvert et communicatif avec vos émotions et besoins.",
           "Impliquez-les dans des activités sociales et valorisez leurs amitiés.",
           "Soyez fiable et montrez que vous appréciez leurs efforts.",
           "Respectez leur besoin d'harmonie et évitez les conflits inutiles."
         ],
-        "SecretDesire": "Les Défenseurs aspirent secrètement à être appréciés pour leurs efforts à créer l'harmonie et à s'occuper des autres. Ils souhaitent se sentir valorisés et reconnus pour les soins qu'ils apportent.",
-        "Stereotypes": "Les Défenseurs sont souvent perçus comme trop sensibles ou nécessitant une approbation constante, mais en réalité, ce sont des individus profondément attentionnés qui s'engagent à créer l'harmonie et à soutenir le bien-être des autres.",
+        "SecretDesire": "Les Défenseurs aspirent secrètement à être appréciés pour leurs efforts à créer l'harmonie et à prendre soin des autres. Ils veulent se sentir valorisés et reconnus pour les soins qu'ils prodiguent.",
+        "Stereotypes": "Les Défenseurs sont souvent stéréotypés comme étant trop sensibles ou ayant besoin d'une approbation constante, mais en réalité, ce sont des individus profondément attentionnés qui s'engagent à créer l'harmonie et à soutenir le bien-être des autres.",
         "Celebrities": [
           "Rosa Parks",
           "Beyoncé",
-          "Kobe Bryant"
+          "Kobe Bryant",
+          "Kate Middleton",
+          "Sainte Thérèse",
+          "Halle Berry",
+          "Kendrick Lamar",
+          "Francisco Franco",
+          "Roi Charles",
+          "Vin Diesel",
+          "Aretha Franklin"
         ]
       },
       {
         "id": 14,
         "language_code": "es",
         "type": "ISFJ",
-        "name": "Defensor",
-        "Description": "Cálidos y protectores, los Defensores son individuos responsables y dedicados que prosperan al ayudar a los demás. Valoran la lealtad, la tradición y la seguridad, a menudo trabajando tras bambalinas para apoyar a sus seres queridos. Los Defensores poseen un profundo sentido del deber y están comprometidos a mantener la armonía en sus relaciones.",
+        "name": "El Defensor",
+        "Description": "Cálidos y protectores, los Defensores son individuos responsables y dedicados que prosperan ayudando a los demás. Valoran la lealtad, la tradición y la seguridad, y a menudo trabajan tras bambalinas para apoyar a sus seres queridos. Los Defensores poseen un profundo sentido del deber y están comprometidos a mantener la armonía en sus relaciones.",
         "Strengths": [
-          "leal",
-          "solidario",
-          "organizado",
-          "cariñoso",
-          "amigable",
-          "práctico",
-          "atento",
-          "responsable",
-          "social",
-          "empático"
+          "Leal",
+          "Apoyo",
+          "Organizado",
+          "Cariñoso",
+          "Amigable",
+          "Práctico",
+          "Atento",
+          "Responsable",
+          "Sociable",
+          "Empático"
         ],
         "Weaknesses": [
-          "demasiado sensible",
-          "necesitado de aprobación",
-          "puede ser controlador",
-          "desacuerdo con el cambio",
-          "evitar la confrontación",
-          "puede ser demasiado desinteresado",
-          "puede enfocarse demasiado en las opiniones de los demás"
+          "Demasiado sensible",
+          "Necesidad de aprobación",
+          "Puede ser controlador",
+          "No les gusta el cambio",
+          "Evitan la confrontación",
+          "Puede ser demasiado altruista",
+          "Pueden centrarse demasiado en las opiniones de los demás"
         ],
         "DosInRelationship": [
           "Muestra aprecio por sus esfuerzos para cuidarte.",
@@ -270,17 +286,17 @@
         ],
         "DontsInRelationship": [
           "No seas demasiado crítico o despectivo con sus emociones.",
-          "Evita estar demasiado retirado o antisocial.",
-          "No des por sentada su naturaleza de cuidado.",
+          "Evita ser demasiado distante o antisocial.",
+          "No des por sentado su naturaleza cuidadora.",
           "Evita ser insensible a su necesidad de armonía.",
           "No ignores sus opiniones o sentimientos."
         ],
-        "Friendships": "Los Defensores valoran las amistades que les permiten ser solidarios y cariñosos. Disfrutan mantener la armonía en sus grupos de amigos y prefieren amigos que sean fiables, leales y que aprecien sus esfuerzos por mantener a todos unidos.",
+        "Friendships": "Los Defensores valoran las amistades que les permiten ser solidarios y cariñosos. Disfrutan mantener la armonía en sus grupos de amigos y prefieren amigos que sean confiables, leales y que aprecien sus esfuerzos por mantener a todos unidos.",
         "CareerPath": [
-          "Profesor",
+          "Maestro",
           "Enfermero",
           "Trabajador social",
-          "Planificador de eventos",
+          "Organizador de eventos",
           "Gerente de recursos humanos",
           "Especialista en relaciones públicas",
           "Gerente de oficina",
@@ -295,109 +311,117 @@
           "Conexión social"
         ],
         "CompatibleConnections": [
-          "El Defensor (ISFJ)",
-          "El Aventurero (ISFP)",
-          "El Logístico (ISTJ)"
+          "El Cónsul (ESFJ)",
+          "El Intérprete (ESFP)",
+          "El Dinámico (ESTP)"
         ],
         "HasPotentialConnections": [
-          "El Héroe (ENFJ)",
-          "El Cruzado (ENFP)",
-          "El Guardián (INFJ)",
-          "El Pacificador (INFP)",
-          "El Performer (ESFP)",
+          "El Comandante (ENTJ)",
+          "El Protagonista (ENFJ)",
+          "El Campañero (ENFP)",
+          "El Aventurero (ISFP)",
           "El Ejecutivo (ESTJ)",
-          "El Rebelde (ESTP)",
-          "El Realista (ISTJ)"
+          "El Lógico (ISTJ)",
+          "El Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
-          "El Maestro (INTJ)",
-          "El Desafiante (ENTP)",
-          "El Embajador (ESFJ)",
-          "El Genio (INTP)",
-          "El Comandante (ENTJ)"
+          "El Abogado (INFJ)",
+          "El Arquitecto (INTJ)",
+          "El Debatidor (ENTP)",
+          "El Mediador (INFP)",
+          "El Pensador (INTP)",
+          "El Defensor (ISFJ)"
         ],
         "AttractedBy": [
-          "empático",
-          "solidario",
-          "cariñoso",
-          "leal",
-          "auténtico",
-          "amigable",
-          "social",
-          "práctico"
+          "Empático",
+          "Apoyo",
+          "Cariñoso",
+          "Leal",
+          "Auténtico",
+          "Amigable",
+          "Sociable",
+          "Práctico"
         ],
         "PetPeeves": [
-          "desorganizado",
-          "retirado",
-          "antisocial",
-          "crítico",
-          "emocionalmente distante",
-          "desleal",
-          "irresponsable",
-          "inconsistente"
+          "Desorganizado",
+          "Distante",
+          "Antisocial",
+          "Crítico",
+          "Distante emocionalmente",
+          "Desleal",
+          "Irresponsable",
+          "Inconsistente"
         ],
         "HowToBeCompanion": [
-          "Muestra aprecio por su naturaleza cariñosa y su atención.",
-          "Sé abierto y comunicativo sobre tus emociones y necesidades.",
+          "Muestra aprecio por su naturaleza cuidadosa y su atención.",
+          "Sé abierto y comunicativo con tus emociones y necesidades.",
           "Involúcralos en actividades sociales y valora sus amistades.",
-          "Sé fiable y demuestra que aprecias sus esfuerzos.",
+          "Sé confiable y muestra que aprecias sus esfuerzos.",
           "Respeta su necesidad de armonía y evita conflictos innecesarios."
         ],
-        "SecretDesire": "Los Defensores anhelan secretamente ser apreciados por sus esfuerzos en crear armonía y cuidar de los demás. Quieren sentirse valorados y reconocidos por los cuidados que brindan.",
-        "Stereotypes": "Los Defensores a menudo son estereotipados como demasiado sensibles o necesitados de aprobación constante, pero en realidad son individuos profundamente solidarios que se comprometen a crear armonía y apoyar el bienestar de los demás.",
+        "SecretDesire": "Los Defensores anhelan en secreto ser apreciados por sus esfuerzos para crear armonía y cuidar a los demás. Quieren sentirse valorados y reconocidos por el cuidado que brindan.",
+        "Stereotypes": "Los Defensores a menudo son estereotipados como demasiado sensibles o necesitados de aprobación constante, pero en realidad, son individuos profundamente cariñosos que se comprometen a crear armonía y apoyar el bienestar de los demás.",
         "Celebrities": [
           "Rosa Parks",
           "Beyoncé",
-          "Kobe Bryant"
+          "Kobe Bryant",
+          "Kate Middleton",
+          "Santa Teresa",
+          "Halle Berry",
+          "Kendrick Lamar",
+          "Francisco Franco",
+          "Rey Carlos",
+          "Vin Diesel",
+          "Aretha Franklin"
         ]
       },
       {
         "id": 14,
         "language_code": "pt",
         "type": "ISFJ",
-        "name": "Defensor",
-        "Description": "Quentes e protetores, os Defensores são indivíduos responsáveis e dedicados que prosperam ao ajudar os outros. Eles valorizam a lealdade, a tradição e a segurança, frequentemente trabalhando nos bastidores para apoiar seus entes queridos. Os Defensores possuem um profundo senso de dever e estão comprometidos em manter a harmonia em seus relacionamentos.",
+        "name": "O Defensor",
+        "Description": "Calorosos e protetores, os Defensores são indivíduos responsáveis e dedicados que prosperam ao ajudar os outros. Valorizam a lealdade, a tradição e a segurança, muitas vezes trabalhando nos bastidores para apoiar seus entes queridos. Os Defensores possuem um profundo senso de dever e estão comprometidos em manter a harmonia em seus relacionamentos.",
         "Strengths": [
-          "leal",
-          "solidário",
-          "organizado",
-          "atencioso",
-          "amigável",
-          "prático",
-          "atento",
-          "responsável",
-          "social",
-          "empático"
+          "Leal",
+          "Apoio",
+          "Organizado",
+          "Carinhoso",
+          "Amigável",
+          "Prático",
+          "Atento",
+          "Responsável",
+          "Sociável",
+          "Empático"
         ],
         "Weaknesses": [
-          "excessivamente sensível",
-          "necessitado de aprovação",
-          "pode ser controlador",
-          "não gosta de mudanças",
-          "evita confrontos",
-          "pode ser excessivamente altruísta",
-          "pode se concentrar demais nas opiniões dos outros"
+          "Excessivamente sensível",
+          "Necessidade de aprovação",
+          "Pode ser controlador",
+          "Não gosta de mudanças",
+          "Evita a confrontação",
+          "Pode ser muito altruísta",
+          "Pode se concentrar muito nas opiniões dos outros"
         ],
         "DosInRelationship": [
-          "Mostre apreço pelos esforços deles para cuidar de você.",
-          "Seja afetuoso e comunique abertamente seus sentimentos.",
-          "Envolva-os em atividades sociais e valorize suas redes sociais.",
-          "Aprecie a organização e a atenção deles aos detalhes.",
-          "Seja solidário e mostre que você valoriza os cuidados deles."
+          "Mostre apreço por seus esforços em cuidar de você.",
+          "Seja afetuoso e comunique seus sentimentos abertamente.",
+          "Inclua-os em atividades sociais e valorize suas redes sociais.",
+          "Aprecie sua organização e atenção aos detalhes.",
+          "Seja solidário e mostre que você valoriza seus cuidados."
         ],
         "DontsInRelationship": [
-          "Não seja muito crítico ou desdenhoso em relação às emoções deles.",
-          "Evite estar muito afastado ou antissocial.",
-          "Não desconsidere a natureza cuidadosa deles.",
-          "Evite ser insensível à necessidade deles de harmonia.",
+          "Não seja muito crítico ou desdenhoso de suas emoções.",
+          "Evite ser muito distante ou antissocial.",
+          "Não tome sua natureza cuidadora como garantida.",
+          "Evite ser insensível à sua necessidade de harmonia.",
           "Não ignore suas opiniões ou sentimentos."
         ],
-        "Friendships": "Os Defensores valorizam amizades que lhes permitem ser solidários e atenciosos. Eles gostam de manter a harmonia em seus grupos de amigos e preferem amigos que sejam confiáveis, leais e que apreciem seus esforços para manter todos juntos.",
+        "Friendships": "Os Defensores valorizam amizades que lhes permitem ser solidários e carinhosos. Eles gostam de manter a harmonia em seus grupos de amigos e preferem amigos que sejam confiáveis, leais e apreciem seus esforços para manter todos juntos.",
         "CareerPath": [
           "Professor",
           "Enfermeiro",
           "Assistente social",
-          "Planejador de eventos",
+          "Organizador de eventos",
           "Gerente de recursos humanos",
           "Especialista em relações públicas",
           "Gerente de escritório",
@@ -412,73 +436,81 @@
           "Conexão social"
         ],
         "CompatibleConnections": [
-          "O Defensor (ISFJ)",
-          "O Aventureiro (ISFP)",
-          "O Logístico (ISTJ)"
+          "O Cônsul (ESFJ)",
+          "O Performer (ESFP)",
+          "O Dinâmico (ESTP)"
         ],
         "HasPotentialConnections": [
-          "O Herói (ENFJ)",
-          "O Cruzado (ENFP)",
-          "O Guardião (INFJ)",
-          "O Pacificador (INFP)",
-          "O Performer (ESFP)",
+          "O Comandante (ENTJ)",
+          "O Protagonista (ENFJ)",
+          "O Campanha (ENFP)",
+          "O Aventureiro (ISFP)",
           "O Executivo (ESTJ)",
-          "O Rebelde (ESTP)",
-          "O Realista (ISTJ)"
+          "O Lógico (ISTJ)",
+          "O Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
-          "O Mestre (INTJ)",
-          "O Desafiante (ENTP)",
-          "O Embaixador (ESFJ)",
-          "O Gênio (INTP)",
-          "O Comandante (ENTJ)"
+          "O Advogado (INFJ)",
+          "O Arquiteto (INTJ)",
+          "O Debatedor (ENTP)",
+          "O Mediador (INFP)",
+          "O Pensador (INTP)",
+          "O Defensor (ISFJ)"
         ],
         "AttractedBy": [
-          "empático",
-          "solidário",
-          "atencioso",
-          "leal",
-          "autêntico",
-          "amigável",
-          "social",
-          "prático"
+          "Empático",
+          "Solidário",
+          "Carinhoso",
+          "Leal",
+          "Autêntico",
+          "Amigável",
+          "Sociável",
+          "Prático"
         ],
         "PetPeeves": [
-          "desorganizado",
-          "afastado",
-          "antisocial",
-          "crítico",
-          "emocionalmente distante",
-          "desleal",
-          "irresponsável",
-          "inconsistente"
+          "Desorganizado",
+          "Distante",
+          "Antissocial",
+          "Crítico",
+          "Emocionalmente distante",
+          "Desleal",
+          "Irresponsável",
+          "Inconsistente"
         ],
         "HowToBeCompanion": [
-          "Mostre apreço pela natureza atenciosa e pela atenção deles.",
-          "Seja aberto e comunicativo sobre suas emoções e necessidades.",
-          "Envolva-os em atividades sociais e valorize suas amizades.",
-          "Seja confiável e mostre que aprecia os esforços deles.",
-          "Respeite a necessidade deles de harmonia e evite conflitos desnecessários."
+          "Mostre apreço por sua natureza atenciosa e vigilante.",
+          "Seja aberto e comunicativo com suas emoções e necessidades.",
+          "Inclua-os em atividades sociais e valorize suas amizades.",
+          "Seja confiável e mostre que aprecia seus esforços.",
+          "Respeite sua necessidade de harmonia e evite conflitos desnecessários."
         ],
-        "SecretDesire": "Os Defensores anseiam secretamente por serem apreciados por seus esforços em criar harmonia e cuidar dos outros. Eles desejam se sentir valorizados e reconhecidos pelos cuidados que prestam.",
-        "Stereotypes": "Os Defensores são frequentemente estereotipados como excessivamente sensíveis ou precisando de aprovação constante, mas na realidade, são indivíduos profundamente solidários que se comprometem a criar harmonia e apoiar o bem-estar dos outros.",
+        "SecretDesire": "Os Defensores anseiam secretamente ser apreciados por seus esforços em criar harmonia e cuidar dos outros. Eles querem se sentir valorizados e reconhecidos pelos cuidados que prestam.",
+        "Stereotypes": "Os Defensores são frequentemente estereotipados como excessivamente sensíveis ou necessitando de aprovação constante, mas, na realidade, são indivíduos profundamente carinhosos que se comprometem a criar harmonia e apoiar o bem-estar dos outros.",
         "Celebrities": [
           "Rosa Parks",
           "Beyoncé",
-          "Kobe Bryant"
+          "Kobe Bryant",
+          "Kate Middleton",
+          "Santa Teresa",
+          "Halle Berry",
+          "Kendrick Lamar",
+          "Francisco Franco",
+          "Rei Charles",
+          "Vin Diesel",
+          "Aretha Franklin"
         ]
       },
       {
         "id": 14,
         "language_code": "ar",
         "type": "ISFJ",
-        "name": "مدافع",
-        "Description": "دافئون وحامون، المدافعون هم أفراد مسؤولون ومكرسون يزدهرون في مساعدة الآخرين. إنهم يقدرون الولاء والتقاليد والأمن، وغالبًا ما يعملون خلف الكواليس لدعم أحبائهم. يمتلك المدافعون إحساسًا عميقًا بالواجب وهم ملتزمون بالحفاظ على التناغم في علاقاتهم.",
+        "name": "المدافع",
+        "Description": "دافئون وحماة بالفطرة، المدافعون هم أفراد مسؤولون ومتفانون يزدهرون في مساعدة الآخرين. إنهم يقدرون الولاء، والتقاليد، والأمان، وغالبًا ما يعملون خلف الكواليس لدعم أحبائهم. يمتلك المدافعون إحساسًا عميقًا بالواجب وهم ملتزمون بالحفاظ على الانسجام في علاقاتهم.",
         "Strengths": [
           "وفي",
           "داعم",
           "منظم",
-          "رعاية",
+          "مهتم",
           "ودود",
           "عملي",
           "منتبه",
@@ -488,102 +520,110 @@
         ],
         "Weaknesses": [
           "حساس للغاية",
-          "محتاج إلى موافقة",
+          "بحاجة ماسة إلى الموافقة",
           "يمكن أن يكون متحكمًا",
           "لا يحب التغيير",
-          "تجنب المواجهة",
-          "يمكن أن يكون مفرط التضحية",
+          "يتجنب المواجهة",
+          "يمكن أن يكون غير أناني بشكل مفرط",
           "قد يركز كثيرًا على آراء الآخرين"
         ],
         "DosInRelationship": [
-          "أظهر التقدير لجهودهم في الاعتناء بك.",
-          "كن عاطفيًا وتواصل بصراحة حول مشاعرك.",
-          "اشركهم في الأنشطة الاجتماعية وقدر شبكاتهم الاجتماعية.",
-          "أظهر تقديرك لتنظيمهم واهتمامهم بالتفاصيل.",
-          "كن داعمًا وأظهر أنك تقدّر رعايتهم."
+          "أظهر التقدير لجهودهم في العناية بك.",
+          "كن حنونًا وتحدث بصراحة عن مشاعرك.",
+          "أشركهم في الأنشطة الاجتماعية وامنح قيمة لشبكاتهم الاجتماعية.",
+          "قدّر تنظيمهم واهتمامهم بالتفاصيل.",
+          "كن داعمًا وأظهر أنك تقدر رعايتهم."
         ],
         "DontsInRelationship": [
-          "لا تكن شديد النقد أو محتقرًا لمشاعرهم.",
-          "تجنب أن تكون انطوائيًا أو غير اجتماعي.",
-          "لا تأخذ طبيعتهم الرعائية كأمر مسلم به.",
-          "تجنب أن تكون غير حساس لاحتياجاتهم من التناغم.",
-          "لا تتجاهل آراءهم أو مشاعرهم."
+          "لا تكن ناقدًا جدًا أو مهملًا لمشاعرهم.",
+          "تجنب أن تكون منعزلًا جدًا أو غير اجتماعي.",
+          "لا تأخذ طبيعتهم المهتمة كأمر مفروغ منه.",
+          "تجنب أن تكون غير حساس تجاه حاجتهم إلى التناغم.",
+          "لا تتجاهل آرائهم أو مشاعرهم."
         ],
-        "Friendships": "يقدر المدافعون الصداقات التي تتيح لهم أن يكونوا داعمين وراعين. إنهم يستمتعون بالحفاظ على التناغم في مجموعاتهم من الأصدقاء ويفضلون الأصدقاء الموثوقين والمخلصين الذين يقدرون جهودهم في الحفاظ على الجميع معًا.",
+        "Friendships": "المدافعون يقدرون الصداقات التي تسمح لهم بأن يكونوا داعمين واهتمين. يستمتعون بالحفاظ على الانسجام في مجموعات أصدقائهم ويفضلون الأصدقاء الذين يمكن الاعتماد عليهم، المخلصين، والذين يقدرون جهودهم في إبقاء الجميع معًا.",
         "CareerPath": [
           "معلم",
-          "ممرضة",
-          "أخصائي اجتماعي",
+          "ممرض",
+          "عامل اجتماعي",
           "منظم فعاليات",
-          "مدير موارد بشرية",
+          "مدير الموارد البشرية",
           "أخصائي علاقات عامة",
           "مدير مكتب",
-          "طبيب نفسي",
+          "عالم نفسي",
           "مستشار"
         ],
         "LifeValue": [
-          "تناغم",
-          "ولاء",
-          "دعم",
-          "مسؤولية",
-          "اتصال اجتماعي"
+          "التناغم",
+          "الولاء",
+          "الدعم",
+          "المسؤولية",
+          "الاتصال الاجتماعي"
         ],
         "CompatibleConnections": [
-          "المدافع (ISFJ)",
-          "المغامر (ISFP)",
-          "اللوجستي (ISTJ)"
+          "القنصل (ESFJ)",
+          "المؤدي (ESFP)",
+          "الدينامو (ESTP)"
         ],
         "HasPotentialConnections": [
+          "القائد (ENTJ)",
           "البطل (ENFJ)",
-          "الصليبي (ENFP)",
-          "الوصي (INFJ)",
-          "صانع السلام (INFP)",
-          "الأداء (ESFP)",
-          "المدير (ESTJ)",
-          "المتمرد (ESTP)",
-          "الواقعي (ISTJ)"
+          "المروج (ENFP)",
+          "المغامر (ISFP)",
+          "المدير التنفيذي (ESTJ)",
+          "المنطقي (ISTJ)",
+          "الحرفي (ISTP)"
         ],
         "ChallengingConnections": [
-          "العبقري (INTJ)",
-          "المتحدي (ENTP)",
-          "السفير (ESFJ)",
-          "العبقري (INTP)",
-          "القائد (ENTJ)"
+          "المحامي (INFJ)",
+          "المهندس المعماري (INTJ)",
+          "المناظر (ENTP)",
+          "الوسيط (INFP)",
+          "المفكر (INTP)",
+          "المدافع (ISFJ)"
         ],
         "AttractedBy": [
           "متعاطف",
           "داعم",
-          "رعاية",
+          "مهتم",
           "وفي",
-          "أصيل",
+          "صادق",
           "ودود",
           "اجتماعي",
           "عملي"
         ],
         "PetPeeves": [
           "غير منظم",
-          "منسحب",
+          "منعزل",
           "غير اجتماعي",
           "ناقد",
-          "عاطفي بعيد",
-          "غير وفي",
+          "بعيد عاطفيًا",
+          "غير مخلص",
           "غير مسؤول",
           "غير متسق"
         ],
         "HowToBeCompanion": [
-          "أظهر التقدير لطبيعتهم الرعائية واهتمامهم.",
-          "كن منفتحًا وتواصل بصراحة حول مشاعرك واحتياجاتك.",
-          "اشركهم في الأنشطة الاجتماعية وقدر صداقاتهم.",
-          "كن موثوقًا وأظهر أنك تقدّر جهودهم.",
-          "احترم حاجتهم للتناغم وتجنب النزاعات غير الضرورية."
+          "أظهر التقدير لطبيعتهم المهتمة واهتمامهم.",
+          "كن منفتحًا وتحدث عن مشاعرك واحتياجاتك.",
+          "أشركهم في الأنشطة الاجتماعية وامنح قيمة لصداقاتهم.",
+          "كن موثوقًا وأظهر أنك تقدر جهودهم.",
+          "احترم حاجتهم للتناغم وتجنب الصراعات غير الضرورية."
         ],
-        "SecretDesire": "يطمح المدافعون سرًا إلى أن يتم تقديرهم لجهودهم في خلق التناغم والاعتناء بالآخرين. يتطلعون إلى أن يشعروا بالقيمة والاعتراف بالرعاية التي يقدمونها.",
-        "Stereotypes": "غالبًا ما يُنظر إلى المدافعين على أنهم حساسون للغاية أو يحتاجون إلى موافقة مستمرة، لكن في الواقع، هم أفراد يعتنون بعمق وملتزمون بخلق التناغم ودعم رفاهية الآخرين.",
+        "SecretDesire": "المدافعون يتوقون سرًا إلى أن يتم تقدير جهودهم في خلق التناغم والعناية بالآخرين. يريدون أن يشعروا بأنهم محل تقدير واعتراف للرعاية التي يقدمونها.",
+        "Stereotypes": "غالبًا ما يتم تصوير المدافعين على أنهم حساسون بشكل مفرط أو بحاجة إلى موافقة مستمرة، لكن في الحقيقة، هم أفراد يهتمون بعمق ويكرسون جهودهم لخلق التناغم ودعم رفاهية الآخرين.",
         "Celebrities": [
           "روزا باركس",
           "بيونسيه",
-          "كوبي براينت"
+          "كوبي براينت",
+          "كيت ميدلتون",
+          "الأم تيريزا",
+          "هالي بيري",
+          "كيندريك لامار",
+          "فرانسيسكو فرانكو",
+          "الملك تشارلز",
+          "فين ديزل",
+          "أريثا فرانكلين"
         ]
-      }
+      }      
     ]
   }  

@@ -7,25 +7,25 @@
         "name": "The Advocate",
         "Description": "Deeply insightful and empathetic, Advocates are driven by their ideals and the desire to help others. They possess a unique ability to understand complex emotional landscapes and are committed to making a positive impact in the world. Advocates often feel a strong sense of purpose and strive to bring about change.",
         "Strengths": [
-          "insightful",
-          "empathetic",
-          "idealistic",
-          "compassionate",
-          "determined",
-          "creative",
-          "passionate",
-          "organized",
-          "deep thinkers",
-          "altruistic"
+          "Insightful",
+          "Empathetic",
+          "Idealistic",
+          "Compassionate",
+          "Determined",
+          "Creative",
+          "Passionate",
+          "Organized",
+          "Deep thinkers",
+          "Altruistic"
         ],
         "Weaknesses": [
-          "overly sensitive",
-          "can be perfectionistic",
-          "can withdraw from conflict",
-          "may struggle to set boundaries",
-          "can be overly idealistic",
-          "may take criticism too personally",
-          "can be secretive"
+          "Overly sensitive",
+          "Can be perfectionistic",
+          "Can withdraw from conflict",
+          "May struggle to set boundaries",
+          "Can be overly idealistic",
+          "May take criticism too personally",
+          "Can be secretive"
         ],
         "DosInRelationship": [
           "Show appreciation for their empathy and insights.",
@@ -61,44 +61,47 @@
           "Personal Growth"
         ],
         "CompatibleConnections": [
-          "Peacemaker (INFP)",
-          "Hero (ENFJ)",
-          "Genius (INTP)"
+          "The Protagonist (ENFJ)",
+          "The Campaigner (ENFP)",
+          "The Debater (ENTP)"
         ],
         "HasPotentialConnections": [
-          "Commander (ENTJ)",
-          "Challenger (ENTP)",
-          "Mastermind (INTJ)",
-          "Crusader (ENFP)",
-          "Ambassador (ESFJ)"
+          "The Commander (ENTJ)",
+          "The Architect (INTJ)",
+          "The Thinker (INTP)",
+          "The Advocate (INFJ)",
+          "The Mediator (INFP)",
+          "The Consul (ESFJ)",
+          "The Performer (ESFP)",
+          "The Adventurer (ISFP)",
+          "The Executive (ESTJ)",
+          "The Dynamo (ESTP)"   
         ],
         "ChallengingConnections": [
-          "Artisan (ISTP)",
-          "Executive (ESTJ)",
-          "Rebel (ESTP)",
-          "Protector (ISFJ)",
-          "Realist (ISTJ)"
+          "The Virtuoso (ISTP)",
+          "The Defender (ISFJ)",
+          "The Logistician (ISTJ)"
         ],
         "AttractedBy": [
-          "insightful",
-          "compassionate",
-          "idealistic",
-          "altruistic",
-          "creative",
-          "determined",
-          "empathetic",
-          "deep thinkers",
-          "passionate",
-          "supportive"
+          "Insightful",
+          "Compassionate",
+          "Idealistic",
+          "Altruistic",
+          "Creative",
+          "Determined",
+          "Empathetic",
+          "Deep thinkers",
+          "Passionate",
+          "Supportive"
         ],
         "PetPeeves": [
-          "insincerity",
-          "cruelty",
-          "superficiality",
-          "lack of integrity",
-          "selfishness",
-          "close-mindedness",
-          "disrespect"
+          "Insincerity",
+          "Cruelty",
+          "Superficiality",
+          "Lack of integrity",
+          "Selfishness",
+          "Close-mindedness",
+          "Disrespect"
         ],
         "HowToBeCompanion": [
           "Appreciate their unique insights and empathy.",
@@ -115,11 +118,12 @@
           "Toussaint Louverture",
           "Chadwick Boseman",
           "Leopold Senghor",
-          "Stromae",
+          "Mahatma Gandhi",
           "Lupita Nyong’o",
           "Nelson Mandela",
           "Rihanna",
-          "Frederick Douglass"
+          "Frederick Douglass",
+          "Robert Mugabe"
         ]
       },
       {
@@ -127,43 +131,43 @@
         "language_code": "fr",
         "type": "INFJ",
         "name": "L'Avocat",
-        "Description": "Profondément perspicace et empathique, les Avocats sont guidés par leurs idéaux et le désir d'aider les autres. Ils possèdent une capacité unique à comprendre des paysages émotionnels complexes et sont déterminés à avoir un impact positif dans le monde. Les Avocats ressentent souvent un fort sentiment de but et s'efforcent d'apporter des changements.",
+        "Description": "Profondément perspicaces et empathiques, les Avocats sont guidés par leurs idéaux et leur désir d'aider les autres. Ils possèdent une capacité unique à comprendre des paysages émotionnels complexes et sont déterminés à avoir un impact positif sur le monde. Les Avocats ressentent souvent un fort sentiment de mission et s'efforcent de provoquer le changement.",
         "Strengths": [
-          "perspicace",
-          "empathique",
-          "idéaliste",
-          "compatissant",
-          "déterminé",
-          "créatif",
-          "passionné",
-          "organisé",
-          "grands penseurs",
-          "altruiste"
+          "Perspicace",
+          "Empathique",
+          "Idéaliste",
+          "Compatissant",
+          "Déterminé",
+          "Créatif",
+          "Passionné",
+          "Organisé",
+          "Penseur profond",
+          "Altruiste"
         ],
         "Weaknesses": [
-          "trop sensible",
-          "peut être perfectionniste",
-          "peut se retirer du conflit",
-          "peut avoir des difficultés à établir des limites",
-          "peut être trop idéaliste",
-          "peut prendre les critiques trop personnellement",
-          "peut être secret"
+          "Trop sensible",
+          "Peut être perfectionniste",
+          "Peut se retirer des conflits",
+          "Peut avoir du mal à poser des limites",
+          "Peut être trop idéaliste",
+          "Peut prendre les critiques trop personnellement",
+          "Peut être secret"
         ],
         "DosInRelationship": [
-          "Montrez votre appréciation pour leur empathie et leurs insights.",
-          "Communiquez ouvertement sur vos sentiments et vos besoins.",
+          "Montrez de l'appréciation pour leur empathie et leurs idées.",
+          "Communiquez ouvertement sur vos sentiments et besoins.",
           "Soutenez leurs idéaux et leur passion pour aider les autres.",
-          "Engagez-vous dans des conversations profondes et significatives.",
-          "Respectez leur besoin de temps seul pour se recharger."
+          "Engagez des conversations profondes et significatives.",
+          "Respectez leur besoin de solitude pour se ressourcer."
         ],
         "DontsInRelationship": [
-          "Ne pas rejeter leurs sentiments ou idéaux.",
-          "Évitez d'être trop critique ou sévère.",
-          "Ne pas les pousser à entrer en conflit ou à se confronter.",
+          "Ne rejetez pas leurs sentiments ou idéaux.",
+          "Évitez d'être trop critique ou dur.",
+          "Ne les forcez pas à entrer dans des conflits ou confrontations.",
           "Évitez d'être superficiel dans vos interactions.",
-          "Ne pas prendre leur besoin d'espace personnel."
+          "Ne prenez pas leur besoin d'espace personnel."
         ],
-        "Friendships": "Les Avocats valorisent des amitiés authentiques et significatives. Ils recherchent des connexions avec d'autres qui partagent leurs idéaux et passions. Ils apprécient les amis qui sont solidaires, compréhensifs et ouverts à discuter de sujets profonds.",
+        "Friendships": "Les Avocats apprécient les amitiés authentiques et significatives. Ils recherchent des connexions avec des personnes partageant leurs idéaux et passions. Ils apprécient les amis qui sont solidaires, compréhensifs et ouverts à discuter de sujets profonds.",
         "CareerPath": [
           "Conseiller",
           "Psychologue",
@@ -171,9 +175,9 @@
           "Écrivain",
           "Enseignant",
           "Humanitaire",
-          "Leader d'ONG",
+          "Dirigeant de ONG",
           "Chercheur",
-          "Conférencier public"
+          "Conférencier"
         ],
         "LifeValue": [
           "Compassion",
@@ -183,120 +187,123 @@
           "Croissance personnelle"
         ],
         "CompatibleConnections": [
-          "Pacificateur (INFP)",
-          "Héros (ENFJ)",
-          "Génie (INTP)"
+          "Le Protagoniste (ENFJ)",
+          "Le Campagneur (ENFP)",
+          "Le Débatteur (ENTP)"
         ],
         "HasPotentialConnections": [
-          "Commandant (ENTJ)",
-          "Défi (ENTP)",
-          "Maître (INTJ)",
-          "Croisé (ENFP)",
-          "Ambassadeur (ESFJ)"
+          "Le Commandant (ENTJ)",
+          "L'Architecte (INTJ)",
+          "Le Penseur (INTP)",
+          "L'Avocat (INFJ)",
+          "Le Médiateur (INFP)",
+          "Le Consul (ESFJ)",
+          "Le Performeur (ESFP)",
+          "L'Aventurier (ISFP)",
+          "L'Exécutif (ESTJ)",
+          "Le Dynamique (ESTP)"   
         ],
         "ChallengingConnections": [
-          "Artisan (ISTP)",
-          "Exécutif (ESTJ)",
-          "Rebelle (ESTP)",
-          "Protecteur (ISFJ)",
-          "Réaliste (ISTJ)"
+          "Le Virtuose (ISTP)",
+          "Le Défenseur (ISFJ)",
+          "Le Logicien (ISTJ)"
         ],
         "AttractedBy": [
-          "perspicace",
-          "compatissant",
-          "idéaliste",
-          "altruiste",
-          "créatif",
-          "déterminé",
-          "empathique",
-          "grands penseurs",
-          "passionné",
-          "soutien"
+          "Perspicace",
+          "Compatissant",
+          "Idéaliste",
+          "Altruiste",
+          "Créatif",
+          "Déterminé",
+          "Empathique",
+          "Penseur profond",
+          "Passionné",
+          "Solidaire"
         ],
         "PetPeeves": [
-          "insincérité",
-          "cruauté",
-          "superficialité",
-          "manque d'intégrité",
-          "égoïsme",
-          "esprit fermé",
-          "manque de respect"
+          "Manque de sincérité",
+          "Cruauté",
+          "Superficialité",
+          "Manque d'intégrité",
+          "Égoïsme",
+          "Esprit fermé",
+          "Manque de respect"
         ],
         "HowToBeCompanion": [
-          "Appréciez leurs perspectives et leur empathie uniques.",
+          "Appréciez leurs idées uniques et leur empathie.",
           "Communiquez ouvertement et de manière significative.",
-          "Participez à des activités qui s'alignent sur leurs valeurs.",
+          "Participez à des activités alignées avec leurs valeurs.",
           "Respectez leur besoin d'introspection et d'espace.",
-          "Montrez votre soutien à leurs rêves et idéaux."
+          "Soutenez leurs rêves et idéaux."
         ],
-        "SecretDesire": "Les Avocats aspirent secrètement à établir des connexions profondes avec les autres et à faire une différence significative dans le monde grâce à leurs perspectives uniques et leur compassion.",
-        "Stereotypes": "Les Avocats sont souvent perçus comme trop sensibles ou trop idéalistes, mais en réalité, ils sont profondément engagés à comprendre les autres et à susciter un changement positif dans leurs communautés.",
+        "SecretDesire": "Les Avocats aspirent secrètement à établir des connexions profondes avec les autres et à avoir l'occasion de faire une différence significative dans le monde grâce à leurs idées et leur compassion uniques.",
+        "Stereotypes": "Les Avocats sont souvent perçus comme étant trop sensibles ou idéalistes, mais en réalité, ils sont profondément engagés à comprendre les autres et à provoquer des changements positifs dans leurs communautés.",
         "Celebrities": [
           "Kofi Annan",
           "Kwame Nkrumah",
           "Toussaint Louverture",
           "Chadwick Boseman",
-          "Leopold Senghor",
-          "Stromae",
+          "Léopold Senghor",
+          "Mahatma Gandhi",
           "Lupita Nyong’o",
-          "Martin Luther King Jr",
           "Nelson Mandela",
           "Rihanna",
-          "Frederick Douglass"
+          "Frederick Douglass",
+          "Robert Mugabe"
         ]
       },
       {
         "id": 11,
         "language_code": "es",
         "type": "INFJ",
-        "name": "El Defensor",
-        "Description": "Profundamente perspicaz y empático, los Defensores están impulsados por sus ideales y el deseo de ayudar a los demás. Poseen una habilidad única para entender paisajes emocionales complejos y están comprometidos a tener un impacto positivo en el mundo. Los Defensores a menudo sienten un fuerte sentido de propósito y se esfuerzan por provocar cambios.",
+        "name": "El Abogado",
+        "Description": "Profundamente intuitivos y empáticos, los Defensores se guían por sus ideales y el deseo de ayudar a los demás. Poseen una habilidad única para comprender paisajes emocionales complejos y están comprometidos a tener un impacto positivo en el mundo. Los Defensores suelen sentir un fuerte sentido de propósito y se esfuerzan por generar cambios.",
         "Strengths": [
-          "perspicaz",
-          "empático",
-          "idealista",
-          "compasivo",
-          "determinado",
-          "creativo",
-          "apasionado",
-          "organizado",
-          "pensadores profundos",
-          "altruista"
+          "Intuitivo",
+          "Empático",
+          "Idealista",
+          "Compasivo",
+          "Decidido",
+          "Creativo",
+          "Apasionado",
+          "Organizado",
+          "Pensadores profundos",
+          "Altruista"
         ],
         "Weaknesses": [
-          "demasiado sensible",
-          "puede ser perfeccionista",
-          "puede retirarse del conflicto",
-          "puede tener dificultades para establecer límites",
-          "puede ser demasiado idealista",
-          "puede tomar las críticas demasiado personalmente",
-          "puede ser reservado"
+          "Excesivamente sensible",
+          "Perfeccionista",
+          "Puede evitar los conflictos",
+          "Puede tener dificultades para poner límites",
+          "Demasiado idealista",
+          "Puede tomar las críticas de forma personal",
+          "Puede ser reservado"
         ],
         "DosInRelationship": [
-          "Muestra aprecio por su empatía y sus ideas.",
+          "Muestra aprecio por su empatía e intuiciones.",
           "Comunica abiertamente tus sentimientos y necesidades.",
           "Apoya sus ideales y su pasión por ayudar a los demás.",
-          "Participa en conversaciones profundas y significativas.",
+          "Involúcrate en conversaciones profundas y significativas.",
           "Respeta su necesidad de tiempo a solas para recargar energías."
         ],
         "DontsInRelationship": [
           "No desestimes sus sentimientos o ideales.",
-          "Evita ser demasiado crítico o severo.",
-          "No los presiones para entrar en conflicto o confrontaciones.",
+          "Evita ser demasiado crítico o duro.",
+          "No los presiones para que entren en conflictos o confrontaciones.",
           "Evita ser superficial en tus interacciones.",
-          "No tomes su necesidad de espacio como algo personal."
+          "No tomes como algo personal su necesidad de espacio."
         ],
-        "Friendships": "Los Defensores valoran amistades auténticas y significativas. Buscan conexiones con otros que compartan sus ideales y pasiones. Aprecian a los amigos que son solidarios, comprensivos y están dispuestos a discutir temas profundos.",
+        "Friendships": "Los Defensores valoran las amistades que son auténticas y significativas. Buscan conexiones con personas que compartan sus ideales y pasiones. Aprecian a los amigos que son solidarios, comprensivos y abiertos a discutir temas profundos.",
         "CareerPath": [
           "Consejero",
           "Psicólogo",
           "Trabajador social",
           "Escritor",
-          "Profesor",
+          "Maestro",
           "Humanitario",
           "Líder de ONG",
           "Investigador",
-          "Conferencista"
+          "Orador público"
         ],
         "LifeValue": [
           "Compasión",
@@ -306,110 +313,113 @@
           "Crecimiento personal"
         ],
         "CompatibleConnections": [
-          "Pacificador (INFP)",
-          "Héroe (ENFJ)",
-          "Genio (INTP)"
+          "El Protagonista (ENFJ)",
+          "El Campañero (ENFP)",
+          "El Debatidor (ENTP)"
         ],
         "HasPotentialConnections": [
-          "Comandante (ENTJ)",
-          "Desafiante (ENTP)",
-          "Maestro (INTJ)",
-          "Cruzado (ENFP)",
-          "Embajador (ESFJ)"
+          "El Comandante (ENTJ)",
+          "El Arquitecto (INTJ)",
+          "El Pensador (INTP)",
+          "El Abogado (INFJ)",
+          "El Mediador (INFP)",
+          "El Cónsul (ESFJ)",
+          "El Intérprete (ESFP)",
+          "El Aventurero (ISFP)",
+          "El Ejecutivo (ESTJ)",
+          "El Dinámico (ESTP)"
         ],
         "ChallengingConnections": [
-          "Artista (ISTP)",
-          "Ejecutivo (ESTJ)",
-          "Rebelde (ESTP)",
-          "Protector (ISFJ)",
-          "Realista (ISTJ)"
+          "El Virtuoso (ISTP)",
+          "El Defensor (ISFJ)",
+          "El Logístico (ISTJ)"
         ],
         "AttractedBy": [
-          "perspicaz",
-          "compasivo",
-          "idealista",
-          "altruista",
-          "creativo",
-          "determinado",
-          "empático",
-          "pensadores profundos",
-          "apasionado",
-          "sustentador"
+          "Intuitivo",
+          "Compasivo",
+          "Idealista",
+          "Altruista",
+          "Creativo",
+          "Decidido",
+          "Empático",
+          "Pensador profundo",
+          "Apasionado",
+          "Solidario"
         ],
         "PetPeeves": [
-          "insinceridad",
-          "crueldad",
-          "superficialidad",
-          "falta de integridad",
-          "egoísmo",
-          "mentalidad cerrada",
-          "desprecio"
+          "Falta de sinceridad",
+          "Crueldad",
+          "Superficialidad",
+          "Falta de integridad",
+          "Egoísmo",
+          "Mente cerrada",
+          "Falta de respeto"
         ],
         "HowToBeCompanion": [
-          "Aprecia sus perspectivas y empatía únicas.",
-          "Comunica de manera abierta y significativa.",
+          "Aprecia sus intuiciones únicas y su empatía.",
+          "Comunícate de manera abierta y significativa.",
           "Participa en actividades que se alineen con sus valores.",
           "Respeta su necesidad de introspección y espacio.",
-          "Muestra apoyo a sus sueños e ideales."
+          "Apoya sus sueños e ideales."
         ],
-        "SecretDesire": "Los Defensores aspiran secretamente a establecer conexiones profundas con los demás y a hacer una diferencia significativa en el mundo a través de sus perspectivas únicas y su compasión.",
-        "Stereotypes": "Los Defensores a menudo son percibidos como demasiado sensibles o demasiado idealistas, pero en realidad están profundamente comprometidos a comprender a los demás y a generar un cambio positivo en sus comunidades.",
+        "SecretDesire": "Los Defensores anhelan en secreto conexiones profundas con los demás y la oportunidad de hacer una diferencia significativa en el mundo a través de su intuición y compasión únicas.",
+        "Stereotypes": "A menudo se percibe a los Defensores como demasiado sensibles o idealistas, pero en realidad están profundamente comprometidos con comprender a los demás y generar un cambio positivo en sus comunidades.",
         "Celebrities": [
           "Kofi Annan",
           "Kwame Nkrumah",
           "Toussaint Louverture",
           "Chadwick Boseman",
           "Leopold Senghor",
-          "Stromae",
+          "Mahatma Gandhi",
           "Lupita Nyong’o",
-          "Martin Luther King Jr",
           "Nelson Mandela",
           "Rihanna",
-          "Frederick Douglass"
+          "Frederick Douglass",
+          "Robert Mugabe"
         ]
       },
       {
         "id": 11,
         "language_code": "pt",
         "type": "INFJ",
-        "name": "O Advogado",
-        "Description": "Profundamente perspicaz e empático, os Advogados são impulsionados por seus ideais e pelo desejo de ajudar os outros. Eles possuem uma habilidade única para entender paisagens emocionais complexas e estão comprometidos em causar um impacto positivo no mundo. Os Advogados muitas vezes sentem um forte senso de propósito e se esforçam para provocar mudanças.",
+        "name": "O Defensor",
+        "Description": "Profundamente intuitivos e empáticos, os Defensores são movidos por seus ideais e pelo desejo de ajudar os outros. Possuem uma capacidade única de entender paisagens emocionais complexas e estão comprometidos em ter um impacto positivo no mundo. Os Defensores frequentemente sentem um forte senso de propósito e se esforçam para promover mudanças.",
         "Strengths": [
-          "perspicaz",
-          "empático",
-          "idealista",
-          "compassivo",
-          "determinado",
-          "criativo",
-          "apaixonado",
-          "organizado",
-          "pensadores profundos",
-          "altruísta"
+          "Perspicaz",
+          "Empático",
+          "Idealista",
+          "Compassivo",
+          "Determinado",
+          "Criativo",
+          "Apaixonado",
+          "Organizado",
+          "Pensadores profundos",
+          "Altruísta"
         ],
         "Weaknesses": [
-          "demasiado sensível",
-          "pode ser perfeccionista",
-          "pode se retirar do conflito",
-          "pode ter dificuldades para estabelecer limites",
-          "pode ser demasiado idealista",
-          "pode levar críticas muito a sério",
-          "pode ser secreto"
+          "Excessivamente sensível",
+          "Pode ser perfeccionista",
+          "Pode se afastar de conflitos",
+          "Pode ter dificuldade em estabelecer limites",
+          "Pode ser excessivamente idealista",
+          "Pode levar críticas muito a sério",
+          "Pode ser reservado"
         ],
         "DosInRelationship": [
           "Mostre apreço por sua empatia e percepções.",
-          "Comunique-se abertamente sobre seus sentimentos e necessidades.",
-          "Apoie seus ideais e paixão por ajudar os outros.",
-          "Participe de conversas profundas e significativas.",
-          "Respeite sua necessidade de tempo sozinho para recarregar as energias."
+          "Comunique abertamente seus sentimentos e necessidades.",
+          "Apoie seus ideais e sua paixão por ajudar os outros.",
+          "Engaje-se em conversas profundas e significativas.",
+          "Respeite sua necessidade de ficar sozinho para recarregar as energias."
         ],
         "DontsInRelationship": [
-          "Não desmereça seus sentimentos ou ideais.",
+          "Não ignore seus sentimentos ou ideais.",
           "Evite ser excessivamente crítico ou severo.",
-          "Não os pressione a entrar em conflito ou confrontos.",
+          "Não os pressione para conflitos ou confrontos.",
           "Evite ser superficial em suas interações.",
-          "Não leve pessoalmente a necessidade deles de espaço."
+          "Não leve para o lado pessoal sua necessidade de espaço."
         ],
-        "Friendships": "Os Advogados valorizam amizades autênticas e significativas. Eles procuram conexões com outras pessoas que compartilham seus ideais e paixões. Apreciam amigos que são solidários, compreensivos e estão dispostos a discutir tópicos profundos.",
+        "Friendships": "Os Defensores valorizam amizades que sejam autênticas e significativas. Eles procuram conexões com outras pessoas que compartilhem seus ideais e paixões. Eles apreciam amigos que são solidários, compreensivos e abertos a discutir temas profundos.",
         "CareerPath": [
           "Conselheiro",
           "Psicólogo",
@@ -429,66 +439,69 @@
           "Crescimento pessoal"
         ],
         "CompatibleConnections": [
-          "Pacificador (INFP)",
-          "Herói (ENFJ)",
-          "Gênio (INTP)"
+          "O Protagonista (ENFJ)",
+          "O Campanha (ENFP)",
+          "O Debatedor (ENTP)"
         ],
         "HasPotentialConnections": [
-          "Comandante (ENTJ)",
-          "Desafiante (ENTP)",
-          "Mestre (INTJ)",
-          "Cruzado (ENFP)",
-          "Embaixador (ESFJ)"
+          "O Comandante (ENTJ)",
+          "O Arquiteto (INTJ)",
+          "O Pensador (INTP)",
+          "O Defensor (INFJ)",
+          "O Mediador (INFP)",
+          "O Cônsul (ESFJ)",
+          "O Performador (ESFP)",
+          "O Aventureiro (ISFP)",
+          "O Executivo (ESTJ)",
+          "O Dinâmico (ESTP)"
         ],
         "ChallengingConnections": [
-          "Artista (ISTP)",
-          "Executivo (ESTJ)",
-          "Rebelde (ESTP)",
-          "Protetor (ISFJ)",
-          "Realista (ISTJ)"
+          "O Virtuoso (ISTP)",
+          "O Defensor (ISFJ)",
+          "O Logístico (ISTJ)"
         ],
         "AttractedBy": [
-          "perspicaz",
-          "compassivo",
-          "idealista",
-          "altruísta",
-          "criativo",
-          "determinado",
-          "empático",
-          "pensadores profundos",
-          "apaixonado",
-          "sustentador"
+          "Perspicaz",
+          "Compassivo",
+          "Idealista",
+          "Altruísta",
+          "Criativo",
+          "Determinado",
+          "Empático",
+          "Pensador profundo",
+          "Apaixonado",
+          "Solidário"
         ],
         "PetPeeves": [
-          "insinceridade",
-          "crueldade",
-          "superficialidade",
-          "falta de integridade",
-          "egoísmo",
-          "mentalidade fechada",
-          "desrespeito"
+          "Falta de sinceridade",
+          "Crueldade",
+          "Superficialidade",
+          "Falta de integridade",
+          "Egoísmo",
+          "Mente fechada",
+          "Desrespeito"
         ],
         "HowToBeCompanion": [
-          "Aprecie suas percepções e empatia únicas.",
-          "Comunique-se de maneira aberta e significativa.",
-          "Participe de atividades que se alinhem com seus valores.",
+          "Aprecie suas percepções únicas e empatia.",
+          "Comunique-se de forma aberta e significativa.",
+          "Participe de atividades que estejam alinhadas com seus valores.",
           "Respeite sua necessidade de introspecção e espaço.",
-          "Mostre apoio a seus sonhos e ideais."
+          "Mostre apoio aos seus sonhos e ideais."
         ],
-        "SecretDesire": "Os Advogados aspiram secretamente a estabelecer conexões profundas com os outros e a fazer uma diferença significativa no mundo por meio de suas percepções únicas e sua compaixão.",
-        "Stereotypes": "Os Advogados muitas vezes são vistos como excessivamente sensíveis ou idealistas, mas na verdade estão profundamente comprometidos em entender os outros e em promover mudanças positivas em suas comunidades.",
+        "SecretDesire": "Os Defensores desejam secretamente conexões profundas com os outros e a oportunidade de fazer uma diferença significativa no mundo por meio de suas percepções e compaixão únicas.",
+        "Stereotypes": "Os Defensores são frequentemente vistos como excessivamente sensíveis ou idealistas, mas na realidade, eles estão profundamente comprometidos em entender os outros e promover mudanças positivas em suas comunidades.",
         "Celebrities": [
           "Kofi Annan",
           "Kwame Nkrumah",
           "Toussaint Louverture",
           "Chadwick Boseman",
-          "Leopold Senghor",
-          "Stromae",
+          "Léopold Senghor",
+          "Mahatma Gandhi",
           "Lupita Nyong’o",
-          "Martin Luther King Jr",
           "Nelson Mandela",
           "Rihanna",
-          "Frederick Douglass"
+          "Frederick Douglass",
+          "Robert Mugabe"
         ]
       },
       {
@@ -496,53 +509,53 @@
         "language_code": "ar",
         "type": "INFJ",
         "name": "المحامي",
-        "Description": "مفكرون عميقون ومتعاطفون، يتحرك المحامون بدوافعهم وأفكارهم ورغبتهم في مساعدة الآخرين. لديهم قدرة فريدة على فهم المناظر العاطفية المعقدة وهم ملتزمون بإحداث تأثير إيجابي في العالم. غالبًا ما يشعر المحامون بقوة الدافع ويسعون لإحداث تغيير.",
+        "Description": "المحامون عميقو البصيرة والتعاطف، مدفوعون بمثلهم العليا ورغبتهم في مساعدة الآخرين. يمتلكون قدرة فريدة على فهم المشاعر المعقدة وهم ملتزمون بإحداث تأثير إيجابي في العالم. غالبًا ما يشعر المحامون بشعور قوي بالهدف ويسعون لإحداث تغيير.",
         "Strengths": [
-          "مفكر عميق",
+          "بصير",
           "متعاطف",
           "مثالي",
-          "عطوف",
+          "رحيم",
           "مصمم",
-          "إبداعي",
+          "مبدع",
           "شغوف",
           "منظم",
-          "ذو تفكير عميق",
-          "مؤمن"
+          "مفكرون عميقون",
+          "إيثاري"
         ],
         "Weaknesses": [
-          "حساس للغاية",
-          "يمكن أن يكون مثاليًا",
-          "قد يتراجع من الصراع",
+          "مفرط الحساسية",
+          "قد يكون مثاليًا بشكل مفرط",
+          "قد يتجنب الصراع",
           "قد يواجه صعوبة في وضع الحدود",
-          "يمكن أن يكون مثاليًا",
+          "قد يكون مثاليًا للغاية",
           "قد يأخذ النقد بشكل شخصي",
-          "قد يكون سريًا"
+          "قد يكون كتومًا"
         ],
         "DosInRelationship": [
-          "أظهر تقديرك لرحمتهم ورؤاهم.",
-          "تواصل بصراحة حول مشاعرك واحتياجاتك.",
-          "ادعم مثاليهم وشغفهم بمساعدة الآخرين.",
-          "شارك في محادثات عميقة وذات مغزى.",
-          "احترم حاجتهم للوقت بمفردهم لإعادة الشحن."
+          "أظهر التقدير لتعاطفهم ورؤاهم.",
+          "تواصل بصراحة بشأن مشاعرك واحتياجاتك.",
+          "ادعم مثلهم العليا وشغفهم بمساعدة الآخرين.",
+          "اشترك في محادثات عميقة وذات معنى.",
+          "احترم حاجتهم إلى وقت وحدهم لاستعادة طاقتهم."
         ],
         "DontsInRelationship": [
-          "لا تتجاهل مشاعرهم أو مثاليهم.",
-          "تجنب أن تكون صارمًا أو قاسيًا.",
-          "لا تضغط عليهم للدخول في صراعات.",
-          "تجنب السطحية في تفاعلاتك.",
-          "لا تأخذ حاجتهم للمساحة بشكل شخصي."
+          "لا تتجاهل مشاعرهم أو مثلهم.",
+          "تجنب أن تكون شديد الانتقاد أو القسوة.",
+          "لا تضغط عليهم للدخول في الصراع أو المواجهات.",
+          "تجنب التعامل السطحي في تفاعلاتك.",
+          "لا تأخذ حاجتهم إلى المساحة بشكل شخصي."
         ],
-        "Friendships": "يقدر المحامون الصداقات التي تكون أصيلة وذات مغزى. يسعون للاتصالات مع الآخرين الذين يشاركونهم الأفكار والشغف. يقدرون الأصدقاء الذين يكونون داعمين وفهمين ومستعدين لمناقشة مواضيع عميقة.",
+        "Friendships": "يقدّر المحامون الصداقات التي تكون حقيقية وذات مغزى. يبحثون عن روابط مع الآخرين الذين يشاركونهم مثلهم وشغفهم. يقدرون الأصدقاء الذين يدعمونهم ويفهمونهم ويكونون منفتحين على مناقشة المواضيع العميقة.",
         "CareerPath": [
           "مستشار",
           "أخصائي نفسي",
           "عامل اجتماعي",
           "كاتب",
-          "مدرس",
-          "إنسانية",
+          "معلم",
+          "إنساني",
           "قائد منظمة غير ربحية",
           "باحث",
-          "محاضر"
+          "متحدث عام"
         ],
         "LifeValue": [
           "الرحمة",
@@ -552,67 +565,70 @@
           "النمو الشخصي"
         ],
         "CompatibleConnections": [
-          "صانع السلام (INFP)",
-          "بطل (ENFJ)",
-          "عبقري (INTP)"
+          "البطل (ENFJ)",
+          "المحاور (ENFP)",
+          "المناظر (ENTP)"
         ],
         "HasPotentialConnections": [
-          "قائد (ENTJ)",
-          "مُتحدي (ENTP)",
-          "معلم (INTJ)",
-          "صليبي (ENFP)",
-          "سفير (ESFJ)"
+          "القائد (ENTJ)",
+          "المهندس المعماري (INTJ)",
+          "المفكر (INTP)",
+          "المحامي (INFJ)",
+          "الوسيط (INFP)",
+          "القنصل (ESFJ)",
+          "المؤدي (ESFP)",
+          "المغامر (ISFP)",
+          "المدير التنفيذي (ESTJ)",
+          "الدينامو (ESTP)"
         ],
         "ChallengingConnections": [
-          "فنان (ISTP)",
-          "تنفيذي (ESTJ)",
-          "متمرد (ESTP)",
-          "حامي (ISFJ)",
-          "واقعي (ISTJ)"
+          "المبدع (ISTP)",
+          "المدافع (ISFJ)",
+          "المنطقي (ISTJ)"
         ],
         "AttractedBy": [
-          "مفكر عميق",
-          "متعاطف",
+          "بصير",
+          "رحيم",
           "مثالي",
-          "عطوف",
+          "إيثاري",
           "مبدع",
           "مصمم",
           "متعاطف",
-          "ذو تفكير عميق",
+          "مفكر عميق",
           "شغوف",
-          "مؤمن"
+          "داعم"
         ],
         "PetPeeves": [
-          "عدم الإخلاص",
+          "عدم الصدق",
           "القسوة",
           "السطحية",
           "عدم النزاهة",
           "الأنانية",
-          "الذهنية المغلقة",
-          "الاحتقار"
+          "ضيق الأفق",
+          "عدم الاحترام"
         ],
         "HowToBeCompanion": [
-          "قدّر رؤاهم الفريدة وشفقتهم.",
-          "تواصل بشكل مفتوح وذو مغزى.",
+          "قدّر رؤاهم الفريدة وتعاطفهم.",
+          "تواصل بشكل مفتوح وهادف.",
           "شارك في الأنشطة التي تتماشى مع قيمهم.",
-          "احترم حاجتهم للتفكير الذاتي والمساحة.",
-          "أظهر دعمك لأحلامهم ومثاليهم."
+          "احترم حاجتهم للتأمل والمساحة.",
+          "ادعم أحلامهم ومثلهم العليا."
         ],
-        "SecretDesire": "يتوق المحامون سريًا إلى تكوين علاقات عميقة مع الآخرين وإحداث تأثير ذو مغزى في العالم من خلال أفكارهم الفريدة ورحمتهم.",
-        "Stereotypes": "غالبًا ما يُنظر إلى المحامين على أنهم حساسون للغاية أو مثاليون بشكل مفرط، ولكن في الواقع هم ملتزمون بعمق لفهم الآخرين وإحداث تغيير إيجابي في مجتمعاتهم.",
+        "SecretDesire": "يتوق المحامون سرًا إلى إقامة روابط عميقة مع الآخرين وإحداث فرق كبير في العالم من خلال رؤاهم وتعاطفهم الفريد.",
+        "Stereotypes": "غالبًا ما يُنظر إلى المحامين على أنهم مفرطو الحساسية أو مثاليون بشكل مفرط، لكن في الحقيقة، هم ملتزمون بعمق بفهم الآخرين وإحداث تغيير إيجابي في مجتمعاتهم.",
         "Celebrities": [
           "كوفي عنان",
           "كوامي نكروما",
-          "توسان لوفرتور",
-          "تشادويك بوزمان",
+          "توسان لوفرتير",
+          "تشادويك بوسمان",
           "ليوبولد سنغور",
-          "ستروماي",
+          "المهاتما غاندي",
           "لوبيتا نيونغو",
-          "مارتن لوثر كينغ الابن",
-          "نيلسون مانديل",
+          "نيلسون مانديلا",
           "ريهانا",
-          "فريدريك دوغلاس"
+          "فريدريك دوغلاس",
+          "روبرت موغابي"
         ]
-      }
+      }                  
     ]
   }  

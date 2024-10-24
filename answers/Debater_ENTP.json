@@ -5,28 +5,28 @@
         "language_code": "en",
         "type": "ENTP",
         "name": "The Debater",
-        "Description": "Quick-witted and inventive, ENTPs love intellectual challenges and lively debates. They thrive on being devil's advocates and enjoy testing the limits of ideas and concepts. Debaters are independent thinkers, always looking for the next exciting problem to solve, making them excellent at generating creative solutions.",
+        "Description": "Quick-witted and inventive, Debaters love intellectual challenges and lively debates. They thrive on being devil's advocates and enjoy testing the limits of ideas and concepts. Debaters are independent thinkers, always looking for the next exciting problem to solve, making them excellent at generating creative solutions.",
         "Strengths": [
-          "quick-witted",
-          "charismatic",
-          "creative",
-          "innovative",
-          "confident",
-          "curious",
-          "logical",
-          "enthusiastic",
-          "energetic",
-          "independent"
+          "Quick-witted",
+          "Charismatic",
+          "Creative",
+          "Innovative",
+          "Confident",
+          "Curious",
+          "Logical",
+          "Enthusiastic",
+          "Energetic",
+          "Independent"
         ],
         "Weaknesses": [
-          "argumentative",
-          "insensitive",
-          "can be combative",
-          "dislike routine",
-          "easily bored",
-          "may overlook details",
-          "impatient",
-          "dislike rules"
+          "Argumentative",
+          "Insensitive",
+          "Can be combative",
+          "Dislike routine",
+          "Easily bored",
+          "May overlook details",
+          "Impatient",
+          "Dislike rules"
         ],
         "DosInRelationship": [
           "Engage them in stimulating conversations and debates.",
@@ -73,6 +73,7 @@
           "The Logistician (ISTJ)"
         ],
         "ChallengingConnections": [
+          "The Debater (ENTP)",
           "The Adventurer (ISFP)",
           "The Consul (ESFJ)",
           "The Virtuoso (ISTP)",
@@ -82,26 +83,26 @@
           "The Dynamo (ESTP)"
         ],
         "AttractedBy": [
-          "intellectual",
-          "spontaneous",
-          "adventurous",
-          "confident",
-          "innovative",
-          "curious",
-          "open-minded",
-          "logical",
-          "witty",
-          "charismatic"
+          "Intellectual",
+          "Spontaneous",
+          "Adventurous",
+          "Confident",
+          "Innovative",
+          "Curious",
+          "Open-minded",
+          "Logical",
+          "Witty",
+          "Charismatic"
         ],
         "PetPeeves": [
-          "routine",
-          "close-minded",
-          "overly sensitive",
-          "too structured",
-          "stubborn",
-          "rigid",
-          "pessimistic",
-          "unimaginative"
+          "Routine",
+          "Close-minded",
+          "Overly sensitive",
+          "Too structured",
+          "Stubborn",
+          "Rigid",
+          "Pessimistic",
+          "Unimaginative"
         ],
         "HowToBeCompanion": [
           "Engage in intellectually stimulating conversations.",
@@ -111,10 +112,19 @@
           "Give them freedom to explore new ideas and ventures."
         ],
         "SecretDesire": "Debaters secretly yearn to be understood and appreciated for their intellectual brilliance. They want to constantly challenge themselves and others to think beyond conventional boundaries.",
-        "Stereotypes": "ENTPs are often seen as overly argumentative or contrarian, but in reality, they thrive on intellectual exploration and are passionate about understanding the world in new and creative ways.",
+        "Stereotypes": "Debaters are often seen as overly argumentative or contrarian, but in reality, they thrive on intellectual exploration and are passionate about understanding the world in new and creative ways.",
         "Celebrities": [
           "Barack Obama",
-          "Kanye West"
+          "Kanye West",
+          "Thomas Edison",
+          "Leonardo da Vinci",
+          "Socrates",
+          "Chris Rock",
+          "Mao Zedong",
+          "Karl Lagerfeld",
+          "Benjamin Franklin",
+          "Amy Poehler",
+          "Elizabeth Olsen"
         ]
       },
       {
@@ -122,53 +132,53 @@
         "language_code": "fr",
         "type": "ENTP",
         "name": "Le Débatteur",
-        "Description": "Rapide d'esprit et inventif, les ENTP adorent les défis intellectuels et les débats animés. Ils prospèrent en jouant les avocats du diable et aiment tester les limites des idées et des concepts. Les Débatteurs sont des penseurs indépendants, toujours à la recherche du prochain problème passionnant à résoudre, ce qui en fait d'excellents générateurs de solutions créatives.",
+        "Description": "Rapides d'esprit et inventifs, les Débatteurs adorent les défis intellectuels et les débats animés. Ils s'épanouissent en jouant les avocats du diable et aiment tester les limites des idées et des concepts. Les Débatteurs sont des penseurs indépendants, toujours à la recherche du prochain problème excitant à résoudre, ce qui en fait d'excellents générateurs de solutions créatives.",
         "Strengths": [
-          "rapide d'esprit",
-          "charismatique",
-          "créatif",
-          "innovant",
-          "confiant",
-          "curieux",
-          "logique",
-          "enthousiaste",
-          "énergique",
-          "indépendant"
+          "Rapide d'esprit",
+          "Charismatique",
+          "Créatif",
+          "Innovant",
+          "Confiant",
+          "Curieux",
+          "Logique",
+          "Enthousiaste",
+          "Énergique",
+          "Indépendant"
         ],
         "Weaknesses": [
-          "argumentatif",
-          "insensible",
-          "peut être combatif",
-          "n'aime pas la routine",
-          "s'ennuie facilement",
-          "peut négliger les détails",
-          "impatient",
-          "n'aime pas les règles"
+          "Argumentatif",
+          "Insensible",
+          "Peut être combatif",
+          "N'aime pas la routine",
+          "S'ennuie facilement",
+          "Peut négliger les détails",
+          "Impatient",
+          "N'aime pas les règles"
         ],
         "DosInRelationship": [
-          "Engagez-les dans des conversations stimulantes et des débats.",
-          "Encouragez leur curiosité et leurs recherches intellectuelles.",
+          "Engagez-les dans des conversations et des débats stimulants.",
+          "Encouragez leur curiosité et leurs quêtes intellectuelles.",
           "Montrez votre appréciation pour leur créativité et leur pensée innovante.",
           "Donnez-leur de l'espace pour explorer de nouvelles idées et concepts.",
           "Soyez spontané et ouvert à essayer de nouvelles choses ensemble."
         ],
         "DontsInRelationship": [
-          "Ne tentez pas de réprimer leur besoin de débat ou de défi intellectuel.",
+          "Ne cherchez pas à réprimer leur besoin de débat ou de défi intellectuel.",
           "Évitez d'être trop sensible ou de prendre leurs arguments trop personnellement.",
-          "Ne leur imposez pas trop de règles ou de structures rigides.",
+          "N'imposez pas trop de règles ou de structures rigides.",
           "Ne les ennuyez pas avec des tâches routinières ou banales."
         ],
-        "Friendships": "Les Débatteurs forment des amitiés basées sur une stimulation intellectuelle mutuelle. Ils aiment engager des débats et des conversations qui défient leurs perspectives et apprécient les amis capables de suivre leur pensée rapide.",
+        "Friendships": "Les Débatteurs forment des amitiés basées sur la stimulation intellectuelle mutuelle. Ils apprécient les débats et les conversations qui remettent en question leurs perspectives et apprécient les amis capables de suivre leur pensée rapide.",
         "CareerPath": [
           "Entrepreneur",
-          "Stratège en marketing",
+          "Stratège marketing",
           "Avocat",
           "Consultant",
           "Journaliste",
           "Professeur",
           "Spécialiste des relations publiques",
           "Investisseur",
-          "Cadre publicitaire"
+          "Directeur publicitaire"
         ],
         "LifeValue": [
           "Innovation",
@@ -183,99 +193,109 @@
           "L'Avocat (INFJ)"
         ],
         "HasPotentialConnections": [
-          "Le Commandeur (ENTJ)",
+          "Le Commandant (ENTJ)",
           "Le Protagoniste (ENFJ)",
           "Le Campagneur (ENFP)",
           "Le Médiateur (INFP)",
           "Le Logisticien (ISTJ)"
         ],
         "ChallengingConnections": [
+          "Le Débatteur (ENTP)",
           "L'Aventurier (ISFP)",
           "Le Consul (ESFJ)",
           "Le Virtuose (ISTP)",
           "L'Exécutif (ESTJ)",
           "Le Défenseur (ISFJ)",
-          "Le Performeur (ESFP)",
-          "Le Dynamo (ESTP)"
+          "L'Artiste (ESFP)",
+          "Le Dynamique (ESTP)"
         ],
         "AttractedBy": [
-          "intellectuel",
-          "spontané",
-          "aventurier",
-          "confiant",
-          "innovant",
-          "curieux",
-          "ouvert d'esprit",
-          "logique",
-          "spirituel",
-          "charismatique"
+          "Intellectuel",
+          "Spontané",
+          "Aventurier",
+          "Confiant",
+          "Innovant",
+          "Curieux",
+          "Ouvert d'esprit",
+          "Logique",
+          "Spirituel",
+          "Charismatique"
         ],
         "PetPeeves": [
-          "routine",
-          "fermé d'esprit",
-          "trop sensible",
-          "trop structuré",
-          "têtu",
-          "rigide",
-          "pessimiste",
-          "manque d'imagination"
+          "Routine",
+          "Esprit fermé",
+          "Trop sensible",
+          "Trop structuré",
+          "Têtu",
+          "Rigide",
+          "Pessimiste",
+          "Manque d'imagination"
         ],
         "HowToBeCompanion": [
-          "Engagez des conversations intellectuellement stimulantes.",
+          "Engagez-vous dans des conversations intellectuellement stimulantes.",
           "Appréciez leur créativité et leur pensée rapide.",
           "Soyez ouvert aux débats et aux défis lors des discussions.",
-          "Ne prenez pas leurs arguments trop personnellement, ils adorent un bon débat.",
-          "Donnez-leur la liberté d'explorer de nouvelles idées et projets."
+          "Ne prenez pas leurs arguments trop personnellement—ils adorent un bon débat.",
+          "Donnez-leur la liberté d'explorer de nouvelles idées et aventures."
         ],
-        "SecretDesire": "Les Débatteurs aspirent secrètement à être compris et appréciés pour leur brillance intellectuelle. Ils veulent constamment se défier et défier les autres à penser au-delà des limites conventionnelles.",
-        "Stereotypes": "Les ENTP sont souvent perçus comme trop argumentatifs ou contradictoires, mais en réalité, ils prospèrent grâce à l'exploration intellectuelle et sont passionnés par la compréhension du monde de manière nouvelle et créative.",
+        "SecretDesire": "Les Débatteurs aspirent secrètement à être compris et appréciés pour leur génie intellectuel. Ils veulent constamment se remettre en question et inciter les autres à penser au-delà des limites conventionnelles.",
+        "Stereotypes": "Les Débatteurs sont souvent perçus comme trop argumentatifs ou contradictoires, mais en réalité, ils s'épanouissent dans l'exploration intellectuelle et sont passionnés par la compréhension du monde de manière nouvelle et créative.",
         "Celebrities": [
           "Barack Obama",
-          "Kanye West"
+          "Kanye West",
+          "Thomas Edison",
+          "Léonard de Vinci",
+          "Socrate",
+          "Chris Rock",
+          "Mao Zedong",
+          "Karl Lagerfeld",
+          "Benjamin Franklin",
+          "Amy Poehler",
+          "Elizabeth Olsen"
         ]
       },
       {
         "id": 10,
         "language_code": "es",
         "type": "ENTP",
-        "name": "El Debateador",
-        "Description": "Ingeniosos e inventivos, los ENTP aman los desafíos intelectuales y los debates animados. Les encanta ser los abogados del diablo y disfrutar probando los límites de ideas y conceptos. Los Debateadores son pensadores independientes, siempre en busca del próximo problema emocionante que resolver, lo que los convierte en excelentes generadores de soluciones creativas.",
+        "name": "El Debatidor",
+        "Description": "Rápidos de mente e inventivos, los Debatidores aman los desafíos intelectuales y los debates animados. Les encanta ser los abogados del diablo y disfrutan probando los límites de las ideas y los conceptos. Los Debatidores son pensadores independientes, siempre buscando el próximo problema emocionante que resolver, lo que los convierte en generadores excelentes de soluciones creativas.",
         "Strengths": [
-          "ingenioso",
-          "carismático",
-          "creativo",
-          "innovador",
-          "seguro de sí mismo",
-          "curioso",
-          "lógico",
-          "entusiasta",
-          "enérgico",
-          "independiente"
+          "Rápido de mente",
+          "Carismático",
+          "Creativo",
+          "Innovador",
+          "Confiado",
+          "Curioso",
+          "Lógico",
+          "Entusiasta",
+          "Energético",
+          "Independiente"
         ],
         "Weaknesses": [
-          "argumentativo",
-          "insensible",
-          "puede ser combativo",
-          "no le gusta la rutina",
-          "se aburre fácilmente",
-          "puede pasar por alto detalles",
-          "impaciente",
-          "no le gustan las reglas"
+          "Argumentativo",
+          "Insensible",
+          "Puede ser combativo",
+          "No le gusta la rutina",
+          "Se aburre fácilmente",
+          "Puede pasar por alto detalles",
+          "Impaciente",
+          "No le gustan las reglas"
         ],
         "DosInRelationship": [
-          "Involúcrate en conversaciones estimulantes y debates.",
-          "Fomenta su curiosidad y búsquedas intelectuales.",
+          "Involúcrate en conversaciones y debates estimulantes.",
+          "Anima su curiosidad y búsquedas intelectuales.",
           "Muestra aprecio por su creatividad y pensamiento innovador.",
-          "Dales espacio para explorar nuevas ideas y conceptos.",
+          "Dale espacio para explorar nuevas ideas y conceptos.",
           "Sé espontáneo y abierto a probar cosas nuevas juntos."
         ],
         "DontsInRelationship": [
           "No trates de reprimir su necesidad de debate o desafío intelectual.",
           "Evita ser demasiado sensible o tomar sus argumentos de manera personal.",
-          "No les impongas demasiadas reglas o estructuras rígidas.",
-          "No los aburras con tareas rutinarias o mundanas."
+          "No le impongas demasiadas reglas o estructuras rígidas.",
+          "No lo aburras con tareas rutinarias o mundanas."
         ],
-        "Friendships": "Los Debateadores forman amistades basadas en la estimulación intelectual mutua. Disfrutan participar en debates y conversaciones que desafían sus perspectivas y aprecian a los amigos que pueden seguir el ritmo de su pensamiento rápido.",
+        "Friendships": "Los Debatidores forman amistades basadas en la estimulación intelectual mutua. Disfrutan de debates y conversaciones que desafían sus perspectivas y aprecian a los amigos que pueden seguir el ritmo de su rápido pensamiento.",
         "CareerPath": [
           "Emprendedor",
           "Estratega de marketing",
@@ -284,8 +304,8 @@
           "Periodista",
           "Profesor",
           "Especialista en relaciones públicas",
-          "Inversionista",
-          "Ejecutivo publicitario"
+          "Inversor",
+          "Director de publicidad"
         ],
         "LifeValue": [
           "Innovación",
@@ -297,7 +317,7 @@
         "CompatibleConnections": [
           "El Pensador (INTP)",
           "El Arquitecto (INTJ)",
-          "El Defensor (INFJ)"
+          "El Abogado (INFJ)"
         ],
         "HasPotentialConnections": [
           "El Comandante (ENTJ)",
@@ -307,102 +327,112 @@
           "El Logístico (ISTJ)"
         ],
         "ChallengingConnections": [
+          "El Debatidor (ENTP)",
           "El Aventurero (ISFP)",
           "El Cónsul (ESFJ)",
           "El Virtuoso (ISTP)",
           "El Ejecutivo (ESTJ)",
           "El Defensor (ISFJ)",
-          "El Intérprete (ESFP)",
-          "El Dinamo (ESTP)"
+          "El Artista (ESFP)",
+          "El Dinámico (ESTP)"
         ],
         "AttractedBy": [
-          "intelectual",
-          "espontáneo",
-          "aventurero",
-          "seguro",
-          "innovador",
-          "curioso",
-          "de mente abierta",
-          "lógico",
-          "ingenioso",
-          "carismático"
+          "Intelectual",
+          "Espontáneo",
+          "Aventurero",
+          "Confiado",
+          "Innovador",
+          "Curioso",
+          "De mente abierta",
+          "Lógico",
+          "Ingenioso",
+          "Carismático"
         ],
         "PetPeeves": [
-          "rutina",
-          "cerrado de mente",
-          "demasiado sensible",
-          "demasiado estructurado",
-          "terco",
-          "rígido",
-          "pesimista",
-          "sin imaginación"
+          "Rutina",
+          "Mente cerrada",
+          "Demasiado sensible",
+          "Demasiado estructurado",
+          "Terco",
+          "Rígido",
+          "Pesimista",
+          "Falta de imaginación"
         ],
         "HowToBeCompanion": [
           "Involúcrate en conversaciones intelectualmente estimulantes.",
           "Aprecia su creatividad y pensamiento rápido.",
-          "Sé abierto a debates y desafíos en las discusiones.",
-          "No te tomes sus argumentos demasiado personalmente; les encanta un buen debate.",
-          "Dales libertad para explorar nuevas ideas y proyectos."
+          "Sé abierto a los debates y desafíos en las discusiones.",
+          "No tomes sus argumentos de manera personal: les encanta un buen debate.",
+          "Dales la libertad de explorar nuevas ideas y aventuras."
         ],
-        "SecretDesire": "Los Debateadores desean secretamente ser comprendidos y apreciados por su brillantez intelectual. Quieren desafiarse a sí mismos y a los demás constantemente para pensar más allá de los límites convencionales.",
-        "Stereotypes": "A menudo se ve a los ENTP como demasiado argumentativos o contrarios, pero en realidad, prosperan con la exploración intelectual y son apasionados por entender el mundo de maneras nuevas y creativas.",
+        "SecretDesire": "Los Debatidores anhelan en secreto ser comprendidos y apreciados por su brillantez intelectual. Quieren desafiarse constantemente a sí mismos y a los demás para que piensen más allá de los límites convencionales.",
+        "Stereotypes": "Los Debatidores son a menudo vistos como demasiado argumentativos o contrarios, pero en realidad, prosperan en la exploración intelectual y son apasionados por entender el mundo de maneras nuevas y creativas.",
         "Celebrities": [
           "Barack Obama",
-          "Kanye West"
+          "Kanye West",
+          "Thomas Edison",
+          "Leonardo da Vinci",
+          "Sócrates",
+          "Chris Rock",
+          "Mao Zedong",
+          "Karl Lagerfeld",
+          "Benjamin Franklin",
+          "Amy Poehler",
+          "Elizabeth Olsen"
         ]
       },
       {
         "id": 10,
         "language_code": "pt",
         "type": "ENTP",
-        "name": "O Debateador",
-        "Description": "Rápidos e inventivos, os ENTP adoram desafios intelectuais e debates animados. Eles prosperam ao serem advogados do diabo e gostam de testar os limites de ideias e conceitos. Os Debateadores são pensadores independentes, sempre procurando o próximo problema empolgante para resolver, tornando-os excelentes em gerar soluções criativas.",
+        "name": "O Debatedor",
+        "Description": "Rápidos e inventivos, os Debatedores adoram desafios intelectuais e debates animados. Eles gostam de ser advogados do diabo e se divertem testando os limites de ideias e conceitos. São pensadores independentes, sempre à procura do próximo problema emocionante para resolver, tornando-os excelentes na geração de soluções criativas.",
         "Strengths": [
-          "rápido de raciocínio",
-          "carismático",
-          "criativo",
-          "inovador",
-          "confiante",
-          "curioso",
-          "lógico",
-          "entusiasta",
-          "enérgico",
-          "independente"
+          "Rápido de raciocínio",
+          "Carismático",
+          "Criativo",
+          "Inovador",
+          "Confiante",
+          "Curioso",
+          "Lógico",
+          "Entusiasmado",
+          "Energético",
+          "Independente"
         ],
         "Weaknesses": [
-          "argumentativo",
-          "insensível",
-          "pode ser combativo",
-          "não gosta de rotina",
-          "entediado facilmente",
-          "pode negligenciar detalhes",
-          "impaciente",
-          "não gosta de regras"
+          "Argumentativo",
+          "Insensível",
+          "Pode ser combativo",
+          "Não gosta de rotina",
+          "Se entedia facilmente",
+          "Pode negligenciar detalhes",
+          "Impaciente",
+          "Não gosta de regras"
         ],
         "DosInRelationship": [
-          "Envolva-os em conversas estimulantes e debates.",
-          "Incentive sua curiosidade e buscas intelectuais.",
+          "Engaje-os em conversas e debates estimulantes.",
+          "Incentive sua curiosidade e suas buscas intelectuais.",
           "Mostre apreço por sua criatividade e pensamento inovador.",
           "Dê-lhes espaço para explorar novas ideias e conceitos.",
-          "Seja espontâneo e aberto a experimentar coisas novas juntos."
+          "Seja espontâneo e aberto para experimentar coisas novas juntos."
         ],
         "DontsInRelationship": [
           "Não tente suprimir sua necessidade de debate ou desafio intelectual.",
-          "Evite ser muito sensível ou levar seus argumentos para o lado pessoal.",
+          "Evite ser excessivamente sensível ou levar seus argumentos para o lado pessoal.",
           "Não imponha muitas regras ou estruturas rígidas.",
           "Não os entedie com tarefas rotineiras ou mundanas."
         ],
-        "Friendships": "Os Debateadores formam amizades com base na estimulação intelectual mútua. Eles gostam de se envolver em debates e conversas que desafiam suas perspectivas e apreciam amigos que conseguem acompanhar seu raciocínio rápido.",
+        "Friendships": "Os Debatedores formam amizades baseadas em estimulação intelectual mútua. Eles gostam de debates e conversas que desafiem suas perspectivas e apreciam amigos que conseguem acompanhar seu raciocínio rápido.",
         "CareerPath": [
           "Empreendedor",
-          "Estrategista de Marketing",
+          "Estrategista de marketing",
           "Advogado",
           "Consultor",
           "Jornalista",
           "Professor",
-          "Especialista em Relações Públicas",
+          "Especialista em relações públicas",
           "Investidor",
-          "Executivo de Publicidade"
+          "Executivo de publicidade"
         ],
         "LifeValue": [
           "Inovação",
@@ -414,69 +444,79 @@
         "CompatibleConnections": [
           "O Pensador (INTP)",
           "O Arquiteto (INTJ)",
-          "O Advogado (INFJ)"
+          "O Defensor (INFJ)"
         ],
         "HasPotentialConnections": [
           "O Comandante (ENTJ)",
           "O Protagonista (ENFJ)",
           "O Campanha (ENFP)",
           "O Mediador (INFP)",
-          "O Logístico (ISTJ)"
+          "O Lógico (ISTJ)"
         ],
         "ChallengingConnections": [
+          "O Debatedor (ENTP)",
           "O Aventureiro (ISFP)",
           "O Cônsul (ESFJ)",
           "O Virtuoso (ISTP)",
           "O Executivo (ESTJ)",
           "O Defensor (ISFJ)",
           "O Artista (ESFP)",
-          "O Dinamo (ESTP)"
+          "O Dinâmico (ESTP)"
         ],
         "AttractedBy": [
-          "intelectual",
-          "espontâneo",
-          "aventureiro",
-          "confiante",
-          "inovador",
-          "curioso",
-          "mente aberta",
-          "lógico",
-          "espirituoso",
-          "carismático"
+          "Intelectual",
+          "Espontâneo",
+          "Aventureiro",
+          "Confiante",
+          "Inovador",
+          "Curioso",
+          "Mente aberta",
+          "Lógico",
+          "Engraçado",
+          "Carismático"
         ],
         "PetPeeves": [
-          "rotina",
-          "mente fechada",
-          "muito sensível",
-          "muito estruturado",
-          "teimoso",
-          "rígido",
-          "pessimista",
-          "sem imaginação"
+          "Rotina",
+          "Mente fechada",
+          "Sensível demais",
+          "Excesso de estrutura",
+          "Teimoso",
+          "Rígido",
+          "Pessimista",
+          "Falta de imaginação"
         ],
         "HowToBeCompanion": [
-          "Envolva-se em conversas intelectualmente estimulantes.",
+          "Engaje-se em conversas intelectualmente estimulantes.",
           "Aprecie sua criatividade e raciocínio rápido.",
           "Esteja aberto a debates e desafios nas discussões.",
-          "Não leve seus argumentos para o lado pessoal, eles adoram um bom debate.",
+          "Não leve seus argumentos para o lado pessoal—eles adoram um bom debate.",
           "Dê-lhes liberdade para explorar novas ideias e empreendimentos."
         ],
-        "SecretDesire": "Os Debateadores desejam secretamente ser compreendidos e apreciados por seu brilhantismo intelectual. Eles querem desafiar a si mesmos e aos outros constantemente para pensar além dos limites convencionais.",
-        "Stereotypes": "Os ENTPs são frequentemente vistos como argumentativos ou contraditórios, mas na realidade, eles prosperam na exploração intelectual e são apaixonados por entender o mundo de maneiras novas e criativas.",
+        "SecretDesire": "Os Debatedores secretamente desejam ser compreendidos e apreciados por sua genialidade intelectual. Eles querem constantemente se desafiar e desafiar os outros a pensarem além dos limites convencionais.",
+        "Stereotypes": "Os Debatedores são frequentemente vistos como muito argumentativos ou contrários, mas, na verdade, eles prosperam na exploração intelectual e são apaixonados por entender o mundo de maneiras novas e criativas.",
         "Celebrities": [
           "Barack Obama",
-          "Kanye West"
+          "Kanye West",
+          "Thomas Edison",
+          "Leonardo da Vinci",
+          "Sócrates",
+          "Chris Rock",
+          "Mao Zedong",
+          "Karl Lagerfeld",
+          "Benjamin Franklin",
+          "Amy Poehler",
+          "Elizabeth Olsen"
         ]
       },
       {
         "id": 10,
         "language_code": "ar",
         "type": "ENTP",
-        "name": "المُناظِر",
-        "Description": "سريع البديهة ومبدع، يعشق أصحاب شخصية المُناظِر التحديات الفكرية والنقاشات الحية. يزدهرون بلعب دور محامي الشيطان ويستمتعون باختبار حدود الأفكار والمفاهيم. يتمتع المُناظِرون بالتفكير المستقل، دائمًا يبحثون عن المشكلة المثيرة التالية لحلها، مما يجعلهم ممتازين في توليد الحلول الإبداعية.",
+        "name": "المجادل",
+        "Description": "سريع البديهة ومبتكر، يعشق المجادلون التحديات الفكرية والنقاشات الحية. يستمتعون بلعب دور محامي الشيطان واختبار حدود الأفكار والمفاهيم. المجادلون مفكرون مستقلون، يبحثون دائمًا عن المشكلة المثيرة التالية لحلها، مما يجعلهم متميزين في توليد حلول إبداعية.",
         "Strengths": [
           "سريع البديهة",
-          "جذاب",
+          "كاريزمي",
           "مبدع",
           "مبتكر",
           "واثق",
@@ -489,34 +529,34 @@
         "Weaknesses": [
           "جدلي",
           "غير حساس",
-          "يمكن أن يكون صداميًا",
+          "قد يكون قتالي",
           "يكره الروتين",
-          "يمل بسهولة",
-          "قد يتجاهل التفاصيل",
+          "يسهل عليه الشعور بالملل",
+          "قد يتغاضى عن التفاصيل",
           "غير صبور",
-          "يكره القواعد"
+          "لا يحب القواعد"
         ],
         "DosInRelationship": [
-          "شاركهم في محادثات ونقاشات محفزة.",
-          "شجع فضولهم ومساعيهم الفكرية.",
-          "أظهر تقديرًا لإبداعهم وتفكيرهم المبتكر.",
+          "اشترك معهم في محادثات ونقاشات مثيرة.",
+          "شجع فضولهم واهتماماتهم الفكرية.",
+          "أظهر تقديرك لإبداعهم وتفكيرهم المبتكر.",
           "امنحهم مساحة لاستكشاف أفكار ومفاهيم جديدة.",
-          "كن عفويًا ومنفتحًا على تجربة أشياء جديدة معًا."
+          "كن عفويًا ومنفتحًا على تجربة أشياء جديدة معهم."
         ],
         "DontsInRelationship": [
-          "لا تحاول قمع حاجتهم للنقاش أو التحدي الفكري.",
-          "تجنب أن تكون حساسًا للغاية أو تأخذ حججهم بشكل شخصي.",
-          "لا تفرض الكثير من القواعد أو الهياكل الصارمة عليهم.",
-          "لا تملأهم بالمهام الروتينية أو المملة."
+          "لا تحاول كبح حاجتهم إلى الجدل أو التحدي الفكري.",
+          "تجنب أن تكون حساسًا جدًا أو تأخذ حججهم بشكل شخصي.",
+          "لا تفرض عليهم الكثير من القواعد أو الهياكل الصارمة.",
+          "لا تشعرهم بالملل بمهام روتينية أو عادية."
         ],
-        "Friendships": "يشكل المُناظِرون صداقات قائمة على التحفيز الفكري المتبادل. يستمتعون بالمشاركة في النقاشات والمحادثات التي تتحدى وجهات نظرهم ويقدرون الأصدقاء الذين يمكنهم مواكبة تفكيرهم السريع.",
+        "Friendships": "يُكوّن المجادلون صداقات مبنية على التحفيز الفكري المتبادل. يستمتعون بالنقاشات والمحادثات التي تتحدى وجهات نظرهم ويقدرون الأصدقاء الذين يستطيعون مواكبة تفكيرهم السريع.",
         "CareerPath": [
           "رائد أعمال",
           "استراتيجي تسويق",
-          "محامي",
+          "محامٍ",
           "مستشار",
           "صحفي",
-          "أستاذ",
+          "أستاذ جامعي",
           "متخصص في العلاقات العامة",
           "مستثمر",
           "مدير إعلانات"
@@ -530,60 +570,70 @@
         ],
         "CompatibleConnections": [
           "المفكر (INTP)",
-          "المهندس المعماري (INTJ)",
+          "المهندس (INTJ)",
           "المحامي (INFJ)"
         ],
         "HasPotentialConnections": [
           "القائد (ENTJ)",
           "البطل (ENFJ)",
-          "المعبر (ENFP)",
+          "المناصر (ENFP)",
           "الوسيط (INFP)",
-          "اللوجستي (ISTJ)"
+          "المنطقي (ISTJ)"
         ],
         "ChallengingConnections": [
+          "المناظر (ENTP)",
           "المغامر (ISFP)",
-          "القنصل (ESFJ)",
-          "الخبير (ISTP)",
+          "المستشار (ESFJ)",
+          "المبدع (ISTP)",
           "المدير التنفيذي (ESTJ)",
-          "المدافع (ISFJ)",
+          "الحامي (ISFJ)",
           "الفنان (ESFP)",
-          "الدينامو (ESTP)"
+          "الديناميكي (ESTP)"
         ],
         "AttractedBy": [
           "ذكي",
           "عفوي",
-          "مغامر",
+          "محب للمغامرة",
           "واثق",
           "مبتكر",
           "فضولي",
           "منفتح الذهن",
           "منطقي",
-          "ذكي",
-          "جذاب"
+          "ظريف",
+          "كاريزمي"
         ],
         "PetPeeves": [
           "الروتين",
-          "ضيق الأفق",
-          "حساس جدًا",
-          "صارم جدًا",
-          "عنيد",
-          "جامد",
-          "متشائم",
-          "يفتقر إلى الخيال"
+          "العقل المغلق",
+          "الحساسية المفرطة",
+          "الكثير من الهيكلية",
+          "العناد",
+          "الجمود",
+          "التشاؤم",
+          "افتقار للإبداع"
         ],
         "HowToBeCompanion": [
-          "اشترك في محادثات محفزة فكريًا.",
-          "قدر إبداعهم وسرعة تفكيرهم.",
-          "كن منفتحًا على النقاشات والتحديات في المناقشات.",
-          "لا تأخذ حججهم على محمل شخصي - يحبون النقاش الجيد.",
+          "اشترك في محادثات فكرية محفزة.",
+          "قدر إبداعهم وتفكيرهم السريع.",
+          "كن مستعدًا للنقاش والتحدي في المحادثات.",
+          "لا تأخذ حججهم بشكل شخصي - يحبون النقاش الجيد.",
           "امنحهم الحرية لاستكشاف أفكار ومشاريع جديدة."
         ],
-        "SecretDesire": "يرغب المُناظِرون سرًا في أن يتم فهمهم وتقديرهم من أجل تألقهم الفكري. يريدون دائمًا تحدي أنفسهم والآخرين للتفكير خارج الحدود التقليدية.",
-        "Stereotypes": "غالبًا ما يُنظر إلى أصحاب شخصية المُناظِر على أنهم جدليون أو معارضون مفرطون، لكن في الواقع، يزدهرون من خلال الاستكشاف الفكري وهم شغوفون بفهم العالم بطرق جديدة وإبداعية.",
+        "SecretDesire": "المجادلون يرغبون سرًا في أن يتم فهمهم وتقديرهم على براعتهم الفكرية. يريدون باستمرار تحدي أنفسهم والآخرين للتفكير خارج الحدود التقليدية.",
+        "Stereotypes": "يُنظر إلى المجادلين غالبًا على أنهم جدليون بشكل مفرط أو مخالفون، لكن في الواقع، يزدهرون في الاستكشاف الفكري وهم شغوفون بفهم العالم بطرق جديدة وخلاقة.",
         "Celebrities": [
           "باراك أوباما",
-          "كانييه ويست"
+          "كانيي ويست",
+          "توماس إديسون",
+          "ليوناردو دا فينشي",
+          "سقراط",
+          "كريس روك",
+          "ماو تسي تونغ",
+          "كارل لاغرفيلد",
+          "بنجامين فرانكلين",
+          "إيمي بوهلر",
+          "إليزابيث أولسن"
         ]
-      }
+      }            
     ]
   }  

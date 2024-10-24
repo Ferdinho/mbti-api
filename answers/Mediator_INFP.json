@@ -7,25 +7,25 @@
         "name": "The Mediator",
         "Description": "Idealistic and empathetic, Mediators are deeply compassionate individuals who value harmony and authenticity. They are introspective and driven by their core values, often seeking to understand and help others. Mediators thrive in creative environments where they can express their feelings and ideals.",
         "Strengths": [
-          "empathetic",
-          "idealistic",
-          "creative",
-          "authentic",
-          "open-minded",
-          "passionate",
-          "loyal",
-          "insightful",
-          "introspective",
-          "compassionate"
+          "Empathetic",
+          "Idealistic",
+          "Creative",
+          "Authentic",
+          "Open-minded",
+          "Passionate",
+          "Loyal",
+          "Insightful",
+          "Introspective",
+          "Compassionate"
         ],
         "Weaknesses": [
-          "overly sensitive",
-          "can be reserved",
-          "may struggle with practical matters",
-          "can be too idealistic",
-          "often avoid conflict",
-          "can be easily overwhelmed",
-          "may have difficulty making decisions"
+          "Overly sensitive",
+          "Can be reserved",
+          "May struggle with practical matters",
+          "Can be too idealistic",
+          "Often avoid conflict",
+          "Can be easily overwhelmed",
+          "May have difficulty making decisions"
         ],
         "DosInRelationship": [
           "Show appreciation for their ideals and values.",
@@ -61,42 +61,45 @@
           "Personal Growth"
         ],
         "CompatibleConnections": [
-          "Guardian (INFJ)",
-          "Hero (ENFJ)",
-          "Challenger (ENTP)"
+          "The Campaigner (ENFP)",
+          "The Protagonist (ENFJ)",
+          "The Commander (ENTJ)"
         ],
         "HasPotentialConnections": [
-          "Commander (ENTJ)",
-          "Mastermind (INTJ)",
-          "Genius (INTP)",
-          "Crusader (ENFP)",
-          "Ambassador (ESFJ)"
+          "The Debater (ENTP)",
+          "The Architect (INTJ)",
+          "The Thinker (INTP)",
+          "The Advocate (INFJ)",
+          "The Mediator (INFP)",
+          "The Consul (ESFJ)",
+          "The Adventurer (ISFP)",
+          "The Executive (ESTJ)"
         ],
         "ChallengingConnections": [
-          "Artist (ISFP)",
-          "Protector (ISFJ)",
-          "Executive (ESTJ)",
-          "Rebel (ESTP)",
-          "Realist (ISTJ)"
+          "The Virtuoso (ISTP)",
+          "The Defender (ISFJ)",
+          "The Logistician (ISTJ)",
+          "The Performer (ESFP)",
+          "The Dynamo (ESTP)"
         ],
         "AttractedBy": [
-          "empathetic",
-          "creative",
-          "authentic",
-          "idealistic",
-          "insightful",
-          "compassionate",
-          "open-minded",
-          "loyal",
-          "passionate"
+          "Empathetic",
+          "Creative",
+          "Authentic",
+          "Idealistic",
+          "Insightful",
+          "Compassionate",
+          "Open-minded",
+          "Loyal",
+          "Passionate"
         ],
         "PetPeeves": [
-          "insincerity",
-          "superficiality",
-          "harshness",
-          "conflict",
-          "closed-mindedness",
-          "selfishness"
+          "Insincerity",
+          "Superficiality",
+          "Harshness",
+          "Conflict",
+          "Closed-mindedness",
+          "Selfishness"
         ],
         "HowToBeCompanion": [
           "Show appreciation for their unique perspectives.",
@@ -111,48 +114,56 @@
           "Harriet Tubman",
           "Zinedine Zidane",
           "Aimé Césaire",
-          "Mohammed Salah"
+          "Mohammed Salah",
+          "Mohammed Salah",
+          "Johnny Depp",
+          "William Shakespeare",
+          "Mary-Kate Olsen",
+          "Jean-Jacques Rousseau",
+          "Albert Camus",
+          "Chris Martin",
+          "Robert Pattinson"
         ]
       },
       {
         "id": 12,
         "language_code": "fr",
         "type": "INFP",
-        "name": "Médiateur",
+        "name": "Le Médiateur",
         "Description": "Idéalistes et empathiques, les Médiateurs sont des individus profondément compatissants qui valorisent l'harmonie et l'authenticité. Ils sont introspectifs et motivés par leurs valeurs fondamentales, cherchant souvent à comprendre et à aider les autres. Les Médiateurs s'épanouissent dans des environnements créatifs où ils peuvent exprimer leurs sentiments et leurs idéaux.",
         "Strengths": [
-          "empathique",
-          "idéaliste",
-          "créatif",
-          "authentique",
-          "ouvert d'esprit",
-          "passionné",
-          "loyal",
-          "perspicace",
-          "introspectif",
-          "compatissant"
+          "Empathique",
+          "Idéaliste",
+          "Créatif",
+          "Authentique",
+          "Ouvert d'esprit",
+          "Passionné",
+          "Loyal",
+          "Perspicace",
+          "Introspectif",
+          "Compatissant"
         ],
         "Weaknesses": [
-          "trop sensible",
-          "peut être réservé",
-          "peut avoir du mal avec les questions pratiques",
-          "peut être trop idéaliste",
-          "évite souvent le conflit",
-          "peut être facilement accablé",
-          "peut avoir du mal à prendre des décisions"
+          "Trop sensible",
+          "Peut être réservé",
+          "Peut avoir des difficultés avec les questions pratiques",
+          "Peut être trop idéaliste",
+          "Évite souvent les conflits",
+          "Peut être facilement submergé",
+          "Peut avoir des difficultés à prendre des décisions"
         ],
         "DosInRelationship": [
-          "Montrez de l'appréciation pour leurs idéaux et leurs valeurs.",
+          "Montrez votre appréciation pour leurs idéaux et leurs valeurs.",
           "Communiquez ouvertement et honnêtement sur vos sentiments.",
-          "Encouragez leur créativité et leur auto-expression.",
-          "Soyez solidaire de leur besoin d'espace personnel.",
-          "Engagez des conversations significatives qui abordent des sujets plus profonds."
+          "Encouragez leur créativité et leur expression de soi.",
+          "Soutenez leur besoin d'espace personnel.",
+          "Engagez-vous dans des conversations profondes sur des sujets importants."
         ],
         "DontsInRelationship": [
-          "Ne pas rejeter leurs sentiments ou leurs idéaux.",
-          "Évitez d'être trop critique ou sévère.",
-          "Ne pas les pousser dans des conflits ou des confrontations.",
-          "Ne pas prendre leur besoin d'espace personnel pour quelque chose de personnel.",
+          "Ne rejetez pas leurs sentiments ou leurs idéaux.",
+          "Évitez d'être trop critique ou dur.",
+          "Ne les forcez pas à entrer dans des conflits ou des confrontations.",
+          "Ne prenez pas personnellement leur besoin d'espace.",
           "Évitez d'être insincère ou superficiel."
         ],
         "Friendships": "Les Médiateurs chérissent les amitiés basées sur des connexions émotionnelles profondes. Ils valorisent la loyauté et l'authenticité et sont attirés par des individus partageant leurs idéaux et leur créativité. Ils aiment explorer des idées et des émotions avec des amis partageant les mêmes idées.",
@@ -163,7 +174,7 @@
           "Artiste",
           "Musicien",
           "Psychologue",
-          "Travailleur d'ONG",
+          "Travailleur pour une ONG",
           "Enseignant",
           "Humanitaire"
         ],
@@ -172,104 +183,114 @@
           "Compassion",
           "Créativité",
           "Harmonie",
-          "Croissance personnelle"
+          "Développement personnel"
         ],
         "CompatibleConnections": [
-          "Gardien (INFJ)",
-          "Héros (ENFJ)",
-          "Défi (ENTP)"
+          "Le Campagneur (ENFP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Commandant (ENTJ)"
         ],
         "HasPotentialConnections": [
-          "Commandant (ENTJ)",
-          "Maître (INTJ)",
-          "Génie (INTP)",
-          "Croisé (ENFP)",
-          "Ambassadeur (ESFJ)"
+          "Le Débatteur (ENTP)",
+          "L'Architecte (INTJ)",
+          "Le Penseur (INTP)",
+          "L'Avocat (INFJ)",
+          "Le Médiateur (INFP)",
+          "Le Consul (ESFJ)",
+          "L'Aventurier (ISFP)",
+          "L'Exécutif (ESTJ)"
         ],
         "ChallengingConnections": [
-          "Artiste (ISFP)",
-          "Protecteur (ISFJ)",
-          "Exécutif (ESTJ)",
-          "Rebelle (ESTP)",
-          "Réaliste (ISTJ)"
+          "Le Virtuose (ISTP)",
+          "Le Défenseur (ISFJ)",
+          "Le Logisticien (ISTJ)",
+          "Le Performeur (ESFP)",
+          "Le Dynamique (ESTP)"
         ],
         "AttractedBy": [
-          "empathique",
-          "créatif",
-          "authentique",
-          "idéaliste",
-          "perspicace",
-          "compatissant",
-          "ouvert d'esprit",
-          "loyal",
-          "passionné"
+          "Empathique",
+          "Créatif",
+          "Authentique",
+          "Idéaliste",
+          "Perspicace",
+          "Compatissant",
+          "Ouvert d'esprit",
+          "Loyal",
+          "Passionné"
         ],
         "PetPeeves": [
-          "insincérité",
-          "superficialité",
-          "sévérité",
-          "conflit",
-          "mentalité fermée",
-          "égoïsme"
+          "Insincérité",
+          "Superficialité",
+          "Dureté",
+          "Conflit",
+          "Esprit fermé",
+          "Égoïsme"
         ],
         "HowToBeCompanion": [
           "Montrez de l'appréciation pour leurs perspectives uniques.",
-          "Participez à des activités qui s'alignent sur leurs valeurs.",
+          "Participez à des activités qui correspondent à leurs valeurs.",
           "Soyez ouvert et émotionnellement disponible.",
           "Respectez leur besoin d'introspection.",
-          "Encouragez leur créativité et leur auto-expression."
+          "Encouragez leur créativité et leur expression de soi."
         ],
         "SecretDesire": "Les Médiateurs aspirent secrètement à des connexions significatives qui résonnent avec leurs idéaux et leurs rêves. Ils désirent avoir un impact positif sur le monde tout en restant fidèles à eux-mêmes.",
-        "Stereotypes": "Les Médiateurs sont souvent considérés comme trop sensibles ou rêveurs, mais en réalité, ils sont profondément compatissants et engagés à comprendre et à améliorer la vie des autres.",
+        "Stereotypes": "Les Médiateurs sont souvent perçus comme trop sensibles ou rêveurs, mais en réalité, ils sont profondément attentionnés et engagés à comprendre et à améliorer la vie des autres.",
         "Celebrities": [
           "Harriet Tubman",
           "Zinedine Zidane",
           "Aimé Césaire",
-          "Mohammed Salah"
+          "Mohammed Salah",
+          "Johnny Depp",
+          "William Shakespeare",
+          "Mary-Kate Olsen",
+          "Jean-Jacques Rousseau",
+          "Albert Camus",
+          "Chris Martin",
+          "Robert Pattinson"
         ]
       },
       {
         "id": 12,
         "language_code": "es",
         "type": "INFP",
-        "name": "Mediador",
-        "Description": "Idealistas y empáticos, los Mediadores son individuos profundamente compasivos que valoran la armonía y la autenticidad. Son introspectivos y guiados por sus valores fundamentales, buscando a menudo comprender y ayudar a los demás. Los Mediadores prosperan en entornos creativos donde pueden expresar sus sentimientos e ideales.",
+        "name": "El Mediador",
+        "Description": "Idealistas y empáticos, los Mediadores son individuos profundamente compasivos que valoran la armonía y la autenticidad. Son introspectivos y están motivados por sus valores fundamentales, a menudo buscando entender y ayudar a los demás. Los Mediadores prosperan en entornos creativos donde pueden expresar sus sentimientos e ideales.",
         "Strengths": [
-          "empático",
-          "idealista",
-          "creativo",
-          "auténtico",
-          "mente abierta",
-          "apasionado",
-          "leal",
-          "perspicaz",
-          "introspectivo",
-          "compasivo"
+          "Empático",
+          "Idealista",
+          "Creativo",
+          "Auténtico",
+          "De mente abierta",
+          "Apasionado",
+          "Leal",
+          "Perspicaz",
+          "Introspectivo",
+          "Compasivo"
         ],
         "Weaknesses": [
-          "demasiado sensible",
-          "puede ser reservado",
-          "puede tener dificultades con cuestiones prácticas",
-          "puede ser demasiado idealista",
-          "a menudo evita el conflicto",
-          "puede sentirse fácilmente abrumado",
-          "puede tener dificultades para tomar decisiones"
+          "Demasiado sensible",
+          "Puede ser reservado",
+          "Puede tener dificultades con asuntos prácticos",
+          "Demasiado idealista",
+          "A menudo evita los conflictos",
+          "Puede abrumarse fácilmente",
+          "Puede tener dificultades para tomar decisiones"
         ],
         "DosInRelationship": [
           "Muestra aprecio por sus ideales y valores.",
-          "Comunica abierta y honestamente sobre tus sentimientos.",
+          "Comunica abierta y honestamente sobre los sentimientos.",
           "Anima su creatividad y autoexpresión.",
-          "Sé solidario con su necesidad de espacio personal.",
-          "Participa en conversaciones significativas que aborden temas más profundos."
+          "Apoya su necesidad de espacio personal.",
+          "Involúcrate en conversaciones significativas que toquen temas profundos."
         ],
         "DontsInRelationship": [
           "No desestimes sus sentimientos o ideales.",
           "Evita ser demasiado crítico o severo.",
-          "No los presiones para conflictos o confrontaciones.",
-          "No tomes su necesidad de espacio de manera personal.",
+          "No los presiones a entrar en conflictos o confrontaciones.",
+          "No tomes como algo personal su necesidad de espacio.",
           "Evita ser insincero o superficial."
         ],
-        "Friendships": "Los Mediadores valoran las amistades que se basan en conexiones emocionales profundas. Valoran la lealtad y la autenticidad y se sienten atraídos por individuos que comparten sus ideales y creatividad. Les gusta explorar ideas y emociones con amigos afines.",
+        "Friendships": "Los Mediadores aprecian las amistades basadas en conexiones emocionales profundas. Valoran la lealtad y la autenticidad y se sienten atraídos por personas que comparten sus ideales y creatividad. Disfrutan explorando ideas y emociones con amigos afines.",
         "CareerPath": [
           "Escritor",
           "Consejero",
@@ -277,8 +298,8 @@
           "Artista",
           "Músico",
           "Psicólogo",
-          "Trabajador de ONG",
-          "Maestro",
+          "Trabajador en ONG",
+          "Profesor",
           "Humanitario"
         ],
         "LifeValue": [
@@ -286,104 +307,114 @@
           "Compasión",
           "Creatividad",
           "Armonía",
-          "Crecimiento Personal"
+          "Crecimiento personal"
         ],
         "CompatibleConnections": [
-          "Guardián (INFJ)",
-          "Héroe (ENFJ)",
-          "Desafiante (ENTP)"
+          "El Campañero (ENFP)",
+          "El Protagonista (ENFJ)",
+          "El Comandante (ENTJ)"
         ],
         "HasPotentialConnections": [
-          "Comandante (ENTJ)",
-          "Maestro (INTJ)",
-          "Genio (INTP)",
-          "Cruzado (ENFP)",
-          "Embajador (ESFJ)"
+          "El Debatidor (ENTP)",
+          "El Arquitecto (INTJ)",
+          "El Pensador (INTP)",
+          "El Abogado (INFJ)",
+          "El Mediador (INFP)",
+          "El Cónsul (ESFJ)",
+          "El Aventurero (ISFP)",
+          "El Ejecutivo (ESTJ)"
         ],
         "ChallengingConnections": [
-          "Artista (ISFP)",
-          "Protector (ISFJ)",
-          "Ejecutivo (ESTJ)",
-          "Rebelde (ESTP)",
-          "Realista (ISTJ)"
+          "El Virtuoso (ISTP)",
+          "El Defensor (ISFJ)",
+          "El Logístico (ISTJ)",
+          "El Intérprete (ESFP)",
+          "El Dinámico (ESTP)"
         ],
         "AttractedBy": [
-          "empático",
-          "creativo",
-          "auténtico",
-          "idealista",
-          "perspicaz",
-          "compasivo",
-          "mente abierta",
-          "leal",
-          "apasionado"
+          "Empático",
+          "Creativo",
+          "Auténtico",
+          "Idealista",
+          "Perspicaz",
+          "Compasivo",
+          "De mente abierta",
+          "Leal",
+          "Apasionado"
         ],
         "PetPeeves": [
-          "insinceridad",
-          "superficialidad",
-          "severidad",
-          "conflicto",
-          "mente cerrada",
-          "egoísmo"
+          "Insinceridad",
+          "Superficialidad",
+          "Dureza",
+          "Conflicto",
+          "Cerradez de mente",
+          "Egoísmo"
         ],
         "HowToBeCompanion": [
           "Muestra aprecio por sus perspectivas únicas.",
-          "Participa en actividades que se alineen con sus valores.",
+          "Involúcrate en actividades que estén alineadas con sus valores.",
           "Sé abierto y emocionalmente disponible.",
           "Respeta su necesidad de introspección.",
-          "Anima su creatividad y autoexpresión."
+          "Anima su creatividad y su autoexpresión."
         ],
-        "SecretDesire": "Los Mediadores anhelan secretamente conexiones significativas que resuenen con sus ideales y sueños. Desean tener un impacto positivo en el mundo mientras son fieles a sí mismos.",
-        "Stereotypes": "Los Mediadores a menudo son vistos como demasiado sensibles o soñadores, pero en realidad son individuos profundamente compasivos que se comprometen a entender y mejorar las vidas de los demás.",
+        "SecretDesire": "Los Mediadores secretamente anhelan conexiones significativas que resuenen con sus ideales y sueños. Desean tener un impacto positivo en el mundo mientras se mantienen fieles a sí mismos.",
+        "Stereotypes": "Los Mediadores suelen ser vistos como demasiado sensibles o soñadores, pero en realidad son individuos profundamente cariñosos comprometidos a comprender y mejorar la vida de los demás.",
         "Celebrities": [
           "Harriet Tubman",
           "Zinedine Zidane",
           "Aimé Césaire",
-          "Mohammed Salah"
+          "Mohammed Salah",
+          "Johnny Depp",
+          "William Shakespeare",
+          "Mary-Kate Olsen",
+          "Jean-Jacques Rousseau",
+          "Albert Camus",
+          "Chris Martin",
+          "Robert Pattinson"
         ]
       },
       {
         "id": 12,
         "language_code": "pt",
         "type": "INFP",
-        "name": "Mediador",
-        "Description": "Idealistas e empáticos, os Mediadores são indivíduos profundamente compassivos que valorizam a harmonia e a autenticidade. Eles são introspectivos e movidos por seus valores centrais, muitas vezes buscando entender e ajudar os outros. Os Mediadores prosperam em ambientes criativos onde podem expressar seus sentimentos e ideais.",
+        "name": "O Mediador",
+        "Description": "Idealistas e empáticos, os Mediadores são indivíduos profundamente compassivos que valorizam a harmonia e a autenticidade. São introspectivos e guiados por seus valores fundamentais, muitas vezes buscando entender e ajudar os outros. Os Mediadores prosperam em ambientes criativos onde podem expressar seus sentimentos e ideais.",
         "Strengths": [
-          "empático",
-          "idealista",
-          "criativo",
-          "autêntico",
-          "mente aberta",
-          "apaixonado",
-          "leal",
-          "perspicaz",
-          "introspectivo",
-          "compassivo"
+          "Empático",
+          "Idealista",
+          "Criativo",
+          "Autêntico",
+          "Mente aberta",
+          "Apaixonado",
+          "Leal",
+          "Perspicaz",
+          "Introspectivo",
+          "Compassivo"
         ],
         "Weaknesses": [
-          "demasiado sensível",
-          "pode ser reservado",
-          "pode ter dificuldade com questões práticas",
-          "pode ser idealista demais",
-          "evita frequentemente conflitos",
-          "pode ficar facilmente sobrecarregado",
-          "pode ter dificuldade em tomar decisões"
+          "Sensível demais",
+          "Pode ser reservado",
+          "Pode ter dificuldades com questões práticas",
+          "Muito idealista",
+          "Evita conflitos com frequência",
+          "Pode se sentir facilmente sobrecarregado",
+          "Pode ter dificuldade em tomar decisões"
         ],
         "DosInRelationship": [
-          "Mostre apreço por seus ideais e valores.",
-          "Comunique-se aberta e honestamente sobre sentimentos.",
+          "Mostre apreço pelos seus ideais e valores.",
+          "Comunique-se de forma aberta e honesta sobre os sentimentos.",
           "Incentive sua criatividade e autoexpressão.",
-          "Seja solidário em relação à necessidade de espaço pessoal.",
-          "Participe de conversas significativas que abordem temas mais profundos."
+          "Apoie sua necessidade de espaço pessoal.",
+          "Engaje-se em conversas significativas sobre temas mais profundos."
         ],
         "DontsInRelationship": [
-          "Não desconsidere seus sentimentos ou ideais.",
-          "Evite ser muito crítico ou severo.",
-          "Não os pressione em conflitos ou confrontos.",
-          "Não leve para o lado pessoal a necessidade de espaço.",
+          "Não ignore seus sentimentos ou ideais.",
+          "Evite ser crítico ou severo demais.",
+          "Não os pressione para entrar em conflitos ou confrontos.",
+          "Não leve para o lado pessoal sua necessidade de espaço.",
           "Evite ser insincero ou superficial."
         ],
-        "Friendships": "Os Mediadores valorizam amizades construídas sobre conexões emocionais profundas. Eles valorizam a lealdade e a autenticidade e se sentem atraídos por indivíduos que compartilham seus ideais e criatividade. Eles gostam de explorar ideias e emoções com amigos que têm a mesma mentalidade.",
+        "Friendships": "Os Mediadores valorizam amizades baseadas em conexões emocionais profundas. Eles prezam pela lealdade e autenticidade e são atraídos por pessoas que compartilham seus ideais e criatividade. Gostam de explorar ideias e emoções com amigos de pensamento semelhante.",
         "CareerPath": [
           "Escritor",
           "Conselheiro",
@@ -391,7 +422,7 @@
           "Artista",
           "Músico",
           "Psicólogo",
-          "Trabalhador de ONG",
+          "Trabalhador em ONGs",
           "Professor",
           "Humanitário"
         ],
@@ -400,60 +431,70 @@
           "Compaixão",
           "Criatividade",
           "Harmonia",
-          "Crescimento Pessoal"
+          "Crescimento pessoal"
         ],
         "CompatibleConnections": [
-          "Guardião (INFJ)",
-          "Herói (ENFJ)",
-          "Desafiador (ENTP)"
+          "O Campanha (ENFP)",
+          "O Protagonista (ENFJ)",
+          "O Comandante (ENTJ)"
         ],
         "HasPotentialConnections": [
-          "Comandante (ENTJ)",
-          "Mestre (INTJ)",
-          "Gênio (INTP)",
-          "Cruzado (ENFP)",
-          "Embaixador (ESFJ)"
+          "O Debatedor (ENTP)",
+          "O Arquiteto (INTJ)",
+          "O Pensador (INTP)",
+          "O Advogado (INFJ)",
+          "O Mediador (INFP)",
+          "O Cônsul (ESFJ)",
+          "O Aventureiro (ISFP)",
+          "O Executivo (ESTJ)"
         ],
         "ChallengingConnections": [
-          "Artista (ISFP)",
-          "Protetor (ISFJ)",
-          "Executivo (ESTJ)",
-          "Rebelde (ESTP)",
-          "Realista (ISTJ)"
+          "O Virtuoso (ISTP)",
+          "O Defensor (ISFJ)",
+          "O Logístico (ISTJ)",
+          "O Intérprete (ESFP)",
+          "O Dinâmico (ESTP)"
         ],
         "AttractedBy": [
-          "empático",
-          "criativo",
-          "autêntico",
-          "idealista",
-          "perspicaz",
-          "compassivo",
-          "mente aberta",
-          "leal",
-          "apaixonado"
+          "Empático",
+          "Criativo",
+          "Autêntico",
+          "Idealista",
+          "Perspicaz",
+          "Compassivo",
+          "Mente aberta",
+          "Leal",
+          "Apaixonado"
         ],
         "PetPeeves": [
-          "insinceridade",
-          "superficialidade",
-          "rigidez",
-          "conflito",
-          "mente fechada",
-          "egoísmo"
+          "Insinceridade",
+          "Superficialidade",
+          "Dureza",
+          "Conflito",
+          "Mente fechada",
+          "Egoísmo"
         ],
         "HowToBeCompanion": [
           "Mostre apreço por suas perspectivas únicas.",
-          "Participe de atividades que se alinhem com seus valores.",
+          "Participe de atividades que estejam alinhadas com seus valores.",
           "Seja aberto e emocionalmente disponível.",
           "Respeite sua necessidade de introspecção.",
           "Incentive sua criatividade e autoexpressão."
         ],
-        "SecretDesire": "Os Mediadores anseiam secretamente por conexões significativas que ressoem com seus ideais e sonhos. Eles desejam ter um impacto positivo no mundo enquanto permanecem fiéis a si mesmos.",
-        "Stereotypes": "Os Mediadores são frequentemente vistos como excessivamente sensíveis ou sonhadores, mas, na realidade, são indivíduos profundamente compassivos que se dedicam a entender e melhorar as vidas dos outros.",
+        "SecretDesire": "Os Mediadores secretamente desejam conexões significativas que ressoem com seus ideais e sonhos. Eles anseiam por fazer uma diferença positiva no mundo enquanto permanecem fiéis a si mesmos.",
+        "Stereotypes": "Os Mediadores são frequentemente vistos como excessivamente sensíveis ou sonhadores, mas, na verdade, são indivíduos profundamente atenciosos e comprometidos em entender e melhorar a vida dos outros.",
         "Celebrities": [
           "Harriet Tubman",
           "Zinedine Zidane",
           "Aimé Césaire",
-          "Mohammed Salah"
+          "Mohammed Salah",
+          "Johnny Depp",
+          "William Shakespeare",
+          "Mary-Kate Olsen",
+          "Jean-Jacques Rousseau",
+          "Albert Camus",
+          "Chris Martin",
+          "Robert Pattinson"
         ]
       },
       {
@@ -461,9 +502,9 @@
         "language_code": "ar",
         "type": "INFP",
         "name": "الوسيط",
-        "Description": "مثاليون ومتفاعلون، الوسيطون هم أفراد عاطفيون عميقون يقدرون التناغم والأصالة. إنهم يتسمون بالتفكير العميق ويتحركون بدافع من قيمهم الأساسية، وغالبًا ما يسعون لفهم ومساعدة الآخرين. يزدهر الوسطاء في البيئات الإبداعية حيث يمكنهم التعبير عن مشاعرهم وأفكارهم.",
+        "Description": "مثاليون ومتفاعلون، الوسيطون هم أفراد متعاطفون للغاية يقدرون الانسجام والأصالة. هم مستغرقون في التفكير ويتحركون بدافع من قيمهم الأساسية، وغالبًا ما يسعون إلى فهم ومساعدة الآخرين. يزدهر الوسيطون في البيئات الإبداعية حيث يمكنهم التعبير عن مشاعرهم وأفكارهم.",
         "Strengths": [
-          "عاطفي",
+          "متعاطف",
           "مثالي",
           "مبدع",
           "أصيل",
@@ -471,72 +512,75 @@
           "شغوف",
           "وفي",
           "بصير",
-          "متأمل",
+          "مستغرق في التفكير",
           "رحيم"
         ],
         "Weaknesses": [
-          "حساس للغاية",
-          "يمكن أن يكون محجوزًا",
+          "حساس جدًا",
+          "يمكن أن يكون متحفظًا",
           "قد يواجه صعوبة في الأمور العملية",
-          "يمكن أن يكون مثاليًا للغاية",
-          "غالبًا ما يتجنب الصراع",
-          "يمكن أن يكون عرضة للإرهاق بسهولة",
-          "قد يواجه صعوبة في اتخاذ القرارات"
+          "قد يكون مثاليًا جدًا",
+          "يتجنب الصراع غالبًا",
+          "قد يشعر بالإرهاق بسهولة",
+          "قد يجد صعوبة في اتخاذ القرارات"
         ],
         "DosInRelationship": [
-          "أظهر تقديرًا لأفكارهم وقيمهم.",
-          "تواصل بصراحة وصدق حول مشاعرك.",
+          "أظهر التقدير لأفكارهم وقيمهم.",
+          "تواصل بصراحة وصدق حول المشاعر.",
           "شجع إبداعهم وتعبيرهم عن الذات.",
-          "كن داعمًا لاحتياجاتهم من الفضاء الشخصي.",
-          "شارك في محادثات ذات مغزى تتناول مواضيع أعمق."
+          "ادعم حاجتهم إلى المساحة الشخصية.",
+          "اشترك في محادثات ذات مغزى تتناول مواضيع عميقة."
         ],
         "DontsInRelationship": [
           "لا تتجاهل مشاعرهم أو أفكارهم.",
-          "تجنب أن تكون نقديًا جدًا أو صارمًا.",
-          "لا تضغط عليهم في الصراعات أو المواجهات.",
-          "لا تأخذ حاجتهم للمساحة الشخصية بشكل شخصي.",
+          "تجنب الانتقاد الشديد أو القسوة.",
+          "لا تضغط عليهم للدخول في صراعات أو مواجهات.",
+          "لا تأخذ حاجتهم للمساحة على نحو شخصي.",
           "تجنب أن تكون غير صادق أو سطحي."
         ],
-        "Friendships": "يعتز الوسطاء بالأصدقاء الذين يبنون علاقاتهم على الروابط العاطفية العميقة. يقدرون الولاء والأصالة ويميلون إلى أن يكونوا جذبين للأشخاص الذين يشاركونهم أفكارهم وإبداعهم. يحبون استكشاف الأفكار والعواطف مع أصدقاء مماثلين.",
+        "Friendships": "يقدر الوسيطون الصداقات المبنية على الروابط العاطفية العميقة. إنهم يقدرون الولاء والأصالة وينجذبون إلى الأفراد الذين يشاركونهم أفكارهم وإبداعهم. يستمتعون باستكشاف الأفكار والمشاعر مع الأصدقاء ذوي الفكر المتشابه.",
         "CareerPath": [
           "كاتب",
           "مستشار",
-          "عامل اجتماعي",
+          "أخصائي اجتماعي",
           "فنان",
           "موسيقي",
-          "نفسي",
-          "عامل في منظمة غير ربحية",
-          "مدرس",
+          "عالم نفس",
+          "عامل في المنظمات غير الربحية",
+          "معلم",
           "إنساني"
         ],
         "LifeValue": [
           "الأصالة",
-          "الرحمة",
+          "التعاطف",
           "الإبداع",
-          "التناغم",
+          "الانسجام",
           "النمو الشخصي"
         ],
         "CompatibleConnections": [
-          "حارس (INFJ)",
-          "بطل (ENFJ)",
-          "منافس (ENTP)"
+          "المروج (ENFP)",
+          "البطل (ENFJ)",
+          "القائد (ENTJ)"
         ],
         "HasPotentialConnections": [
-          "قائد (ENTJ)",
-          "عبقري (INTJ)",
-          "بارع (INTP)",
-          "صليبي (ENFP)",
-          "سفير (ESFJ)"
+          "المناظر (ENTP)",
+          "المهندس المعماري (INTJ)",
+          "المفكر (INTP)",
+          "المدافع (INFJ)",
+          "الوسيط (INFP)",
+          "القنصل (ESFJ)",
+          "المغامر (ISFP)",
+          "المدير التنفيذي (ESTJ)"
         ],
         "ChallengingConnections": [
-          "فنان (ISFP)",
-          "حامي (ISFJ)",
-          "تنفيذي (ESTJ)",
-          "متمرد (ESTP)",
-          "واقعي (ISTJ)"
+          "المبدع (ISTP)",
+          "المدافع (ISFJ)",
+          "اللوجستي (ISTJ)",
+          "المؤدي (ESFP)",
+          "الدينامي (ESTP)"
         ],
         "AttractedBy": [
-          "عاطفي",
+          "متعاطف",
           "مبدع",
           "أصيل",
           "مثالي",
@@ -547,28 +591,35 @@
           "شغوف"
         ],
         "PetPeeves": [
-          "عدم الإخلاص",
+          "عدم الصدق",
           "السطحية",
-          "الصرامة",
+          "القسوة",
           "الصراع",
-          "الذهنية المغلقة",
+          "انغلاق العقل",
           "الأنانية"
         ],
         "HowToBeCompanion": [
-          "أظهر تقديرًا لوجهات نظرهم الفريدة.",
+          "أظهر التقدير لوجهات نظرهم الفريدة.",
           "شارك في الأنشطة التي تتماشى مع قيمهم.",
-          "كن منفتحًا ومتواجدًا عاطفيًا.",
-          "احترم حاجتهم للتأمل.",
+          "كن منفتحًا ومتوافرًا عاطفيًا.",
+          "احترم حاجتهم للتأمل الذاتي.",
           "شجع إبداعهم وتعبيرهم عن الذات."
         ],
-        "SecretDesire": "يتوق الوسطاء سراً إلى علاقات ذات مغزى تتردد صداها مع أفكارهم وأحلامهم. يرغبون في إحداث تأثير إيجابي في العالم أثناء كونهم مخلصين لأنفسهم.",
-        "Stereotypes": "غالبًا ما يُنظر إلى الوسطاء على أنهم حساسيون للغاية أو أحلام، لكن في الواقع، هم أفراد عميقو العناية يلتزمون بفهم وتحسين حياة الآخرين.",
+        "SecretDesire": "يطمح الوسيطون سرًا إلى إقامة علاقات عميقة تتوافق مع أفكارهم وأحلامهم. يرغبون في إحداث تأثير إيجابي في العالم مع البقاء أوفياء لأنفسهم.",
+        "Stereotypes": "غالبًا ما يُنظر إلى الوسيطين على أنهم حساسون جدًا أو حالمون، لكنهم في الواقع أفراد يهتمون بعمق وملتزمون بفهم وتحسين حياة الآخرين.",
         "Celebrities": [
           "هارييت توبمان",
           "زين الدين زيدان",
           "إيمي سيزير",
-          "محمد صلاح"
+          "محمد صلاح",
+          "جوني ديب",
+          "ويليام شكسبير",
+          "ماري كيت أولسن",
+          "جان جاك روسو",
+          "ألبير كامو",
+          "كريس مارتن",
+          "روبرت باتينسون"
         ]
-      }
+      }      
     ]
   }  

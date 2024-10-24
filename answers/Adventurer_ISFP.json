@@ -5,27 +5,27 @@
         "language_code": "en",
         "type": "ISFP",
         "name": "The Adventurer",
-        "Description": "Artistic and sensitive, ISFPs are explorers of emotions and art. They love to live in the moment and appreciate the beauty of the world around them. Often quiet, ISFPs express themselves through their actions and creations, rather than words, and seek authenticity in everything they do.",
+        "Description": "Artistic and sensitive, Adventurers are explorers of emotions and art. They love to live in the moment and appreciate the beauty of the world around them. Often quiet, Adventurers express themselves through their actions and creations, rather than words, and seek authenticity in everything they do.",
         "Strengths": [
-          "sensitive",
-          "charming",
-          "imaginative",
-          "passionate",
-          "curious",
-          "open-minded",
-          "loyal",
-          "artistic",
-          "empathetic",
-          "spontaneous"
+          "Sensitive",
+          "Charming",
+          "Imaginative",
+          "Passionate",
+          "Curious",
+          "Open-minded",
+          "Loyal",
+          "Artistic",
+          "Empathetic",
+          "Spontaneous"
         ],
         "Weaknesses": [
-          "easily stressed",
-          "overly competitive",
-          "can be too reserved",
-          "dislike criticism",
-          "avoid long-term commitments",
-          "can be too independent",
-          "struggle with confrontation"
+          "Easily stressed",
+          "Overly competitive",
+          "Can be too reserved",
+          "Dislike criticism",
+          "Avoid long-term commitments",
+          "Can be too independent",
+          "Struggle with confrontation"
         ],
         "DosInRelationship": [
           "Encourage their artistic side and creative endeavors.",
@@ -60,47 +60,47 @@
           "Emotional Connection"
         ],
         "CompatibleConnections": [
-          "The Adventurer (ISFP)",
-          "The Defender (ISFJ)",
-          "The Logistician (ISTJ)"
+          "The Performer (ESFP)",
+          "The Consul (ESFJ)",
+          "The Executive (ESTJ)"
         ],
         "HasPotentialConnections": [
           "The Protagonist (ENFJ)",
-          "The Campaigner (ENFP)",
           "The Advocate (INFJ)",
-          "The Consul (ESFJ)",
-          "The Executive (ESTJ)",
+          "The Mediator (INFP)",
+          "The Defender (ISFJ)",
           "The Dynamo (ESTP)",
+          "The Logistician (ISTJ)",
           "The Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
+          "The Campaigner (ENFP)",
           "The Architect (INTJ)",
           "The Debater (ENTP)",
-          "The Mediator (INFP)",
+          "The Adventurer (ISFP)",
           "The Thinker (INTP)",
-          "The Commander (ENTJ)",
-          "The Performer (ESFP)"
+          "The Commander (ENTJ)"
         ],
         "AttractedBy": [
-          "authentic",
-          "caring",
-          "sensitive",
-          "quiet",
-          "gentle",
-          "supportive",
-          "adventurous",
-          "emotionally deep",
-          "thoughtful",
-          "creative"
+          "Authentic",
+          "Caring",
+          "Sensitive",
+          "Quiet",
+          "Gentle",
+          "Supportive",
+          "Adventurous",
+          "Emotionally deep",
+          "Thoughtful",
+          "Creative"
         ],
         "PetPeeves": [
-          "critical",
-          "emotionally distant",
-          "rigid",
-          "controlling",
-          "unimaginative",
-          "unsupportive",
-          "insensitive"
+          "Critical",
+          "Emotionally distant",
+          "Rigid",
+          "Controlling",
+          "Unimaginative",
+          "Unsupportive",
+          "Insensitive"
         ],
         "HowToBeCompanion": [
           "Encourage their independence while being emotionally supportive.",
@@ -110,54 +110,62 @@
           "Share in activities that celebrate their love of beauty and creativity."
         ],
         "SecretDesire": "Adventurers secretly yearn to live a life that is full of rich, meaningful experiences, where they can create beauty and find emotional fulfillment.",
-        "Stereotypes": "ISFPs are often stereotyped as being too reserved or overly sensitive, but they are deeply passionate individuals who care deeply about the world around them and express their emotions through their art and actions.",
+        "Stereotypes": "Adventurers are often stereotyped as being too reserved or overly sensitive, but they are deeply passionate individuals who care deeply about the world around them and express their emotions through their art and actions.",
         "Celebrities": [
           "Bob Marley",
           "Michael Jackson",
-          "Francis Ngannou"
+          "Francis Ngannou",
+          "Lionel Messi",
+          "Pablo picasso",
+          "Prince Harry",
+          "Pharrell Williams",
+          "Monica Bellucci",
+          "Marilyn Monroe",
+          "Steven Spielberg",
+          "David Beckham"       
         ]
       },
       {
         "id": 3,
         "language_code": "fr",
         "type": "ISFP",
-        "name": "L'Aventurier",
-        "Description": "Artistes et sensibles, les ISFP sont des explorateurs des émotions et de l'art. Ils aiment vivre dans le moment présent et apprécient la beauté du monde qui les entoure. Souvent calmes, les ISFP s'expriment à travers leurs actions et leurs créations plutôt que par des mots, et recherchent l'authenticité dans tout ce qu'ils font.",
+        "name": "L’Aventurier",
+        "Description": "Artistiques et sensibles, les Aventuriers sont des explorateurs des émotions et de l’art. Ils aiment vivre dans l’instant présent et apprécier la beauté du monde qui les entoure. Souvent calmes, les Aventuriers s’expriment davantage à travers leurs actions et créations plutôt que par les mots, et recherchent l’authenticité dans tout ce qu’ils font.",
         "Strengths": [
-          "sensible",
-          "charmant",
-          "imaginatif",
-          "passionné",
-          "curieux",
-          "ouvert d'esprit",
-          "loyal",
-          "artistique",
-          "empathique",
-          "spontané"
+          "Sensible",
+          "Charmant",
+          "Imaginatif",
+          "Passionné",
+          "Curieux",
+          "Ouvert d’esprit",
+          "Loyal",
+          "Artistique",
+          "Empathique",
+          "Spontané"
         ],
         "Weaknesses": [
-          "facilement stressé",
-          "trop compétitif",
-          "peut être trop réservé",
-          "n'aime pas les critiques",
-          "évite les engagements à long terme",
-          "peut être trop indépendant",
-          "lutte avec la confrontation"
+          "Facilement stressé",
+          "Trop compétitif",
+          "Peut être trop réservé",
+          "N’aime pas les critiques",
+          "Évite les engagements à long terme",
+          "Peut être trop indépendant",
+          "A du mal avec la confrontation"
         ],
         "DosInRelationship": [
           "Encouragez leur côté artistique et leurs projets créatifs.",
-          "Donnez-leur de l'espace pour réfléchir et traiter leurs émotions.",
-          "Montrez de l'appréciation pour leur loyauté et leur sensibilité.",
-          "Participez à des conversations réfléchies et significatives.",
-          "Soyez patient et donnez-leur du temps pour s'ouvrir émotionnellement."
+          "Donnez-leur de l’espace pour réfléchir et traiter leurs émotions.",
+          "Montrez de l’appréciation pour leur loyauté et leur sensibilité.",
+          "Engagez-vous dans des conversations réfléchies et significatives.",
+          "Soyez patient et donnez-leur le temps de s’ouvrir émotionnellement."
         ],
         "DontsInRelationship": [
           "Ne soyez pas trop critique ou ne négligez pas leurs besoins émotionnels.",
-          "Évitez de les pousser à participer à des situations sociales avec lesquelles ils ne sont pas à l'aise.",
+          "Évitez de les forcer dans des situations sociales inconfortables.",
           "Ne tentez pas de contrôler ou de freiner leur indépendance.",
-          "Ne négligez pas leur besoin d'espace personnel et de temps seul."
+          "Ne négligez pas leur besoin d’espace personnel et de moments de solitude."
         ],
-        "Friendships": "Les Aventuriers apprécient les amitiés basées sur des liens émotionnels profonds et des expériences partagées. Ils expriment souvent leur attention à travers des actions plutôt que des mots et préfèrent les amis compréhensifs et patients envers leur nature sensible.",
+        "Friendships": "Les Aventuriers valorisent les amitiés fondées sur des connexions émotionnelles profondes et des expériences partagées. Ils expriment souvent leur affection par leurs actions plutôt que par des mots et préfèrent des amis qui comprennent et acceptent leur nature sensible.",
         "CareerPath": [
           "Artiste",
           "Photographe",
@@ -165,9 +173,9 @@
           "Thérapeute",
           "Chef",
           "Musicien",
-          "Décorateur d'intérieur",
+          "Designer d’intérieur",
           "Travailleur social",
-          "Infirmière"
+          "Infirmier"
         ],
         "LifeValue": [
           "Créativité",
@@ -177,61 +185,69 @@
           "Connexion émotionnelle"
         ],
         "CompatibleConnections": [
-          "L'Aventurier (ISFP)",
-          "Le Défenseur (ISFJ)",
-          "Le Logisticien (ISTJ)"
+          "Le Performeur (ESFP)",
+          "Le Consul (ESFJ)",
+          "L’Exécutif (ESTJ)"
         ],
         "HasPotentialConnections": [
           "Le Protagoniste (ENFJ)",
-          "Le Campagneur (ENFP)",
-          "L'Avocat (INFJ)",
-          "Le Consul (ESFJ)",
-          "L'Exécutif (ESTJ)",
-          "Le Dynamo (ESTP)",
+          "L’Avocat (INFJ)",
+          "Le Médiateur (INFP)",
+          "Le Défenseur (ISFJ)",
+          "Le Dynamique (ESTP)",
+          "Le Logisticien (ISTJ)",
           "Le Virtuose (ISTP)"
         ],
         "ChallengingConnections": [
-          "L'Architecte (INTJ)",
+          "Le Campaigner (ENFP)",
+          "L’Architecte (INTJ)",
           "Le Débatteur (ENTP)",
-          "Le Médiateur (INFP)",
+          "L’Aventurier (ISFP)",
           "Le Penseur (INTP)",
-          "Le Commandeur (ENTJ)",
-          "Le Performeur (ESFP)"
+          "Le Commandant (ENTJ)"
         ],
         "AttractedBy": [
-          "authentique",
-          "attentionné",
-          "sensible",
-          "calme",
-          "doux",
-          "soutenant",
-          "aventureux",
-          "profondément émotionnel",
-          "réfléchi",
-          "créatif"
+          "Authentique",
+          "Attentionné",
+          "Sensible",
+          "Calme",
+          "Doux",
+          "Soutenant",
+          "Aventurier",
+          "Émotionnellement profond",
+          "Réfléchi",
+          "Créatif"
         ],
         "PetPeeves": [
-          "critique",
-          "distant émotionnellement",
-          "rigide",
-          "contrôlant",
-          "sans imagination",
-          "peu de soutien",
-          "insensible"
+          "Critique",
+          "Émotionnellement distant",
+          "Rigide",
+          "Contrôlant",
+          "Manque d’imagination",
+          "Non soutenant",
+          "Insensible"
         ],
         "HowToBeCompanion": [
-          "Encouragez leur indépendance tout en étant émotionnellement soutenant.",
+          "Encouragez leur indépendance tout en étant un soutien émotionnel.",
           "Appréciez leur côté artistique et partagez leurs passions créatives.",
-          "Donnez-leur de l'espace quand ils ont besoin de temps seul pour se ressourcer.",
-          "Soyez patient avec leur nature réservée et laissez-les s'ouvrir à leur propre rythme.",
+          "Donnez-leur de l’espace lorsqu’ils ont besoin de temps seuls pour se ressourcer.",
+          "Soyez patient avec leur nature réservée et laissez-les s’ouvrir à leur propre rythme.",
           "Participez à des activités qui célèbrent leur amour de la beauté et de la créativité."
         ],
-        "SecretDesire": "Les Aventuriers aspirent secrètement à vivre une vie pleine d'expériences riches et significatives, où ils peuvent créer de la beauté et trouver un épanouissement émotionnel.",
-        "Stereotypes": "Les ISFP sont souvent stéréotypés comme étant trop réservés ou trop sensibles, mais ce sont des individus profondément passionnés qui se soucient profondément du monde qui les entoure et expriment leurs émotions à travers leur art et leurs actions.",
+        "SecretDesire": "Les Aventuriers rêvent secrètement de vivre une vie remplie d’expériences riches et significatives, où ils peuvent créer de la beauté et trouver l’épanouissement émotionnel.",
+        "Stereotypes": "Les Aventuriers sont souvent perçus comme étant trop réservés ou trop sensibles, mais ce sont en réalité des individus profondément passionnés qui tiennent beaucoup à leur monde et expriment leurs émotions à travers leur art et leurs actions.",
         "Celebrities": [
           "Bob Marley",
           "Michael Jackson",
-          "Francis Ngannou"
+          "Francis Ngannou",
+          "Lionel Messi",
+          "Pablo Picasso",
+          "Prince Harry",
+          "Pharrell Williams",
+          "Monica Bellucci",
+          "Marilyn Monroe",
+          "Steven Spielberg",
+          "David Beckham"
         ]
       },
       {
@@ -239,42 +255,42 @@
         "language_code": "es",
         "type": "ISFP",
         "name": "El Aventurero",
-        "Description": "Artísticos y sensibles, los ISFP son exploradores de emociones y arte. Les encanta vivir el momento y apreciar la belleza del mundo que los rodea. A menudo callados, los ISFP se expresan a través de sus acciones y creaciones, en lugar de palabras, y buscan autenticidad en todo lo que hacen.",
+        "Description": "Artísticos y sensibles, los Aventureros son exploradores de las emociones y el arte. Aman vivir el momento y apreciar la belleza del mundo que los rodea. A menudo tranquilos, los Aventureros se expresan a través de sus acciones y creaciones en lugar de las palabras, y buscan autenticidad en todo lo que hacen.",
         "Strengths": [
-          "sensible",
-          "encantador",
-          "imaginativo",
-          "apasionado",
-          "curioso",
-          "de mente abierta",
-          "leal",
-          "artístico",
-          "empático",
-          "espontáneo"
+          "Sensible",
+          "Encantador",
+          "Imaginativo",
+          "Apasionado",
+          "Curioso",
+          "De mente abierta",
+          "Leal",
+          "Artístico",
+          "Empático",
+          "Espontáneo"
         ],
         "Weaknesses": [
-          "se estresan fácilmente",
-          "demasiado competitivos",
-          "pueden ser demasiado reservados",
-          "no les gusta la crítica",
-          "evitan los compromisos a largo plazo",
-          "pueden ser demasiado independientes",
-          "les cuesta la confrontación"
+          "Fácilmente estresado",
+          "Demasiado competitivo",
+          "Puede ser demasiado reservado",
+          "No le gusta la crítica",
+          "Evita los compromisos a largo plazo",
+          "Puede ser demasiado independiente",
+          "Dificultad con la confrontación"
         ],
         "DosInRelationship": [
-          "Anima su lado artístico y sus esfuerzos creativos.",
-          "Dales espacio para reflexionar y procesar sus emociones.",
+          "Fomenta su lado artístico y sus emprendimientos creativos.",
+          "Dale espacio para reflexionar y procesar sus emociones.",
           "Muestra aprecio por su lealtad y sensibilidad.",
           "Involúcrate en conversaciones reflexivas y significativas.",
-          "Sé paciente y dales tiempo para abrirse emocionalmente."
+          "Sé paciente y dale tiempo para abrirse emocionalmente."
         ],
         "DontsInRelationship": [
           "No seas demasiado crítico ni desestimes sus necesidades emocionales.",
-          "Evita presionarlos para que participen en situaciones sociales con las que no se sientan cómodos.",
+          "Evita presionarlos para que participen en situaciones sociales que les incomoden.",
           "No intentes controlar o sofocar su independencia.",
           "No ignores su necesidad de espacio personal y tiempo a solas."
         ],
-        "Friendships": "Los Aventureros valoran las amistades basadas en conexiones emocionales profundas y experiencias compartidas. A menudo expresan su cuidado a través de acciones en lugar de palabras y prefieren amigos que sean comprensivos y pacientes con su naturaleza sensible.",
+        "Friendships": "Los Aventureros valoran las amistades basadas en conexiones emocionales profundas y experiencias compartidas. A menudo expresan su cariño a través de acciones en lugar de palabras y prefieren amigos que comprendan y sean pacientes con su naturaleza sensible.",
         "CareerPath": [
           "Artista",
           "Fotógrafo",
@@ -284,71 +300,79 @@
           "Músico",
           "Diseñador de interiores",
           "Trabajador social",
-          "Enfermera"
+          "Enfermero"
         ],
         "LifeValue": [
           "Creatividad",
           "Libertad",
           "Autenticidad",
-          "Amabilidad",
+          "Bondad",
           "Conexión emocional"
         ],
         "CompatibleConnections": [
-          "El Aventurero (ISFP)",
-          "El Defensor (ISFJ)",
-          "El Logístico (ISTJ)"
+          "El Animador (ESFP)",
+          "El Cónsul (ESFJ)",
+          "El Ejecutivo (ESTJ)"
         ],
         "HasPotentialConnections": [
           "El Protagonista (ENFJ)",
-          "El Campañero (ENFP)",
-          "El Defensor (INFJ)",
-          "El Cónsul (ESFJ)",
-          "El Ejecutivo (ESTJ)",
-          "El Dinamo (ESTP)",
+          "El Abogado (INFJ)",
+          "El Mediador (INFP)",
+          "El Defensor (ISFJ)",
+          "El Dinámico (ESTP)",
+          "El Logístico (ISTJ)",
           "El Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
+          "El Campañista (ENFP)",
           "El Arquitecto (INTJ)",
           "El Debatidor (ENTP)",
-          "El Mediador (INFP)",
+          "El Aventurero (ISFP)",
           "El Pensador (INTP)",
-          "El Comandante (ENTJ)",
-          "El Artista (ESFP)"
+          "El Comandante (ENTJ)"
         ],
         "AttractedBy": [
-          "auténtico",
-          "cariñoso",
-          "sensible",
-          "tranquilo",
-          "amable",
-          "solidario",
-          "aventurero",
-          "emocionalmente profundo",
-          "reflexivo",
-          "creativo"
+          "Auténtico",
+          "Cuidado",
+          "Sensible",
+          "Tranquilo",
+          "Gentil",
+          "Apoyo",
+          "Aventurero",
+          "Emocionalmente profundo",
+          "Reflexivo",
+          "Creativo"
         ],
         "PetPeeves": [
-          "crítico",
-          "distante emocionalmente",
-          "rígido",
-          "controlador",
-          "sin imaginación",
-          "falta de apoyo",
-          "insensible"
+          "Crítico",
+          "Emocionalmente distante",
+          "Rígido",
+          "Controlador",
+          "Poco imaginativo",
+          "Poco apoyo",
+          "Insensible"
         ],
         "HowToBeCompanion": [
-          "Anima su independencia mientras los apoyas emocionalmente.",
+          "Fomenta su independencia mientras lo apoyas emocionalmente.",
           "Aprecia su lado artístico y comparte sus pasiones creativas.",
-          "Dales espacio cuando necesiten tiempo a solas para recargar energías.",
-          "Sé paciente con su naturaleza reservada y permíteles abrirse a su propio ritmo.",
+          "Dale espacio cuando necesite tiempo a solas para recargar energías.",
+          "Sé paciente con su naturaleza reservada y permítele abrirse a su propio ritmo.",
           "Participa en actividades que celebren su amor por la belleza y la creatividad."
         ],
         "SecretDesire": "Los Aventureros anhelan en secreto vivir una vida llena de experiencias ricas y significativas, donde puedan crear belleza y encontrar satisfacción emocional.",
-        "Stereotypes": "Los ISFP a menudo son estereotipados como demasiado reservados o sensibles, pero son individuos profundamente apasionados que se preocupan profundamente por el mundo que los rodea y expresan sus emociones a través de su arte y acciones.",
+        "Stereotypes": "Los Aventureros a menudo son estereotipados como demasiado reservados o demasiado sensibles, pero son personas profundamente apasionadas que se preocupan mucho por el mundo que los rodea y expresan sus emociones a través de su arte y acciones.",
         "Celebrities": [
           "Bob Marley",
           "Michael Jackson",
-          "Francis Ngannou"
+          "Francis Ngannou",
+          "Lionel Messi",
+          "Pablo Picasso",
+          "Príncipe Harry",
+          "Pharrell Williams",
+          "Monica Bellucci",
+          "Marilyn Monroe",
+          "Steven Spielberg",
+          "David Beckham"
         ]
       },
       {
@@ -356,42 +380,42 @@
         "language_code": "pt",
         "type": "ISFP",
         "name": "O Aventureiro",
-        "Description": "Artísticos e sensíveis, os ISFP são exploradores das emoções e da arte. Eles adoram viver o momento e apreciar a beleza do mundo ao seu redor. Frequentemente calados, os ISFP se expressam por meio de suas ações e criações, em vez de palavras, e buscam autenticidade em tudo o que fazem.",
+        "Description": "Artísticos e sensíveis, os Aventureiros são exploradores de emoções e arte. Eles adoram viver o momento e apreciar a beleza do mundo ao seu redor. Muitas vezes quietos, os Aventureiros se expressam por meio de suas ações e criações, em vez de palavras, e buscam autenticidade em tudo o que fazem.",
         "Strengths": [
-          "sensível",
-          "encantador",
-          "imaginativo",
-          "apaixonado",
-          "curioso",
-          "mente aberta",
-          "leal",
-          "artístico",
-          "empático",
-          "espontâneo"
+          "Sensível",
+          "Charmoso",
+          "Imaginativo",
+          "Apaixonado",
+          "Curioso",
+          "De mente aberta",
+          "Leal",
+          "Artístico",
+          "Empático",
+          "Espontâneo"
         ],
         "Weaknesses": [
-          "facilmente estressado",
-          "demasiado competitivo",
-          "pode ser muito reservado",
-          "não gosta de críticas",
-          "evita compromissos a longo prazo",
-          "pode ser muito independente",
-          "luta com a confrontação"
+          "Facilmente estressado",
+          "Excessivamente competitivo",
+          "Pode ser muito reservado",
+          "Não gosta de críticas",
+          "Evita compromissos de longo prazo",
+          "Pode ser muito independente",
+          "Dificuldade com confrontos"
         ],
         "DosInRelationship": [
-          "Incentive seu lado artístico e seus esforços criativos.",
+          "Incentive seu lado artístico e empreendimentos criativos.",
           "Dê-lhes espaço para refletir e processar suas emoções.",
           "Mostre apreço por sua lealdade e sensibilidade.",
-          "Participe de conversas ponderadas e significativas.",
-          "Seja paciente e dê-lhes tempo para se abrir emocionalmente."
+          "Envolva-se em conversas reflexivas e significativas.",
+          "Seja paciente e dê tempo para eles se abrirem emocionalmente."
         ],
         "DontsInRelationship": [
           "Não seja muito crítico ou despreze suas necessidades emocionais.",
-          "Evite pressioná-los a participar de situações sociais com as quais não se sentem confortáveis.",
-          "Não tente controlar ou reprimir sua independência.",
+          "Evite pressioná-los a participar de situações sociais que não os deixem confortáveis.",
+          "Não tente controlar ou sufocar sua independência.",
           "Não ignore sua necessidade de espaço pessoal e tempo a sós."
         ],
-        "Friendships": "Os Aventureiros valorizam amizades baseadas em conexões emocionais profundas e experiências compartilhadas. Eles frequentemente expressam seu cuidado através de ações em vez de palavras e preferem amigos que sejam compreensivos e pacientes com sua natureza sensível.",
+        "Friendships": "Os Aventureiros valorizam amizades baseadas em conexões emocionais profundas e experiências compartilhadas. Eles geralmente expressam seu carinho por meio de ações, em vez de palavras, e preferem amigos que sejam compreensivos e pacientes com sua natureza sensível.",
         "CareerPath": [
           "Artista",
           "Fotógrafo",
@@ -401,71 +425,79 @@
           "Músico",
           "Designer de interiores",
           "Assistente social",
-          "Enfermeira"
+          "Enfermeiro"
         ],
         "LifeValue": [
           "Criatividade",
           "Liberdade",
           "Autenticidade",
-          "Gentileza",
+          "Bondade",
           "Conexão emocional"
         ],
         "CompatibleConnections": [
-          "O Aventureiro (ISFP)",
-          "O Defensor (ISFJ)",
-          "O Logístico (ISTJ)"
+          "O Animador (ESFP)",
+          "O Cônsul (ESFJ)",
+          "O Executivo (ESTJ)"
         ],
         "HasPotentialConnections": [
           "O Protagonista (ENFJ)",
-          "O Campanhista (ENFP)",
-          "O Advogado (INFJ)",
-          "O Cônsul (ESFJ)",
-          "O Executivo (ESTJ)",
-          "O Dinamo (ESTP)",
+          "O Defensor (INFJ)",
+          "O Mediador (INFP)",
+          "O Defensor (ISFJ)",
+          "O Dinâmico (ESTP)",
+          "O Lógico (ISTJ)",
           "O Virtuoso (ISTP)"
         ],
         "ChallengingConnections": [
+          "O Campanhista (ENFP)",
           "O Arquiteto (INTJ)",
           "O Debatedor (ENTP)",
-          "O Mediador (INFP)",
+          "O Aventureiro (ISFP)",
           "O Pensador (INTP)",
-          "O Comandante (ENTJ)",
-          "O Performista (ESFP)"
+          "O Comandante (ENTJ)"
         ],
         "AttractedBy": [
-          "autêntico",
-          "carinhoso",
-          "sensível",
-          "calmo",
-          "gentil",
-          "solidário",
-          "aventureiro",
-          "emocionalmente profundo",
-          "atencioso",
-          "criativo"
+          "Autêntico",
+          "Carinhoso",
+          "Sensível",
+          "Tranquilo",
+          "Gentil",
+          "Solidário",
+          "Aventureiro",
+          "Emocionalmente profundo",
+          "Pensativo",
+          "Criativo"
         ],
         "PetPeeves": [
-          "crítico",
-          "distante emocionalmente",
-          "rígido",
-          "controlador",
-          "sem imaginação",
-          "sem apoio",
-          "insensível"
+          "Crítico",
+          "Distante emocionalmente",
+          "Rígido",
+          "Controlador",
+          "Sem imaginação",
+          "Sem apoio",
+          "Insensível"
         ],
         "HowToBeCompanion": [
-          "Incentive sua independência enquanto o apoia emocionalmente.",
+          "Incentive sua independência, ao mesmo tempo que oferece apoio emocional.",
           "Aprecie seu lado artístico e compartilhe suas paixões criativas.",
-          "Dê-lhes espaço quando precisarem de tempo a sós para recarregar as energias.",
-          "Tenha paciência com sua natureza reservada e permita que ele se abra no seu próprio ritmo.",
+          "Dê-lhes espaço quando precisarem de tempo a sós para recarregar.",
+          "Seja paciente com sua natureza reservada e permita que se abram no seu próprio tempo.",
           "Participe de atividades que celebrem seu amor pela beleza e criatividade."
         ],
-        "SecretDesire": "Os Aventureiros secretamente anseiam por viver uma vida cheia de experiências ricas e significativas, onde possam criar beleza e encontrar satisfação emocional.",
-        "Stereotypes": "Os ISFP são frequentemente estereotipados como muito reservados ou sensíveis, mas são indivíduos profundamente apaixonados que se preocupam profundamente com o mundo ao seu redor e expressam suas emoções por meio de sua arte e ações.",
+        "SecretDesire": "Os Aventureiros secretamente anseiam por viver uma vida cheia de experiências ricas e significativas, onde possam criar beleza e encontrar realização emocional.",
+        "Stereotypes": "Os Aventureiros são frequentemente estereotipados como sendo muito reservados ou excessivamente sensíveis, mas na verdade são indivíduos profundamente apaixonados que se preocupam com o mundo ao seu redor e expressam suas emoções por meio de sua arte e ações.",
         "Celebrities": [
           "Bob Marley",
           "Michael Jackson",
-          "Francis Ngannou"
+          "Francis Ngannou",
+          "Lionel Messi",
+          "Pablo Picasso",
+          "Príncipe Harry",
+          "Pharrell Williams",
+          "Monica Bellucci",
+          "Marilyn Monroe",
+          "Steven Spielberg",
+          "David Beckham"
         ]
       },
       {
@@ -473,7 +505,7 @@
         "language_code": "ar",
         "type": "ISFP",
         "name": "المغامر",
-        "Description": "فنيون وحساسون، يُعرف أصحاب شخصية المغامر باستكشافهم للعواطف والفن. يحبون العيش في اللحظة وتقدير جمال العالم من حولهم. غالبًا ما يكونون هادئين، ويعبرون عن أنفسهم من خلال أفعالهم وإبداعاتهم بدلاً من الكلمات، ويسعون إلى الأصالة في كل ما يفعلونه.",
+        "Description": "المغامرون فنيون وحساسون، وهم مستكشفون للمشاعر والفن. يحبون العيش في اللحظة وتقدير جمال العالم من حولهم. غالبًا ما يكونون هادئين، ويعبرون عن أنفسهم من خلال أفعالهم وإبداعاتهم بدلاً من الكلمات، ويسعون دائمًا إلى الأصالة في كل ما يفعلونه.",
         "Strengths": [
           "حساس",
           "ساحر",
@@ -487,28 +519,28 @@
           "عفوي"
         ],
         "Weaknesses": [
-          "يتوترون بسهولة",
-          "مفرط التنافسية",
-          "يمكن أن يكونوا متحفظين للغاية",
-          "يكرهون الانتقادات",
-          "يتجنبون الالتزامات طويلة الأمد",
-          "يمكن أن يكونوا مستقلين للغاية",
-          "يجدون صعوبة في المواجهة"
+          "يتعرض للتوتر بسهولة",
+          "تنافسي بشكل مفرط",
+          "قد يكون محتفظًا بنفسه كثيرًا",
+          "يكره الانتقادات",
+          "يتجنب الالتزامات طويلة الأجل",
+          "قد يكون مستقلًا جدًا",
+          "يعاني من المواجهة"
         ],
         "DosInRelationship": [
           "شجع جانبهم الفني ومساعيهم الإبداعية.",
           "امنحهم مساحة للتفكير ومعالجة مشاعرهم.",
-          "أظهر التقدير لولائهم وحساسيتهم.",
+          "أظهر التقدير لوفائهم وحساسيتهم.",
           "انخرط في محادثات مدروسة وذات مغزى.",
           "كن صبورًا وأعطهم الوقت للانفتاح عاطفيًا."
         ],
         "DontsInRelationship": [
           "لا تكن ناقدًا جدًا أو تتجاهل احتياجاتهم العاطفية.",
-          "تجنب الضغط عليهم للمشاركة في المواقف الاجتماعية التي لا يشعرون بالراحة فيها.",
-          "لا تحاول التحكم أو تقييد استقلالهم.",
-          "لا تتجاهل حاجتهم إلى مساحة شخصية ووقت بمفردهم."
+          "تجنب الضغط عليهم للانخراط في مواقف اجتماعية لا يشعرون بالراحة فيها.",
+          "لا تحاول التحكم أو كبت استقلالهم.",
+          "لا تتجاهل حاجتهم للمساحة الشخصية والوقت بمفردهم."
         ],
-        "Friendships": "يقدر المغامرون الصداقات المبنية على روابط عاطفية عميقة وتجارب مشتركة. غالبًا ما يعبرون عن اهتمامهم من خلال الأفعال بدلاً من الكلمات ويفضلون الأصدقاء الذين يتمتعون بالفهم والصبر تجاه طبيعتهم الحساسة.",
+        "Friendships": "يقدّر المغامرون الصداقات المبنية على الروابط العاطفية العميقة والتجارب المشتركة. غالبًا ما يعبرون عن رعايتهم من خلال الأفعال بدلاً من الكلمات ويفضلون الأصدقاء الذين يتفهمون طبيعتهم الحساسة ويصبرون عليها.",
         "CareerPath": [
           "فنان",
           "مصور فوتوغرافي",
@@ -517,7 +549,7 @@
           "طاه",
           "موسيقي",
           "مصمم داخلي",
-          "عامل اجتماعي",
+          "أخصائي اجتماعي",
           "ممرضة"
         ],
         "LifeValue": [
@@ -528,62 +560,70 @@
           "الاتصال العاطفي"
         ],
         "CompatibleConnections": [
-          "المغامر (ISFP)",
-          "المدافع (ISFJ)",
-          "اللوجستي (ISTJ)"
+          "المؤدي (ESFP)",
+          "القنصل (ESFJ)",
+          "المدير التنفيذي (ESTJ)"
         ],
         "HasPotentialConnections": [
           "البطل (ENFJ)",
-          "المعبر (ENFP)",
           "المدافع (INFJ)",
-          "القنصل (ESFJ)",
-          "المدير التنفيذي (ESTJ)",
-          "الدينامو (ESTP)",
-          "المحترف (ISTP)"
+          "الوسيط (INFP)",
+          "المدافع (ISFJ)",
+          "الديناميكي (ESTP)",
+          "اللوجستي (ISTJ)",
+          "الحرفي (ISTP)"
         ],
         "ChallengingConnections": [
+          "المناضل (ENFP)",
           "المهندس المعماري (INTJ)",
-          "المناظر (ENTP)",
-          "الوسيط (INFP)",
+          "المناقش (ENTP)",
+          "المغامر (ISFP)",
           "المفكر (INTP)",
-          "القائد (ENTJ)",
-          "المؤدي (ESFP)"
+          "القائد (ENTJ)"
         ],
         "AttractedBy": [
           "أصيل",
-          "رعاية",
+          "مراعٍ",
           "حساس",
           "هادئ",
           "لطيف",
           "داعم",
-          "مغامر",
-          "عاطفي بعمق",
+          "محب للمغامرة",
+          "عميق عاطفيًا",
           "مدروس",
           "مبدع"
         ],
         "PetPeeves": [
-          "ناقد",
-          "بعيد عاطفيا",
-          "صارم",
-          "متحكم",
+          "انتقادي",
+          "بعيد عاطفيًا",
+          "جامد",
+          "تحكمي",
           "غير مبدع",
           "غير داعم",
           "غير حساس"
         ],
         "HowToBeCompanion": [
-          "شجع استقلالهم مع دعمهم عاطفياً.",
-          "قدر جانبهم الفني وشارك في شغفهم الإبداعي.",
-          "امنحهم مساحة عندما يحتاجون إلى وقت بمفردهم لإعادة شحن طاقتهم.",
-          "كن صبورًا مع طبيعتهم المحجوزة ودعهم ينفتحون وفقًا لسرعتهم.",
+          "شجع استقلالهم بينما تدعمهم عاطفيًا.",
+          "قدّر جانبهم الفني وشارك في شغفهم الإبداعي.",
+          "امنحهم المساحة عندما يحتاجون إلى الوقت بمفردهم لاستعادة نشاطهم.",
+          "كن صبورًا مع طبيعتهم الهادئة وامنحهم الوقت للانفتاح وفقًا لسرعتهم الخاصة.",
           "شارك في الأنشطة التي تحتفل بحبهم للجمال والإبداع."
         ],
-        "SecretDesire": "يتوق المغامرون سرًا إلى عيش حياة مليئة بالتجارب الغنية والهادفة، حيث يمكنهم خلق الجمال وإيجاد الإشباع العاطفي.",
-        "Stereotypes": "غالبًا ما يتم تصوير أصحاب شخصية المغامر على أنهم محجوزون جدًا أو حساسين للغاية، لكنهم أفراد شغوفون يهتمون بالعالم من حولهم ويعبرون عن مشاعرهم من خلال فنهم وأفعالهم.",
+        "SecretDesire": "يطمح المغامرون سرًا إلى حياة مليئة بالتجارب الغنية والمعنى، حيث يمكنهم خلق الجمال والعثور على الإشباع العاطفي.",
+        "Stereotypes": "غالبًا ما يُعتبر المغامرون أنهم محجوزون جدًا أو حساسون بشكل مفرط، ولكنهم في الواقع أفراد شغوفون يهتمون بعمق بالعالم من حولهم ويعبرون عن مشاعرهم من خلال فنهم وأفعالهم.",
         "Celebrities": [
           "بوب مارلي",
           "مايكل جاكسون",
-          "فرانسيس نغانو"
+          "فرانسيس نغانو",
+          "ليونيل ميسي",
+          "بابلو بيكاسو",
+          "الأمير هاري",
+          "فاريل ويليامز",
+          "مونيكا بيلوتشي",
+          "مارلين مونرو",
+          "ستيفن سبيلبرغ",
+          "ديفيد بيكهام"
         ]
-      }
+      }                  
     ]
   }

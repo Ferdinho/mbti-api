@@ -5,27 +5,27 @@
         "language_code": "en",
         "type": "ESFJ",
         "name": "The Consul",
-        "Description": "Warm, caring, and social, ESFJs are natural caretakers who love to help others and create harmonious environments. They are highly empathetic and attuned to the needs of those around them. Consuls are deeply committed to their friends and family and thrive in environments where they can take on a supportive role.",
+        "Description": "Warm, caring, and social, Consuls are natural caretakers who love to help others and create harmonious environments. They are highly empathetic and attuned to the needs of those around them. Consuls are deeply committed to their friends and family and thrive in environments where they can take on a supportive role.",
         "Strengths": [
-          "loyal",
-          "supportive",
-          "organized",
-          "caring",
-          "friendly",
-          "practical",
-          "attentive",
-          "responsible",
-          "social",
-          "empathetic"
+          "Loyal",
+          "Supportive",
+          "Organized",
+          "Caring",
+          "Friendly",
+          "Practical",
+          "Attentive",
+          "Responsible",
+          "Social",
+          "Empathetic"
         ],
         "Weaknesses": [
-          "overly sensitive",
-          "needy for approval",
-          "can be controlling",
-          "dislike change",
-          "avoid confrontation",
-          "can be overly selfless",
-          "may focus too much on others' opinions"
+          "Overly sensitive",
+          "Needy for approval",
+          "Can be controlling",
+          "Dislike change",
+          "Avoid confrontation",
+          "Can be overly selfless",
+          "May focus too much on others' opinions"
         ],
         "DosInRelationship": [
           "Show appreciation for their efforts to take care of you.",
@@ -63,45 +63,46 @@
         "CompatibleConnections": [
           "The Defender (ISFJ)",
           "The Adventurer (ISFP)",
-          "The Artisan (ISTP)"
+          "The Virtuoso (ISTP)"
         ],
         "HasPotentialConnections": [
-          "The Hero (ENFJ)",
-          "The Crusader (ENFP)",
-          "The Guardian (INFJ)",
-          "The Peacemaker (INFP)",
+          "The Protagonist (ENFJ)",
+          "The Campaigner (ENFP)",
+          "The Advocate (INFJ)",
+          "The Mediator (INFP)",
           "The Performer (ESFP)",
           "The Executive (ESTJ)",
-          "The Rebel (ESTP)",
-          "The Realist (ISTJ)"
+          "The Dynamo (ESTP)",
+          "The Logistician (ISTJ)"
         ],
         "ChallengingConnections": [
-          "The Mastermind (INTJ)",
-          "The Challenger (ENTP)",
-          "The Genius (INTP)",
+          "The Architect (INTJ)",
+          "The Debater (ENTP)",
+          "The Consul (ESFJ)",
+          "The Thinker (INTP)",
           "The Commander (ENTJ)"
         ],
         "AttractedBy": [
-          "empathetic",
-          "responsible",
-          "organized",
-          "caring",
-          "supportive",
-          "social",
-          "compassionate",
-          "practical",
-          "loyal",
-          "friendly"
+          "Empathetic",
+          "Responsible",
+          "Organized",
+          "Caring",
+          "Supportive",
+          "Social",
+          "Compassionate",
+          "Practical",
+          "Loyal",
+          "Friendly"
         ],
         "PetPeeves": [
-          "disorganized",
-          "withdrawn",
-          "unsocial",
-          "critical",
-          "emotionally distant",
-          "disloyal",
-          "irresponsible",
-          "inconsistent"
+          "Disorganized",
+          "Withdrawn",
+          "Unsocial",
+          "Critical",
+          "Emotionally distant",
+          "Disloyal",
+          "Irresponsible",
+          "Inconsistent"
         ],
         "HowToBeCompanion": [
           "Show appreciation for their caring nature and attentiveness.",
@@ -111,11 +112,19 @@
           "Respect their need for harmony and avoid unnecessary conflict."
         ],
         "SecretDesire": "Consuls secretly long to be appreciated for their efforts to create harmony and take care of others. They want to feel valued and recognized for the care they provide.",
-        "Stereotypes": "ESFJs are often stereotyped as overly sensitive or needing constant approval, but in reality, they are deeply caring individuals who are committed to creating harmony and supporting the well-being of others.",
+        "Stereotypes": "Consuls are often stereotyped as overly sensitive or needing constant approval, but in reality, they are deeply caring individuals who are committed to creating harmony and supporting the well-being of others.",
         "Celebrities": [
           "Joseph Kasa-Vubu",
           "Sadio Mané",
-          "Tabu Ley Rochereau"
+          "Tabu Ley Rochereau",
+          "Steve Harvey",
+          "Tyra Banks",
+          "Whitney Houston",
+          "Alicia Keys",
+          "Victoria Beckham",
+          "Celine Dion" ,
+          "Prince William",
+          "Kamala Harries"
         ]
       },
       {
@@ -123,51 +132,51 @@
         "language_code": "fr",
         "type": "ESFJ",
         "name": "Le Consul",
-        "Description": "Chaleureux, attentionnés et sociaux, les ESFJ sont des gardiens naturels qui aiment aider les autres et créer des environnements harmonieux. Ils sont très empathiques et attentifs aux besoins de ceux qui les entourent. Les Consuls sont profondément engagés envers leurs amis et leur famille et s'épanouissent dans des environnements où ils peuvent jouer un rôle de soutien.",
+        "Description": "Chaleureux, attentionnés et sociaux, les Consuls sont des aidants naturels qui aiment aider les autres et créer des environnements harmonieux. Ils sont très empathiques et à l'écoute des besoins de ceux qui les entourent. Les Consuls sont profondément engagés envers leurs amis et leur famille et s'épanouissent dans des environnements où ils peuvent jouer un rôle de soutien.",
         "Strengths": [
-          "fidèle",
-          "soutenant",
-          "organisé",
-          "attentionné",
-          "amical",
-          "pratique",
-          "attentif",
-          "responsable",
-          "social",
-          "empathique"
+          "Loyal",
+          "Soutenant",
+          "Organisé",
+          "Attentionné",
+          "Amical",
+          "Pratique",
+          "Attentif",
+          "Responsable",
+          "Social",
+          "Empathique"
         ],
         "Weaknesses": [
-          "trop sensible",
-          "en quête d'approbation",
-          "peut être contrôlant",
-          "n'aime pas le changement",
-          "évite les confrontations",
-          "peut être trop désintéressé",
-          "peut se concentrer trop sur l'opinion des autres"
+          "Trop sensible",
+          "Besoin d'approbation",
+          "Peut être contrôlant",
+          "N'aime pas le changement",
+          "Évite la confrontation",
+          "Peut être trop désintéressé",
+          "Peut se concentrer trop sur les opinions des autres"
         ],
         "DosInRelationship": [
-          "Montrez votre appréciation pour leurs efforts à prendre soin de vous.",
+          "Montrez de l'appréciation pour leurs efforts pour prendre soin de vous.",
           "Soyez affectueux et communiquez ouvertement vos sentiments.",
           "Impliquez-les dans des activités sociales et valorisez leurs réseaux sociaux.",
           "Appréciez leur organisation et leur attention aux détails.",
-          "Soutenez-les et montrez que vous appréciez leurs soins."
+          "Soyez solidaire et montrez que vous valorisez leurs soins."
         ],
         "DontsInRelationship": [
-          "Ne soyez pas trop critique ou méprisant envers leurs émotions.",
-          "Évitez d'être trop retiré ou antisocial.",
-          "Ne prenez pas leur nature bienveillante pour acquise.",
+          "Ne soyez pas trop critique ou ne rejetez pas leurs émotions.",
+          "Évitez d'être trop distant ou antisocial.",
+          "Ne prenez pas leur nature nourricière pour acquise.",
           "Évitez d'être insensible à leur besoin d'harmonie.",
-          "Ne négligez pas leurs opinions ou sentiments."
+          "N'ignorez pas leurs opinions ou sentiments."
         ],
-        "Friendships": "Les Consuls valorisent les amitiés qui leur permettent d'être soutenants et attentionnés. Ils aiment maintenir l'harmonie dans leurs groupes d'amis et préfèrent les amis fiables, loyaux, et qui apprécient leurs efforts pour garder tout le monde ensemble.",
+        "Friendships": "Les Consuls apprécient les amitiés qui leur permettent d'être soutenants et attentionnés. Ils aiment maintenir l'harmonie dans leurs groupes d'amis et préfèrent des amis fiables, loyaux et reconnaissants pour leurs efforts pour garder tout le monde ensemble.",
         "CareerPath": [
           "Enseignant",
           "Infirmière",
           "Travailleur social",
           "Organisateur d'événements",
-          "Responsable des ressources humaines",
+          "Directeur des ressources humaines",
           "Spécialiste des relations publiques",
-          "Chef de bureau",
+          "Gestionnaire de bureau",
           "Psychologue",
           "Conseiller"
         ],
@@ -181,59 +190,68 @@
         "CompatibleConnections": [
           "Le Défenseur (ISFJ)",
           "L'Aventurier (ISFP)",
-          "L'Artisan (ISTP)"
+          "Le Virtuose (ISTP)"
         ],
         "HasPotentialConnections": [
-          "Le Héros (ENFJ)",
-          "Le Croisé (ENFP)",
-          "Le Gardien (INFJ)",
-          "Le Pacificateur (INFP)",
+          "Le Protagoniste (ENFJ)",
+          "Le Campagneur (ENFP)",
+          "L'Avocat (INFJ)",
+          "Le Médiateur (INFP)",
           "Le Performeur (ESFP)",
-          "L'Exécutif (ESTJ)",
-          "Le Rebelle (ESTP)",
-          "Le Réaliste (ISTJ)"
+          "Le Directeur exécutif (ESTJ)",
+          "Le Dynamique (ESTP)",
+          "Le Logicien (ISTJ)"
         ],
         "ChallengingConnections": [
-          "Le Maître (INTJ)",
+          "L'Architecte (INTJ)",
           "Le Débatteur (ENTP)",
-          "Le Génie (INTP)",
+          "Le Consul (ESFJ)",
+          "Le Penseur (INTP)",
           "Le Commandant (ENTJ)"
         ],
         "AttractedBy": [
-          "empathique",
-          "responsable",
-          "organisé",
-          "attentionné",
-          "soutenant",
-          "social",
-          "compatissant",
-          "pratique",
-          "fidèle",
-          "amical"
+          "Empathique",
+          "Responsable",
+          "Organisé",
+          "Attentionné",
+          "Soutenant",
+          "Social",
+          "Compatissant",
+          "Pratique",
+          "Loyal",
+          "Amical"
         ],
         "PetPeeves": [
-          "désorganisé",
-          "réservé",
-          "antisocial",
-          "critique",
-          "distant émotionnellement",
-          "déloyal",
-          "irresponsable",
-          "inconstant"
+          "Désorganisé",
+          "Retiré",
+          "Antisocial",
+          "Critique",
+          "Émotionnellement distant",
+          "Déloyal",
+          "Irresponsable",
+          "Inconstant"
         ],
         "HowToBeCompanion": [
           "Montrez de l'appréciation pour leur nature attentionnée et leur sollicitude.",
-          "Soyez ouvert et communiquez vos émotions et vos besoins.",
+          "Soyez ouvert et communicatif avec vos émotions et vos besoins.",
           "Impliquez-les dans des activités sociales et valorisez leurs amitiés.",
           "Soyez fiable et montrez que vous appréciez leurs efforts.",
           "Respectez leur besoin d'harmonie et évitez les conflits inutiles."
         ],
-        "SecretDesire": "Les Consuls aspirent secrètement à être appréciés pour leurs efforts à créer de l'harmonie et à prendre soin des autres. Ils veulent se sentir valorisés et reconnus pour les soins qu'ils apportent.",
-        "Stereotypes": "Les ESFJ sont souvent stéréotypés comme étant trop sensibles ou ayant besoin d'approbation constante, mais en réalité, ce sont des individus profondément attentionnés qui s'engagent à créer de l'harmonie et à soutenir le bien-être des autres.",
+        "SecretDesire": "Les Consuls souhaitent secrètement être appréciés pour leurs efforts pour créer l'harmonie et prendre soin des autres. Ils veulent se sentir valorisés et reconnus pour les soins qu'ils apportent.",
+        "Stereotypes": "Les Consuls sont souvent stéréotypés comme étant trop sensibles ou ayant besoin d'une approbation constante, mais en réalité, ce sont des individus profondément attentionnés qui s'engagent à créer de l'harmonie et à soutenir le bien-être des autres.",
         "Celebrities": [
           "Joseph Kasa-Vubu",
           "Sadio Mané",
-          "Tabu Ley Rochereau"
+          "Tabu Ley Rochereau",
+          "Steve Harvey",
+          "Tyra Banks",
+          "Whitney Houston",
+          "Alicia Keys",
+          "Victoria Beckham",
+          "Céline Dion",
+          "Prince William",
+          "Kamala Harris"
         ]
       },
       {
@@ -241,51 +259,51 @@
         "language_code": "es",
         "type": "ESFJ",
         "name": "El Cónsul",
-        "Description": "Cálidos, atentos y sociales, los ESFJ son cuidadores naturales que aman ayudar a los demás y crear ambientes armoniosos. Son muy empáticos y están atentos a las necesidades de quienes los rodean. Los Cónsules están profundamente comprometidos con sus amigos y familiares, y prosperan en entornos donde pueden asumir un papel de apoyo.",
+        "Description": "Cálidos, atentos y sociales, los Cónsules son cuidadores naturales a quienes les encanta ayudar a los demás y crear entornos armoniosos. Son altamente empáticos y están atentos a las necesidades de quienes los rodean. Los Cónsules están profundamente comprometidos con sus amigos y su familia, y prosperan en ambientes donde pueden asumir un papel de apoyo.",
         "Strengths": [
-          "leal",
-          "apoyo",
-          "organizado",
-          "cariñoso",
-          "amigable",
-          "práctico",
-          "atento",
-          "responsable",
-          "social",
-          "empático"
+          "Leal",
+          "Solidario",
+          "Organizado",
+          "Atento",
+          "Amistoso",
+          "Práctico",
+          "Atento",
+          "Responsable",
+          "Social",
+          "Empático"
         ],
         "Weaknesses": [
-          "demasiado sensible",
-          "necesitado de aprobación",
-          "puede ser controlador",
-          "no les gusta el cambio",
-          "evitan la confrontación",
-          "pueden ser demasiado desinteresados",
-          "pueden enfocarse demasiado en la opinión de los demás"
+          "Demasiado sensible",
+          "Necesitado de aprobación",
+          "Puede ser controlador",
+          "No les gusta el cambio",
+          "Evitan la confrontación",
+          "Pueden ser demasiado desinteresados",
+          "Pueden centrarse demasiado en las opiniones de los demás"
         ],
         "DosInRelationship": [
           "Muestra aprecio por sus esfuerzos para cuidarte.",
           "Sé cariñoso y comunica abiertamente tus sentimientos.",
           "Involúcralos en actividades sociales y valora sus redes sociales.",
-          "Aprecia su organización y atención al detalle.",
-          "Sé apoyo y muestra que valoras su cuidado."
+          "Aprecia su organización y atención a los detalles.",
+          "Sé solidario y muestra que valoras su cuidado."
         ],
         "DontsInRelationship": [
-          "No seas demasiado crítico ni desestimes sus emociones.",
+          "No seas demasiado crítico o desestimes sus emociones.",
           "Evita ser demasiado retraído o antisocial.",
-          "No des por sentada su naturaleza cuidadora.",
+          "No des por sentado su naturaleza cuidadora.",
           "Evita ser insensible a su necesidad de armonía.",
           "No ignores sus opiniones o sentimientos."
         ],
-        "Friendships": "Los Cónsules valoran las amistades que les permiten ser de apoyo y cariñosos. Les encanta mantener la armonía en sus grupos de amigos y prefieren amigos que sean confiables, leales y que aprecien sus esfuerzos por mantener a todos juntos.",
+        "Friendships": "Los Cónsules valoran las amistades que les permiten ser solidarios y atentos. Disfrutan mantener la armonía en sus grupos de amigos y prefieren amigos que sean confiables, leales y aprecien sus esfuerzos por mantener a todos juntos.",
         "CareerPath": [
           "Maestro",
           "Enfermero",
-          "Trabajador social",
-          "Organizador de eventos",
-          "Gerente de recursos humanos",
-          "Especialista en relaciones públicas",
-          "Gerente de oficina",
+          "Trabajador Social",
+          "Organizador de Eventos",
+          "Gerente de Recursos Humanos",
+          "Especialista en Relaciones Públicas",
+          "Gerente de Oficina",
           "Psicólogo",
           "Consejero"
         ],
@@ -294,64 +312,73 @@
           "Lealtad",
           "Apoyo",
           "Responsabilidad",
-          "Conexión social"
+          "Conexión Social"
         ],
         "CompatibleConnections": [
           "El Defensor (ISFJ)",
           "El Aventurero (ISFP)",
-          "El Artesano (ISTP)"
+          "El Virtuoso (ISTP)"
         ],
         "HasPotentialConnections": [
-          "El Héroe (ENFJ)",
-          "El Cruzado (ENFP)",
-          "El Guardián (INFJ)",
-          "El Pacificador (INFP)",
+          "El Protagonista (ENFJ)",
+          "El Campañista (ENFP)",
+          "El Abogado (INFJ)",
+          "El Mediador (INFP)",
           "El Artista (ESFP)",
           "El Ejecutivo (ESTJ)",
-          "El Rebelde (ESTP)",
-          "El Realista (ISTJ)"
+          "El Dinámico (ESTP)",
+          "El Logístico (ISTJ)"
         ],
         "ChallengingConnections": [
-          "El Maestro (INTJ)",
-          "El Debateador (ENTP)",
-          "El Genio (INTP)",
+          "El Arquitecto (INTJ)",
+          "El Debatidor (ENTP)",
+          "El Cónsul (ESFJ)",
+          "El Pensador (INTP)",
           "El Comandante (ENTJ)"
         ],
         "AttractedBy": [
-          "empático",
-          "responsable",
-          "organizado",
-          "cariñoso",
-          "apoyo",
-          "social",
-          "compasivo",
-          "práctico",
-          "leal",
-          "amigable"
+          "Empático",
+          "Responsable",
+          "Organizado",
+          "Cariñoso",
+          "Solidario",
+          "Social",
+          "Compasivo",
+          "Práctico",
+          "Leal",
+          "Amistoso"
         ],
         "PetPeeves": [
-          "desorganizado",
-          "retirado",
-          "antisocial",
-          "crítico",
-          "distante emocionalmente",
-          "desleal",
-          "irresponsable",
-          "inconsistente"
+          "Desorganizado",
+          "Retraído",
+          "Antisocial",
+          "Crítico",
+          "Emocionalmente distante",
+          "Desleal",
+          "Irresponsable",
+          "Inconsistente"
         ],
         "HowToBeCompanion": [
-          "Muestra aprecio por su naturaleza atenta y cuidado.",
-          "Sé abierto y comunica tus emociones y necesidades.",
+          "Muestra aprecio por su naturaleza atenta y su capacidad de cuidar.",
+          "Sé abierto y comunicativo con tus emociones y necesidades.",
           "Involúcralos en actividades sociales y valora sus amistades.",
-          "Sé confiable y demuestra que aprecias sus esfuerzos.",
+          "Sé confiable y muestra que aprecias sus esfuerzos.",
           "Respeta su necesidad de armonía y evita conflictos innecesarios."
         ],
-        "SecretDesire": "Los Cónsules anhelan secretamente ser apreciados por sus esfuerzos para crear armonía y cuidar de los demás. Quieren sentirse valorados y reconocidos por el cuidado que brindan.",
-        "Stereotypes": "Los ESFJ son a menudo estereotipados como demasiado sensibles o necesitados de aprobación constante, pero en realidad, son personas profundamente cariñosas que se comprometen a crear armonía y apoyar el bienestar de los demás.",
+        "SecretDesire": "Los Cónsules desean en secreto ser apreciados por sus esfuerzos para crear armonía y cuidar a los demás. Quieren sentirse valorados y reconocidos por el cuidado que brindan.",
+        "Stereotypes": "Los Cónsules a menudo son estereotipados como demasiado sensibles o necesitados de aprobación constante, pero en realidad son individuos profundamente cuidadosos que se comprometen a crear armonía y apoyar el bienestar de los demás.",
         "Celebrities": [
           "Joseph Kasa-Vubu",
           "Sadio Mané",
-          "Tabu Ley Rochereau"
+          "Tabu Ley Rochereau",
+          "Steve Harvey",
+          "Tyra Banks",
+          "Whitney Houston",
+          "Alicia Keys",
+          "Victoria Beckham",
+          "Celine Dion",
+          "Prince William",
+          "Kamala Harris"
         ]
       },
       {
@@ -359,51 +386,51 @@
         "language_code": "pt",
         "type": "ESFJ",
         "name": "O Cônsul",
-        "Description": "Quentes, cuidadosos e sociais, os ESFJ são cuidadores naturais que amam ajudar os outros e criar ambientes harmoniosos. Eles são muito empáticos e atentos às necessidades de quem está ao seu redor. Os Cônsules estão profundamente comprometidos com seus amigos e familiares, e prosperam em ambientes onde podem assumir um papel de apoio.",
+        "Description": "Calorosos, cuidadosos e sociáveis, os Cônsules são cuidadores naturais que adoram ajudar os outros e criar ambientes harmoniosos. Eles são altamente empáticos e atentos às necessidades das pessoas ao seu redor. Os Cônsules são profundamente comprometidos com seus amigos e familiares e prosperam em ambientes onde podem assumir um papel de apoio.",
         "Strengths": [
-          "leal",
-          "apoio",
-          "organizado",
-          "atencioso",
-          "amigável",
-          "prático",
-          "atento",
-          "responsável",
-          "social",
-          "empático"
+          "Leal",
+          "Solidário",
+          "Organizado",
+          "Cuidadoso",
+          "Amigável",
+          "Prático",
+          "Atento",
+          "Responsável",
+          "Sociável",
+          "Empático"
         ],
         "Weaknesses": [
-          "muito sensível",
-          "necessitado de aprovação",
-          "pode ser controlador",
-          "não gosta de mudanças",
-          "evita confrontos",
-          "pode ser excessivamente altruísta",
-          "pode se concentrar muito na opinião dos outros"
+          "Excessivamente sensível",
+          "Necessidade de aprovação",
+          "Pode ser controlador",
+          "Desgosta de mudanças",
+          "Evita confrontos",
+          "Pode ser excessivamente altruísta",
+          "Foca-se demais nas opiniões dos outros"
         ],
         "DosInRelationship": [
-          "Mostre apreciação por seus esforços em cuidar de você.",
-          "Seja carinhoso e comunique seus sentimentos abertamente.",
-          "Envolva-os em atividades sociais e valorize suas redes sociais.",
+          "Mostre apreciação pelos seus esforços para cuidar de você.",
+          "Seja afetuoso e comunique abertamente seus sentimentos.",
+          "Envolva-os em atividades sociais e valorize suas redes de amizade.",
           "Aprecie sua organização e atenção aos detalhes.",
-          "Seja apoio e mostre que você valoriza seus cuidados."
+          "Seja solidário e mostre que valoriza o cuidado que eles oferecem."
         ],
         "DontsInRelationship": [
-          "Não seja muito crítico ou desdenhoso de suas emoções.",
-          "Evite ser muito reservado ou antissocial.",
-          "Não subestime sua natureza cuidadora.",
+          "Não seja excessivamente crítico ou desconsidere suas emoções.",
+          "Evite ser muito retraído ou antissocial.",
+          "Não tome sua natureza cuidadora como garantida.",
           "Evite ser insensível à sua necessidade de harmonia.",
           "Não ignore suas opiniões ou sentimentos."
         ],
-        "Friendships": "Os Cônsules valorizam amizades que lhes permitem ser de apoio e atenciosos. Eles gostam de manter a harmonia em seus grupos de amigos e preferem amigos que sejam confiáveis, leais e que apreciem seus esforços para manter todos juntos.",
+        "Friendships": "Os Cônsules valorizam amizades que lhes permitam ser solidários e atenciosos. Eles gostam de manter a harmonia nos grupos de amigos e preferem amigos que sejam confiáveis, leais e que apreciem seus esforços para manter todos unidos.",
         "CareerPath": [
           "Professor",
           "Enfermeiro",
-          "Assistente social",
-          "Organizador de eventos",
-          "Gerente de recursos humanos",
-          "Especialista em relações públicas",
-          "Gerente de escritório",
+          "Assistente Social",
+          "Organizador de Eventos",
+          "Gerente de Recursos Humanos",
+          "Especialista em Relações Públicas",
+          "Gerente de Escritório",
           "Psicólogo",
           "Conselheiro"
         ],
@@ -412,64 +439,73 @@
           "Lealdade",
           "Apoio",
           "Responsabilidade",
-          "Conexão social"
+          "Conexão Social"
         ],
         "CompatibleConnections": [
           "O Defensor (ISFJ)",
           "O Aventureiro (ISFP)",
-          "O Artesão (ISTP)"
+          "O Virtuoso (ISTP)"
         ],
         "HasPotentialConnections": [
-          "O Herói (ENFJ)",
-          "O Cruzado (ENFP)",
-          "O Guardião (INFJ)",
-          "O Pacificador (INFP)",
+          "O Protagonista (ENFJ)",
+          "O Campanheiro (ENFP)",
+          "O Advogado (INFJ)",
+          "O Mediador (INFP)",
           "O Artista (ESFP)",
           "O Executivo (ESTJ)",
-          "O Rebelde (ESTP)",
-          "O Realista (ISTJ)"
+          "O Dinâmico (ESTP)",
+          "O Logístico (ISTJ)"
         ],
         "ChallengingConnections": [
-          "O Mestre (INTJ)",
-          "O Debateador (ENTP)",
-          "O Gênio (INTP)",
+          "O Arquiteto (INTJ)",
+          "O Debatedor (ENTP)",
+          "O Cônsul (ESFJ)",
+          "O Pensador (INTP)",
           "O Comandante (ENTJ)"
         ],
         "AttractedBy": [
-          "empático",
-          "responsável",
-          "organizado",
-          "atencioso",
-          "apoio",
-          "social",
-          "compassivo",
-          "prático",
-          "leal",
-          "amigável"
+          "Empático",
+          "Responsável",
+          "Organizado",
+          "Cuidadoso",
+          "Solidário",
+          "Sociável",
+          "Compassivo",
+          "Prático",
+          "Leal",
+          "Amigável"
         ],
         "PetPeeves": [
-          "desorganizado",
-          "reservado",
-          "antissocial",
-          "crítico",
-          "distante emocionalmente",
-          "desleal",
-          "irresponsável",
-          "inconstante"
+          "Desorganizado",
+          "Retraído",
+          "Antissocial",
+          "Crítico",
+          "Emocionalmente distante",
+          "Desleal",
+          "Irresponsável",
+          "Inconsistente"
         ],
         "HowToBeCompanion": [
-          "Mostre apreciação por sua natureza atenciosa e seu cuidado.",
-          "Seja aberto e comunique suas emoções e necessidades.",
+          "Mostre apreço por sua natureza cuidadora e atenciosa.",
+          "Seja aberto e comunicativo com suas emoções e necessidades.",
           "Envolva-os em atividades sociais e valorize suas amizades.",
           "Seja confiável e mostre que você aprecia seus esforços.",
           "Respeite sua necessidade de harmonia e evite conflitos desnecessários."
         ],
-        "SecretDesire": "Os Cônsules secretamente desejam ser apreciados por seus esforços para criar harmonia e cuidar dos outros. Eles querem se sentir valorizados e reconhecidos pelo cuidado que fornecem.",
-        "Stereotypes": "Os ESFJ são frequentemente estereotipados como excessivamente sensíveis ou necessitados de constante aprovação, mas, na realidade, são indivíduos profundamente atenciosos que se comprometem a criar harmonia e apoiar o bem-estar dos outros.",
+        "SecretDesire": "Os Cônsules secretamente desejam ser apreciados pelos seus esforços em criar harmonia e cuidar dos outros. Eles querem se sentir valorizados e reconhecidos pelo cuidado que oferecem.",
+        "Stereotypes": "Os Cônsules muitas vezes são estereotipados como excessivamente sensíveis ou necessitados de aprovação constante, mas na realidade, são indivíduos profundamente cuidadosos que estão comprometidos em criar harmonia e apoiar o bem-estar dos outros.",
         "Celebrities": [
           "Joseph Kasa-Vubu",
           "Sadio Mané",
-          "Tabu Ley Rochereau"
+          "Tabu Ley Rochereau",
+          "Steve Harvey",
+          "Tyra Banks",
+          "Whitney Houston",
+          "Alicia Keys",
+          "Victoria Beckham",
+          "Celine Dion",
+          "Prince William",
+          "Kamala Harris"
         ]
       },
       {
@@ -477,12 +513,12 @@
         "language_code": "ar",
         "type": "ESFJ",
         "name": "القنصل",
-        "Description": "دافئون وودودون واجتماعيون، أصحاب الشخصية القنصل هم مراعون بالفطرة يحبون مساعدة الآخرين وخلق بيئات متناغمة. إنهم متعاطفون للغاية ومتنبهون لاحتياجات من حولهم. القناصل ملتزمون بشدة تجاه أصدقائهم وعائلاتهم ويزدهرون في البيئات التي يمكنهم فيها تولي دور داعم.",
+        "Description": "القناصل دافئون، يهتمون بالآخرين بشكل طبيعي ويحبون مساعدة الآخرين وخلق بيئات متناغمة. إنهم شديدو التعاطف ويميلون إلى تلبية احتياجات من حولهم. القناصل ملتزمون بعمق تجاه أصدقائهم وعائلاتهم، ويزدهرون في البيئات التي يمكنهم فيها لعب دور داعم.",
         "Strengths": [
-          "مخلص",
-          "داعم",
+          "وفي",
+          "داعِم",
           "منظم",
-          "رعاية",
+          "حنون",
           "ودود",
           "عملي",
           "منتبه",
@@ -491,43 +527,43 @@
           "متعاطف"
         ],
         "Weaknesses": [
-          "حساس للغاية",
-          "بحاجة إلى الموافقة",
+          "حساس بشكل مفرط",
+          "بحاجة إلى القبول",
           "يمكن أن يكون مسيطرًا",
           "لا يحب التغيير",
           "يتجنب المواجهة",
-          "يمكن أن يكون غير أناني بشكل مفرط",
+          "يمكن أن يكون غيري بشكل مفرط",
           "قد يركز كثيرًا على آراء الآخرين"
         ],
         "DosInRelationship": [
-          "أظهر التقدير لجهودهم في العناية بك.",
-          "كن حنونًا وعبّر عن مشاعرك بصراحة.",
-          "اشركهم في الأنشطة الاجتماعية وقيّم شبكاتهم الاجتماعية.",
-          "قدّر تنظيمهم وانتباههم للتفاصيل.",
+          "أظهر التقدير لجهودهم في الاعتناء بك.",
+          "كن حنونًا وتحدث عن مشاعرك بوضوح.",
+          "اشركهم في الأنشطة الاجتماعية وكن مدركًا لشبكاتهم الاجتماعية.",
+          "قدّر تنظيمهم واهتمامهم بالتفاصيل.",
           "كن داعمًا وأظهر أنك تقدر رعايتهم."
         ],
         "DontsInRelationship": [
-          "لا تكن انتقاديًا بشكل مفرط أو تستخف بمشاعرهم.",
-          "تجنب أن تكون منعزلًا أو غير اجتماعي.",
-          "لا تأخذ طبيعتهم الراعوية كأمر مسلم به.",
-          "تجنب أن تكون غير حساس لحاجتهم إلى التناغم.",
-          "لا تتجاهل آراءهم أو مشاعرهم."
+          "لا تكن نقديًا جدًا أو تقلل من مشاعرهم.",
+          "تجنب أن تكون منسحبًا أو غير اجتماعي.",
+          "لا تأخذ رعايتهم كأمر مفروغ منه.",
+          "تجنب أن تكون غير حساس لحاجتهم إلى الانسجام.",
+          "لا تتجاهل آرائهم أو مشاعرهم."
         ],
-        "Friendships": "القناصل يقدرون الصداقات التي تسمح لهم بأن يكونوا داعمين وراعين. إنهم يستمتعون بالحفاظ على التناغم في مجموعات أصدقائهم ويفضلون الأصدقاء الذين يكونون موثوقين ومخلصين ويقدرون جهودهم في إبقاء الجميع معًا.",
+        "Friendships": "القناصل يقدرون الصداقات التي تسمح لهم بأن يكونوا داعمين وحنونين. يحبون الحفاظ على الانسجام في مجموعات الأصدقاء ويفضلون الأصدقاء الذين يمكن الاعتماد عليهم والذين يقدرون جهودهم في الحفاظ على الجميع معًا.",
         "CareerPath": [
-          "معلم",
+          "مدرس",
           "ممرض",
-          "أخصائي اجتماعي",
-          "منظم حفلات",
-          "مدير الموارد البشرية",
-          "أخصائي العلاقات العامة",
+          "عامل اجتماعي",
+          "منظم أحداث",
+          "مدير موارد بشرية",
+          "أخصائي علاقات عامة",
           "مدير مكتب",
           "طبيب نفسي",
           "مستشار"
         ],
         "LifeValue": [
-          "التناغم",
-          "الولاء",
+          "الانسجام",
+          "الوفاء",
           "الدعم",
           "المسؤولية",
           "الاتصال الاجتماعي"
@@ -535,60 +571,69 @@
         "CompatibleConnections": [
           "المدافع (ISFJ)",
           "المغامر (ISFP)",
-          "الحرفي (ISTP)"
+          "المهندس (ISTP)"
         ],
         "HasPotentialConnections": [
           "البطل (ENFJ)",
-          "الصليبي (ENFP)",
-          "الوصي (INFJ)",
-          "صانع السلام (INFP)",
+          "المناضل (ENFP)",
+          "المحامي (INFJ)",
+          "الوسيط (INFP)",
           "المؤدي (ESFP)",
           "المدير التنفيذي (ESTJ)",
-          "المتمرد (ESTP)",
-          "الواقعي (ISTJ)"
+          "الديناميكي (ESTP)",
+          "اللوجيستي (ISTJ)"
         ],
         "ChallengingConnections": [
-          "العقل المدبر (INTJ)",
-          "المتحدي (ENTP)",
-          "العبقري (INTP)",
+          "المهندس المعماري (INTJ)",
+          "المناظر (ENTP)",
+          "القنصل (ESFJ)",
+          "المفكر (INTP)",
           "القائد (ENTJ)"
         ],
         "AttractedBy": [
           "متعاطف",
           "مسؤول",
           "منظم",
-          "رعاية",
-          "داعم",
+          "حنون",
+          "داعِم",
           "اجتماعي",
-          "عاطفي",
+          "مليء بالرحمة",
           "عملي",
-          "مخلص",
+          "وفي",
           "ودود"
         ],
         "PetPeeves": [
           "غير منظم",
-          "منعزل",
+          "منسحب",
           "غير اجتماعي",
-          "انتقادي",
+          "ناقد",
           "بعيد عاطفيًا",
-          "غير مخلص",
+          "غير وفي",
           "غير مسؤول",
-          "غير ثابت"
+          "غير متسق"
         ],
         "HowToBeCompanion": [
-          "أظهر التقدير لطبيعتهم الرعوية واهتمامهم.",
-          "كن منفتحًا وعبّر عن مشاعرك واحتياجاتك.",
-          "اشركهم في الأنشطة الاجتماعية وقيّم صداقاتهم.",
+          "أظهر التقدير لطبيعتهم الحنونة والمنتبهة.",
+          "كن صريحًا وتواصل بوضوح مع مشاعرك واحتياجاتك.",
+          "اشركهم في الأنشطة الاجتماعية وكن ممتنًا لصداقاتهم.",
           "كن موثوقًا وأظهر أنك تقدر جهودهم.",
-          "احترم حاجتهم إلى التناغم وتجنب الصراعات غير الضرورية."
+          "احترم حاجتهم للانسجام وتجنب الصراع غير الضروري."
         ],
-        "SecretDesire": "القناصل يرغبون سرًا في أن يتم تقديرهم على جهودهم في خلق التناغم والاهتمام بالآخرين. إنهم يريدون أن يشعروا بالتقدير والاعتراف بالرعاية التي يقدمونها.",
-        "Stereotypes": "غالبًا ما يتم تصوير أصحاب الشخصية القنصل على أنهم حساسون بشكل مفرط أو بحاجة إلى موافقة مستمرة، لكن في الواقع، هم أفراد يهتمون بعمق ويلتزمون بخلق التناغم ودعم رفاهية الآخرين.",
+        "SecretDesire": "القناصل يتوقون سرًا لأن يتم تقديرهم على جهودهم في خلق الانسجام ورعاية الآخرين. يريدون أن يشعروا بأنهم محل تقدير ومعترف بهم بسبب الرعاية التي يقدمونها.",
+        "Stereotypes": "غالبًا ما يتم تصوير القناصل على أنهم حساسون للغاية أو بحاجة دائمة إلى القبول، لكن في الواقع، هم أفراد يهتمون بشدة ويلتزمون بخلق الانسجام ودعم رفاهية الآخرين.",
         "Celebrities": [
-          "جوزيف كازا-فوبو",
+          "جوزيف كاسا فوبو",
           "ساديو ماني",
-          "تابو ليه روشيرو"
+          "تابو ليه روشيرو",
+          "ستيف هارفي",
+          "تيرا بانكس",
+          "ويتني هيوستن",
+          "أليشيا كيز",
+          "فيكتوريا بيكهام",
+          "سيلين ديون",
+          "الأمير ويليام",
+          "كامالا هاريس"
         ]
-      }
+      }            
     ]
   }  
