@@ -249,11 +249,25 @@ const question_letters = [
 app.get("/v1/questions/:langCode", (req, res) => {
   const { langCode } = req.params;
   const langQuestions = questions[langCode];
+  const { ip } = req; // Capture the IP address of the caller
 
   if (!langQuestions) {
+    logger.warn({
+      message: "Language not supported",
+      ip: ip, // Log the IP address
+      endpoint: "/v1/questions/:langCode",
+      langCode: langCode,
+    });
     return res.status(404).json({ message: "Language not supported" });
   }
-
+  // Log the request with the IP and language code
+  logger.info({
+    message: "Questions fetched",
+    ip: ip, // Log the IP address
+    endpoint: "/v1/questions/:langCode",
+    langCode: langCode,
+    responseSize: res.get("Content-Length"),
+  });
   res.json(langQuestions);
 });
 
@@ -261,6 +275,7 @@ app.get("/v1/questions/:langCode", (req, res) => {
 app.post("/v1/mbti-test/:langCode", (req, res) => {
   const { langCode } = req.params;
   let { responses } = req.body;
+  const { ip } = req;
 
   // Validate that all 40 questions are answered
   if (responses.length !== 40) {
@@ -481,6 +496,37 @@ app.post("/v1/mbti-test/:langCode", (req, res) => {
   };
 
   res.json(response);
+
+  // Log the results with IP, percentages, and final result
+  logger.info({
+    message: "MBTI test completed",
+    ip: ip, // Log the caller's IP address
+    finalType: finalType, // Log the final MBTI type
+    percentages: {
+      extraversion_introversion: `${
+        finalType[0] === "I" ? "Introverted" : "Extroverted"
+      } , ${
+        finalType[0] === "I"
+          ? percentages.introversion
+          : percentages.extraversion
+      }%`,
+      sensing_intuition: `${finalType[1] === "N" ? "Intuitive" : "Sensing"} , ${
+        finalType[1] === "N" ? percentages.intuition : percentages.sensing
+      }%`,
+      thinking_feeling: `${finalType[2] === "T" ? "Thinking" : "Feeling"} , ${
+        finalType[2] === "T" ? percentages.thinking : percentages.feeling
+      }%`,
+      perceiving_judging: `${
+        finalType[3] === "P" ? "Perceiving" : "Judging"
+      } , ${
+        finalType[3] === "P" ? percentages.perceiving : percentages.judging
+      }%`,
+    },
+    requestBody: req.body.responses, // Log the request body (user's responses)
+    responseSize: res.get("Content-Length"), // Log the response size
+    responseTime: `${Date.now() - req._startTime}ms`, // Log the response time
+    statusCode: res.statusCode, // Log the status code
+  });
 });
 
 // Error handler for unhandled routes
